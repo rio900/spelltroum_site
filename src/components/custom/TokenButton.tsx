@@ -7,7 +7,7 @@ type TokenButtonProps = {
     href: string;
     src: string;
     alt: string;
-    label?: string;                 // ← подпись под картинкой (опционально)
+    label?: string;
     variant?: "primary" | "gray" | "secondary";
     imgWidth?: number;
     imgHeight?: number;

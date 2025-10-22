@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Lilita_One } from "next/font/google";
 import "./globals.css";
+import SolanaProviders from "./providers";
+import { Toaster } from "react-hot-toast";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -33,7 +35,18 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${lilita.variable} antialiased`}
       >
-        {children}
+        <SolanaProviders>{children}</SolanaProviders>
+        <Toaster
+          position="top-center"
+          toastOptions={{
+            duration: 5000,
+            style: {
+              background: "#1f2937",
+              color: "#fff",
+              borderRadius: "12px",
+            },
+          }}
+        />
       </body>
     </html>
   );

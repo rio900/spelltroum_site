@@ -3,6 +3,8 @@
 import CustomButton from "../../custom/CustomButton";
 import Image from "next/image";
 import { motion } from 'framer-motion'
+import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
+import DepositButton from "@/components/custom/DepositButton";
 
 export default function MainBlockSection() {
     return (
@@ -10,6 +12,8 @@ export default function MainBlockSection() {
             className="relative w-full min-h-screen flex flex-col items-center justify-start text-white bg-cover bg-center"
             style={{ backgroundImage: "url('/Map2.png')" }}
         >
+
+
             {/* Светлячки */}
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
                 <div className="firefly"></div>

@@ -1,0 +1,429 @@
+{
+    "address": "Ayt8CLKegBbfHHGkFmMqutNepCAfWzNdo3zPxdqLnQws",
+    "metadata": {
+        "name": "spelltroum_tournament",
+        "version": "0.1.0",
+        "spec": "0.1.0",
+        "description": "Created with Anchor"
+    },
+    "instructions": [
+        {
+            "name": "deposit",
+            "discriminator": [
+                242,
+                35,
+                198,
+                137,
+                82,
+                225,
+                242,
+                182
+            ],
+            "accounts": [
+                {
+                    "name": "owner",
+                    "docs": [
+                        "The wallet of the player, will pay rent if needed"
+                    ],
+                    "writable": true,
+                    "signer": true
+                },
+                {
+                    "name": "player_balance",
+                    "docs": [
+                        "Player's balance account, created and initialized on first deposit"
+                    ],
+                    "writable": true,
+                    "pda": {
+                        "seeds": [
+                            {
+                                "kind": "const",
+                                "value": [
+                                    112,
+                                    108,
+                                    97,
+                                    121,
+                                    101,
+                                    114
+                                ]
+                            },
+                            {
+                                "kind": "account",
+                                "path": "owner"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "system_program",
+                    "address": "11111111111111111111111111111111"
+                }
+            ],
+            "args": [
+                {
+                    "name": "amount",
+                    "type": "u64"
+                }
+            ]
+        },
+        {
+            "name": "initialize",
+            "discriminator": [
+                175,
+                175,
+                109,
+                31,
+                13,
+                152,
+                155,
+                237
+            ],
+            "accounts": [
+                {
+                    "name": "match_history",
+                    "writable": true,
+                    "pda": {
+                        "seeds": [
+                            {
+                                "kind": "const",
+                                "value": [
+                                    109,
+                                    97,
+                                    116,
+                                    99,
+                                    104,
+                                    45,
+                                    104,
+                                    105,
+                                    115,
+                                    116,
+                                    111,
+                                    114,
+                                    121
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "authority",
+                    "writable": true,
+                    "signer": true
+                },
+                {
+                    "name": "system_program",
+                    "address": "11111111111111111111111111111111"
+                }
+            ],
+            "args": []
+        },
+        {
+            "name": "settle_match",
+            "discriminator": [
+                71,
+                124,
+                117,
+                96,
+                191,
+                217,
+                116,
+                24
+            ],
+            "accounts": [
+                {
+                    "name": "match_history",
+                    "writable": true
+                },
+                {
+                    "name": "authority",
+                    "signer": true,
+                    "relations": [
+                        "match_history"
+                    ]
+                }
+            ],
+            "args": [
+                {
+                    "name": "match_id",
+                    "type": "string"
+                },
+                {
+                    "name": "players",
+                    "type": {
+                        "vec": "pubkey"
+                    }
+                },
+                {
+                    "name": "winners",
+                    "type": {
+                        "vec": "pubkey"
+                    }
+                },
+                {
+                    "name": "entry_fee",
+                    "type": "u64"
+                }
+            ]
+        },
+        {
+            "name": "withdraw",
+            "discriminator": [
+                183,
+                18,
+                70,
+                156,
+                148,
+                109,
+                161,
+                34
+            ],
+            "accounts": [
+                {
+                    "name": "owner",
+                    "writable": true,
+                    "signer": true,
+                    "relations": [
+                        "player_balance"
+                    ]
+                },
+                {
+                    "name": "player_balance",
+                    "writable": true,
+                    "pda": {
+                        "seeds": [
+                            {
+                                "kind": "const",
+                                "value": [
+                                    112,
+                                    108,
+                                    97,
+                                    121,
+                                    101,
+                                    114
+                                ]
+                            },
+                            {
+                                "kind": "account",
+                                "path": "owner"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "args": []
+        }
+    ],
+    "accounts": [
+        {
+            "name": "MatchHistory",
+            "discriminator": [
+                146,
+                38,
+                23,
+                251,
+                170,
+                157,
+                229,
+                106
+            ]
+        },
+        {
+            "name": "PlayerBalance",
+            "discriminator": [
+                244,
+                128,
+                24,
+                93,
+                212,
+                190,
+                202,
+                111
+            ]
+        }
+    ],
+    "events": [
+        {
+            "name": "Deposited",
+            "discriminator": [
+                111,
+                141,
+                26,
+                45,
+                161,
+                35,
+                100,
+                57
+            ]
+        },
+        {
+            "name": "MatchSettled",
+            "discriminator": [
+                243,
+                201,
+                134,
+                151,
+                193,
+                131,
+                223,
+                150
+            ]
+        },
+        {
+            "name": "Withdrawn",
+            "discriminator": [
+                20,
+                89,
+                223,
+                198,
+                194,
+                124,
+                219,
+                13
+            ]
+        }
+    ],
+    "errors": [
+        {
+            "code": 7001,
+            "name": "InsufficientBalance",
+            "msg": "Insufficient balance to perform operation"
+        },
+        {
+            "code": 7002,
+            "name": "MatchAlreadySettled",
+            "msg": "This match has already been settled"
+        },
+        {
+            "code": 7003,
+            "name": "NothingToWithdraw",
+            "msg": "Nothing to withdraw"
+        },
+        {
+            "code": 7004,
+            "name": "MathOverflow",
+            "msg": "Math overflow error"
+        },
+        {
+            "code": 7005,
+            "name": "InvalidAmount",
+            "msg": "Amount must be greater than 0"
+        },
+        {
+            "code": 7006,
+            "name": "InvalidPlayerAccount",
+            "msg": "Invalid player account"
+        },
+        {
+            "code": 7007,
+            "name": "InvalidWinnerAccount",
+            "msg": "Invalid winner account"
+        },
+        {
+            "code": 7008,
+            "name": "TooManyMatches",
+            "msg": "Too many matches in history"
+        },
+        {
+            "code": 7009,
+            "name": "NoWinnersProvided",
+            "msg": "No winners provided"
+        },
+        {
+            "code": 7010,
+            "name": "Unauthorized",
+            "msg": "Unauthorized"
+        }
+    ],
+    "types": [
+        {
+            "name": "Deposited",
+            "type": {
+                "kind": "struct",
+                "fields": [
+                    {
+                        "name": "user",
+                        "type": "pubkey"
+                    },
+                    {
+                        "name": "amount",
+                        "type": "u64"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "MatchHistory",
+            "type": {
+                "kind": "struct",
+                "fields": [
+                    {
+                        "name": "authority",
+                        "type": "pubkey"
+                    },
+                    {
+                        "name": "settled_matches",
+                        "type": {
+                            "vec": "string"
+                        }
+                    },
+                    {
+                        "name": "current_index",
+                        "type": "u16"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "MatchSettled",
+            "type": {
+                "kind": "struct",
+                "fields": [
+                    {
+                        "name": "match_id",
+                        "type": "string"
+                    },
+                    {
+                        "name": "total_pool",
+                        "type": "u64"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "PlayerBalance",
+            "type": {
+                "kind": "struct",
+                "fields": [
+                    {
+                        "name": "owner",
+                        "type": "pubkey"
+                    },
+                    {
+                        "name": "amount",
+                        "type": "u64"
+                    },
+                    {
+                        "name": "bump",
+                        "type": "u8"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Withdrawn",
+            "type": {
+                "kind": "struct",
+                "fields": [
+                    {
+                        "name": "user",
+                        "type": "pubkey"
+                    },
+                    {
+                        "name": "amount",
+                        "type": "u64"
+                    }
+                ]
+            }
+        }
+    ]
+}

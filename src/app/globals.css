@@ -145,3 +145,21 @@ body {
   left: 15%;
   animation-delay: 8s;
 }
+
+
+.wallet-adapter-button {
+  background-color: #6D00AE !important;
+  color: white !important;
+  font-weight: 600;
+  border-radius: 10px !important;
+  padding: 10px 16px !important;
+  transition: background-color 0.2s;
+}
+
+.wallet-adapter-button:hover {
+  background-color: #C774F8 !important;
+}
+
+.wallet-adapter-button-trigger {
+  background-color: #6D00AE !important;
+}

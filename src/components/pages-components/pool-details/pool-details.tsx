@@ -6,11 +6,74 @@ import { motion } from 'framer-motion';
 import { poolTypes } from '@/data/poolTypes';
 import CustomButton from '@/components/custom/CustomButton';
 import RewardBundle from '@/components/custom/RewardBundle';
+import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
+import DepositButton from '@/components/custom/DepositButton';
+import toast from "react-hot-toast";
 
 export default function PoolDetailsPage() {
     const params = useParams() as { id?: string };
     const idx = Number(params?.id);
     const pool = Number.isFinite(idx) ? poolTypes[idx] : undefined;
+
+
+    function showDepositSuccessToast(
+        signature: string,
+        opts?: { cluster?: "devnet" | "mainnet-beta" | "testnet" }
+    ) {
+        const cluster = opts?.cluster ?? (process.env.NEXT_PUBLIC_SOLANA_CLUSTER as any) ?? "devnet";
+        const href = `https://explorer.solana.com/tx/${signature}?cluster=${cluster}`;
+
+        toast.success(
+            <div className="flex items-start gap-3">
+                <div className="min-w-0"> {/* чтобы truncate работал */}
+                    <div className="font-semibold">Deposit Success</div>
+
+                    {/* сигнатура в моноширинном боксе, обрезаем по ширине тоста */}
+                    <div className="mt-1 flex items-center gap-2">
+                        <code className="px-2 py-0.5 rounded bg-white/10 text-white/90 text-sm font-mono
+                           max-w-[240px] overflow-hidden text-ellipsis whitespace-nowrap">
+                            {signature}
+                        </code>
+
+                        {/* copy */}
+                        <button
+                            onClick={() => navigator.clipboard.writeText(signature)}
+                            className="text-xs px-2 py-1 rounded bg-white/10 hover:bg-white/20 transition
+                       whitespace-nowrap"
+                            title="Copy signature"
+                        >
+                            Copy
+                        </button>
+                    </div>
+
+                    {/* ссылка на Explorer */}
+                    <a
+                        href={href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="mt-1 inline-block text-xs underline underline-offset-2 opacity-90 hover:opacity-100"
+                    >
+                        View on Solana Explorer
+                    </a>
+                </div>
+            </div>,
+            { id: "tx-success" }
+        );
+    }
+
+    function showErrorToast(error: unknown, fallback = "Transaction failed") {
+        const message =
+            typeof error === "string" ? error : (error as any)?.message || fallback;
+
+        toast.error(
+            <div className="flex items-center gap-2">
+                <span className="min-w-0 truncate">{message}</span>
+                alert(`❌ Error: ${message}`)
+            </div>,
+            { id: "tx-error" }
+        );
+    }
+
 
     if (!pool) {
         return (
@@ -45,15 +108,21 @@ export default function PoolDetailsPage() {
                 </p>
             </motion.div>
 
-            <div className="mt-16">
-                <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.2 }}>
-                    <CustomButton
-                        href="/dashboard"
-                        variant="secondary"
-                        className="text-lg px-10 py-4"
-                    >
-                        <p className="font-lilita text-3xl btn-secondary-text">Entry fee: <span className="text-white text-stroke-1 text-stroke-black"> {pool.entry_fee}</span></p>
-                    </CustomButton>
+            <div className="mt-16 flex flex-col items-center justify-center">
+                <div className="mt-4 mb-4">
+                    <WalletMultiButton />
+                </div>
+
+                <motion.div
+                    initial={{ scale: 0.8, opacity: 0 }}
+                    animate={{ scale: 1, opacity: 1 }}
+                    transition={{ duration: 0.2 }}
+                >
+                    <DepositButton
+                        rawAmount={10000}
+                        onSuccess={showDepositSuccessToast}
+                        onError={showErrorToast}
+                    />
                 </motion.div>
             </div>
 
