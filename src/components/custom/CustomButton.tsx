@@ -35,15 +35,43 @@ export default function CustomButton({
       text-[var(--color-btn-secondary-text)] shadow-[0_4px_10px_rgba(0,166,63,0.4)]`,
     };
 
-    const disabledStyles = disabled ? "opacity-50 pointer-events-none cursor-not-allowed" : "";
+    const disabledStyles = disabled
+        ? "opacity-50 pointer-events-none cursor-not-allowed"
+        : "";
     const combinedClasses = `${baseStyles} ${variants[variant]} ${disabledStyles} ${className}`;
 
     if (href) {
-        return <Link href={href} className={combinedClasses}>{children}</Link>;
+        const isExternal = href.startsWith("http");
+
+        // внешние ссылки — обычный <a>
+        if (isExternal) {
+            return (
+                <a
+                    href={href}
+                    className={combinedClasses}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    {children}
+                </a>
+            );
+        }
+
+        // внутренние ссылки — через Next.js Link
+        return (
+            <Link href={href} className={combinedClasses}>
+                {children}
+            </Link>
+        );
     }
 
     return (
-        <button onClick={onClick} className={combinedClasses} disabled={disabled} aria-disabled={disabled}>
+        <button
+            onClick={onClick}
+            className={combinedClasses}
+            disabled={disabled}
+            aria-disabled={disabled}
+        >
             {children}
         </button>
     );

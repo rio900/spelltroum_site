@@ -9,7 +9,9 @@ import RewardBundle from '@/components/custom/RewardBundle';
 import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 import DepositButton from '@/components/custom/DepositButton';
 import toast from "react-hot-toast";
+import ArrowDivider from '@/components/custom/ArrowDivider';
 
+//https://orvjl.app.link/reddit
 export default function PoolDetailsPage() {
     const params = useParams() as { id?: string };
     const idx = Number(params?.id);
@@ -25,10 +27,9 @@ export default function PoolDetailsPage() {
 
         toast.success(
             <div className="flex items-start gap-3">
-                <div className="min-w-0"> {/* чтобы truncate работал */}
+                <div className="min-w-0">
                     <div className="font-semibold">Deposit Success</div>
 
-                    {/* сигнатура в моноширинном боксе, обрезаем по ширине тоста */}
                     <div className="mt-1 flex items-center gap-2">
                         <code className="px-2 py-0.5 rounded bg-white/10 text-white/90 text-sm font-mono
                            max-w-[240px] overflow-hidden text-ellipsis whitespace-nowrap">
@@ -124,6 +125,20 @@ export default function PoolDetailsPage() {
                         onError={showErrorToast}
                     />
                 </motion.div>
+
+                <motion.div
+                    initial={{ scale: 0.8, opacity: 0 }}
+                    animate={{ scale: 1, opacity: 1 }}
+                    transition={{ duration: 0.3 }}
+                >
+                    <CustomButton
+                        href="https://orvjl.app.link/reddit"
+                        variant="primary"
+                        className="text-lg px-10 py-4 mt-15"
+                    >
+                        <p className="font-lilita text-3xl btn-primary-text">Open Game</p>
+                    </CustomButton>
+                </motion.div>
             </div>
 
             <h2 className="font-lilita text-2xl sm:text-3xl text-[#FFD43A] drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)] mb-4 mt-16">
@@ -150,18 +165,12 @@ export default function PoolDetailsPage() {
 
                         alt="Bonk Logo"
                         victoryCount="1 Wins"
-                        rewardAmount="0.05 SOL"
+                        rewardAmount="0.005 SOL"
                         label="x1 Box Level 1"
                     />
                 </motion.div>
 
-                <Image
-                    src="/right-arrow.png"
-                    alt="Solana Logo"
-                    width={50}
-                    height={50}
-                    className="w-[40px] sm:w-[50px] h-auto flex-shrink-0 mb-11"
-                />
+                <ArrowDivider />
 
                 <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.4 }}>
                     <RewardBundle
@@ -170,17 +179,11 @@ export default function PoolDetailsPage() {
                         src="/Box1.png"
                         alt="Plus Logo"
                         victoryCount="2 Wins"
-                        rewardAmount="0.13 SOL"
+                        rewardAmount="0.013 SOL"
                         label="x1 Box Level 2"
                     />
                 </motion.div>
-                <Image
-                    src="/right-arrow.png"
-                    alt="Solana Logo"
-                    width={50}
-                    height={50}
-                    className="w-[40px] sm:w-[50px] h-auto flex-shrink-0 mb-11"
-                />
+                <ArrowDivider />
                 <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.4 }}>
                     <RewardBundle
                         key={4}
@@ -188,17 +191,11 @@ export default function PoolDetailsPage() {
                         src="/Box1.png"
                         alt="Plus Logo"
                         victoryCount="3 Wins"
-                        rewardAmount="0.25 SOL"
+                        rewardAmount="0.025 SOL"
                         label="x1 Box Level 2"
                     />
                 </motion.div>
-                <Image
-                    src="/right-arrow.png"
-                    alt="Solana Logo"
-                    width={50}
-                    height={50}
-                    className="w-[40px] sm:w-[50px] h-auto flex-shrink-0 mb-11"
-                />
+                <ArrowDivider />
                 <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.4 }}>
                     <RewardBundle
                         key={5}
@@ -206,17 +203,11 @@ export default function PoolDetailsPage() {
                         src="/Box3.png"
                         alt="Plus Logo"
                         victoryCount="4 Wins"
-                        rewardAmount="0.43 SOL"
+                        rewardAmount="0.043 SOL"
                         label="x1 Box Level 3"
                     />
                 </motion.div>
-                <Image
-                    src="/right-arrow.png"
-                    alt="Solana Logo"
-                    width={50}
-                    height={50}
-                    className="w-[40px] sm:w-[50px] h-auto flex-shrink-0 mb-11"
-                />
+                <ArrowDivider />
                 <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.4 }}>
                     <RewardBundle
                         key={6}
@@ -224,7 +215,7 @@ export default function PoolDetailsPage() {
                         src="/Box4.png"
                         alt="Plus Logo"
                         victoryCount="5 Wins"
-                        rewardAmount="0.64 SOL"
+                        rewardAmount="0.064 SOL"
                         label="x1 Box Level 4"
                         variant='primary'
                     />

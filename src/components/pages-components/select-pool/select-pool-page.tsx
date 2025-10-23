@@ -12,7 +12,7 @@ export default function SelectPoolPage() {
             style={{ backgroundImage: "url('/Map3.png')" }}
         >
 
-            <div className="flex flex-col items-center text-center mb-20 mt-20 space-y-6 bg-black/40 backdrop-blur-sm px-6 py-4 rounded-2xl">
+            <div className="flex flex-col items-center text-center mx-5 mb-20 mt-20 space-y-6 bg-black/40 backdrop-blur-sm px-6 py-4 rounded-2xl">
                 <div className="max-w-2xl">
                     <h2 className="font-lilita text-4xl sm:text-5xl text-[#FFD43A] drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)] mb-4">
                         Choose Your Battle Pool

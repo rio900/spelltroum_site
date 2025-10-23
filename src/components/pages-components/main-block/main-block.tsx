@@ -24,7 +24,7 @@ export default function MainBlockSection() {
             </div>
 
             {/* Логотип */}
-            <div className="flex flex-col items-center text-center mb-20 mt-20 space-y-6">
+            <div className="flex flex-col items-center text-center mb-20 mt-20 mx-5 space-y-6">
                 {/* Логотип */}
                 <Image
                     src="/spelltroum-main.png"
@@ -46,7 +46,7 @@ export default function MainBlockSection() {
                 </div>
             </div>
 
-            <div className="flex flex-col items-center space-y-20">
+            <div className="flex flex-col items-center space-y-20 mx-5">
 
                 <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.2 }}>
 
