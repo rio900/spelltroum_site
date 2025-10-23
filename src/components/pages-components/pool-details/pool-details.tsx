@@ -109,7 +109,7 @@ export default function PoolDetailsPage() {
                 </p>
             </motion.div>
 
-            <div className="mt-16 flex flex-col items-center justify-center">
+            <div className="mt-12 flex flex-col items-center justify-center">
                 <div className="mt-4 mb-4">
                     <WalletMultiButton />
                 </div>
@@ -142,7 +142,7 @@ export default function PoolDetailsPage() {
             </div>
 
             <h2 className="font-lilita text-2xl sm:text-3xl text-[#FFD43A] drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)] mb-4 mt-16">
-                Reward Bundles:
+                Rewards:
             </h2>
 
             <div className={`flex flex-col mt-4 sm:flex-row items-center justify-center gap-6 sm:gap-8`}>

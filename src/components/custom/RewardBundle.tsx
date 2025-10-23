@@ -30,6 +30,12 @@ export default function RewardBundle({
 }: TokenButtonProps) {
     return (
         <div className="flex flex-col items-center">
+            {victoryCount && (
+                <span className="mb-3 text-2xl text-white font-semibold text-stroke-1 text-stroke-black">
+                    {victoryCount}
+                </span>
+            )}
+
             <CustomButton href={href} variant={variant} className={`px-3 py-4 ${className}`}>
                 <div className="flex flex-col items-center">
                     <Image
@@ -59,11 +65,7 @@ export default function RewardBundle({
                 </div>
             </CustomButton>
 
-            {victoryCount && (
-                <span className="mt-3 text-2xl text-white font-semibold text-stroke-1 text-stroke-black">
-                    {victoryCount}
-                </span>
-            )}
+
         </div>
     );
 }

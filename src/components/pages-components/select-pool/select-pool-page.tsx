@@ -32,19 +32,60 @@ export default function SelectPoolPage() {
                         alt="Solana Logo"
                         variant="primary"
                         label="Solana Pool"
+                        value="0.01 SOL"
                     />
                 </motion.div>
 
                 <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.3 }}>
                     <TokenButton
                         key={2}
+                        href="/pool-detail/0"
+                        src="/sol-logo-gray.png"
+                        alt="Solana Logo"
+                        variant="primary"
+                        label="Solana Pool"
+                        locked={true}
+                        value="0.15 SOL"
+                    />
+                </motion.div>
+
+                <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.3 }}>
+                    <TokenButton
+                        key={3}
                         href="/pool-detail/1"
                         src="/bonk-logo.png"
                         alt="Bonk Logo"
                         variant="primary"
                         label="Bonk Pool"
+                        value="10k BONK"
                     />
                 </motion.div>
+
+                <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.3 }}>
+                    <TokenButton
+                        key={3}
+                        href="/pool-detail/1"
+                        src="/Dogwifhat.png"
+                        alt="Dogwifhat Logo"
+                        variant="primary"
+                        label="Dogwifhat Pool"
+                        value="2 WIF"
+                    />
+                </motion.div>
+
+                <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.3 }}>
+                    <TokenButton
+                        key={3}
+                        href="/pool-detail/1"
+                        src="/chonky.png"
+                        alt="Chonky Logo"
+                        variant="primary"
+                        label="Chonky Pool"
+                        value="490k CHONKY"
+                    />
+                </motion.div>
+
+
 
                 <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ duration: 0.4 }}>
 
@@ -55,6 +96,7 @@ export default function SelectPoolPage() {
                         alt="Plus Logo"
                         variant="primary"
                         label="Custom Pool"
+                        value="Add"
                     />
                 </motion.div>
 
