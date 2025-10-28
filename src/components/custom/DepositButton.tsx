@@ -1,5 +1,6 @@
 "use client";
 
+import Image from 'next/image';
 import { useState, useCallback } from "react";
 import { useAnchorProgram, playerBalancePda } from "@/lib/anchor";
 import { SystemProgram, Transaction } from "@solana/web3.js";
@@ -91,6 +92,7 @@ export default function DepositButton({
             className="px-4 py-2 rounded disabled:opacity-50"
             variant="secondary"
         >
+
             {loading ? (
                 <p className="font-lilita text-3xl btn-secondary-text">
                     Depositing... <span className="text-white text-stroke-1 text-stroke-black">0.01 SOL</span>

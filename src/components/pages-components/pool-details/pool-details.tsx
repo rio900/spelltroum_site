@@ -150,7 +150,7 @@ export default function PoolDetailsPage() {
                 )}
 
                 {isPoolCreated && (
-                    <motion.div
+                    <>                    <motion.div
                         initial={{ scale: 0.8, opacity: 0 }}
                         animate={{ scale: 1, opacity: 1 }}
                         transition={{ duration: 0.3 }}
@@ -160,9 +160,28 @@ export default function PoolDetailsPage() {
                             variant="primary"
                             className="text-lg px-10 py-4 mt-15"
                         >
+
                             <p className="font-lilita text-3xl btn-primary-text">Open Game</p>
                         </CustomButton>
                     </motion.div>
+
+                        <motion.div
+                            initial={{ y: 12, opacity: 0 }}
+                            animate={{ y: 0, opacity: 1 }}
+                            transition={{ duration: 0.35, ease: 'easeOut' }}
+                            className="mt-4 flex items-center gap-2 bg-black/40 backdrop-blur-sm px-4 py-2 rounded-2xl max-w-xl w-full"
+                        >
+                            <Image src="/BattlePoolTiket.png"
+                                alt="SOL Logo"
+                                width={50}
+                                height={50}
+                            />
+                            <p className="text-left leading-relaxed">
+                                Available Ticket (Use in Game)
+                            </p>
+                        </motion.div>
+                    </>
+
                 )}
             </div>
 
