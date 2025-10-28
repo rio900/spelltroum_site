@@ -10,15 +10,18 @@ import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
 import DepositButton from '@/components/custom/DepositButton';
 import toast from "react-hot-toast";
 import ArrowDivider from '@/components/custom/ArrowDivider';
+import { BlockchainApi } from '@/services/blockchainApi';
+import { useState } from 'react';
 
-//https://orvjl.app.link/reddit
+
 export default function PoolDetailsPage() {
+    const [isPoolCreated, setIsPoolCreated] = useState(false);
     const params = useParams() as { id?: string };
     const idx = Number(params?.id);
     const pool = Number.isFinite(idx) ? poolTypes[idx] : undefined;
+    const api = new BlockchainApi();
 
-
-    function showDepositSuccessToast(
+    async function showDepositSuccessToast(
         signature: string,
         opts?: { cluster?: "devnet" | "mainnet-beta" | "testnet" }
     ) {
@@ -60,6 +63,25 @@ export default function PoolDetailsPage() {
             </div>,
             { id: "tx-success" }
         );
+
+
+        try {
+
+            console.log("USER_ID:", process.env.NEXT_PUBLIC_USER_ID);
+
+            const success = await api.createBattlePool({
+                userId: process.env.NEXT_PUBLIC_USER_ID || "user_123",
+                address: "SOL_WALLET_ADDRESS",
+                trxId: signature,
+            });
+
+            if (success) {
+                console.log("Battle pool created successfully! " + process.env.USER_ID);
+                setIsPoolCreated(true);
+            }
+        } catch (e) {
+            console.error("Error creating battle pool:", e);
+        }
     }
 
     function showErrorToast(error: unknown, fallback = "Transaction failed") {
@@ -113,32 +135,35 @@ export default function PoolDetailsPage() {
                 <div className="mt-4 mb-4">
                     <WalletMultiButton />
                 </div>
-
-                <motion.div
-                    initial={{ scale: 0.8, opacity: 0 }}
-                    animate={{ scale: 1, opacity: 1 }}
-                    transition={{ duration: 0.2 }}
-                >
-                    <DepositButton
-                        rawAmount={10000}
-                        onSuccess={showDepositSuccessToast}
-                        onError={showErrorToast}
-                    />
-                </motion.div>
-
-                <motion.div
-                    initial={{ scale: 0.8, opacity: 0 }}
-                    animate={{ scale: 1, opacity: 1 }}
-                    transition={{ duration: 0.3 }}
-                >
-                    <CustomButton
-                        href="https://orvjl.app.link/reddit"
-                        variant="primary"
-                        className="text-lg px-10 py-4 mt-15"
+                {!isPoolCreated && (
+                    <motion.div
+                        initial={{ scale: 0.8, opacity: 0 }}
+                        animate={{ scale: 1, opacity: 1 }}
+                        transition={{ duration: 0.2 }}
                     >
-                        <p className="font-lilita text-3xl btn-primary-text">Open Game</p>
-                    </CustomButton>
-                </motion.div>
+                        <DepositButton
+                            rawAmount={10000}
+                            onSuccess={showDepositSuccessToast}
+                            onError={showErrorToast}
+                        />
+                    </motion.div>
+                )}
+
+                {isPoolCreated && (
+                    <motion.div
+                        initial={{ scale: 0.8, opacity: 0 }}
+                        animate={{ scale: 1, opacity: 1 }}
+                        transition={{ duration: 0.3 }}
+                    >
+                        <CustomButton
+                            href="https://orvjl.app.link/reddit"
+                            variant="primary"
+                            className="text-lg px-10 py-4 mt-15"
+                        >
+                            <p className="font-lilita text-3xl btn-primary-text">Open Game</p>
+                        </CustomButton>
+                    </motion.div>
+                )}
             </div>
 
             <h2 className="font-lilita text-2xl sm:text-3xl text-[#FFD43A] drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)] mb-4 mt-16">
