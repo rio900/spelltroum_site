@@ -12,7 +12,7 @@ import toast from "react-hot-toast";
 import ArrowDivider from '@/components/custom/ArrowDivider';
 import { BlockchainApi } from '@/services/blockchainApi';
 import { useState } from 'react';
-
+import Leaderboard, { LeaderboardPlayer } from "@/components/custom/Leaderboard";
 
 export default function PoolDetailsPage() {
     const [isPoolCreated, setIsPoolCreated] = useState(false);
@@ -20,6 +20,16 @@ export default function PoolDetailsPage() {
     const idx = Number(params?.id);
     const pool = Number.isFinite(idx) ? poolTypes[idx] : undefined;
     const api = new BlockchainApi();
+
+    const leaderboard: LeaderboardPlayer[] = [
+        { rank: 1, name: "Urdakka", rating: 137, avatar: "/avatars/GrizzlyDark.png" },
+        { rank: 2, name: "Sprich", rating: 123, avatar: "/avatars/GrizzlyCoolWinter.png" },
+        { rank: 3, name: "Crizis", rating: 121, avatar: "/avatars/DeathSlayerLaughter.png" },
+        { rank: 4, name: "LuxuriA", rating: 116, avatar: "/avatars/WarlockMad.png" },
+        { rank: 5, name: "BazukA", rating: 81, avatar: "/avatars/GG.png" },
+        { rank: 6, name: "BR_SHING", rating: 73, avatar: "/avatars/FreeziCry.png" },
+        { rank: 7, name: "tudulu", rating: 64, avatar: "/avatars/SpiritmongerSalut.png" },
+    ];
 
     async function showDepositSuccessToast(
         signature: string,
@@ -265,6 +275,10 @@ export default function PoolDetailsPage() {
                     />
                 </motion.div>
 
+            </div>
+
+            <div className="w-full mt-20 mb-16">
+                <Leaderboard players={leaderboard} />
             </div>
         </section>
     );
