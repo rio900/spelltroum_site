@@ -22,7 +22,7 @@ export const lilita = Lilita_One({
 
 export const metadata: Metadata = {
   title: "Spelltroum",
-  description: "Multiplayer battle arena game on Solana blockchain.",
+  description: "Free mobile MOBA — all heroes unlocked, no paywall, skill-based gameplay.",
 };
 
 export default function RootLayout({
