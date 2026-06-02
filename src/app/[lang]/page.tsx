@@ -201,7 +201,7 @@ export default async function HomePage({ params }: HomePageProps) {
             <div className="flex flex-col lg:flex-row items-center gap-10 lg:gap-16">
               <div className="w-full lg:w-1/2 flex justify-center">
                 <Image
-                  src="/teamup-phone.jpeg"
+                  src="/teamup-phone.webp"
                   alt="Spelltroum hero team gameplay"
                   width={900}
                   height={600}
@@ -255,7 +255,7 @@ export default async function HomePage({ params }: HomePageProps) {
               </div>
               <div className="w-full lg:w-1/2 flex justify-center">
                 <Image
-                  src="/spelltroum-items.png"
+                  src="/spelltroum-items.webp"
                   alt="Spelltroum items and equipment"
                   width={900}
                   height={600}
