@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "FAQ – Spelltroum | Jogo Mobile Multijogador Gratuito",
-    "description": "Respostas às perguntas frequentes sobre Spelltroum — um jogo de ação mobile multijogador gratuito com partidas de 2 a 3 minutos, progressão de heróis e builds de itens. Saiba mais sobre heróis, itens, desbloqueios e jogo justo.",
-    "ogTitle": "FAQ – Spelltroum",
-    "ogDescription": "Tudo o que você precisa saber sobre Spelltroum — heróis, itens, monetização e como começar."
+    "title": "Spelltroum FAQ | Jogo de Arena Mobile Gratuito, todos os heróis desbloqueáveis de graça",
+    "description": "Spelltroum é um jogo de arena mobile gratuito onde os 13 heróis são desbloqueados jogando — sem gastar. Saiba mais sobre heróis, multijogador, progressão justa e muito mais.",
+    "ogTitle": "Spelltroum FAQ | Jogo de Arena Mobile Gratuito",
+    "ogDescription": "Os 13 heróis do Spelltroum são desbloqueáveis gratuitamente — sem pay-to-win, sem barreiras de progressão. Respostas sobre heróis, itens, multijogador e jogo justo."
   },
   "heading": "Perguntas Frequentes",
   "subheading": "Tudo o que você precisa saber sobre Spelltroum — um jogo de ação mobile multijogador gratuito com partidas de 2 a 3 minutos, progressão de heróis e gameplay competitivo. Todos os heróis podem ser desbloqueados gratuitamente, simplesmente jogando.",
@@ -45,6 +45,10 @@
         {
           "q": "Posso desbloquear todos os heróis gratuitamente?",
           "a": "Sim. Cada herói pode ser desbloqueado simplesmente jogando o jogo. A maioria dos jogadores consegue desbloquear qualquer herói que queiram em alguns dias de jogo regular."
+        },
+        {
+          "q": "Quanto tempo leva para desbloquear todos os heróis?",
+          "a": "A maioria dos jogadores consegue desbloquear seu herói preferido em alguns dias de jogo regular. Spelltroum é projetado para que a progressão seja recompensadora sem exigir grinding excessivo ou gastos. Você não precisa desbloquear todos os heróis para ser competitivo — mesmo um herói recém-desbloqueado pode vencer um herói totalmente evoluído."
         },
         {
           "q": "Por que heróis e itens precisam ser desbloqueados?",

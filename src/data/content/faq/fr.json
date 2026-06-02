@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "FAQ – Spelltroum | Jeu Mobile Multijoueur Gratuit",
-    "description": "Réponses aux questions fréquentes sur Spelltroum — un jeu d'action mobile multijoueur gratuit avec des matchs de 2 à 3 minutes, une progression de héros et des builds d'objets. Apprenez-en plus sur les héros, les objets, les déblocages et le fair-play.",
-    "ogTitle": "FAQ – Spelltroum",
-    "ogDescription": "Tout ce que vous devez savoir sur Spelltroum — héros, objets, monétisation et comment commencer."
+    "title": "Spelltroum FAQ | Jeu d'Arène Mobile Gratuit, tous les héros débloquables gratuitement",
+    "description": "Spelltroum est un jeu d'arène mobile gratuit où les 13 héros se débloquent en jouant — sans dépenser. Découvrez les héros, le multijoueur, la progression équitable et plus encore.",
+    "ogTitle": "Spelltroum FAQ | Jeu d'Arène Mobile Gratuit",
+    "ogDescription": "Les 13 héros de Spelltroum sont débloquables gratuitement — sans pay-to-win, sans murs de progression. Réponses sur les héros, les objets, le multijoueur et le jeu équitable."
   },
   "heading": "Foire aux questions",
   "subheading": "Tout ce que vous devez savoir sur Spelltroum — un jeu d'action mobile multijoueur gratuit avec des matchs de 2 à 3 minutes, une progression de héros et un gameplay compétitif. Tous les héros sont débloquables gratuitement, simplement en jouant.",
@@ -45,6 +45,10 @@
         {
           "q": "Puis-je débloquer tous les héros gratuitement ?",
           "a": "Oui. Chaque héros peut être débloqué simplement en jouant au jeu. La plupart des joueurs peuvent débloquer n'importe quel héros qu'ils souhaitent en quelques jours de jeu régulier."
+        },
+        {
+          "q": "Combien de temps faut-il pour débloquer tous les héros ?",
+          "a": "La plupart des joueurs peuvent débloquer leur héros préféré en quelques jours de jeu régulier. Spelltroum est conçu pour que la progression soit satisfaisante sans nécessiter un grinding excessif ou des dépenses. Vous n'avez pas besoin de débloquer tous les héros pour être compétitif — même un héros nouvellement débloqué peut battre un héros entièrement amélioré."
         },
         {
           "q": "Pourquoi les héros et les objets doivent-ils être débloqués ?",

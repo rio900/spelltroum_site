@@ -57,6 +57,18 @@ export default async function HomePage({ params }: HomePageProps) {
   const t = await getTranslations(lang);
   const h = t.home;
 
+  const faqJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      { '@type': 'Question', name: h.faqQ1, acceptedAnswer: { '@type': 'Answer', text: h.faqA1 } },
+      { '@type': 'Question', name: h.faqQ2, acceptedAnswer: { '@type': 'Answer', text: h.faqA2 } },
+      { '@type': 'Question', name: h.faqQ3, acceptedAnswer: { '@type': 'Answer', text: h.faqA3 } },
+      { '@type': 'Question', name: h.faqQ4, acceptedAnswer: { '@type': 'Answer', text: h.faqA4 } },
+      { '@type': 'Question', name: h.faqQ5, acceptedAnswer: { '@type': 'Answer', text: h.faqA5 } },
+    ],
+  };
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'VideoGame',
@@ -76,6 +88,10 @@ export default async function HomePage({ params }: HomePageProps) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
 
       {/* Hero Section */}
@@ -268,6 +284,37 @@ export default async function HomePage({ params }: HomePageProps) {
               className="inline-flex items-center justify-center font-semibold text-white/80 hover:text-white border border-white/20 hover:border-white/50 transition px-8 py-4 rounded-2xl"
             >
               {t.wiki.mechanics} →
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+      <section className="w-full bg-black/30 text-gray-200 py-20 px-6">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="font-lilita text-4xl text-[#FFD43A] text-center mb-10">
+            {h.faqSectionTitle}
+          </h2>
+          <div className="flex flex-col gap-4">
+            {[
+              { q: h.faqQ1, a: h.faqA1 },
+              { q: h.faqQ2, a: h.faqA2 },
+              { q: h.faqQ3, a: h.faqA3 },
+              { q: h.faqQ4, a: h.faqA4 },
+              { q: h.faqQ5, a: h.faqA5 },
+            ].map(({ q, a }) => (
+              <div key={q} className="bg-black/40 backdrop-blur-sm border border-white/10 rounded-2xl px-6 py-5">
+                <p className="font-semibold text-white mb-2">{q}</p>
+                <p className="text-white/60 text-sm leading-relaxed">{a}</p>
+              </div>
+            ))}
+          </div>
+          <div className="text-center mt-8">
+            <Link
+              href={`/${lang}/faq`}
+              className="inline-flex items-center text-[#FFD43A] hover:text-yellow-300 font-semibold transition"
+            >
+              {h.faqSeeAll} →
             </Link>
           </div>
         </div>

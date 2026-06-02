@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "FAQ – Spelltroum | Free-to-Play Mobile MOBA Game",
-    "description": "Answers to common questions about Spelltroum — a free-to-play multiplayer mobile action game with 2–3 minute matches, hero progression, and item builds. Learn about heroes, items, unlocks, and fair play.",
-    "ogTitle": "FAQ – Spelltroum",
-    "ogDescription": "Everything you need to know about Spelltroum — heroes, items, monetization, and how to get started."
+    "title": "Spelltroum FAQ | Free-to-Play Mobile Arena, All Heroes Free to Unlock",
+    "description": "Spelltroum is a free mobile arena game where all 13 heroes unlock through gameplay — no spending required. Learn about heroes, multiplayer, fair progression, and more.",
+    "ogTitle": "Spelltroum FAQ | Free-to-Play Mobile Arena",
+    "ogDescription": "All 13 heroes are free to unlock in Spelltroum — no pay to win, no progression walls. Get answers about heroes, items, multiplayer, and fair play."
   },
   "heading": "Frequently Asked Questions",
   "subheading": "Everything you need to know about Spelltroum — a free-to-play multiplayer mobile game with 2–3 minute matches, hero progression, and competitive gameplay. All heroes are unlockable for free, simply by playing.",
@@ -45,6 +45,10 @@
         {
           "q": "Can I unlock all heroes for free?",
           "a": "Yes. Every hero can be unlocked simply by playing the game. Most players can unlock any hero they want within a couple of days of regular play."
+        },
+        {
+          "q": "How long does it take to unlock all heroes?",
+          "a": "Most players can unlock their preferred hero within a couple of days of regular play. Spelltroum is designed so that progression feels rewarding without requiring excessive grinding or spending. You do not need to unlock every hero to be competitive — even a newly unlocked hero can win against a fully upgraded one."
         },
         {
           "q": "Why do heroes and items need to be unlocked?",

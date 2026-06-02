@@ -111,6 +111,18 @@
     "discordButton": "Auf Discord beitreten",
     "heroCount": "13 Helden",
     "itemCount": "30+ Items",
-    "freeToPlay": "Mit Freunden spielen"
+    "freeToPlay": "Mit Freunden spielen",
+    "faqSectionTitle": "Häufige Fragen",
+    "faqSeeAll": "Alle Fragen anzeigen",
+    "faqQ1": "Wie läuft ein Match ab?",
+    "faqA1": "Ein typisches Spelltroum-Match dauert nur 2–3 Minuten. Während eines Matches farmen Spieler Büsche und Ressourcen, verdienen Gold, verbessern Fähigkeiten, kaufen Gegenstände, bekämpfen Gegner und kämpfen um den Sieg. Jedes Match ist ein vollständiges Erlebnis — schnell, kompetitiv und lohnend.",
+    "faqQ2": "Kann ich alle Helden kostenlos freischalten?",
+    "faqA2": "Ja. Jeder Held kann einfach durch Spielen freigeschaltet werden. Die meisten Spieler können jeden gewünschten Helden innerhalb weniger Tage normalen Spielens freischalten.",
+    "faqQ3": "Kann ich mit Freunden spielen?",
+    "faqA3": "Ja! Du kannst dich mit einem Freund zusammentun und Fähigkeiten für mächtige Combos kombinieren. Ob du solo oder als Duo spielst — jedes Match ist schnell, kompetitiv und spaßig.",
+    "faqQ4": "Ist Spelltroum Pay-to-Win?",
+    "faqA4": "Nein. Spelltroum ist bewusst so gestaltet, dass Pay-to-Win-Mechaniken vermieden werden. Helden-Upgrades bieten Progression und Anpassung, sind aber nicht darauf ausgelegt, überwältigende Machtunterschiede zu schaffen. Geschick, Teamarbeit, Positionierung und Entscheidungsfindung sind weit wichtiger als Progressionsstufen.",
+    "faqQ5": "Kann ein neuer Spieler einen Veteran besiegen?",
+    "faqA5": "Absolut. Geschick, Teamarbeit, Positionierung und Entscheidungsfindung haben einen viel größeren Einfluss auf Match-Ergebnisse als Progression. Upgrades sind so konzipiert, dass sie relativ kleine Vorteile bieten, anstatt den Ausgang eines Matches zu bestimmen."
   }
 }

@@ -111,6 +111,18 @@
     "discordButton": "Entrar no Discord",
     "heroCount": "13 Heróis",
     "itemCount": "30+ Itens",
-    "freeToPlay": "Jogar com amigos"
+    "freeToPlay": "Jogar com amigos",
+    "faqSectionTitle": "Perguntas frequentes",
+    "faqSeeAll": "Ver todas as perguntas",
+    "faqQ1": "Como é uma partida?",
+    "faqA1": "Uma partida típica de Spelltroum dura apenas 2–3 minutos. Durante uma partida, os jogadores coletam arbustos e recursos, ganham ouro, melhoram habilidades, compram itens, lutam contra oponentes e competem pela vitória. Cada partida é uma experiência completa — rápida, competitiva e recompensadora.",
+    "faqQ2": "Posso desbloquear todos os heróis gratuitamente?",
+    "faqA2": "Sim. Cada herói pode ser desbloqueado simplesmente jogando. A maioria dos jogadores consegue desbloquear qualquer herói em alguns dias de jogo regular.",
+    "faqQ3": "Posso jogar com amigos?",
+    "faqA3": "Sim! Você pode se unir a um amigo e combinar habilidades para combos poderosos. Seja jogando solo ou em dupla, cada partida é projetada para ser rápida, competitiva e divertida.",
+    "faqQ4": "Spelltroum é pay-to-win?",
+    "faqA4": "Não. Spelltroum é intencionalmente projetado para evitar mecânicas pay-to-win. As melhorias de heróis oferecem progressão e personalização, mas não são projetadas para criar diferenças de poder avassaladoras. Habilidade, trabalho em equipe, posicionamento e tomada de decisões importam muito mais do que os níveis de progressão.",
+    "faqQ5": "Um jogador novo pode vencer um veterano?",
+    "faqA5": "Com certeza. Habilidade, trabalho em equipe, posicionamento e tomada de decisões têm um impacto muito maior nos resultados das partidas do que a progressão. As melhorias são projetadas para oferecer vantagens relativamente pequenas em vez de determinar o resultado de uma partida."
   }
 }

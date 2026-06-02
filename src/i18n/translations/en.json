@@ -81,7 +81,19 @@
     "discordButton": "Join us on Discord",
     "heroCount": "13 Heroes",
     "itemCount": "30+ Items",
-    "freeToPlay": "Play With Friends"
+    "freeToPlay": "Play With Friends",
+    "faqSectionTitle": "Common Questions",
+    "faqSeeAll": "See all questions",
+    "faqQ1": "What is a match like?",
+    "faqA1": "A typical Spelltroum match lasts just 2–3 minutes. During a match, players farm bushes and resources, earn gold, upgrade abilities, purchase items, fight opponents, and compete for victory. Every match is a complete experience — fast, competitive, and rewarding.",
+    "faqQ2": "Can I unlock all heroes for free?",
+    "faqA2": "Yes. Every hero can be unlocked simply by playing the game. Most players can unlock any hero they want within a couple of days of regular play.",
+    "faqQ3": "Can I play with friends?",
+    "faqA3": "Yes! You can team up with a friend and combine abilities for powerful combos. Whether you are playing solo or as a duo, every match is designed to be fast, competitive, and fun.",
+    "faqQ4": "Is Spelltroum pay-to-win?",
+    "faqA4": "No. Spelltroum is intentionally designed to avoid pay-to-win mechanics. Hero upgrades provide progression and customization, but they are not designed to create overwhelming power differences. Skill, teamwork, positioning, and decision-making matter far more than progression levels.",
+    "faqQ5": "Can a new player beat a veteran player?",
+    "faqA5": "Absolutely. Skill, teamwork, positioning, and decision-making have a much greater impact on match outcomes than progression. Upgrades are designed to provide relatively small advantages rather than determining the outcome of a match."
   },
   "items": {
     "title": "Items",

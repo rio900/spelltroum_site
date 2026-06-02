@@ -111,6 +111,18 @@
     "discordButton": "Rejoindre sur Discord",
     "heroCount": "13 Héros",
     "itemCount": "30+ Objets",
-    "freeToPlay": "Jouer avec des amis"
+    "freeToPlay": "Jouer avec des amis",
+    "faqSectionTitle": "Questions fréquentes",
+    "faqSeeAll": "Voir toutes les questions",
+    "faqQ1": "Comment se déroule un match ?",
+    "faqA1": "Un match Spelltroum typique dure seulement 2–3 minutes. Pendant un match, les joueurs récoltent des buissons et des ressources, gagnent de l'or, améliorent des capacités, achètent des objets, combattent des adversaires et rivalisent pour la victoire. Chaque match est une expérience complète — rapide, compétitive et gratifiante.",
+    "faqQ2": "Puis-je débloquer tous les héros gratuitement ?",
+    "faqA2": "Oui. Chaque héros peut être débloqué simplement en jouant. La plupart des joueurs peuvent débloquer n'importe quel héros en quelques jours de jeu régulier.",
+    "faqQ3": "Puis-je jouer avec des amis ?",
+    "faqA3": "Oui ! Vous pouvez vous associer avec un ami et combiner des capacités pour des combos puissants. Que vous jouiez en solo ou en duo, chaque match est conçu pour être rapide, compétitif et amusant.",
+    "faqQ4": "Spelltroum est-il pay-to-win ?",
+    "faqA4": "Non. Spelltroum est intentionnellement conçu pour éviter les mécaniques pay-to-win. Les améliorations de héros offrent progression et personnalisation, mais ne sont pas conçues pour créer des différences de puissance écrasantes. La compétence, le travail d'équipe, le positionnement et la prise de décision comptent bien plus que les niveaux de progression.",
+    "faqQ5": "Un nouveau joueur peut-il battre un vétéran ?",
+    "faqA5": "Absolument. La compétence, le travail d'équipe, le positionnement et la prise de décision ont un impact bien plus grand sur les résultats des matchs que la progression. Les améliorations sont conçues pour offrir des avantages relativement faibles plutôt que de déterminer l'issue d'un match."
   }
 }
