@@ -54,6 +54,7 @@ export default function Navbar({ lang, t }: NavbarProps) {
             alt="Spelltroum"
             width={140}
             height={40}
+            sizes="140px"
             className="h-8 w-auto"
           />
         </Link>

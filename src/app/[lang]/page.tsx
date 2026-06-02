@@ -113,6 +113,7 @@ export default async function HomePage({ params }: HomePageProps) {
               width={1000}
               height={600}
               priority
+              sizes="(max-width: 640px) 80vw, 900px"
               className="w-auto h-auto max-w-[80%] sm:max-w-[900px] mx-auto"
             />
 
@@ -175,7 +176,7 @@ export default async function HomePage({ params }: HomePageProps) {
               <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
                 <iframe
                   className="absolute inset-0 w-full h-full rounded-xl"
-                  src={`https://www.youtube.com/embed/${h.youtubeId}`}
+                  src={`https://www.youtube-nocookie.com/embed/${h.youtubeId}`}
                   title="Spelltroum gameplay"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
@@ -204,6 +205,7 @@ export default async function HomePage({ params }: HomePageProps) {
                   alt="Spelltroum hero team gameplay"
                   width={900}
                   height={600}
+                  sizes="(max-width: 1024px) 100vw, 50vw"
                   className="w-full h-auto rounded-3xl shadow-xl max-w-md"
                 />
               </div>
@@ -257,6 +259,7 @@ export default async function HomePage({ params }: HomePageProps) {
                   alt="Spelltroum items and equipment"
                   width={900}
                   height={600}
+                  sizes="(max-width: 1024px) 100vw, 50vw"
                   className="w-full h-auto rounded-3xl shadow-xl max-w-xl"
                 />
               </div>
