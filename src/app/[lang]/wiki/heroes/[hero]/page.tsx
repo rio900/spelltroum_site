@@ -21,24 +21,38 @@ export async function generateMetadata({ params }: HeroPageProps): Promise<Metad
   const { lang, hero: heroSlug } = await params;
   const hero = getHeroById(heroSlug);
   if (!hero) return {};
+
+  const t = isValidLocale(lang) ? await getTranslations(lang as Locale) : null;
+  const th = t?.heroes;
+
+  const metaTitle = th?.metaTitle
+    ? th.metaTitle.replace('{name}', hero.name)
+    : `${hero.name} — Hero Guide`;
+  const metaDesc = th?.metaDescription
+    ? th.metaDescription.replace('{name}', hero.name)
+    : `Learn about ${hero.name} in Spelltroum — abilities, best builds, strengths, weaknesses, and tips.`;
+  const metaGuide = th?.metaGuide ?? 'Hero Guide';
+
+  const content = isValidLocale(lang) ? await import('@/data/content').then(m => m.getHeroContent(hero.id, lang as Locale)) : null;
+  const description = (content?.overview ?? hero.overview ?? metaDesc).slice(0, 160);
+
   return {
-    title: `${hero.name} — Hero Guide | Spelltroum`,
-    description: hero.overview?.slice(0, 160) ?? `Learn about ${hero.name} in Spelltroum — abilities, best builds, strengths, weaknesses, and tips.`,
+    title: `${metaTitle} | Spelltroum`,
+    description: description || metaDesc,
     keywords: [
       `Spelltroum ${hero.name}`,
-      `${hero.name} guide`,
+      `${hero.name} ${metaGuide.toLowerCase()}`,
       `${hero.name} build`,
       `${hero.name} abilities`,
-      `Spelltroum hero guide`,
-      `Spelltroum ${roleLabels[hero.role].toLowerCase()} hero`,
+      `Spelltroum ${metaGuide.toLowerCase()}`,
     ],
     alternates: {
       canonical: `https://spelltroum.com/${lang}/wiki/heroes/${hero.id}`,
       languages: Object.fromEntries(locales.map((l) => [l, `https://spelltroum.com/${l}/wiki/heroes/${hero.id}`])),
     },
     openGraph: {
-      title: `${hero.name} — Spelltroum Hero Guide`,
-      description: hero.overview?.slice(0, 160),
+      title: `${hero.name} — Spelltroum ${metaGuide}`,
+      description: description || metaDesc,
       url: `https://spelltroum.com/${lang}/wiki/heroes/${hero.id}`,
       type: 'article',
     },

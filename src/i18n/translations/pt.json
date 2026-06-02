@@ -48,7 +48,10 @@
     "roleSummoner": "Invocador",
     "roleAssassin": "Assassino",
     "otherHeroes": "Outros heróis",
-    "legendaryItem": "Item lendário"
+    "legendaryItem": "Item lendário",
+    "metaTitle": "{name} — Guia do Herói",
+    "metaDescription": "Aprenda sobre {name} em Spelltroum — habilidades, melhores builds, pontos fortes, fracos e dicas.",
+    "metaGuide": "Guia do Herói"
   },
   "faq": {
     "title": "FAQ",

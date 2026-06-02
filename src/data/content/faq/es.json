@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "FAQ – Spelltroum | Juego Móvil Multijugador Gratuito",
+    "description": "Respuestas a preguntas frecuentes sobre Spelltroum — un juego de acción móvil multijugador gratuito con partidas de 2 a 3 minutos, progresión de héroes y builds de objetos. Aprende sobre héroes, objetos, desbloqueos y juego limpio.",
+    "ogTitle": "FAQ – Spelltroum",
+    "ogDescription": "Todo lo que necesitas saber sobre Spelltroum — héroes, objetos, monetización y cómo empezar."
+  },
+  "heading": "Preguntas Frecuentes",
+  "subheading": "Todo lo que necesitas saber sobre Spelltroum — un juego de acción móvil multijugador gratuito con partidas de 2 a 3 minutos, progresión de héroes y gameplay competitivo. Todos los héroes se pueden desbloquear gratis, simplemente jugando.",
+  "ctaText": "¿Tienes más preguntas? ¡Únete a nuestra comunidad!",
+  "ctaButton": "Unirse a Discord",
+  "sections": [
+    {
+      "heading": "Sobre Spelltroum",
+      "items": [
+        {
+          "q": "¿Qué es Spelltroum?",
+          "a": "Spelltroum es un juego de acción móvil multijugador que combina progresión de héroes, builds de objetos, combate rápido y estrategia de equipo en partidas que duran solo 2 a 3 minutos — lo suficientemente cortas para jugar en cualquier lugar, lo suficientemente profundas para hacerte volver. Los jugadores desbloquean héroes, descubren combinaciones de objetos, se juntan con amigos y compiten en batallas rápidas que recompensan la habilidad y las decisiones inteligentes por encima del grinding o el gasto."
+        },
+        {
+          "q": "¿Qué inspiró Spelltroum?",
+          "a": "Spelltroum se inspira en los mejores elementos del género MOBA — progresión de héroes, farmeo de recursos, builds de objetos y coordinación de equipo — y los entrega en un formato mobile diseñado alrededor de partidas de 2 a 3 minutos. En lugar de comprometerse con sesiones de 30 minutos, obtienes la emoción de construir un héroe, elegir objetos y superar a los oponentes en rondas rápidas e intensas que caben en cualquier horario."
+        },
+        {
+          "q": "¿Cómo es una partida?",
+          "a": "Una partida típica de Spelltroum dura solo 2 a 3 minutos. Durante una partida, los jugadores farmean arbustos y recursos, ganan oro, mejoran habilidades, compran objetos, luchan contra oponentes y compiten por la victoria. Cada partida es una experiencia completa — rápida, competitiva y gratificante."
+        },
+        {
+          "q": "¿Qué diferencia a Spelltroum de otros juegos móviles?",
+          "a": "Spelltroum fue creado por un desarrollador en solitario que quería llevar la equidad y la profundidad del juego multijugador competitivo al móvil — sin las mecánicas pay-to-win, muros de progresión o compromisos de 30 minutos que definen la mayoría de los juegos móviles. Puedes unirte a una partida, experimentar con héroes y objetos, jugar con amigos y competir en igualdad de condiciones en pocos minutos."
+        },
+        {
+          "q": "¿Puedo jugar con amigos?",
+          "a": "¡Sí! Puedes hacer equipo con un amigo y combinar habilidades para combos poderosos. Ya sea que juegues en solitario o en dúo, cada partida está diseñada para ser rápida, competitiva y divertida."
+        }
+      ]
+    },
+    {
+      "heading": "Héroes y desbloqueos",
+      "items": [
+        {
+          "q": "¿Cuántos héroes hay en Spelltroum?",
+          "a": "Actualmente hay 13 héroes, cada uno con habilidades y estilos de juego únicos: Spitfire, Viverna, Death Slayer, Druida, Freezi, Flameweaver, Shadow Fury, Spiritmonger, Mortifier, Grizzly, Faerie, Volcarn y Stonewarden."
+        },
+        {
+          "q": "¿Puedo desbloquear todos los héroes gratis?",
+          "a": "Sí. Cada héroe puede desbloquearse simplemente jugando. La mayoría de los jugadores pueden desbloquear cualquier héroe que deseen en un par de días de juego regular."
+        },
+        {
+          "q": "¿Por qué hay que desbloquear héroes y objetos?",
+          "a": "Los desbloqueos existen para crear una sensación de progresión y descubrimiento. A medida que juegas, irás desbloqueando nuevos héroes, nuevos objetos legendarios, nuevas estrategias y nuevos estilos de juego. Desbloquear algo en Spelltroum no se trata de volverse más fuerte que todos — se trata de ampliar tus opciones y descubrir nuevas formas de jugar."
+        },
+        {
+          "q": "¿Son los héroes Legendarios más fuertes que los demás héroes?",
+          "a": "No. Los héroes Legendarios están diseñados para ofrecer estilos de juego diferentes, no niveles de poder más altos. Cada héroe puede ser efectivo en las manos adecuadas."
+        },
+        {
+          "q": "¿Cuáles son las diferentes rarezas de héroes?",
+          "a": "Los héroes vienen en cuatro rarezas: Común, Poco común, Raro y Legendario. Los héroes de mayor rareza suelen ofrecer habilidades y estilos de juego más complejos o únicos."
+        }
+      ]
+    },
+    {
+      "heading": "Objetos y progresión",
+      "items": [
+        {
+          "q": "¿Son los objetos Legendarios más fuertes que los demás objetos?",
+          "a": "No. Los objetos Legendarios desbloquean estrategias únicas y opciones de gameplay en lugar de proporcionar ventajas de poder directas. Permiten builds diferentes, tácticas distintas y nuevas formas de jugar con tus héroes favoritos."
+        },
+        {
+          "q": "¿Para qué sirven los Martillos?",
+          "a": "Los Martillos se usan para mejorar héroes, mejorando sus estadísticas y habilidades. Puedes encontrar martillos dentro de las Puertas (cofres)."
+        },
+        {
+          "q": "¿Qué es el Super Hechizo?",
+          "a": "Cada héroe tiene un Super Hechizo pasivo único que se activa bajo condiciones específicas, añadiendo una capa estratégica al gameplay. Por ejemplo, Spiritmonger deja de perder almas después de alcanzar el nivel 10."
+        }
+      ]
+    },
+    {
+      "heading": "Juego limpio y monetización",
+      "items": [
+        {
+          "q": "¿Es Spelltroum pay-to-win?",
+          "a": "No. Spelltroum está diseñado intencionalmente para evitar las mecánicas pay-to-win. Las mejoras de héroes proporcionan progresión y personalización, pero no están diseñadas para crear diferencias de poder abrumadoras. Un jugador hábil usando un héroe recién desbloqueado puede perfectamente derrotar a un jugador con un héroe completamente mejorado. La habilidad, el trabajo en equipo, el posicionamiento y la toma de decisiones importan mucho más que los niveles de progresión."
+        },
+        {
+          "q": "¿Necesito gastar dinero para ser competitivo?",
+          "a": "No. Spelltroum está diseñado para que gastar dinero sea opcional y no requerido para ser competitivo. Nuestro objetivo es que los jugadores apoyen el juego porque lo disfrutan — no porque se sientan obligados a hacerlo."
+        },
+        {
+          "q": "¿Cómo gana dinero Spelltroum?",
+          "a": "La monetización principal de Spelltroum es el contenido cosmético — skins de héroes, personalización cosmética y mejoras visuales. Estas compras no proporcionan ventajas en el gameplay. Creemos que los jugadores deben ganar porque jugaron mejor, no porque gastaron más dinero."
+        },
+        {
+          "q": "¿En qué debería gastar dinero si quiero apoyar el juego?",
+          "a": "Principalmente en contenido cosmético como skins y opciones de personalización visual. Cualquier compra va directamente a apoyar el desarrollo continuo del juego."
+        },
+        {
+          "q": "¿Puede un jugador nuevo vencer a un jugador veterano?",
+          "a": "Absolutamente. La habilidad, el trabajo en equipo, el posicionamiento y la toma de decisiones tienen un impacto mucho mayor en los resultados de las partidas que la progresión. Si bien los jugadores competitivos dedicados pueden eventualmente querer héroes completamente mejorados para una optimización máxima, las mejoras están diseñadas para proporcionar ventajas relativamente pequeñas en lugar de determinar el resultado de una partida."
+        }
+      ]
+    }
+  ]
+}

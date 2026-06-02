@@ -48,7 +48,10 @@
     "roleSummoner": "Beschwörer",
     "roleAssassin": "Assassine",
     "otherHeroes": "Andere Helden",
-    "legendaryItem": "Legendärer Gegenstand"
+    "legendaryItem": "Legendärer Gegenstand",
+    "metaTitle": "{name} — Helden-Guide",
+    "metaDescription": "Alles über {name} in Spelltroum — Fähigkeiten, beste Builds, Stärken, Schwächen und Tipps.",
+    "metaGuide": "Helden-Guide"
   },
   "faq": {
     "title": "FAQ",

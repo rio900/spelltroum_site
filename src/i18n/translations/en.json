@@ -48,7 +48,10 @@
     "roleSummoner": "Summoner",
     "roleAssassin": "Assassin",
     "otherHeroes": "Other Heroes",
-    "legendaryItem": "Legendary Item"
+    "legendaryItem": "Legendary Item",
+    "metaTitle": "{name} — Hero Guide",
+    "metaDescription": "Learn about {name} in Spelltroum — abilities, best builds, strengths, weaknesses, and tips.",
+    "metaGuide": "Hero Guide"
   },
   "faq": {
     "title": "FAQ",

@@ -1,0 +1,1192 @@
+{
+  "spitfire": {
+    "overview": "Spitfire est l'un des héros de départ disponibles pour tous les joueurs dès leur première partie de Spelltroum. Malgré son statut de héros initial, Spitfire reste compétitif tout au long du jeu et peut performer à tous les niveaux de jeu. Spitfire est un héros à distance polyvalent qui peut être joué de plusieurs façons. Les joueurs peuvent se concentrer sur les Dégâts Physiques, les Dégâts Magiques, la Vitesse d'Attaque, ou des builds hybrides selon leur style de jeu préféré. Sa polyvalence en fait l'un des héros les plus faciles à apprendre tout en offrant une profondeur considérable pour les joueurs expérimentés.",
+    "playstyle": "Spitfire est un carry à distance agressif. Parce que ses capacités améliorent à la fois ses propres performances en combat et l'efficacité de son équipier, Spitfire fonctionne bien dans les stratégies solo et orientées équipe.",
+    "playstyleHighlights": [
+      "Farm rapide",
+      "Dégâts de zone",
+      "Builds Vitesse d'Attaque",
+      "Soutien d'équipe",
+      "Pression constante"
+    ],
+    "strengths": [
+      "Disponible dès le début du jeu",
+      "Facile à apprendre",
+      "Excellente vitesse de farm",
+      "Dégâts de zone puissants",
+      "Très bonne montée en puissance avec la Vitesse d'Attaque",
+      "Peut soutenir ses coéquipiers",
+      "Efficace avec des builds Physiques et Magiques",
+      "Fort dans les combats d'équipe",
+      "Flexible et adaptable à de nombreuses compositions d'équipe"
+    ],
+    "weaknesses": [
+      "Dépend du positionnement",
+      "Peut être vulnérable face au contrôle de foule",
+      "N'a pas de capacité d'évasion naturelle",
+      "Peut avoir du mal contre des héros qui le piègent ou l'isolent",
+      "Nécessite un bon timing des capacités pour maximiser les dégâts"
+    ],
+    "tips": [
+      "Utilisez Tempête de Flèches avant d'engager pour maximiser vos dégâts.",
+      "Boule de Feu est excellente pour farmer rapidement de grands groupes de buissons.",
+      "Restez à distance autant que possible.",
+      "Positionnez-vous soigneusement contre les héros au corps à corps.",
+      "Coordonnez Tempête de Flèches avec vos coéquipiers pour maximiser son bonus de Vitesse d'Attaque.",
+      "Conservez votre avantage de distance contre les héros qui dépendent du combat rapproché.",
+      "Évitez d'être piégé par les murs de Gardien de Pierre."
+    ],
+    "recommendedBuilds": [
+      {
+        "name": "Build Dégâts Physiques",
+        "description": "Concentrez-vous sur la Vitesse d'Attaque, les Coups Critiques et les dégâts soutenus. Ce build transforme Spitfire en un carry à distance puissant capable de submerger les adversaires avec des attaques rapides."
+      },
+      {
+        "name": "Build Dégâts Magiques",
+        "description": "Concentrez-vous sur la Puissance des Sorts, la Réduction de Temps de Recharge et les améliorations de Boule de Feu. Ce build met l'accent sur les dégâts de zone et le potentiel de burst."
+      },
+      {
+        "name": "Build Hybride",
+        "description": "Combinez Dégâts Physiques et Dégâts Magiques pour profiter de toutes les facettes du kit de Spitfire. C'est souvent l'approche la plus flexible."
+      }
+    ],
+    "synergies": {
+      "freezi": "Freezi est l'un des partenaires les plus forts de Spitfire. Les deux héros sont des carries à distance qui bénéficient grandement de la Vitesse d'Attaque. Quand Spitfire active Tempête de Flèches, les deux héros gagnent une Vitesse d'Attaque supplémentaire, permettant à Freezi de développer ses propres bonus de Vitesse d'Attaque beaucoup plus rapidement. Ensemble, ils peuvent exercer une pression constante tout en restant à une distance sûre des ennemis.",
+      "spiritmonger": "Spirit Monger fonctionne extrêmement bien aux côtés de Spitfire. Spirit Monger inflige naturellement des dégâts élevés mais dispose de moins de bonus de Vitesse d'Attaque dans son kit. La Tempête de Flèches de Spitfire aide Spirit Monger à attaquer plus vite, tandis que les capacités de soutien de Spirit Monger peuvent davantage améliorer les deux héros pendant les combats d'équipe.",
+      "druid": "Druide bénéficie grandement des buffs de Vitesse d'Attaque. Quand Spitfire active Tempête de Flèches, Druide et sa créature invoquée attaquent plus vite. Cela augmente les dégâts globaux de l'équipe et aide à sécuriser les objectifs plus rapidement.",
+      "volcarn": "Le buff de Vitesse d'Attaque de Spitfire est particulièrement précieux pour Volcarn. Non seulement Volcarn attaque plus vite, mais ses illusions bénéficient également de la Vitesse d'Attaque accrue. Cela peut augmenter considérablement les dégâts infligés par l'armée de Volcarn."
+    },
+    "counters": {
+      "stonewarden": "Gardien de Pierre est l'un des adversaires les plus difficiles de Spitfire. Ses murs peuvent piéger Spitfire et limiter sa capacité à se repositionner. Contrairement à certains héros, Spitfire n'a pas de capacité d'évasion intégrée pour traverser les murs. La réflexion de dégâts de Gardien de Pierre est également très efficace contre les attaques rapides de Spitfire."
+    },
+    "faq": [
+      {
+        "q": "Spitfire est-il un bon héros pour les débutants ?",
+        "a": "Oui. Spitfire est l'un des héros les plus faciles à apprendre et est disponible dès le début du jeu."
+      },
+      {
+        "q": "Spitfire est-il un héros Physique ou Magique ?",
+        "a": "Les deux. Ses attaques infligent des Dégâts Physiques et des Dégâts Magiques bonus, lui permettant d'utiliser efficacement plusieurs voies de build."
+      },
+      {
+        "q": "Spitfire peut-il soutenir ses coéquipiers ?",
+        "a": "Oui. Tempête de Flèches peut augmenter la Vitesse d'Attaque des alliés proches, faisant de lui un combattant d'équipe précieux."
+      },
+      {
+        "q": "Spitfire est-il fort en fin de partie ?",
+        "a": "Oui. Sa progression avec la Vitesse d'Attaque, la Puissance des Sorts et sa Super Capacité de Niveau 10 lui permet de rester dangereux tout au long du match."
+      },
+      {
+        "q": "Dois-je build des Dégâts Physiques ou des Dégâts Magiques ?",
+        "a": "Les deux approches sont viables. Le meilleur choix dépend de votre style de jeu préféré, de vos coéquipiers et des adversaires que vous affrontez."
+      },
+      {
+        "q": "Spitfire est-il faible parce qu'il est un héros de départ ?",
+        "a": "Non. Les héros de départ sont conçus pour être compétitifs tout au long du jeu. Spitfire reste un héros puissant même à haut niveau."
+      },
+      {
+        "q": "Quel est le plus grand avantage de Spitfire ?",
+        "a": "Sa polyvalence. Il peut farmer rapidement, infliger des dégâts puissants, soutenir ses coéquipiers avec des buffs de Vitesse d'Attaque et s'adapter à de nombreux builds et stratégies."
+      },
+      {
+        "q": "Quelle est la plus grande faiblesse de Spitfire ?",
+        "a": "Il manque d'une capacité d'évasion fiable. Si les ennemis parviennent à le piéger ou l'encercler, s'échapper peut être difficile sans l'aide des coéquipiers ou un bon positionnement."
+      }
+    ],
+    "abilities": {
+      "BonikAutoattackTitle": "Attaque de Base",
+      "BonikAutoattackDescription": "Passif. Spitfire tire une flèche enflammée. En plus d'infliger des Dégâts Physiques, chaque attaque inflige également des Dégâts Magiques bonus. Cela permet à Spitfire de faire pression sur les ennemis même lorsqu'ils investissent massivement dans l'Armure Physique. Ses attaques se développent naturellement bien avec la Vitesse d'Attaque et les builds de Puissance des Sorts.",
+      "BonikAttackSpeedTitle": "Tempête de Flèches",
+      "BonikAttackSpeedDescription": "Capacité Active. Spitfire lance un projectile enflammé dans toutes les directions autour de lui. La capacité accorde également un puissant bonus de Vitesse d'Attaque. Au Niveau 3, Tempête de Flèches accorde également la Vitesse d'Attaque aux alliés proches. Cela rend la capacité utile à la fois pour les dégâts personnels et pour soutenir les coéquipiers. Tempête de Flèches peut aussi aider à nettoyer les buissons plus rapidement en touchant plusieurs cibles simultanément.",
+      "BonikFireballTitle": "Boule de Feu",
+      "BonikFireballDescription": "Capacité Active. Spitfire lance une Boule de Feu qui explose à l'impact, infligeant des Dégâts Magiques dans une zone. Excellente pour nettoyer les buissons, farmer des groupes de cibles et endommager plusieurs ennemis. Au Niveau 3, Boule de Feu devient beaucoup plus puissante et lance des Boules de Feu dans plusieurs directions à la fois, permettant à Spitfire de nettoyer rapidement de grandes portions du champ de bataille."
+    }
+  },
+  "viverna": {
+    "overview": "Viverna est une mage à distance agressive qui se spécialise dans le harcèlement, la mobilité et la pression constante. Contrairement aux héros qui comptent sur des combats prolongés, Viverna excelle à engager rapidement, infliger des dégâts et s'échapper avant que les ennemis ne puissent riposter. Ses attaques de poison, ses courts temps de recharge et sa puissante mobilité en font l'un des héros les plus dangereux pour contrôler le rythme d'un match. Viverna est particulièrement efficace contre les adversaires lents ou prévisibles, les forçant constamment à réagir pendant qu'elle reste difficile à attraper.",
+    "playstyle": "Viverna prospère grâce à un gameplay agressif de hit-and-run. Une joueuse de Viverna habile est rarement immobile — elle attaque, se repositionne et frappe à nouveau avant que l'ennemi n'ait le temps de répondre.",
+    "playstyleHighlights": [
+      "Harceler les ennemis avec le Poison",
+      "Farmer efficacement avec Explosion en Croix",
+      "Contrôler les engagements grâce à la mobilité",
+      "Éviter les combats directs prolongés",
+      "Exercer une pression constante sur les adversaires"
+    ],
+    "strengths": [
+      "Extrêmement mobile",
+      "Gameplay hit-and-run puissant",
+      "Excellent harcèlement",
+      "Vitesse de farm rapide",
+      "Capacités puissantes à court temps de recharge",
+      "Difficile à attraper",
+      "Forte contre les héros lents",
+      "Efficace à toutes les étapes d'un match"
+    ],
+    "weaknesses": [
+      "Relativement fragile",
+      "Dépend fortement du positionnement",
+      "Vulnérable au contrôle de foule",
+      "Peut être punie si Téléportation est indisponible",
+      "Difficultés lors de combats prolongés au corps à corps"
+    ],
+    "tips": [
+      "Utilisez Poison pour harceler les ennemis avant de vous engager pleinement.",
+      "Téléportation peut être utilisée offensivement et défensivement.",
+      "Explosion en Croix est excellente pour le farm et le combat.",
+      "Évitez les combats prolongés contre les héros robustes.",
+      "Gardez toujours une route d'évasion en tête.",
+      "Utilisez la mobilité pour contrôler le rythme des engagements.",
+      "Laissez le Poison continuer à infliger des dégâts pendant que vous vous repositionnez."
+    ],
+    "synergies": {
+      "faerie": "Fée et Viverna forment l'une des meilleures combinaisons de mages dans Spelltroum. Les deux héros excellent dans la mobilité, la pression à distance et l'évitement des confrontations directes. Ensemble, elles peuvent continuellement harceler les adversaires, infliger des Dégâts Magiques et se retirer avant que les ennemis ne puissent répondre.",
+      "druid": "Druide complète parfaitement le style de jeu de Viverna. Son Aura de Vitesse aide les deux héros à rester mobiles pendant que sa créature invoquée applique une pression supplémentaire. Cette combinaison excelle à contrôler la carte et à forcer les ennemis dans des combats défavorables.",
+      "spiritmonger": "Les buffs de mouvement de Spiritmonger permettent aux deux héros d'engager et de se désengager encore plus efficacement. Ensemble, elles deviennent extrêmement difficiles à attraper tout en maintenant une pression constante.",
+      "grizzly": "Bien que leurs styles de jeu soient très différents, Grizzly et Viverna fonctionnent étonnamment bien ensemble. Grizzly sert de première ligne durable pendant que Viverna attaque à distance sécurisée."
+    },
+    "counters": {
+      "grizzly": "Grizzly est l'un des adversaires les plus difficiles de Viverna. Sa Ruée lui permet de suivre Viverna même après qu'elle s'échappe. Une fois que Grizzly atteint la portée de corps à corps et applique son ralentissement, Viverna peut rapidement se retrouver piégée.",
+      "freezi": "Le contrôle de foule de Freezi est extrêmement dangereux pour Viverna. Un étourdissement réussi peut laisser Viverna vulnérable suffisamment longtemps pour que Freezi inflige des dégâts létaux.",
+      "death-slayer": "L'étourdissement et les outils d'engagement agressif de Trancheur de Mort en font une menace constante. S'il parvient à attraper Viverna, elle a souvent très peu de temps pour réagir."
+    },
+    "faq": [
+      {
+        "q": "Viverna est-elle adaptée aux débutants ?",
+        "a": "Viverna est relativement facile à apprendre mais difficile à maîtriser. Les nouveaux joueurs peuvent rapidement comprendre ses capacités, mais maximiser sa mobilité nécessite de la pratique."
+      },
+      {
+        "q": "Viverna est-elle une mage ?",
+        "a": "Oui. La plupart des dégâts de Viverna proviennent de capacités de Dégâts Magiques et de la progression de la Puissance des Sorts."
+      },
+      {
+        "q": "Quelle est la plus grande force de Viverna ?",
+        "a": "Sa mobilité. Téléportation permet à Viverna de s'engager, s'échapper et se repositionner mieux que la plupart des héros."
+      },
+      {
+        "q": "Quelle est la plus grande faiblesse de Viverna ?",
+        "a": "Le contrôle de foule. Si Viverna est étourdissante ou bloquée, elle devient beaucoup plus facile à éliminer."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Viverna ?",
+        "a": "Fée, Druide, Spirit Monger et Grizzly offrent tous de fortes synergies avec le style de jeu agressif et mobile de Viverna."
+      },
+      {
+        "q": "Quels héros contrent Viverna ?",
+        "a": "Grizzly, Freezi et Trancheur de Mort comptent parmi ses matchups les plus difficiles en raison de leur capacité à l'attraper ou à la désactiver."
+      },
+      {
+        "q": "Viverna est-elle forte en fin de partie ?",
+        "a": "Oui. Sa mobilité, ses courts temps de recharge et sa puissante Super Capacité lui permettent de rester une menace dangereuse tout au long du match."
+      }
+    ],
+    "abilities": {
+      "QuopAutoattackTitle": "Dague Empoisonnée",
+      "QuopAutoattackDescription": "Attaque de Base. Les attaques de Viverna empoisonnent les ennemis. Le Poison inflige des dégâts dans le temps pendant 4 secondes, permettant à Viverna d'endommager les adversaires même après s'être désengagée. Cela rend chaque attaque réussie précieuse et force les ennemis à se retirer ou à continuer à se battre tout en prenant des dégâts.",
+      "QuopBlinkTitle": "Téléportation",
+      "QuopBlinkDescription": "Capacité Active. Viverna se téléporte instantanément sur une courte distance. Téléportation peut être utilisée pour engager des ennemis, s'échapper de situations dangereuses, esquiver des projectiles, se repositionner pendant les combats et traverser rapidement des obstacles. Cette capacité donne à Viverna une mobilité exceptionnelle.",
+      "QuopDamageTitle": "Explosion en Croix",
+      "QuopDamageDescription": "Capacité Active. Viverna libère une explosion magique autour d'elle qui inflige des Dégâts Magiques aux ennemis proches. Explosion en Croix a un temps de recharge extrêmement court et sert de principale capacité de dégâts de Viverna. Efficace pour farmer les buissons, nettoyer les sbires neutres, harceler les ennemis et finir les cibles à faible santé. Au Niveau 3, atteint seulement 3 secondes de temps de recharge."
+    }
+  },
+  "death-slayer": {
+    "overview": "Trancheur de Mort est un combattant au corps à corps qui peut être joué comme carry, soutien ou spécialiste du contrôle de foule. Il combine Chance Critique, Aura de Vol de Vie et contrôle par étourdissement, le rendant extrêmement dangereux dans les combats directs lorsqu'il s'approche des ennemis. Trancheur de Mort peut devenir très fort s'il farm bien, mais il est plus difficile pour les débutants car c'est un héros de mêlée.",
+    "playstyle": "Trancheur de Mort excelle dans les combats prolongés au corps à corps. Sa force vient de survivre assez longtemps pour continuer à attaquer et guérir. Selon la façon dont il est joué, Trancheur de Mort peut devenir un carry de Vol de Vie, un soutien durable, un contrôleur axé sur l'étourdissement, ou un bruiser de mêlée.",
+    "playstyleHighlights": [
+      "S'approcher des ennemis",
+      "Utiliser les étourdissements pour contrôler les combats",
+      "Se soigner grâce à l'Aura de Vol de Vie",
+      "Soutenir ses coéquipiers avec le vol de vie",
+      "Monter en puissance comme combattant de fin de partie"
+    ],
+    "strengths": [
+      "Fort duelliste au corps à corps",
+      "Chance Critique supplémentaire sur les attaques de base",
+      "Fournit une Aura de Vol de Vie à lui-même et aux alliés",
+      "Bon maintien en combat prolongé",
+      "Soutien d'équipe utile",
+      "Puissant contrôle par étourdissement",
+      "Peut être joué de plusieurs styles",
+      "Très fort s'il farm bien"
+    ],
+    "weaknesses": [
+      "Héros de mêlée avec portée limitée",
+      "Plus difficile pour les débutants que les héros à distance",
+      "Peut avoir du mal sous pression en début de partie",
+      "Vulnérable au kiting",
+      "Nécessite un bon positionnement pour atteindre les ennemis",
+      "Le Vol de Vie ne fonctionne pas sur les buissons"
+    ],
+    "tips": [
+      "Utilisez Étourdissement pour attraper les ennemis avant de vous engager.",
+      "Ne chassez pas les héros à distance sans plan.",
+      "Farmez efficacement avant de forcer des combats majeurs.",
+      "Restez près des alliés pour qu'ils bénéficient de l'Aura de Vol de Vie.",
+      "Le Vol de Vie fonctionne sur les héros et les sbires, mais pas sur les buissons.",
+      "La Réduction de Temps de Recharge peut soutenir les builds axés sur l'étourdissement.",
+      "Trancheur de Mort devient beaucoup plus fort quand il obtient assez de survie."
+    ],
+    "synergies": {
+      "freezi": "Freezi est l'un des partenaires les plus forts de Trancheur de Mort. Freezi fournit des dégâts bonus via son aura, tandis que Trancheur de Mort fournit du Vol de Vie via son aura. Ensemble, ils se renforcent mutuellement dans les combats.",
+      "druid": "L'Aura de Vitesse de Druide aide Trancheur de Mort à surmonter l'une de ses plus grandes faiblesses : la mobilité. En retour, Trancheur de Mort donne à Druide et à sa créature invoquée le Vol de Vie.",
+      "spiritmonger": "Spirit Monger bénéficie grandement de l'Aura de Vol de Vie de Trancheur de Mort. Trancheur de Mort bénéficie également du soutien de mouvement de Spirit Monger, ce qui lui facilite l'engagement ou la fuite.",
+      "spitfire": "Le buff de Vitesse d'Attaque de Spitfire fonctionne bien avec Trancheur de Mort. Plus de Vitesse d'Attaque signifie plus d'attaques, plus de Coups Critiques et plus de Vol de Vie."
+    },
+    "counters": {
+      "volcarn": "Volcarn peut être inconfortable pour Trancheur de Mort. Ses illusions créent plusieurs cibles, rendant plus difficile pour Trancheur de Mort de se concentrer sur le vrai ennemi.",
+      "viverna": "Viverna peut fortement pénaliser Trancheur de Mort, surtout en début de partie. Son poison, sa mobilité et son gameplay hit-and-run rendent difficile pour Trancheur de Mort de farmer en sécurité.",
+      "grizzly": "Grizzly peut être difficile pour Trancheur de Mort car il veut aussi des combats au corps à corps. Si Grizzly build assez de dégâts et de survie, il peut parfois dominer Trancheur de Mort."
+    },
+    "faq": [
+      {
+        "q": "Trancheur de Mort est-il bon pour les débutants ?",
+        "a": "Il est jouable pour les débutants, mais plus difficile que les héros à distance. Comme c'est un héros de mêlée, il nécessite un meilleur positionnement et timing."
+      },
+      {
+        "q": "Trancheur de Mort est-il un carry ou un soutien ?",
+        "a": "Il peut être les deux. Trancheur de Mort peut être joué comme carry de Vol de Vie, mais son Aura de Vol de Vie en fait aussi un frontliner de soutien utile."
+      },
+      {
+        "q": "Quelle est la plus grande force de Trancheur de Mort ?",
+        "a": "Son maintien. Avec l'Aura de Vol de Vie et les bons objets, Trancheur de Mort peut survivre à de longs combats et récupérer beaucoup de Santé."
+      },
+      {
+        "q": "Quelle est la plus grande faiblesse de Trancheur de Mort ?",
+        "a": "Sa portée de mêlée. Si les ennemis gardent leurs distances, le harcèlent ou l'empêchent de farmer, il peut avoir du mal à atteindre sa pleine force."
+      },
+      {
+        "q": "Le Vol de Vie fonctionne-t-il sur les buissons ?",
+        "a": "Non. Le Vol de Vie ne fonctionne que contre les héros ennemis et les sbires neutres."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Trancheur de Mort ?",
+        "a": "Freezi, Druide, Spirit Monger et Spitfire fonctionnent bien avec Trancheur de Mort."
+      },
+      {
+        "q": "Quels héros contrent Trancheur de Mort ?",
+        "a": "Viverna, Volcarn et Grizzly peuvent être des matchups difficiles selon la situation."
+      },
+      {
+        "q": "Trancheur de Mort est-il fort en fin de partie ?",
+        "a": "Oui. Si Trancheur de Mort farm bien, il peut devenir l'un des combattants au corps à corps les plus forts de Spelltroum."
+      }
+    ],
+    "abilities": {
+      "SkeletAutoattackTitle": "Attaque de Base",
+      "SkeletAutoattackDescription": "Passif. Les attaques de base de Trancheur de Mort ont une Chance Critique supplémentaire. Cela rend ses attaques plus dangereuses qu'elles ne le paraissent, surtout combinées avec des objets de dégâts critiques ou de vol de vie. Comme c'est un héros de mêlée, il doit atteindre les ennemis avant de pouvoir pleinement utiliser cette force.",
+      "SkeletStunTitle": "Étourdissement",
+      "SkeletStunDescription": "Capacité Active. Trancheur de Mort libère des projectiles étourdissants dans toutes les directions. Les ennemis touchés prennent des dégâts et sont étourdis brièvement. Cette capacité peut être utilisée pour attraper des ennemis, interrompre des attaques, s'échapper, protéger des alliés et commencer des combats.",
+      "SkeletLifestealTitle": "Aura de Vol de Vie",
+      "SkeletLifestealDescription": "Aura Passive. Trancheur de Mort fournit du Vol de Vie à lui-même et aux alliés proches. Cette aura permet aux héros affectés de restaurer de la Santé en endommageant des héros ennemis ou des sbires neutres. Le Vol de Vie ne fonctionne pas sur les buissons. Parce que les effets de Vol de Vie se cumulent, Trancheur de Mort peut devenir extrêmement difficile à tuer combiné avec des objets de Vol de Vie."
+    }
+  },
+  "druid": {
+    "overview": "Druide est un invocateur très mobile axé sur le farm, le contrôle de carte et le positionnement stratégique plutôt que sur le combat direct. Contrairement à de nombreux héros, Druide ne veut pas entrer dans des combats prolongés face à face. À la place, il utilise sa vitesse de déplacement, ses sbires invoqués et ses mécaniques de buissons uniques pour outfarmer les adversaires, collecter des Couronnes et créer des engagements favorables. Druide est principalement un héros de Dégâts Physiques.",
+    "playstyle": "Un bon joueur de Druide se déplace constamment sur la carte au lieu de chercher des combats directs. Son objectif est de farmer plus vite que les adversaires, atteindre des améliorations d'objets importantes tôt, forcer les ennemis dans de mauvaises positions et utiliser des sbires invoqués pour créer des avantages numériques.",
+    "playstyleHighlights": [
+      "Farm rapide",
+      "Collecter des Couronnes efficacement",
+      "Contrôler l'espace avec les buissons",
+      "Créer des combats favorables par le positionnement",
+      "Soutenir les alliés avec l'Aura de Vitesse",
+      "Faire pression avec des sbires invoqués"
+    ],
+    "strengths": [
+      "Excellente vitesse de farm",
+      "Fort contrôle de carte",
+      "Haute mobilité",
+      "Puissantes mécaniques d'invocation",
+      "Forte pression en début de partie",
+      "Excellent à la collecte de Couronnes",
+      "Soutient les alliés via l'Aura de Vitesse",
+      "Peut créer des combats favorables par le positionnement"
+    ],
+    "weaknesses": [
+      "Relativement faible dans les duels directs",
+      "Dépend fortement du positionnement",
+      "Peut avoir du mal si constamment sous pression",
+      "Les invocations peuvent être contrecarrées par les dégâts de zone",
+      "Nécessite de la planification et une conscience de la carte",
+      "Moins efficace quand forcé dans des combats directs"
+    ],
+    "tips": [
+      "Concentrez-vous sur le farm plutôt que de forcer des combats.",
+      "Utilisez les buissons pour contrôler les mouvements ennemis.",
+      "Invoquez des sbires dans des positions agressives.",
+      "L'Aura de Vitesse est précieuse tout au long du match.",
+      "Créez des combats favorables plutôt que des combats équitables.",
+      "Utilisez votre avantage de mobilité pour collecter rapidement des Couronnes.",
+      "Vos sbires sont les plus forts quand ils combattent à vos côtés."
+    ],
+    "synergies": {
+      "freezi": "Freezi est l'un des partenaires les plus forts de Druide. Freezi fournit une Aura de Dégâts qui bénéficie à Druide et à ses sbires invoqués. Pendant ce temps, l'Aura de Vitesse de Druide aide Freezi à se repositionner et à farmer plus efficacement.",
+      "death-slayer": "L'Aura de Vol de Vie de Trancheur de Mort fonctionne sur Druide et ses sbires invoqués. En même temps, l'Aura de Vitesse de Druide aide Trancheur de Mort à atteindre les ennemis plus facilement.",
+      "stonewarden": "Gardien de Pierre fournit une Aura d'Armure tandis que Druide fournit une Aura de Vitesse. De plus, Druide peut invoquer des sbires depuis les buissons ou les murs créés pendant les combats.",
+      "spiritmonger": "La création de buissons de Druide fonctionne extrêmement bien avec Spirit Monger. Quand Druide crée des buissons derrière les ennemis, l'Orbe de Spirit Monger peut rebondir entre l'ennemi et le buisson nouvellement créé.",
+      "volcarn": "En fin de partie, Druide et Volcarn peuvent submerger les adversaires par le nombre. Druide invoque des sbires pendant que Volcarn crée des illusions."
+    },
+    "counters": {
+      "spiritmonger": "Spirit Monger est l'un des matchups les plus difficiles de Druide. Les buissons que Druide crée peuvent en fait aider Spirit Monger. Son Orbe peut rebondir entre Druide et les buissons nouvellement créés.",
+      "viverna": "Viverna est difficile pour Druide car elle évite les engagements directs. Elle peut empoisonner Druide, téléporter et le harceler continuellement.",
+      "faerie": "Fée peut échapper à de nombreuses configurations les plus fortes de Druide. Même si Druide la piège avec des buissons, Fée peut simplement voler à travers les ennemis et les obstacles.",
+      "death-slayer": "Un Trancheur de Mort très farmé peut devenir problématique. Il peut se soigner des sbires invoqués de Druide via le Vol de Vie, transformant les propres invocations de Druide en source de soin."
+    },
+    "faq": [
+      {
+        "q": "Druide est-il un DPS ou un soutien ?",
+        "a": "Les deux. Druide inflige des dégâts respectables via ses sbires et attaques, mais fournit également une utilité précieuse via l'Aura de Vitesse."
+      },
+      {
+        "q": "Druide est-il difficile à jouer ?",
+        "a": "Il est facile à apprendre mais difficile à maîtriser. Le succès avec Druide dépend fortement du positionnement, de la conscience de la carte et du farm efficace."
+      },
+      {
+        "q": "L'Aura de Vitesse affecte-t-elle les alliés ?",
+        "a": "Oui. L'Aura de Vitesse augmente la vitesse de déplacement de Druide et des alliés proches."
+      },
+      {
+        "q": "Druide peut-il créer des buissons lui-même ?",
+        "a": "Oui. Son Attaque de Base a une chance de créer des buissons près des ennemis, qui peuvent ensuite être transformés en sbires invoqués."
+      },
+      {
+        "q": "Quelle est la plus grande force de Druide ?",
+        "a": "Sa capacité à contrôler la carte et générer des avantages grâce à la mobilité et aux unités invoquées."
+      },
+      {
+        "q": "Quelle est la plus grande faiblesse de Druide ?",
+        "a": "Le combat direct. Druide préfère généralement un positionnement intelligent et des engagements favorables plutôt que des combats directs."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Druide ?",
+        "a": "Freezi, Trancheur de Mort, Gardien de Pierre, Spirit Monger et Volcarn ont tous une forte synergie avec Druide."
+      },
+      {
+        "q": "Quels héros contrent Druide ?",
+        "a": "Spirit Monger, Viverna et Fée sont parmi les héros les plus difficiles pour Druide."
+      }
+    ],
+    "abilities": {
+      "FutionAutoattackTitle": "Attaque de Base",
+      "FutionAutoattackDescription": "Passif. Druide lance une faucille enchantée. Chaque attaque a 50% de chances d'infliger des dégâts supplémentaires et de créer un buisson derrière la cible. Si un ennemi se bat près de murs ou d'obstacles, le buisson nouvellement créé peut bloquer les routes de fuite et le piéger. Le buisson peut également être immédiatement transformé en sbire invoqué.",
+      "FutionCreepTitle": "Invoquer un Sbire",
+      "FutionCreepDescription": "Capacité Active. Druide transforme un buisson en monstre allié. Le sbire invoqué combat aux côtés de Druide et peut aider à farmer les buissons, faire pression sur les héros ennemis, bloquer les mouvements et sécuriser les kills. Un sbire bien placé peut complètement changer l'issue d'un combat.",
+      "FutionSpeedTitle": "Aura de Vitesse",
+      "FutionSpeedDescription": "Aura Passive. Druide augmente constamment la vitesse de déplacement de lui-même et des alliés proches, y compris les sbires invoqués. L'aura permet à Druide et son équipe de se déplacer plus vite, d'échapper aux situations dangereuses, de chasser les ennemis plus efficacement et de farmer la carte plus efficacement."
+    }
+  },
+  "freezi": {
+    "overview": "Freezi est un puissant carry à distance qui devient de plus en plus dangereux à mesure que le match progresse. Elle combine une Vitesse d'Attaque progressive, un contrôle de foule et une puissante Aura de Dégâts, lui permettant d'infliger d'énormes dégâts tout en renforçant son équipe. Bien que Freezi se comporte raisonnablement bien en début de partie, elle brille vraiment en fin de partie lorsque sa Vitesse d'Attaque monte et que Frappe de Givre atteint son niveau maximum. Une Freezi bien farmée peut éliminer rapidement les ennemis avant qu'ils aient une chance de réagir.",
+    "playstyle": "Contrairement à certains héros qui comptent sur la mobilité, Freezi gagne grâce au positionnement, à la sortie de dégâts et au contrôle de foule. Son objectif est de farmer efficacement, d'améliorer Frappe de Givre, de build assez de survie pour éviter d'être burst et d'éliminer les ennemis avant qu'ils ne puissent s'échapper.",
+    "playstyleHighlights": [
+      "Cibler des cibles uniques",
+      "Monter en puissance comme carry de fin de partie",
+      "Soutenir les alliés avec l'Aura de Dégâts",
+      "Contrôler les combats par étourdissement",
+      "Transformer les avances en victoires"
+    ],
+    "strengths": [
+      "Progression extrêmement forte en fin de partie",
+      "Dégâts monocible puissants",
+      "Excellent contrôle de foule",
+      "Forte aura de soutien d'équipe",
+      "Grande synergie avec de nombreux héros",
+      "Peut rapidement transformer une avance",
+      "Dangereuse dans les duels et les combats d'équipe",
+      "Fort carry à distance"
+    ],
+    "weaknesses": [
+      "Dépend fortement du positionnement",
+      "Vulnérable si attrapée par le contrôle de foule ennemi",
+      "Nécessite du farm pour atteindre son plein potentiel",
+      "Moins efficace quand constamment sous pression",
+      "Peut avoir du mal contre les héros très mobiles",
+      "Nécessite une bonne sélection de cibles"
+    ],
+    "tips": [
+      "Essayez de maintenir des attaques continues sur la même cible.",
+      "Utilisez Frappe de Givre avant de vous engager dans un combat.",
+      "Positionnez-vous soigneusement derrière les alliés autant que possible.",
+      "Freezi devient significativement plus forte au fil du match.",
+      "Protégez-vous du contrôle de foule ennemi.",
+      "Votre Aura de Dégâts aide les alliés même quand vous n'attaquez pas activement.",
+      "Les attaques Ricochet de fin de partie peuvent considérablement augmenter vos dégâts."
+    ],
+    "synergies": {
+      "death-slayer": "L'un des partenariats les plus forts de Freezi. Freezi fournit une Aura de Dégâts, Trancheur de Mort fournit une Aura de Vol de Vie. Ensemble, ils créent une combinaison incroyablement puissante de dégâts et de maintien.",
+      "spitfire": "Le buff de Vitesse d'Attaque de Spitfire se combine parfaitement avec la progression de Vitesse d'Attaque de Freezi. Freezi fournit des dégâts bonus pendant que Spitfire augmente la fréquence des attaques.",
+      "druid": "L'Aura de Vitesse de Druide aide Freezi à se repositionner et à kiter les ennemis. Pendant ce temps, l'Aura de Dégâts de Freezi bénéficie à Druide et à ses sbires invoqués.",
+      "spiritmonger": "Spirit Monger bénéficie grandement de l'Aura de Dégâts de Freezi. Ensemble, elles créent une composition à distance dangereuse combinant dégâts de burst, contrôle de foule et dégâts progressifs."
+    },
+    "counters": {
+      "stonewarden": "Gardien de Pierre est l'un des adversaires les plus difficiles de Freezi. Ses murs peuvent bloquer les mouvements. De plus, sa réflexion de dégâts punit Freezi pour ses attaques continues.",
+      "viverna": "La mobilité de Viverna peut rendre difficile pour Freezi de constamment atterrir des dégâts. Si Viverna évite Frappe de Givre et harcèle continuellement à distance, Freezi peut avoir du mal.",
+      "grizzly": "Un Grizzly farmé peut devenir une sérieuse menace. S'il atteint la portée de mêlée, sa durabilité et ses dégâts peuvent submerger Freezi."
+    },
+    "faq": [
+      {
+        "q": "Freezi est-elle un carry ?",
+        "a": "Oui. Freezi est principalement conçue comme un carry à distance qui devient plus forte tout au long du match."
+      },
+      {
+        "q": "Freezi est-elle adaptée aux débutants ?",
+        "a": "Pas complètement. Ses capacités sont faciles à comprendre, mais un bon positionnement et une bonne sélection de cibles nécessitent de l'expérience."
+      },
+      {
+        "q": "Quelle est la plus grande force de Freezi ?",
+        "a": "Sa capacité à éliminer rapidement les cibles une fois qu'elle commence à attaquer sans interruption."
+      },
+      {
+        "q": "Quelle est la plus grande faiblesse de Freezi ?",
+        "a": "Être attrapée avant de pouvoir infliger des dégâts. Freezi dépend du positionnement et de la protection des alliés."
+      },
+      {
+        "q": "Pourquoi Frappe de Givre est-elle si puissante ?",
+        "a": "Au niveau maximum, Frappe de Givre peut étourdir les ennemis pendant 2 secondes, créant une énorme opportunité de sécuriser des kills."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Freezi ?",
+        "a": "Trancheur de Mort, Spitfire, Druide et Spirit Monger ont tous une excellente synergie avec Freezi."
+      },
+      {
+        "q": "Quels héros contrent Freezi ?",
+        "a": "Gardien de Pierre est l'un de ses plus forts compteurs, tandis que les héros très mobiles comme Viverna peuvent aussi créer des problèmes."
+      },
+      {
+        "q": "Freezi est-elle forte en fin de partie ?",
+        "a": "Absolument. Freezi est l'un des carries de fin de partie les plus forts de Spelltroum grâce à sa progression de Vitesse d'Attaque, son Aura de Dégâts et son Tir Ricochet."
+      }
+    ],
+    "abilities": {
+      "FriziAutoattackTitle": "Attaque de Base",
+      "FriziAutoattackDescription": "Passif. Freezi tire une Flèche de Glace. Chaque attaque réussie augmente sa Vitesse d'Attaque contre cette cible. Plus longtemps elle peut attaquer continuellement, plus elle devient rapide. Cela rend Freezi extrêmement dangereuse dans les engagements prolongés.",
+      "FriziStunTitle": "Frappe de Givre",
+      "FriziStunDescription": "Capacité Active. Freezi lance un Cristal de Glace qui explose à l'impact. Les ennemis touchés prennent des dégâts et sont étourdis. Au Niveau 3, la durée de l'étourdissement passe à 2 secondes — souvent suffisant pour que Freezi élimine complètement les cibles fragiles avant qu'elles ne puissent réagir.",
+      "FriziDamageTitle": "Aura d'Empouvoirement",
+      "FriziDamageDescription": "Aura Passive. Freezi augmente constamment les Dégâts d'Attaque d'elle-même et des alliés proches. Freezi reçoit le plus grand bénéfice de l'aura, mais tous les coéquipiers proches gagnent également des dégâts bonus. Cela en fait un héros précieux non seulement comme carry mais aussi comme héros orienté équipe."
+    }
+  },
+  "flameweaver": {
+    "overview": "Tisserand de Flammes est un mage à distance unique dont les capacités infligent des Vrais Dégâts. Contrairement à la plupart des héros basés sur la magie, les capacités de Tisserand de Flammes ne sont pas affectées par la Chance Critique Magique, la réduction de Résistance Magique, ou d'autres amplificateurs de dégâts magiques traditionnels. À la place, ses dégâts ignorent à la fois l'Armure Physique et la Résistance Magique, le rendant extrêmement efficace contre les cibles fortement blindées. Tisserand de Flammes est l'un des héros mécaniquement les plus difficiles de Spelltroum.",
+    "playstyle": "Contrairement à de nombreux carries, la puissance de Tisserand de Flammes vient de la gestion des ressources. Plus il a de mana, plus son Attaque de Base devient forte. Un Tisserand de Flammes habile équilibre constamment l'utilisation du mana et les dégâts tout en utilisant des Portails pour rester mobile et imprévisible.",
+    "playstyleHighlights": [
+      "Infliger des Vrais Dégâts",
+      "Contrôler l'espace avec le feu",
+      "Surpasser les adversaires par le positionnement",
+      "Gérer le mana efficacement",
+      "Punir les cibles fortement blindées"
+    ],
+    "strengths": [
+      "Inflige des Vrais Dégâts",
+      "Ignore l'Armure Physique",
+      "Ignore la Résistance Magique",
+      "Fort contre les cibles robustes",
+      "Excellent contrôle de zone",
+      "Très mobile grâce aux Portails",
+      "Progression de dégâts unique basée sur le Mana",
+      "Fort potentiel de carry en fin de partie"
+    ],
+    "weaknesses": [
+      "Nécessite une gestion prudente du Mana",
+      "Difficile à maîtriser",
+      "Dépend fortement du farm",
+      "Peut devenir faible si privé de Mana",
+      "Moins indulgent que la plupart des héros",
+      "Vulnérable quand en retard en or et expérience"
+    ],
+    "tips": [
+      "Évitez de gaspiller du Mana inutilement.",
+      "Votre Attaque de Base devient plus forte quand votre réserve de Mana est pleine.",
+      "Utilisez Chemin de Feu pour contrôler les mouvements ennemis plutôt que simplement infliger des dégâts.",
+      "Les Portails peuvent être utilisés offensivement et défensivement.",
+      "Les ennemis fortement blindés sont des cibles idéales.",
+      "Le positionnement est plus important que la sortie brute de dégâts.",
+      "Pensez à l'avance lors du placement des portails."
+    ],
+    "synergies": {
+      "spitfire": "Le buff de Vitesse d'Attaque de Spitfire fonctionne exceptionnellement bien avec Tisserand de Flammes. Plus de Vitesse d'Attaque signifie plus d'attaques mises à l'échelle par le Mana.",
+      "spiritmonger": "Les bonus de mouvement de Spirit Monger aident Tisserand de Flammes à se repositionner plus efficacement. La mobilité supplémentaire lui permet de placer Portails et Chemin de Feu plus agressivement.",
+      "druid": "L'Aura de Vitesse de Druide complète le style de jeu mobile de Tisseneur de Flammes. La vitesse de déplacement supplémentaire lui permet de se repositionner rapidement.",
+      "freezi": "L'Aura de Dégâts de Freezi augmente l'efficacité des attaques de Tisseneur de Flammes tandis que son contrôle de foule facilite le placement de Chemin de Feu dans des positions optimales."
+    },
+    "counters": {
+      "grizzly": "Grizzly peut être difficile à gérer pour Tisseneur de Flammes. Son énorme réserve de Santé lui permet de survivre assez longtemps pour atteindre la portée de mêlée.",
+      "viverna": "La mobilité de Viverna et son gameplay hit-and-run en font une adversaire frustrante. Elle peut empoisonner Tisseneur de Flammes, se désengager rapidement et éviter de se tenir dans Chemin de Feu."
+    },
+    "faq": [
+      {
+        "q": "Tisseneur de Flammes est-il un mage ?",
+        "a": "Oui, mais c'est un mage très inhabituel. Ses capacités infligent des Vrais Dégâts au lieu des Dégâts Magiques traditionnels."
+      },
+      {
+        "q": "La Chance Critique Magique affecte-t-elle Tisseneur de Flammes ?",
+        "a": "Non. Les Vrais Dégâts ne peuvent pas effectuer de coups critiques via les bonus de Chance Critique Magique."
+      },
+      {
+        "q": "La réduction de Résistance Magique augmente-t-elle les dégâts de Tisseneur de Flammes ?",
+        "a": "Non. Les Vrais Dégâts ignorent à la fois la Résistance Magique et l'Armure Physique."
+      },
+      {
+        "q": "Pourquoi le Mana est-il important pour Tisseneur de Flammes ?",
+        "a": "Son Attaque de Base se développe avec son Mana actuel. Plus il a de Mana, plus il inflige de dégâts."
+      },
+      {
+        "q": "Quelle est la plus grande force de Tisseneur de Flammes ?",
+        "a": "Sa capacité à infliger des Vrais Dégâts fiables quelles que soient les défenses ennemies."
+      },
+      {
+        "q": "Quelle est la plus grande faiblesse de Tisseneur de Flammes ?",
+        "a": "La dépendance au Mana. Une mauvaise gestion du Mana réduit significativement son efficacité."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Tisseneur de Flammes ?",
+        "a": "Spitfire, Spirit Monger, Druide et Freezi offrent tous une forte synergie avec Tisseneur de Flammes."
+      },
+      {
+        "q": "Quels héros contrent Tisseneur de Flammes ?",
+        "a": "Grizzly, Viverna et les héros qui le pressent fortement en début de partie peuvent créer des matchups difficiles."
+      },
+      {
+        "q": "Tisseneur de Flammes est-il bon contre les tanks ?",
+        "a": "Oui. Parce que ses dégâts ignorent l'armure et la résistance, il reste efficace contre les cibles fortement défensives."
+      }
+    ],
+    "abilities": {
+      "WarlockBasicAttackTitle": "Attaque de Base",
+      "WarlockBasicAttackDescription": "Passif. L'Attaque de Base de Tisseneur de Flammes inflige des dégâts supplémentaires basés sur son Mana actuel. Plus il a de Mana disponible, plus ses attaques deviennent fortes. Cela crée un style de jeu unique où le Mana agit à la fois comme ressource et amplificateur de dégâts.",
+      "WarlockFireLineTitle": "Chemin de Feu",
+      "WarlockFireLineDescription": "Capacité Active. Tisseneur de Flammes crée une ligne de feu devant lui. Le feu reste sur le champ de bataille pendant plusieurs secondes. Les ennemis qui se tiennent dans les flammes prennent des Vrais Dégâts périodiques. Chemin de Feu peut être utilisé pour contrôler l'espace, bloquer les mouvements ennemis, défendre les objectifs et forcer les ennemis dans des positions défavorables.",
+      "WarlockHideTitle": "Portail",
+      "WarlockHideDescription": "Capacité Active. Tisseneur de Flammes crée une paire de portails connectés. Toute unité qui entre dans un portail sort instantanément par l'autre, fournissant une mobilité incroyable. Les ennemis qui voyagent à travers les portails perdent du Mana — le Mana volé est transféré à Tisseneur de Flammes. Cela lui permet de maintenir sa réserve de Mana et d'augmenter ses dégâts d'Attaque de Base."
+    }
+  },
+  "shadow-fury": {
+    "overview": "Furie des Ombres est une assassine physique très mobile spécialisée dans les dégâts de burst, les embuscades et les tactiques hit-and-run. Contrairement à la plupart des héros de Spelltroum, toutes les capacités de Furie des Ombres infligent des Dégâts Physiques. À cause de cela, Furie des Ombres bénéficie grandement de la Chance Critique Physique, des Dégâts Critiques Physiques et de la Réduction d'Armure Physique. Une joueuse de Furie des Ombres habile combat rarement les ennemis de front.",
+    "playstyle": "Furie des Ombres est l'un des héros les plus difficiles de Spelltroum, mais aussi l'un des plus gratifiants une fois maîtrisé. Son objectif est de farmer en sécurité, de build des Dégâts Physiques et des Coups Critiques, de trouver des cibles isolées, de frapper en premier et de s'échapper avant que les ennemis ne puissent répondre.",
+    "playstyleHighlights": [
+      "Éliminer les cibles prioritaires",
+      "Faire des embuscades",
+      "Combat hit-and-run",
+      "Éviter les engagements directs",
+      "Transformer les avances en kills"
+    ],
+    "strengths": [
+      "Dégâts de burst extrêmement élevés",
+      "Style de jeu assassin puissant",
+      "Forte mobilité",
+      "Excellent potentiel de snowball",
+      "Forte progression avec les builds Critiques Physiques",
+      "Peut éliminer les cibles très rapidement",
+      "Difficile à attraper quand jouée correctement",
+      "Fort carry en fin de partie"
+    ],
+    "weaknesses": [
+      "Fragile quand Bouclier Orbe est indisponible",
+      "Dépend fortement du positionnement",
+      "Vulnérable aux effets de dégâts dans le temps",
+      "Nécessite une bonne connaissance du jeu",
+      "Difficultés contre l'armure lourde",
+      "Difficile pour les débutants"
+    ],
+    "tips": [
+      "Évitez les combats directs autant que possible.",
+      "Cherchez toujours des cibles isolées.",
+      "Les builds Critiques Physiques sont généralement votre option la plus forte.",
+      "Utilisez Bouclier Orbe avant d'entrer dans des situations dangereuses.",
+      "Ne gaspillez pas Voile d'Ombre inutilement.",
+      "Priorisez les ennemis avec peu d'armure.",
+      "Le positionnement est plus important que les dégâts bruts."
+    ],
+    "synergies": {
+      "viverna": "Viverna et Furie des Ombres créent une équipe extrêmement mobile. Les deux héros préfèrent le combat hit-and-run plutôt que les combats directs.",
+      "death-slayer": "L'Aura de Vol de Vie de Trancheur de Mort fonctionne exceptionnellement bien avec les Dégâts Physiques de Furie des Ombres. Le maintien supplémentaire permet à Furie des Ombres de récupérer de la Santé tout en attaquant.",
+      "spiritmonger": "Le soutien de mouvement de Spirit Monger aide Furie des Ombres à s'engager et se désengager plus efficacement.",
+      "druid": "L'Aura de Vitesse de Druide permet à Furie des Ombres de se déplacer sur la carte plus rapidement et de chasser des cibles isolées plus efficacement."
+    },
+    "counters": {
+      "viverna": "Bien qu'elles puissent bien fonctionner ensemble comme alliées, Viverna est aussi l'une des adversaires les plus ennuyeuses de Furie des Ombres. Son Poison endommage continuellement Furie des Ombres, retirant rapidement les charges du Bouclier Orbe.",
+      "stonewarden": "Gardien de Pierre est l'un des compteurs les plus durs de Furie des Ombres. Son Aura d'Armure réduit les Dégâts Physiques de Furie des Ombres. Sa réflexion de dégâts peut retirer les charges du Bouclier Orbe.",
+      "flameweaver": "Le feu de Tisseneur de Flammes inflige continuellement des dégâts dans le temps. Les dégâts périodiques retirent rapidement les charges du Bouclier Orbe."
+    },
+    "faq": [
+      {
+        "q": "Furie des Ombres est-elle une mage ?",
+        "a": "Non. Malgré l'utilisation de capacités, tous les dégâts de Furie des Ombres sont des Dégâts Physiques."
+      },
+      {
+        "q": "La Chance Critique Magique aide-t-elle Furie des Ombres ?",
+        "a": "Non. Aucune des capacités de Furie des Ombres ne bénéficie de la Chance Critique Magique."
+      },
+      {
+        "q": "La Réduction d'Armure Magique aide-t-elle Furie des Ombres ?",
+        "a": "Non. Furie des Ombres bénéficie principalement de la Réduction d'Armure Physique."
+      },
+      {
+        "q": "Quelle est la plus grande force de Furie des Ombres ?",
+        "a": "Sa capacité à éliminer rapidement les héros ennemis avant qu'ils ne puissent réagir."
+      },
+      {
+        "q": "Quelle est la plus grande faiblesse de Furie des Ombres ?",
+        "a": "L'armure et les effets de dégâts dans le temps. Les deux réduisent significativement son efficacité."
+      },
+      {
+        "q": "Furie des Ombres est-elle adaptée aux débutants ?",
+        "a": "Non. Furie des Ombres est l'un des héros les plus difficiles de Spelltroum et nécessite un bon positionnement et une prise de décision solide."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Furie des Ombres ?",
+        "a": "Viverna, Trancheur de Mort, Spirit Monger et Druide offrent tous une forte synergie avec le style de jeu mobile de Furie des Ombres."
+      },
+      {
+        "q": "Quels héros contrent Furie des Ombres ?",
+        "a": "Gardien de Pierre, Tisseneur de Flammes et Viverna comptent parmi les matchups les plus difficiles."
+      },
+      {
+        "q": "Comment dois-je build Furie des Ombres ?",
+        "a": "Concentrez-vous sur les Dégâts Physiques, la Chance Critique Physique et les Dégâts Critiques. Évitez les objets axés sur les Critiques Magiques et les Dégâts Magiques."
+      }
+    ],
+    "abilities": {
+      "ShadowAutoattackTitle": "Attaque de Base",
+      "ShadowAutoattackDescription": "Passif. Furie des Ombres tire des carreaux améliorés qui infligent des Dégâts Physiques accrus. Chaque attaque réduit également l'Armure Physique de la cible, faisant en sorte que les coups suivants infligent plus de dégâts. Ses attaques progressent exceptionnellement bien avec les Dégâts Physiques, la Chance Critique et les Dégâts Critiques.",
+      "ShadowDamageProtectionTitle": "Bouclier Orbe",
+      "ShadowDamageProtectionDescription": "Capacité Active. Furie des Ombres crée un bouclier protecteur qui bloque 100% des dégâts entrants. Chaque attaque bloquée ou capacité de dégâts consomme une charge de bouclier. Au Niveau 1, Bouclier Orbe bloque un seul coup. Au Niveau 3, Bouclier Orbe peut bloquer jusqu'à trois coups. Après l'activation du Bouclier Orbe, Furie des Ombres gagne temporairement un bonus de Vitesse de Déplacement.",
+      "ShadowHiddenAttackTitle": "Voile d'Ombre",
+      "ShadowHiddenAttackDescription": "Capacité Active. Furie des Ombres devient invisible brièvement. Pendant l'invisibilité, elle prépare une attaque améliorée dévastatrice. La première attaque après avoir quitté l'invisibilité inflige des dégâts supplémentaires basés sur la Santé actuelle de la cible — plus la cible est en bonne santé, plus elle reçoit de dégâts bonus. Cela rend Furie des Ombres particulièrement efficace contre les héros avec de grandes réserves de Santé mais peu d'armure."
+    }
+  },
+  "spiritmonger": {
+    "overview": "Spiritmonger est l'un des héros les plus polyvalents de Spelltroum. Elle combine de forts Dégâts Physiques, de puissants Dégâts Magiques, une excellente mobilité et une forte utilité d'équipe. À cause de cela, elle peut être jouée à la fois comme carry et comme DPS orienté soutien. Spiritmonger récompense les joueurs qui aiment les héros capables de s'adapter à différentes situations. Contrairement à de nombreux héros qui se concentrent sur les Dégâts Physiques ou Magiques, Spiritmonger combine avec succès les deux.",
+    "playstyle": "Son gameplay tourne autour de la collecte d'Âmes et de leur utilisation pour augmenter ses dégâts d'attaque. À mesure que Spiritmonger rassemble des Âmes, son Attaque de Base devient de plus en plus dangereuse. Une Spiritmonger bien farmée peut devenir l'une des meilleures sources de dégâts du jeu.",
+    "playstyleHighlights": [
+      "Farmer efficacement",
+      "Monter en puissance comme carry de fin de partie",
+      "Harceler les ennemis à distance",
+      "Soutenir les coéquipiers avec la mobilité",
+      "Contrôler les combats par le positionnement"
+    ],
+    "strengths": [
+      "Forte progression des Dégâts Physiques",
+      "Puissants Dégâts Magiques",
+      "Excellente mobilité",
+      "Forte utilité d'équipe",
+      "Efficace à toutes les étapes du match",
+      "Peut être jouée agressivement ou défensivement",
+      "L'un des meilleurs héros progressifs de Spelltroum",
+      "Grande synergie avec de nombreux coéquipiers"
+    ],
+    "weaknesses": [
+      "Perd des Âmes à la mort avant le Niveau 10",
+      "Nécessite un bon positionnement",
+      "Dépend du farm pour atteindre son potentiel maximum",
+      "Peut avoir du mal contre les héros de mêlée robustes",
+      "L'Orbe d'Âme nécessite de la pratique pour être utilisé efficacement"
+    ],
+    "tips": [
+      "Farmez des Âmes autant que possible.",
+      "Évitez les morts inutiles avant d'atteindre le Niveau 10.",
+      "Utilisez les buissons pour maximiser les rebonds de l'Orbe d'Âme.",
+      "Gardez Vélocité pour les moments importants.",
+      "Positionnez-vous soigneusement pendant les combats d'équipe.",
+      "Utilisez votre avantage de mobilité pour contrôler les engagements.",
+      "Rappelez-vous qu'une Spiritmonger au maximum de puissance devient un carry puissant."
+    ],
+    "synergies": {
+      "spitfire": "Spitfire fournit de la Vitesse d'Attaque via Tempête de Flèches. Cela permet à Spiritmonger d'attaquer beaucoup plus vite et de profiter pleinement de ses Dégâts d'Âme accumulés.",
+      "stonewarden": "Gardien de Pierre crée l'une des combinaisons les plus fortes de Spiritmonger. Quand Gardien de Pierre piège un ennemi près d'un mur, l'Orbe d'Âme peut rebondir à plusieurs reprises entre l'ennemi et le mur.",
+      "druid": "Les buissons de Druide créent des opportunités de rebond supplémentaires pour l'Orbe d'Âme. Quand Druide place un buisson près d'un ennemi, l'orbe de Spiritmonger peut rebondir entre l'ennemi et le buisson.",
+      "death-slayer": "L'Aura de Vol de Vie de Trancheur de Mort fournit un maintien précieux pour Spiritmonger. La survivabilité supplémentaire lui permet de rester agressive tout en continuant à farmer des Âmes.",
+      "freezi": "Le contrôle de foule de Freezi donne à Spiritmonger le temps d'atterrir l'Orbe d'Âme plus fiablement. Pendant ce temps, l'Aura de Dégâts de Freezi augmente l'efficacité des attaques de Spiritmonger."
+    },
+    "counters": {
+      "shadow-fury": "Furie des Ombres peut être frustrante. Bouclier Orbe peut complètement bloquer les dégâts de l'Orbe d'Âme, retirant l'un des outils offensifs les plus forts de Spiritmonger.",
+      "grizzly": "L'énorme réserve de Santé de Grizzly le rend difficile à burster. S'il atteint Spiritmonger au corps à corps, elle peut rapidement se retrouver submergée.",
+      "death-slayer": "Trancheur de Mort est un adversaire dangereux une fois qu'il atteint la portée de mêlée. Son étourdissement lui permet de combler la distance, et son Vol de Vie rend les combats prolongés difficiles."
+    },
+    "faq": [
+      {
+        "q": "Comment fonctionnent les Âmes ?",
+        "a": "Chaque Âme collectée accorde +10 Dégâts d'Attaque."
+      },
+      {
+        "q": "Spiritmonger peut-elle collecter des Âmes dans les buissons ?",
+        "a": "Oui. Les Âmes peuvent être collectées depuis des buissons défaits, des sbires et des héros ennemis."
+      },
+      {
+        "q": "Que se passe-t-il quand Spiritmonger meurt ?",
+        "a": "Normalement, elle perd la moitié de ses Âmes collectées."
+      },
+      {
+        "q": "Comment arrêter de perdre des Âmes ?",
+        "a": "Débloquez la Super Capacité en améliorant Spiritmonger au Pouvoir de Héros 9 et atteignez le Niveau 10 pendant un match."
+      },
+      {
+        "q": "Spiritmonger est-elle un carry ou un soutien ?",
+        "a": "Les deux. Elle peut monter en puissance comme carry puissant tout en fournissant une précieuse utilité d'équipe via Vélocité."
+      },
+      {
+        "q": "Quelle est la capacité la plus forte de Spiritmonger ?",
+        "a": "L'Orbe d'Âme est généralement considérée comme sa capacité de dégâts la plus impactante en raison de sa mécanique de rebond et de son fort potentiel de burst."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Spiritmonger ?",
+        "a": "Spitfire, Gardien de Pierre, Druide, Trancheur de Mort et Freezi ont tous une excellente synergie avec Spiritmonger."
+      },
+      {
+        "q": "Quels héros contrent Spiritmonger ?",
+        "a": "Furie des Ombres, Grizzly et Trancheur de Mort peuvent tous créer des matchups difficiles selon la situation."
+      },
+      {
+        "q": "Spiritmonger est-elle adaptée aux débutants ?",
+        "a": "Oui. Elle a un kit accessible, une forte mobilité et plusieurs façons de contribuer à un match, tout en offrant un plafond de compétences élevé pour les joueurs expérimentés."
+      }
+    ],
+    "abilities": {
+      "SpiritmongerAutoattackTitle": "Attaque de Base",
+      "SpiritmongerAutoattackDescription": "Attaque de Base. Spiritmonger lance un éventail enchanté qui collecte des Âmes des ennemis, sbires et buissons défaits. Chaque Âme accorde +10 Dégâts d'Attaque. Plus elle collecte d'Âmes, plus son Attaque de Base devient forte. Quand Spiritmonger meurt, elle perd normalement la moitié de ses Âmes collectées.",
+      "SpiritmongerDamageTitle": "Orbe d'Âme",
+      "SpiritmongerDamageDescription": "Capacité Active. Spiritmonger lance un orbe magique qui rebondit entre les cibles — héros ennemis, buissons et autres cibles valides. Les ennemis positionnés près des buissons peuvent être touchés plusieurs fois par le même orbe. Un Orbe d'Âme bien placé peut infliger d'énormes dégâts.",
+      "SpiritmongerSpeedTitle": "Vélocité",
+      "SpiritmongerSpeedDescription": "Capacité Active. Spiritmonger gagne une Vitesse de Déplacement accrue brièvement. Au Niveau 3, Vélocité accorde également la Vitesse de Déplacement aux alliés proches, faisant de Spiritmonger l'un des soutiens de mobilité les plus forts de Spelltroum."
+    }
+  },
+  "mortifier": {
+    "overview": "Mortifier est l'un des héros les plus uniques de Spelltroum. Il combine Dégâts Physiques, Dégâts Magiques, contrôle de foule, astuces de positionnement et dégâts de burst explosifs en un seul héros. Contrairement à la plupart des héros de mêlée, Mortifier peut être joué de plusieurs façons complètement différentes. Certains joueurs le build comme un carry de mêlée durable qui compte sur ses puissantes doubles attaques. D'autres se concentrent entièrement sur ses bombes et le jouent comme un mage de burst capable d'éliminer instantanément des ennemis.",
+    "playstyle": "Contrairement aux héros simples, Mortifier cherche constamment des opportunités de surpasser les adversaires. Un joueur de Mortifier habile peut transformer un combat perdant en victoire avec un seul Échange bien exécuté. Son combo signature : placer des Pièges Explosifs, attendre qu'un ennemi approche, puis l'Échanger directement sur les pièges.",
+    "playstyleHighlights": [
+      "Faire des embuscades",
+      "Contrôler l'espace avec des pièges",
+      "Punir les erreurs de positionnement",
+      "Sauver des alliés avec Échange",
+      "Jouer comme carry de Dégâts Physiques ou lanceur de Dégâts Magiques"
+    ],
+    "strengths": [
+      "Héros extrêmement polyvalent",
+      "Peut être joué comme Dégâts Physiques ou Dégâts Magiques",
+      "Puissant potentiel de burst",
+      "Fortes mécaniques de surpassement",
+      "Excellent contrôle de zone",
+      "Peut sauver des alliés avec Échange",
+      "Dangereux même après la mort",
+      "Forte progression tout au long du match"
+    ],
+    "weaknesses": [
+      "Nécessite un bon positionnement",
+      "Le gameplay de pièges nécessite de la pratique",
+      "La portée de mêlée peut être risquée",
+      "Dépend fortement du timing",
+      "Peut avoir du mal contre les héros très robustes",
+      "Certains héros peuvent complètement annuler ses combos de pièges"
+    ],
+    "tips": [
+      "Ne comptez pas seulement sur les pièges.",
+      "Utilisez Échange de façon créative.",
+      "Sauvez des coéquipiers quand c'est possible.",
+      "Cachez les configurations de pièges dans des endroits inattendus.",
+      "Build des Dégâts Physiques si vous voulez un combat de mêlée plus fort.",
+      "Build des Dégâts Magiques si vous voulez des combos de pièges plus forts.",
+      "Rappelez-vous que les ennemis peuvent voir vos pièges.",
+      "Parfois la menace d'un piège est plus forte que le piège lui-même."
+    ],
+    "synergies": {
+      "viverna": "Viverna et Mortifier créent un duo très agressif. Les deux héros excellent dans le gameplay hit-and-run et peuvent rapidement submerger les ennemis avec des dégâts de burst.",
+      "spiritmonger": "La Vélocité de Spiritmonger fournit une précieuse vitesse de déplacement. Cela permet à Mortifier d'atteindre les cibles plus rapidement et de configurer des combos de pièges plus fiablement.",
+      "druid": "L'Aura de Vitesse de Druide aide Mortifier à se déplacer sur la carte plus efficacement. La vitesse de déplacement supplémentaire facilite la chasse des ennemis et l'exécution des jeux d'Échange.",
+      "freezi": "L'étourdissement de Freezi crée des opportunités parfaites pour Mortifier. Un ennemi étourdi a beaucoup moins de temps pour réagir aux pièges entrants ou aux combinaisons d'Échange."
+    },
+    "counters": {
+      "grizzly": "Grizzly est l'un des adversaires les plus difficiles de Mortifier. Son énorme réserve de Santé rend difficile de l'éliminer avec des combinaisons de pièges.",
+      "shadow-fury": "Furie des Ombres peut complètement perturber les combos de burst de Mortifier. Si elle active Bouclier Orbe avant que les explosions touchent, les dégâts peuvent être entièrement absorbés.",
+      "viverna": "La mobilité de Viverna la rend difficile à attraper. Son Téléportation lui permet d'éviter les zones de pièges et de se repositionner rapidement."
+    },
+    "faq": [
+      {
+        "q": "Mortifier est-il un carry ou un mage ?",
+        "a": "Les deux. Mortifier peut être build comme carry de Dégâts Physiques axé sur les doubles attaques ou comme héros de Dégâts Magiques axé sur les combos de Pièges Explosifs."
+      },
+      {
+        "q": "Échange fonctionne-t-il sur les alliés ?",
+        "a": "Oui. Échange peut être utilisé sur les alliés et les ennemis."
+      },
+      {
+        "q": "Les Pièges Explosifs peuvent-ils être détruits ?",
+        "a": "Non. Les Pièges Explosifs restent actifs jusqu'à ce qu'ils explosent ou expirent naturellement."
+      },
+      {
+        "q": "Quel est le combo le plus fort de Mortifier ?",
+        "a": "Le combo classique Piège Explosif + Échange est généralement considéré comme son jeu le plus fort."
+      },
+      {
+        "q": "Mortifier est-il adapté aux débutants ?",
+        "a": "Pas vraiment. Ses capacités sont simples à comprendre mais difficiles à maîtriser. La plupart de sa puissance vient du positionnement, du timing et de l'utilisation créative d'Échange."
+      },
+      {
+        "q": "Que se passe-t-il quand Mortifier meurt au Niveau 10 ?",
+        "a": "Si sa Super Capacité est débloquée, il laisse automatiquement un Piège Explosif à l'endroit où il est mort."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Mortifier ?",
+        "a": "Viverna, Spiritmonger, Druide et Freezi offrent tous une forte synergie avec Mortifier."
+      },
+      {
+        "q": "Quels héros contrent Mortifier ?",
+        "a": "Grizzly, Furie des Ombres et les héros très mobiles sont généralement les adversaires les plus difficiles pour Mortifier."
+      }
+    ],
+    "abilities": {
+      "MortifierAutoattackTitle": "Attaque de Base",
+      "MortifierAutoattackDescription": "Attaque de Base. Les attaques de Mortifier ont une chance de réinitialiser instantanément leur temps de recharge et frapper à nouveau. La deuxième attaque inflige des Dégâts Physiques supplémentaires et restaure de la Santé à Mortifier. À cause de cette mécanique, Mortifier peut devenir étonnamment dangereux dans le combat direct au corps à corps.",
+      "MortifierSwapTitle": "Échange",
+      "MortifierSwapDescription": "Capacité Active. Mortifier échange instantanément de position avec une cible sélectionnée — héros ennemis, héros alliés ou divers objets sur la carte. La capacité inflige également des dégâts à la cible. Échange est l'une des capacités les plus polyvalentes de Spelltroum. Elle peut être utilisée offensivement pour entraîner des ennemis dans le danger ou défensivement pour sauver des coéquipiers.",
+      "MortifierMineTitle": "Piège Explosif",
+      "MortifierMineDescription": "Capacité Active. Mortifier place un piège explosif sous lui-même. Le piège se déclenche quand un ennemi entre dans sa zone de déclenchement ou que son minuteur expire. L'explosion inflige des Dégâts Magiques et ralentit les ennemis. Les ennemis peuvent voir le piège et essayer de l'éviter. Le combo classique : placer des pièges, attendre, puis Échanger un ennemi directement sur eux."
+    }
+  },
+  "grizzly": {
+    "overview": "Grizzly est l'un des combattants au corps à corps les plus forts de Spelltroum. Il combine une Santé massive, des dégâts progressifs puissants, l'auto-soin, la mobilité et un fort potentiel de duel en un seul héros. Grizzly excelle dans le combat direct et devient de plus en plus dangereux plus longtemps il reste dans un combat. Grâce à sa survivabilité et ses capacités simples, Grizzly est souvent considéré comme l'un des héros les plus faciles à apprendre, tout en restant extrêmement efficace à des niveaux de jeu plus élevés.",
+    "playstyle": "Son gameplay tourne autour de se coller à une cible et d'attaquer continuellement. Plus Grizzly attaque le même ennemi, plus il inflige de dégâts. Combiné avec sa grande Santé et le soin de Ruée de l'Ours, cela en fait l'un des héros les plus forts dans le combat direct un contre un.",
+    "playstyleHighlights": [
+      "Gagner des combats prolongés",
+      "Chasser les ennemis",
+      "Absorber les dégâts",
+      "Combat de première ligne",
+      "Punir les cibles isolées"
+    ],
+    "strengths": [
+      "Extrêmement durable",
+      "Dégâts soutenus puissants",
+      "Fort auto-soin",
+      "Excellent potentiel de duel",
+      "Fort contre les tanks",
+      "Facile à apprendre",
+      "Efficace tout au long du match",
+      "Forte progression en fin de partie"
+    ],
+    "weaknesses": [
+      "Héros de mêlée",
+      "Vulnérable quand en retard de farm",
+      "Dépend de rester près des ennemis",
+      "Peut avoir du mal contre les héros très mobiles",
+      "Nécessite des engagements réussis pour être efficace"
+    ],
+    "tips": [
+      "Concentrez-vous sur une cible autant que possible.",
+      "Ne changez pas de cibles inutilement.",
+      "Utilisez Ruée de l'Ours agressivement quand les ennemis tentent de s'échapper.",
+      "Gardez L'Heure du Snack pour les moments critiques.",
+      "Laissez les ennemis sous-estimer votre survivabilité.",
+      "Build assez de durabilité pour rester dans les combats plus longtemps.",
+      "Rappelez-vous que Grizzly devient plus fort plus le combat dure."
+    ],
+    "synergies": {
+      "viverna": "Viverna et Grizzly se complètent très bien. Grizzly sert de première ligne pendant que Viverna attaque à distance sécurisée.",
+      "freezi": "L'Aura de Dégâts de Freezi augmente grandement les dégâts de Grizzly. Son étourdissement donne également à Grizzly plus de temps pour atteindre les cibles.",
+      "death-slayer": "L'Aura de Vol de Vie de Trancheur de Mort fournit encore plus de maintien pour Grizzly. La combinaison de la grande réserve de Santé de Grizzly et du Vol de Vie supplémentaire peut le rendre extrêmement difficile à abattre.",
+      "spiritmonger": "La Vélocité de Spiritmonger aide Grizzly à surmonter l'une de ses plus grandes faiblesses : la mobilité. La vitesse de Déplacement supplémentaire lui permet de rester sur les cibles plus régulièrement."
+    },
+    "counters": {
+      "death-slayer": "Trancheur de Mort est l'un des adversaires les plus difficiles de Grizzly. Les deux héros excellent dans le combat direct, mais le Vol de Vie et l'étourdissement de Trancheur de Mort peuvent rendre les combats prolongés extrêmement difficiles.",
+      "stonewarden": "La durabilité de Gardien de Pierre crée des problèmes majeurs pour Grizzly. Son armure, ses capacités défensives et la réflexion de dégâts rendent difficile pour Grizzly de gagner des échanges efficacement."
+    },
+    "faq": [
+      {
+        "q": "Grizzly est-il un tank ou un carry ?",
+        "a": "Les deux. Grizzly est naturellement robuste mais peut aussi infliger d'énormes dégâts lors de combats prolongés."
+      },
+      {
+        "q": "Comment fonctionne l'Attaque de Base de Grizzly ?",
+        "a": "Chaque coup consécutif contre la même cible augmente les dégâts des attaques futures."
+      },
+      {
+        "q": "Ruée de l'Ours peut-elle soigner Grizzly ?",
+        "a": "Oui. Ruée de l'Ours inflige des dégâts et restaure de la Santé simultanément."
+      },
+      {
+        "q": "Grizzly est-il adapté aux débutants ?",
+        "a": "Oui. Ses capacités sont simples, faciles à comprendre et efficaces dans la plupart des situations."
+      },
+      {
+        "q": "Quelle est la plus grande faiblesse de Grizzly ?",
+        "a": "Les héros capables de le kiter, le ralentir ou l'éviter continuellement sont généralement ses adversaires les plus difficiles."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Grizzly ?",
+        "a": "Viverna, Freezi, Trancheur de Mort et Spiritmonger offrent tous une forte synergie avec Grizzly."
+      },
+      {
+        "q": "Quels héros contrent Grizzly ?",
+        "a": "Trancheur de Mort, Gardien de Pierre et les héros à distance très mobiles sont généralement les matchups les plus difficiles."
+      },
+      {
+        "q": "Grizzly est-il fort en fin de partie ?",
+        "a": "Absolument. Une fois que Grizzly a assez d'objets et peut rester sur une cible, ses dégâts deviennent extrêmement menaçants."
+      }
+    ],
+    "abilities": {
+      "UrsaAutoattackTitle": "Attaque de Base",
+      "UrsaAutoattackDescription": "Attaque de Base. Les attaques de Grizzly appliquent un débuff cumulatif sur la cible. Chaque attaque consécutive contre le même ennemi inflige des dégâts accrus. Plus Grizzly reste sur une cible, plus il devient dangereux. Cela le rend exceptionnellement fort contre les tanks, les boss, les héros à grande Santé et les ennemis forcés dans des combats prolongés.",
+      "UrsaPowerTitle": "L'Heure du Snack",
+      "UrsaPowerDescription": "Capacité Active. Grizzly gagne temporairement une grande quantité de Santé bonus. Cette capacité augmente considérablement sa survivabilité et lui permet de rester dans des combats bien plus longtemps que la plupart des héros. Peut être utilisée avant d'engager, pendant le combat ou comme outil de survie d'urgence.",
+      "UrsaBlinkTitle": "Ruée de l'Ours",
+      "UrsaBlinkDescription": "Capacité Active. Grizzly bondit instantanément vers une cible proche. Quand Ruée de l'Ours touche, la cible subit des dégâts et est ralentie, tandis que Grizzly restaure de la Santé. Cette capacité permet à Grizzly de chasser les ennemis fuyants, d'initier des combats, de se soigner et de rester sur les héros à distance."
+    }
+  },
+  "faerie": {
+    "overview": "Fée est un héros magique très mobile qui peut être joué soit comme carry de sorts agressif, soit comme guérisseur de soutien. Contrairement à la plupart des mages, Fée peut à la fois infliger des dégâts magiques significatifs et restaurer de la Santé aux alliés. Cette flexibilité lui permet de s'adapter à de nombreuses compositions d'équipe et styles de jeu. Elle excelle dans le combat hit-and-run, plongeant rapidement dans les combats, infligeant des dégâts de burst et s'échappant avant que les ennemis ne puissent riposter.",
+    "playstyle": "Fée est tout axée sur le mouvement, le positionnement et le timing. Contrairement aux héros de première ligne, elle se déplace constamment sur le champ de bataille. Elle peut être jouée comme Carry Mage (Puissance des Sorts + Chance Critique Magique pour les dégâts de burst) ou comme Mage de Soutien (survivabilité et utilité pour garder les coéquipiers en vie).",
+    "playstyleHighlights": [
+      "Infliger de puissants dégâts magiques de burst",
+      "Soigner les alliés avec ses attaques",
+      "Échapper aux situations dangereuses",
+      "Farmer efficacement avec les dégâts de zone",
+      "Harceler les ennemis tout au long du match"
+    ],
+    "strengths": [
+      "Extrêmement mobile",
+      "Puissants dégâts magiques de burst",
+      "Peut soigner les alliés",
+      "Excellent potentiel de farm",
+      "Fort gameplay hit-and-run",
+      "Difficile à attraper",
+      "Peut fonctionner comme carry et soutien",
+      "Fort utilitaire de fin de partie avec Silence"
+    ],
+    "weaknesses": [
+      "Relativement fragile",
+      "Vulnérable quand attrapée par le contrôle de foule",
+      "Nécessite un bon positionnement",
+      "Dépend fortement des capacités",
+      "Peut avoir du mal contre les héros avec de fortes défenses anti-magie"
+    ],
+    "tips": [
+      "Utilisez Sphère Volante agressivement, mais planifiez toujours votre route d'évasion.",
+      "Soignez les alliés de première ligne autant que possible.",
+      "Combinez Sphère Volante et Éclat Féerique pour un maximum de dégâts de burst.",
+      "Ne restez pas dans le combat direct trop longtemps.",
+      "Concentrez-vous sur la mobilité et le positionnement.",
+      "Gardez Silence pour les héros ennemis clés lors des combats de fin de partie.",
+      "Utilisez votre avantage de mouvement pour contrôler les engagements."
+    ],
+    "synergies": {
+      "grizzly": "Grizzly et Fée forment une excellente combinaison première ligne-arrière. Grizzly absorbe les dégâts et force les ennemis dans des combats pendant que Fée le soutient à distance sécurisée. Son soin permet à Grizzly de rester en vie encore plus longtemps.",
+      "viverna": "Viverna et Fée sont l'une des combinaisons magiques les plus fortes du jeu. Les deux héros infligent principalement des dégâts magiques, ont une excellente mobilité et préfèrent les engagements hit-and-run.",
+      "spiritmonger": "La Vélocité de Spiritmonger fournit une mobilité supplémentaire, permettant aux deux héros de se déplacer rapidement sur le champ de bataille. Ensemble, elles créent une composition très mobile."
+    },
+    "counters": {
+      "grizzly": "Grizzly est l'un des adversaires les plus dangereux pour Fée. Sa grande réserve de Santé le rend difficile à burster avec des sorts. Encore pire, Ruée de l'Ours lui permet de combler rapidement la distance après que Fée tente de s'échapper.",
+      "freezi": "Frappe de Givre de Freezi peut étourdir Fée jusqu'à 2 secondes. Comme Fée est naturellement fragile, être attrapée par un étourdissement entièrement amélioré peut souvent mener à une défaite rapide.",
+      "shadow-fury": "Bouclier Orbe de Furie des Ombres est un problème majeur pour Fée. Le bouclier peut complètement absorber le combo de burst de Fée, gaspillant une grande partie de ses dégâts."
+    },
+    "faq": [
+      {
+        "q": "Fée est-elle un soutien ou un carry ?",
+        "a": "Les deux. Elle peut être jouée comme mage de dégâts de burst ou comme guérisseur de soutien selon votre build et composition d'équipe."
+      },
+      {
+        "q": "Fée peut-elle soigner les alliés ?",
+        "a": "Oui. Son Attaque de Base restaure de la Santé quand elle touche des cibles amies."
+      },
+      {
+        "q": "Sphère Volante est-elle une capacité d'évasion ?",
+        "a": "Oui. Sphère Volante est l'un des outils de mobilité les plus forts de Spelltroum et peut être utilisée offensivement et défensivement."
+      },
+      {
+        "q": "Fée inflige-t-elle des dégâts magiques ?",
+        "a": "Oui. Ses capacités et sa principale sortie de dégâts sont basées sur la magie."
+      },
+      {
+        "q": "Fée est-elle difficile à jouer ?",
+        "a": "Elle a un plafond de compétences modéré. Les nouveaux joueurs peuvent l'apprendre rapidement, mais maîtriser sa mobilité et son positionnement nécessite de la pratique."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Fée ?",
+        "a": "Grizzly, Viverna et Spiritmonger ont tous une forte synergie avec son style de jeu."
+      },
+      {
+        "q": "Quels héros contrent Fée ?",
+        "a": "Grizzly, Freezi et Furie des Ombres comptent parmi ses matchups les plus difficiles."
+      },
+      {
+        "q": "Qu'est-ce qui rend Fée unique ?",
+        "a": "Elle est l'un des rares héros capables d'infliger simultanément des dégâts magiques significatifs, soigner des alliés et maintenir une mobilité exceptionnelle."
+      }
+    ],
+    "abilities": {
+      "FairyAutoattackTitle": "Attaque de Base",
+      "FairyAutoattackDescription": "Attaque de Base. Fée lance des sphères magiques qui infligent des dégâts magiques aux ennemis. Contrairement à la plupart des héros, ses attaques peuvent également soigner les alliés — si le projectile touche une cible amie, il restaure de la Santé au lieu d'infliger des dégâts. Avec assez de Vitesse d'Attaque, Fée peut devenir un guérisseur étonnamment efficace.",
+      "FairyBlinkBallTitle": "Sphère Volante",
+      "FairyBlinkBallDescription": "Capacité Active. Fée se transforme en sphère magique rapide. Transformée, elle devient invulnérable, se déplace rapidement sur le champ de bataille et inflige des dégâts aux ennemis qu'elle traverse. Sphère Volante peut être utilisée pour fuir le danger, engager des combats, chasser des ennemis, traverser des obstacles ou se repositionner. Fée peut aussi annuler Sphère Volante tôt en utilisant son Attaque de Base.",
+      "FairySecondSpellTitle": "Éclat Féerique",
+      "FairySecondSpellDescription": "Capacité Active. Fée libère une explosion magique autour d'elle qui endommage tous les ennemis et objets proches. La capacité a une excellente synergie avec Sphère Volante : volez dans un groupe d'ennemis, sortez de Sphère Volante, lancez instantanément Éclat Féerique et repositionnez-vous avant que les ennemis ne puissent réagir."
+    }
+  },
+  "volcarn": {
+    "overview": "Volcarn est l'un des carries de fin de partie les plus forts de Spelltroum. Il commence relativement faible et a souvent besoin de temps pour farmer, rassembler de l'or et construire ses objets. Cependant, s'il est laissé seul trop longtemps, Volcarn peut devenir une menace écrasante capable de porter des matchs entiers. Son gameplay tourne autour d'une puissante progression, des illusions invoquées et du combat soutenu. Contrairement aux héros axés sur le burst, Volcarn devient plus fort plus longtemps un combat dure.",
+    "playstyle": "Volcarn est un carry à distance qui récompense la patience et le farm efficace. Pendant que de nombreux héros comptent sur des engagements rapides, Volcarn devient plus fort plus longtemps il survit. Si les ennemis lui permettent de farmer librement, il peut rapidement devenir l'un des héros les plus dangereux du jeu.",
+    "playstyleHighlights": [
+      "Farmer de l'or efficacement",
+      "Construire des objets puissants de fin de partie",
+      "Créer des illusions",
+      "Surpasser les héros ennemis",
+      "Gagner des combats prolongés par des dégâts écrasants"
+    ],
+    "strengths": [
+      "Exceptionnelle progression en fin de partie",
+      "Dégâts soutenus extrêmement élevés",
+      "Puissantes illusions",
+      "Fort dans les combats prolongés",
+      "Peut se soigner pendant les combats",
+      "Excellent potentiel de carry",
+      "Bénéficie grandement de la progression d'objets",
+      "Peut submerger les ennemis par le nombre"
+    ],
+    "weaknesses": [
+      "Début de partie faible",
+      "Nécessite du temps pour farmer",
+      "Vulnérable quand en retard",
+      "Peut avoir du mal si constamment sous pression",
+      "Dépend fortement des objets",
+      "Difficile à récupérer si les ennemis bloquent le farm tôt"
+    ],
+    "tips": [
+      "Concentrez-vous sur le farm en début de partie.",
+      "Utilisez Illusion fréquemment pour maximiser la pression sur la carte.",
+      "Combattez près de votre portail autant que possible.",
+      "Ne paniquez pas quand votre Santé baisse — votre Vitesse d'Attaque augmente.",
+      "Buildez vers des objets de carry de fin de partie.",
+      "Utilisez les illusions pour forcer les ennemis dans des décisions difficiles.",
+      "Évitez les combats inutiles en début de partie.",
+      "Une fois entièrement farmé, faites pression agressivement sur les objectifs."
+    ],
+    "synergies": {
+      "druid": "Druide est l'un des meilleurs partenaires de Volcarn. Druide fournit de la vitesse de déplacement via son aura passive, permettant à Volcarn de se déplacer sur la carte plus efficacement et de farmer plus vite. Plus tard dans le match, les créatures de Druide et les illusions de Volcarn peuvent submerger les adversaires par le nombre.",
+      "spiritmonger": "La Vélocité de Spiritmonger accorde une vitesse de déplacement supplémentaire. Cela permet à Volcarn de se déplacer plus vite, de farmer plus efficacement et de se repositionner pendant les combats.",
+      "death-slayer": "Trancheur de Mort fournit une Aura de Vol de Vie, incroyablement précieuse pour Volcarn. Volcarn excelle déjà dans les combats prolongés, et le Vol de Vie supplémentaire le rend encore plus difficile à abattre."
+    },
+    "faq": [
+      {
+        "q": "Volcarn est-il un carry ?",
+        "a": "Oui. Volcarn est l'un des héros carry de fin de partie les plus forts de Spelltroum."
+      },
+      {
+        "q": "L'Illusion copie-t-elle mes objets ?",
+        "a": "Oui. Les Illusions héritent des objets de Volcarn et de la plupart des bonus de combat."
+      },
+      {
+        "q": "Combien de dégâts l'Illusion inflige-t-elle ?",
+        "a": "L'Illusion inflige 50% des dégâts normaux de Volcarn."
+      },
+      {
+        "q": "Pourquoi Volcarn attaque-t-il plus vite quand il est blessé ?",
+        "a": "Son Attaque de Base augmente passivement la Vitesse d'Attaque en fonction de la Santé manquante."
+      },
+      {
+        "q": "Volcarn est-il fort en début de partie ?",
+        "a": "Généralement non. Volcarn devient significativement plus fort après avoir acquis des objets et des niveaux."
+      },
+      {
+        "q": "Que se passe-t-il au Niveau 10 ?",
+        "a": "Si Volcarn a débloqué sa Super Capacité, ses Illusions gagnent des dégâts supplémentaires et copient les effets de L'Heure du Snack du Démon."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Volcarn ?",
+        "a": "Druide, Spiritmonger et Trancheur de Mort comptent parmi ses coéquipiers les plus forts."
+      },
+      {
+        "q": "Qu'est-ce qui rend Volcarn unique ?",
+        "a": "Volcarn combine une puissante progression, l'auto-soin, le gameplay d'illusion et une Vitesse d'Attaque croissante à mesure que sa Santé baisse, ce qui en fait l'un des héros de fin de partie les plus dangereux du jeu."
+      }
+    ],
+    "abilities": {
+      "VolcarnBasicAttackTitle": "Attaque de Base",
+      "VolcarnBasicAttackDescription": "Attaque de Base. Volcarn gagne une Vitesse d'Attaque accrue basée sur sa Santé manquante. Plus sa Santé baisse, plus il attaque vite. Cela crée un style de jeu risque-versus-récompense unique — pendant des combats intenses, Volcarn devient souvent plus dangereux à mesure que sa Santé diminue.",
+      "VolcarnPowerUpTitle": "L'Heure du Snack du Démon",
+      "VolcarnPowerUpDescription": "Capacité Active. L'Heure du Snack du Démon fait que les attaques de Volcarn alternent entre des effets spéciaux. Chaque attaque consécutive applique un bonus différent : réduction d'Armure Physique, chance d'étourdissement et auto-soin. Au Niveau maximum, chaque attaque contribue une utilité et des dégâts supplémentaires.",
+      "VolcarnIllusionTitle": "Illusion",
+      "VolcarnIllusionDescription": "Capacité Active. Volcarn crée un portail sous lui-même. Pendant qu'il se tient sur le portail, Volcarn est continuellement soigné. S'il quitte le portail avant qu'il n'expire, le portail se transforme en une Illusion de Volcarn. L'illusion hérite des objets, des bonus de Coup Critique, des effets de réduction d'armure, des bonus de Vitesse d'Attaque et de la plupart des statistiques de combat — mais n'inflige que 50% des dégâts de Volcarn."
+    }
+  },
+  "stonewarden": {
+    "overview": "Gardien de Pierre est l'un des héros les plus coriaces de Spelltroum. Il se spécialise dans la durabilité, le contrôle du champ de bataille et le soutien d'équipe. Contrairement à la plupart des héros qui se concentrent sur les dégâts ou la mobilité, Gardien de Pierre excelle à contrôler l'espace, protéger les alliés et forcer les ennemis dans des combats défavorables. Sa puissante Aura d'Armure rend lui-même et les alliés proches significativement plus difficiles à tuer, tandis que son Mur de Pierre peut bloquer les chemins, piéger les ennemis et créer des opportunités pour son équipe.",
+    "playstyle": "Gardien de Pierre n'est pas un héros qui compte sur des combos flashy ou la mobilité. Il est à son meilleur quand il se tient entre les ennemis et ses alliés, forçant les adversaires à se battre selon ses conditions. Grâce à ses dégâts naturellement élevés et ses outils défensifs, Gardien de Pierre peut rester pertinent à chaque étape du match.",
+    "playstyleHighlights": [
+      "Durabilité supérieure",
+      "Contrôle du champ de bataille",
+      "Soutien d'équipe",
+      "Réflexion de dégâts",
+      "Positionnement intelligent"
+    ],
+    "strengths": [
+      "Extrêmement durable",
+      "Puissante Aura d'Armure",
+      "Excellent soutien d'équipe",
+      "Fort contrôle du champ de bataille",
+      "Dégâts de base élevés",
+      "La réflexion de dégâts punit les attaquants",
+      "Efficace tout au long du match",
+      "Difficile à tuer dans les combats prolongés"
+    ],
+    "weaknesses": [
+      "Faible mobilité",
+      "Vitesse d'Attaque plus lente",
+      "Peut avoir du mal contre les héros très mobiles",
+      "Dépend du positionnement",
+      "Les murs peuvent être détruits",
+      "Moins de dégâts explosifs que les carries dédiés"
+    ],
+    "tips": [
+      "Utilisez Mur de Pierre pour bloquer les routes de fuite, pas seulement pour infliger des dégâts.",
+      "Positionnez-vous entre les ennemis et vos alliés.",
+      "Profitez de l'Aura d'Armure pendant les combats d'équipe.",
+      "Rappelez-vous que les dégâts réfléchis peuvent gagner des échanges avec le temps.",
+      "Les objets de Vitesse d'Attaque fonctionnent exceptionnellement bien avec les dégâts de base élevés de Gardien de Pierre.",
+      "Farmez les buissons autant que possible pour maximiser votre Super Capacité de fin de partie.",
+      "Utilisez les murs pour créer des opportunités pour vos coéquipiers, pas seulement pour vous-même."
+    ],
+    "synergies": {
+      "spiritmonger": "Spiritmonger a l'une des combinaisons les plus fortes avec Gardien de Pierre. Gardien de Pierre peut piéger des ennemis avec Mur de Pierre, permettant à l'Orbe d'Âme de Spiritmonger de rebondir à plusieurs reprises entre l'ennemi piégé et les segments de mur proches.",
+      "druid": "Gardien de Pierre fonctionne très bien avec Druide. Druide peut invoquer des sbires depuis les murs de Gardien de Pierre, créant une pression supplémentaire et des opportunités tactiques inattendues.",
+      "grizzly": "Gardien de Pierre et Grizzly forment une première ligne incroyablement durable. Grizzly gagne naturellement une Santé massive via L'Heure du Snack, tandis que Gardien de Pierre fournit une Armure supplémentaire via l'Aura d'Armure."
+    },
+    "faq": [
+      {
+        "q": "Gardien de Pierre est-il un tank ou un soutien ?",
+        "a": "Les deux. Il peut fonctionner comme tank de première ligne, soutien défensif ou hybride des deux selon les besoins de l'équipe."
+      },
+      {
+        "q": "L'Aura d'Armure affecte-t-elle les alliés ?",
+        "a": "Oui. L'Aura d'Armure accorde une Armure bonus à Gardien de Pierre et aux alliés proches."
+      },
+      {
+        "q": "Mur de Pierre peut-il piéger les ennemis ?",
+        "a": "Oui. Mur de Pierre peut bloquer les mouvements, couper les routes de fuite et piéger temporairement les adversaires."
+      },
+      {
+        "q": "Mur de Pierre inflige-t-il des dégâts ?",
+        "a": "Oui. Les ennemis touchés par le mur quand il apparaît prennent des dégâts immédiatement."
+      },
+      {
+        "q": "Que fait la Réflexion de Dégâts ?",
+        "a": "À des niveaux plus élevés, l'Aura d'Armure réfléchit 20% des dégâts entrants aux attaquants."
+      },
+      {
+        "q": "Gardien de Pierre est-il difficile à tuer ?",
+        "a": "Très. Entre l'Aura d'Armure, la Santé bonus et la réflexion de dégâts, Gardien de Pierre est l'un des héros les plus coriaces de Spelltroum."
+      },
+      {
+        "q": "Quels héros fonctionnent le mieux avec Gardien de Pierre ?",
+        "a": "Spiritmonger, Druide et Grizzly ont tous une excellente synergie avec Gardien de Pierre."
+      },
+      {
+        "q": "Qu'est-ce qui rend Gardien de Pierre unique ?",
+        "a": "Sa combinaison d'Aura d'Armure, de réflexion de dégâts, de contrôle des murs et d'une durabilité exceptionnelle lui permet d'influencer les combats même quand il n'inflige pas le plus de dégâts."
+      }
+    ],
+    "abilities": {
+      "GolemBasicAttackTitle": "Attaque de Base",
+      "GolemBasicAttackDescription": "Attaque de Base. Gardien de Pierre gagne des dégâts bonus sur ses attaques mais souffre d'une Vitesse d'Attaque réduite. Il attaque plus lentement que la plupart des héros mais chaque coup inflige significativement plus de dégâts. De nombreux joueurs de Gardien de Pierre compensent avec des objets de Vitesse d'Attaque, lui permettant de bénéficier à la fois de dégâts élevés et d'une fréquence d'attaque améliorée.",
+      "GolemWallTitle": "Mur de Pierre",
+      "GolemWallDescription": "Capacité Active. Gardien de Pierre crée un mur de pierre directement devant lui. Le mur peut bloquer les mouvements ennemis, couper les routes de fuite, protéger les alliés, créer des goulets d'étranglement et piéger les ennemis. Si le mur apparaît sur un ennemi, il inflige des dégâts immédiatement. Les Murs de Pierre peuvent être détruits par les attaques ennemies, mais cela gaspille souvent du temps et du positionnement précieux.",
+      "GolemThirdSpellTitle": "Aura d'Armure",
+      "GolemThirdSpellDescription": "Capacité Passive. Gardien de Pierre accorde continuellement une Armure bonus à lui-même et aux alliés proches, rendant toute son équipe significativement plus durable contre les dégâts physiques. À des niveaux plus élevés, l'Aura d'Armure gagne un effet supplémentaire : 20% de Réflexion de Dégâts. Attaquez Gardien de Pierre et prenez des dégâts — ou ignorez-le et laissez-le contrôler le combat. Les deux options bénéficient à l'équipe de Gardien de Pierre."
+    }
+  }
+}

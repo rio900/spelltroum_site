@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "FAQ – Spelltroum | Jeu Mobile Multijoueur Gratuit",
+    "description": "Réponses aux questions fréquentes sur Spelltroum — un jeu d'action mobile multijoueur gratuit avec des matchs de 2 à 3 minutes, une progression de héros et des builds d'objets. Apprenez-en plus sur les héros, les objets, les déblocages et le fair-play.",
+    "ogTitle": "FAQ – Spelltroum",
+    "ogDescription": "Tout ce que vous devez savoir sur Spelltroum — héros, objets, monétisation et comment commencer."
+  },
+  "heading": "Foire aux questions",
+  "subheading": "Tout ce que vous devez savoir sur Spelltroum — un jeu d'action mobile multijoueur gratuit avec des matchs de 2 à 3 minutes, une progression de héros et un gameplay compétitif. Tous les héros sont débloquables gratuitement, simplement en jouant.",
+  "ctaText": "Vous avez encore des questions ? Rejoignez notre communauté !",
+  "ctaButton": "Rejoindre Discord",
+  "sections": [
+    {
+      "heading": "À propos de Spelltroum",
+      "items": [
+        {
+          "q": "Qu'est-ce que Spelltroum ?",
+          "a": "Spelltroum est un jeu d'action mobile multijoueur qui combine progression de héros, builds d'objets, combat rapide et stratégie d'équipe dans des matchs qui durent seulement 2 à 3 minutes — assez courts pour jouer n'importe où, assez profonds pour vous faire revenir. Les joueurs débloquent des héros, découvrent des combinaisons d'objets, s'associent avec des amis et s'affrontent dans des batailles rapides qui récompensent la compétence et les décisions intelligentes plutôt que le grinding ou les dépenses."
+        },
+        {
+          "q": "Qu'est-ce qui a inspiré Spelltroum ?",
+          "a": "Spelltroum s'inspire des meilleurs éléments du genre MOBA — progression de héros, farm de ressources, builds d'objets et coordination d'équipe — et les livre dans un format mobile conçu autour de matchs de 2 à 3 minutes. Au lieu de s'engager dans des sessions de 30 minutes, vous obtenez l'excitation de construire un héros, choisir des objets et surpasser des adversaires dans des rounds rapides et intenses qui s'intègrent dans n'importe quel emploi du temps."
+        },
+        {
+          "q": "À quoi ressemble un match ?",
+          "a": "Un match typique de Spelltroum dure seulement 2 à 3 minutes. Pendant un match, les joueurs farmient des buissons et des ressources, gagnent de l'or, améliorent des compétences, achètent des objets, combattent des adversaires et s'affrontent pour la victoire. Chaque match est une expérience complète — rapide, compétitive et gratifiante."
+        },
+        {
+          "q": "Qu'est-ce qui différencie Spelltroum des autres jeux mobiles ?",
+          "a": "Spelltroum a été créé par un développeur solo qui voulait apporter l'équité et la profondeur du jeu multijoueur compétitif sur mobile — sans les mécaniques pay-to-win, les murs de progression ou les engagements de 30 minutes qui définissent la plupart des jeux mobiles. Vous pouvez rejoindre un match, expérimenter avec des héros et des objets, jouer avec des amis et vous affronter sur un pied d'égalité en quelques minutes."
+        },
+        {
+          "q": "Puis-je jouer avec des amis ?",
+          "a": "Oui ! Vous pouvez vous associer avec un ami et combiner des compétences pour des combos puissants. Que vous jouiez en solo ou en duo, chaque match est conçu pour être rapide, compétitif et amusant."
+        }
+      ]
+    },
+    {
+      "heading": "Héros et déblocages",
+      "items": [
+        {
+          "q": "Combien de héros y a-t-il dans Spelltroum ?",
+          "a": "Il y a actuellement 13 héros, chacun avec des compétences et des styles de jeu uniques : Lançe-feu, Viverna, Trancheur de Mort, Druide, Freezi, Tisseneur de Flammes, Furie des Ombres, Spiritmonger, Mortifier, Grizzly, Fée, Volcarn et Gardien de Pierre."
+        },
+        {
+          "q": "Puis-je débloquer tous les héros gratuitement ?",
+          "a": "Oui. Chaque héros peut être débloqué simplement en jouant au jeu. La plupart des joueurs peuvent débloquer n'importe quel héros qu'ils souhaitent en quelques jours de jeu régulier."
+        },
+        {
+          "q": "Pourquoi les héros et les objets doivent-ils être débloqués ?",
+          "a": "Les déblocages existent pour créer un sentiment de progression et de découverte. En jouant, vous débloquerez progressivement de nouveaux héros, de nouveaux objets légendaires, de nouvelles stratégies et de nouveaux styles de jeu. Débloquer quelque chose dans Spelltroum ne consiste pas à devenir plus fort que tout le monde — il s'agit d'élargir vos options et de découvrir de nouvelles façons de jouer."
+        },
+        {
+          "q": "Les héros Légendaires sont-ils plus forts que les autres héros ?",
+          "a": "Non. Les héros Légendaires sont conçus pour offrir des styles de jeu différents, pas des niveaux de puissance plus élevés. Chaque héros peut être efficace entre de bonnes mains."
+        },
+        {
+          "q": "Quelles sont les différentes raretés de héros ?",
+          "a": "Les héros viennent en quatre raretés : Commun, Peu commun, Rare et Légendaire. Les héros de rareté plus élevée offrent généralement des compétences et des styles de jeu plus complexes ou uniques."
+        }
+      ]
+    },
+    {
+      "heading": "Objets et progression",
+      "items": [
+        {
+          "q": "Les objets Légendaires sont-ils plus forts que les autres objets ?",
+          "a": "Non. Les objets Légendaires débloquent des stratégies uniques et des options de gameplay plutôt que de fournir des avantages de puissance directs. Ils permettent des builds différents, des tactiques différentes et de nouvelles façons de jouer vos héros préférés."
+        },
+        {
+          "q": "À quoi servent les Marteaux ?",
+          "a": "Les Marteaux sont utilisés pour améliorer les héros, améliorant leurs statistiques et compétences. Vous pouvez trouver des marteaux à l'intérieur des Portes (coffres)."
+        },
+        {
+          "q": "Qu'est-ce que le Super Sort ?",
+          "a": "Chaque héros a un Super Sort passif unique qui s'active sous des conditions spécifiques, ajoutant une couche stratégique au gameplay. Par exemple, Spiritmonger cesse de perdre des âmes après avoir atteint le niveau 10."
+        }
+      ]
+    },
+    {
+      "heading": "Fair-play et monétisation",
+      "items": [
+        {
+          "q": "Spelltroum est-il pay-to-win ?",
+          "a": "Non. Spelltroum est intentionnellement conçu pour éviter les mécaniques pay-to-win. Les améliorations de héros fournissent une progression et une personnalisation, mais elles ne sont pas conçues pour créer des différences de puissance écrasantes. Un joueur compétent utilisant un héros nouvellement débloqué peut absolument battre un joueur avec un héros entièrement amélioré. La compétence, le travail d'équipe, le positionnement et la prise de décision comptent bien plus que les niveaux de progression."
+        },
+        {
+          "q": "Dois-je dépenser de l'argent pour être compétitif ?",
+          "a": "Non. Spelltroum est conçu pour que les dépenses d'argent soient optionnelles et non requises pour être compétitif. Notre objectif est que les joueurs soutiennent le jeu parce qu'ils l'apprécient — pas parce qu'ils se sentent obligés de le faire."
+        },
+        {
+          "q": "Comment Spelltroum gagne-t-il de l'argent ?",
+          "a": "La monétisation principale de Spelltroum est le contenu cosmétique — skins de héros, personnalisation cosmétique et améliorations visuelles. Ces achats ne fournissent pas d'avantages en gameplay. Nous croyons que les joueurs devraient gagner parce qu'ils ont mieux joué, pas parce qu'ils ont dépensé plus d'argent."
+        },
+        {
+          "q": "Sur quoi devrais-je dépenser de l'argent si je veux soutenir le jeu ?",
+          "a": "Principalement du contenu cosmétique tel que des skins et des options de personnalisation visuelle. Tout achat va directement au soutien du développement continu du jeu."
+        },
+        {
+          "q": "Un nouveau joueur peut-il battre un joueur vétéran ?",
+          "a": "Absolument. La compétence, le travail d'équipe, le positionnement et la prise de décision ont un impact bien plus grand sur les résultats des matchs que la progression. Bien que les joueurs compétitifs dédiés puissent éventuellement vouloir des héros entièrement améliorés pour une optimisation maximale, les améliorations sont conçues pour fournir des avantages relativement petits plutôt que de déterminer l'issue d'un match."
+        }
+      ]
+    }
+  ]
+}

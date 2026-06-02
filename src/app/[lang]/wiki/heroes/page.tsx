@@ -1,12 +1,36 @@
-import { Locale, isValidLocale } from '@/i18n/config';
+import { Locale, isValidLocale, locales } from '@/i18n/config';
 import { getTranslations } from '@/i18n';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import { heroes, rarityColors, rarityLabels, roleLabels } from '@/data/heroes';
+import type { Metadata } from 'next';
 
 interface HeroesPageProps {
   params: Promise<{ lang: string }>;
+}
+
+export async function generateMetadata({ params }: HeroesPageProps): Promise<Metadata> {
+  const { lang } = await params;
+  if (!isValidLocale(lang)) return {};
+  const t = await getTranslations(lang as Locale);
+  const th = t.heroes;
+  return {
+    title: `${th.title} — ${th.subtitle} | Spelltroum`,
+    description: `${th.subtitle}. Spelltroum features 13 unique heroes across different roles. Browse all heroes, their abilities, builds and strategies.`,
+    keywords: ['Spelltroum heroes', 'Spelltroum hero list', 'Spelltroum hero guide', 'mobile MOBA heroes', 'Spelltroum characters'],
+    alternates: {
+      canonical: `https://spelltroum.com/${lang}/wiki/heroes`,
+      languages: Object.fromEntries(locales.map((l) => [l, `https://spelltroum.com/${l}/wiki/heroes`])),
+    },
+    openGraph: {
+      title: `${th.title} | Spelltroum`,
+      description: `${th.subtitle}. Browse all 13 Spelltroum heroes.`,
+      url: `https://spelltroum.com/${lang}/wiki/heroes`,
+      siteName: 'Spelltroum',
+      type: 'website',
+    },
+  };
 }
 
 export default async function HeroesPage({ params }: HeroesPageProps) {

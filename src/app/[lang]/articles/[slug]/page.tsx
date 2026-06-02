@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import { isValidLocale, locales, type Locale } from '@/i18n/config';
+import { getTranslations } from '@/i18n';
 import { getArticleBySlug, articles, type ArticleSection } from '@/data/articles';
 import { getArticleContent } from '@/data/content';
 
@@ -112,7 +113,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const article = getArticleBySlug(slug);
   if (!article) notFound();
 
-  const content = await getArticleContent(slug, lang as Locale);
+  const [content, t] = await Promise.all([
+    getArticleContent(slug, lang as Locale),
+    getTranslations(lang as Locale),
+  ]);
   const localizedTitle = content.title ?? article.title;
   const localizedDescription = content.description ?? article.description;
   const localizedCategory = content.category ?? article.category;
@@ -158,7 +162,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           {/* Breadcrumb */}
           <div className="flex items-center gap-2 text-sm text-white/40 mb-8">
-            <Link href={`/${lang}/articles`} className="hover:text-white/70 transition-colors">Articles</Link>
+            <Link href={`/${lang}/articles`} className="hover:text-white/70 transition-colors">{t.articles.title}</Link>
             <span>/</span>
             <span className="text-white/60">{localizedCategory}</span>
           </div>
@@ -194,7 +198,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               href={`/${lang}/articles`}
               className="inline-flex items-center gap-2 text-white/40 hover:text-white/70 transition-colors text-sm"
             >
-              ← Back to Articles
+              ← {t.articles.title}
             </Link>
           </div>
 

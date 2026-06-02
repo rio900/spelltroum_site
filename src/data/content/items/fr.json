@@ -1,0 +1,2520 @@
+{
+  "Sword": {
+    "description": "Épée est l'un des objets de dégâts les plus simples de Spelltroum. Bien que de nombreux joueurs le négligent car il ne fournit que des dégâts, Épée offre une quantité d'attaque étonnamment élevée pour son coût. Pour les héros qui ont simplement besoin de plus de dégâts physiques, c'est souvent l'une des améliorations les plus efficaces disponibles.",
+    "whyUse": "Épée est un excellent choix quand votre objectif est simple : infliger plus de dégâts. Contrairement aux objets utilitaires qui fournissent de l'armure, du mana ou de la vitesse de déplacement, Épée se concentre entièrement sur l'augmentation de la puissance d'attaque. Cela le rend particulièrement efficace pour les héros agressifs qui comptent sur les attaques de base pour farmer, faire pression sur les adversaires et sécuriser des éliminations. De nombreux joueurs sous-estiment Épée en raison de sa conception simple, mais la quantité de dégâts qu'il fournit pour son coût peut avoir un impact majeur tout au long du match.",
+    "strengths": [
+      "Dégâts élevés pour son coût",
+      "Choix d'objet simple et fiable",
+      "Aide les héros à farmer plus vite",
+      "Excellent pour les builds de dégâts physiques",
+      "Fort à toutes les étapes du jeu"
+    ],
+    "weaknesses": [
+      "Ne fournit aucune survivabilité",
+      "N'offre ni mobilité ni utilité",
+      "Moins précieux pour les héros qui comptent principalement sur les dégâts de sorts"
+    ],
+    "tips": [
+      "Si Épée permet à votre héros de détruire des buissons en un coup, vous n'avez pas toujours besoin de l'améliorer immédiatement.",
+      "Une seule amélioration d'Épée est souvent suffisante pour atteindre des seuils de farm importants.",
+      "Envisagez d'investir de l'or dans d'autres objets si des niveaux d'Épée supplémentaires n'améliorent pas significativement la vitesse de farm.",
+      "Si le match se prolonge en fin de partie, améliorer complètement Épée peut fournir un gros boost de dégâts.",
+      "Épée est plus efficace sur les héros qui ont déjà des capacités qui renforcent leurs attaques."
+    ],
+    "bestHeroes": {
+      "freezi": "Ses bonus de vitesse d'attaque rendent chaque point de dégâts supplémentaire plus précieux. Combiné avec des attaques rapides, Épée augmente significativement les dégâts et l'efficacité du farm.",
+      "shadow-fury": "Ses attaques peuvent réduire l'armure ennemie, permettant aux dégâts accrus de frapper encore plus fort. À mesure qu'Épée est amélioré, elle devient capable d'infliger des dégâts de burst dévastateurs.",
+      "druid": "Ses capacités ajoutent déjà des dégâts d'attaque supplémentaires, rendant les dégâts bonus plus précieux. Épée aide aussi à détruire les buissons plus rapidement pour un farm plus efficace."
+    },
+    "faq": [
+      {
+        "q": "Épée est-il un bon objet de début de partie ?",
+        "a": "Oui. Épée peut significativement augmenter votre vitesse de farm et vous aider à atteindre d'importants seuils de dégâts tôt dans le match."
+      },
+      {
+        "q": "Dois-je toujours améliorer Épée au Niveau 4 ?",
+        "a": "Pas nécessairement. Si la première amélioration vous permet déjà de détruire les buissons en un coup, il peut être plus efficace d'investir de l'or dans d'autres objets d'abord et de finir Épée plus tard."
+      },
+      {
+        "q": "Quels héros bénéficient le plus d'Épée ?",
+        "a": "Les héros qui comptent sur les attaques physiques, notamment Furie des Ombres et Druide, tirent le plus de valeur d'Épée."
+      }
+    ]
+  },
+  "BladesOfAttack": {
+    "description": "Serres Létales est un objet de dégâts critique conçu pour maximiser le potentiel de burst physique. Contrairement à Épée qui fournit des dégâts constants, Serres Létales mise sur des pics de dégâts importants grâce à la chance de coup critique. Plus votre héros accumule de dégâts, plus chaque coup critique devient dévastateur.",
+    "whyUse": "Serres Létales est conçu pour les joueurs qui veulent maximiser leur potentiel de dégâts. Bien que l'objet fournisse moins de dégâts directs qu'Épée, il compense en accordant une chance de coup critique. À mesure que les héros gagnent des dégâts supplémentaires via les niveaux, les capacités et les objets, chaque coup critique réussi devient significativement plus précieux. L'objet est particulièrement efficace sur les héros qui ont déjà de fortes attaques physiques ou des capacités qui progressent avec les dégâts physiques. Puisque la chance de coup critique s'additionne avec d'autres sources, Serres Létales devient encore plus fort combiné avec des capacités ou des objets qui fournissent une chance de coup critique supplémentaire.",
+    "strengths": [
+      "Fort potentiel de dégâts de burst",
+      "Les coups critiques infligent 50% de dégâts physiques supplémentaires",
+      "Se développe bien avec d'autres objets de dégâts",
+      "La chance de coup critique s'additionne avec d'autres sources",
+      "Efficace sur les attaques et les capacités de dégâts physiques",
+      "Fort objet de milieu et fin de partie"
+    ],
+    "weaknesses": [
+      "Moins constant qu'Épée",
+      "Les dégâts dépendent de la chance",
+      "Peut être peu fiable quand des dégâts stables sont requis",
+      "Ne fournit aucun bonus défensif",
+      "Peut sous-performer lors de combats courts si les coups critiques ne se déclenchent pas"
+    ],
+    "tips": [
+      "Serres Létales devient plus fort à mesure que vos dégâts physiques totaux augmentent.",
+      "La chance de coup critique s'additionne avec d'autres bonus critiques des objets et capacités de héros.",
+      "Les héros avec des effets de coup critique intégrés peuvent atteindre de très hautes chances de coup critique avec Serres Létales.",
+      "Les capacités de dégâts physiques peuvent bénéficier des coups critiques comme les attaques de base.",
+      "Envisagez de combiner Serres Létales avec d'autres objets de dégâts physiques pour maximiser le burst.",
+      "L'objet est plus efficace quand vous êtes prêt à échanger la constance contre un potentiel de dégâts plus élevé."
+    ],
+    "bestHeroes": {
+      "shadow-fury": "Son tir chargé inflige des dégâts physiques et peut effectuer un coup critique. Quand un coup critique se produit sur une attaque entièrement chargée, les dégâts peuvent devenir dévastateurs.",
+      "druid": "A des capacités qui augmentent les dégâts d'attaque. Quand un coup critique se produit avec ses effets de bonus de dégâts, le résultat peut être un énorme burst de dégâts.",
+      "grizzly": "Accumule naturellement des dégâts contre des cibles uniques. À mesure que ses attaques deviennent plus fortes, les coups critiques deviennent de plus en plus dangereux."
+    },
+    "faq": [
+      {
+        "q": "Les coups critiques affectent-ils les capacités ?",
+        "a": "Oui. Les capacités de dégâts physiques peuvent effectuer des coups critiques et bénéficier des bonus de dégâts critiques."
+      },
+      {
+        "q": "Combien de dégâts supplémentaires inflige un coup critique ?",
+        "a": "Les coups critiques infligent 50% de dégâts physiques supplémentaires."
+      },
+      {
+        "q": "La chance de coup critique s'additionne-t-elle ?",
+        "a": "Oui. La chance de coup critique de Serres Létales s'additionne avec les bonus critiques d'autres objets et capacités de héros."
+      },
+      {
+        "q": "Serres Létales est-il meilleur qu'Épée ?",
+        "a": "Pas toujours. Épée fournit des dégâts fiables et constants, tandis que Serres Létales offre un potentiel de dégâts plus élevé au coût de la constance."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Serres Létales ?",
+        "a": "Les héros avec des dégâts physiques élevés, comme Furie des Ombres, Druide et Grizzly, tirent le plus de valeur de l'objet."
+      },
+      {
+        "q": "Serres Létales est-il bon en PvE ?",
+        "a": "Il peut être puissant, mais certains joueurs préfèrent des sources de dégâts plus constantes pour le contenu PvE où les dégâts prévisibles sont importants."
+      }
+    ]
+  },
+  "Dagger": {
+    "description": "Dague est un objet puissant qui combine dégâts d'attaque et réduction d'armure ennemie. Son effet de réduction d'armure s'applique non seulement à son porteur mais bénéficie à tous les alliés attaquant la même cible, en faisant l'un des objets de dégâts les plus orientés équipe de Spelltroum.",
+    "whyUse": "Dague est un excellent choix pour les joueurs qui veulent maximiser les dégâts physiques contre les héros ennemis. L'effet de réduction d'armure de l'objet applique un débuff à la cible, réduisant son armure physique pour une courte durée — permettant à tous les alliés attaquant cette cible d'infliger plus de dégâts. L'effet devient particulièrement puissant contre les ennemis avec peu d'armure. Parce que la réduction d'armure est appliquée directement à l'ennemi plutôt qu'accordée comme dégâts bonus à l'attaquant, Dague reste efficace pour toute l'équipe tout au long du combat.",
+    "strengths": [
+      "Fournit à la fois dégâts et utilité",
+      "Réduit l'armure physique ennemie",
+      "Augmente les dégâts infligés par tous les alliés attaquant la cible",
+      "Extrêmement efficace dans les combats d'équipe coordonnés",
+      "Se synergise bien avec les héros qui réduisent déjà l'armure",
+      "Fort contre les cibles à faible armure",
+      "Excellent objet pour l'élimination ciblée"
+    ],
+    "weaknesses": [
+      "Ne fournit aucun bonus défensif",
+      "Moins efficace si les ennemis ne sont pas ciblés par plusieurs attaquants",
+      "Inflige moins de dégâts directs que certains objets purement offensifs",
+      "Nécessite une pression constante sur les cibles clés pour maximiser la valeur"
+    ],
+    "tips": [
+      "Concentrez les attaques sur une seule cible pour maximiser la valeur de l'effet de réduction d'armure.",
+      "Dague devient plus fort quand plusieurs alliés attaquent le même ennemi.",
+      "L'objet est particulièrement efficace contre les ennemis avec peu d'armure.",
+      "Les héros avec des capacités de réduction d'armure existantes gagnent une valeur exceptionnelle de Dague.",
+      "Dans les combats d'équipe, appliquez le débuff à la cible prioritaire en premier.",
+      "Dague est particulièrement puissant en matchs 2v2 où les deux coéquipiers peuvent cibler le même ennemi."
+    ],
+    "bestHeroes": {
+      "druid": "Peut invoquer une créature depuis les buissons pour combattre à ses côtés. Une fois que Dague réduit l'armure d'un ennemi, Druide et sa créature invoquée bénéficient des dégâts accrus contre cette cible.",
+      "volcarn": "A déjà des capacités qui réduisent l'armure ennemie. Combiné avec Dague, les ennemis deviennent encore plus vulnérables.",
+      "shadow-fury": "Compte fortement sur les dégâts physiques et a déjà des capacités qui réduisent l'armure ennemie. Dague amplifie davantage cette force."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Dague ?",
+        "a": "Dague est débloquée en améliorant Druide. En progressant avec Druide, vous aurez éventuellement accès à cet objet Légendaire."
+      },
+      {
+        "q": "Dague augmente-t-elle seulement mes dégâts ?",
+        "a": "Non. Dague réduit l'armure de la cible, permettant à tous les alliés d'infliger plus de dégâts physiques à cet ennemi."
+      },
+      {
+        "q": "Dague est-elle bonne en 2v2 ?",
+        "a": "Oui. Dague est particulièrement forte en 2v2 car les deux coéquipiers peuvent bénéficier de l'effet de réduction d'armure."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Dague ?",
+        "a": "Les héros qui infligent des dégâts physiques ou ont déjà des effets de réduction d'armure, comme Druide, Volcarn et Furie des Ombres."
+      },
+      {
+        "q": "Dague est-elle meilleure contre les ennemis à faible armure ?",
+        "a": "Oui. Plus un ennemi est proche de zéro armure, plus la réduction d'armure supplémentaire devient impactante."
+      },
+      {
+        "q": "Dague fonctionne-t-elle avec les unités invoquées ?",
+        "a": "Oui. Les unités invoquées bénéficient également de l'attaque contre des ennemis dont l'armure a été réduite par Dague."
+      }
+    ]
+  },
+  "AssaultSpear": {
+    "description": "Lance d'Assaut est un objet polyvalent qui combine vitesse d'attaque, dégâts physiques et soin au combat. Chaque attaque réussie restaure de la Santé, permettant aux héros agressifs de rester actifs sur le champ de bataille beaucoup plus longtemps que sans soin.",
+    "whyUse": "Lance d'Assaut est un excellent choix pour les héros qui comptent sur des attaques fréquentes. L'objet augmente à la fois la vitesse d'attaque et les dégâts, permettant aux héros de farmer plus vite et d'infliger plus de dégâts pendant les combats. En même temps, chaque attaque réussie restaure de la Santé, aidant le héros à rester actif plus longtemps. Contrairement aux objets de dégâts orientés burst, Lance d'Assaut récompense l'agression constante. Les héros qui attaquent rapidement peuvent déclencher l'effet de soin à répétition, transformant de petites quantités de soin en un avantage significatif dans le temps.",
+    "strengths": [
+      "Fournit vitesse d'attaque et dégâts physiques",
+      "Restaure de la Santé sur les attaques réussies",
+      "Excellent maintien pendant les longs combats",
+      "Aide à réduire le temps d'arrêt entre les batailles",
+      "Fort objet de farm",
+      "Efficace à toutes les étapes du jeu"
+    ],
+    "weaknesses": [
+      "Le soin est moins notable pendant les combats courts",
+      "Nécessite des attaques fréquentes pour maximiser la valeur",
+      "Moins efficace sur les héros qui comptent principalement sur les dégâts de sorts",
+      "Ne fournit aucune armure ou bonus défensif direct"
+    ],
+    "tips": [
+      "Lance d'Assaut devient plus fort à mesure que votre vitesse d'attaque augmente.",
+      "Les héros qui attaquent rapidement tirent le plus de valeur de l'effet de soin.",
+      "L'objet aide à maintenir la Santé pendant le farm de buissons et de monstres.",
+      "Lance d'Assaut est souvent plus efficace dans les longs combats que dans les engagements de burst courts.",
+      "Envisagez d'améliorer complètement l'objet si votre build compte fortement sur les attaques de base.",
+      "Les héros de dégâts soutenus bénéficient généralement plus de Lance d'Assaut que les héros de burst."
+    ],
+    "bestHeroes": {
+      "spitfire": "Bénéficie déjà des bonus de vitesse d'attaque, lui permettant de déclencher l'effet de soin plus fréquemment. La vitesse d'attaque et les dégâts supplémentaires améliorent aussi la vitesse de farm.",
+      "freezi": "Bénéficie grandement grâce à sa haute vitesse d'attaque naturelle. Puisque l'effet de soin se déclenche à chaque attaque réussie, Freezi peut récupérer de la Santé plus fréquemment que beaucoup d'autres héros."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Lance d'Assaut ?",
+        "a": "Lance d'Assaut est disponible dès le début du jeu. Comme tous les objets Mystiques, elle ne nécessite pas de progression de héros pour être débloquée."
+      },
+      {
+        "q": "Lance d'Assaut soigne-t-elle quand on attaque des buissons ?",
+        "a": "Oui. Les attaques réussies contre les buissons peuvent déclencher l'effet de soin."
+      },
+      {
+        "q": "Lance d'Assaut soigne-t-elle quand on attaque des héros ennemis ?",
+        "a": "Oui. Chaque attaque réussie peut restaurer de la Santé."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Lance d'Assaut ?",
+        "a": "Spitfire et Freezi comptent parmi les utilisateurs les plus forts car ils peuvent attaquer rapidement et déclencher l'effet de soin plus souvent."
+      },
+      {
+        "q": "Lance d'Assaut est-elle un objet de dégâts ou de survie ?",
+        "a": "Les deux. Lance d'Assaut augmente la vitesse d'attaque et les dégâts tout en fournissant une récupération de Santé via son effet de soin."
+      }
+    ]
+  },
+  "BoneSword": {
+    "description": "Épée d'Os est un objet à haut risque et haute récompense qui fournit d'énormes bonus offensifs au prix d'une consommation de Santé à chaque attaque. Conçu pour les héros capables de maintenir leur Santé grâce au vol de vie ou à d'autres mécaniques de soin, il peut devenir l'un des objets les plus puissants du jeu entre les bonnes mains.",
+    "whyUse": "Épée d'Os est conçue pour les héros capables de transformer son inconvénient en avantage. L'objet fournit une grande quantité de Santé, des dégâts bonus, des bonus de coup critique et des dégâts supplémentaires basés sur le niveau du héros. À des niveaux élevés, les dégâts de progression seuls peuvent devenir une massive source de puissance. Cependant, chaque attaque consomme de la Santé — les héros qui manquent de soin, de vol de vie ou d'une forme de récupération de Santé peuvent avoir du mal à l'utiliser efficacement.",
+    "strengths": [
+      "Accorde une grande quantité de Santé bonus",
+      "Fournit une forte progression de dégâts via les niveaux de héros",
+      "Augmente les dégâts critiques maximum",
+      "Excellent potentiel de dégâts en fin de partie",
+      "Extrêmement puissant sur les héros avec du maintien",
+      "Ne peut pas tuer son propriétaire"
+    ],
+    "weaknesses": [
+      "Chaque attaque consomme de la Santé",
+      "L'auto-dégât se produit même si les attaques ratent",
+      "Nécessite du soin, du vol de vie ou du maintien pour atteindre son plein potentiel",
+      "Peut être difficile à utiliser efficacement sur les héros fragiles",
+      "La chance de coup critique est relativement faible sans sources supplémentaires"
+    ],
+    "tips": [
+      "Épée d'Os ne peut pas tuer son propriétaire, la rendant plus sûre qu'elle ne le paraît.",
+      "L'objet devient plus fort à mesure que votre héros gagne des niveaux.",
+      "Les héros avec du vol de vie gagnent significativement plus de valeur d'Épée d'Os.",
+      "Les héros qui bénéficient d'une faible Santé peuvent transformer l'auto-dégât en avantage.",
+      "L'objet fonctionne mieux quand associé à un soin fiable ou du maintien.",
+      "N'achetez pas Épée d'Os uniquement pour sa chance de coup critique — le bonus est relativement petit seul."
+    ],
+    "bestHeroes": {
+      "volcarn": "Gagne de la vitesse d'attaque à mesure que sa Santé diminue. Épée d'Os réduit continuellement sa Santé tout en attaquant, activant naturellement ses bonus de vitesse d'attaque. Son maintien naturel aide à compenser l'effet d'auto-dégât.",
+      "death-slayer": "Son vol de vie intégré lui permet de récupérer de la Santé tout en attaquant, aidant à compenser la Santé perdue. Il bénéficie aussi des bonus de coup critique via ses capacités de coup critique existantes."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Épée d'Os ?",
+        "a": "Épée d'Os est débloquée en améliorant Volcarn."
+      },
+      {
+        "q": "Épée d'Os peut-elle tuer son propriétaire ?",
+        "a": "Non. L'effet d'auto-dégât d'Épée d'Os ne peut pas réduire la Santé du propriétaire à zéro."
+      },
+      {
+        "q": "Épée d'Os inflige-t-elle un auto-dégât si mon attaque rate ?",
+        "a": "Oui. L'effet d'auto-dégât s'active chaque fois que vous attaquez, que l'attaque touche ou non une cible."
+      },
+      {
+        "q": "Épée d'Os est-elle bonne pour Volcarn ?",
+        "a": "Oui. Épée d'Os est l'un des objets les plus forts de Volcarn car l'auto-dégât aide à activer ses bonus de vitesse d'attaque."
+      },
+      {
+        "q": "Épée d'Os est-elle un objet de coup critique ?",
+        "a": "Pas principalement. Bien qu'Épée d'Os fournisse une chance de coup critique et augmente les dégâts critiques maximum, elle est généralement achetée pour ses dégâts de progression, sa Santé bonus et ses mécaniques uniques d'auto-dégât."
+      },
+      {
+        "q": "Pourquoi Épée d'Os devient-elle plus forte plus tard dans le match ?",
+        "a": "Épée d'Os accorde des dégâts supplémentaires basés sur le niveau du héros. À mesure que votre héros monte de niveau, le bonus de dégâts de l'objet continue d'augmenter."
+      }
+    ]
+  },
+  "WarriorAxe": {
+    "description": "Hache de Guerre est un objet polyvalent qui fournit simultanément des dégâts, de la Santé et de la vitesse de déplacement. Sa conception équilibrée en fait un choix solide pour les héros qui ont besoin d'améliorer plusieurs aspects de leur performance sans se spécialiser dans une seule statistique.",
+    "whyUse": "Hache de Guerre est idéale pour les héros qui veulent un peu de tout. L'objet fournit des dégâts bonus pour améliorer l'efficacité du farm et du combat, de la Santé bonus pour augmenter la survivabilité, et de la vitesse de déplacement pour aider les héros à s'engager, chasser les ennemis et se repositionner pendant les combats. L'un des plus grands avantages de Hache de Guerre est qu'elle peut partiellement remplacer le besoin d'objets axés sur le déplacement. Certains héros ne nécessitent pas le grand bonus de vitesse de déplacement fourni par les Bottes mais bénéficient grandement d'une augmentation modérée de vitesse.",
+    "strengths": [
+      "Fournit dégâts, Santé et vitesse de déplacement",
+      "Excellent objet polyvalent",
+      "Fort pic de puissance en début et milieu de partie",
+      "Aide les héros à détruire les buissons plus efficacement",
+      "Améliore à la fois la survivabilité et la mobilité",
+      "Fonctionne bien sur une grande variété de héros"
+    ],
+    "weaknesses": [
+      "N'excelle dans aucune catégorie unique",
+      "Fournit moins de vitesse de déplacement que les Bottes dédiées",
+      "Fournit moins de dégâts que les objets purement offensifs",
+      "Peut être surpassé par des objets spécialisés dans des builds très optimisés"
+    ],
+    "tips": [
+      "La première amélioration fournit souvent assez de dégâts pour détruire les buissons en une seule attaque.",
+      "La deuxième amélioration accorde une augmentation significative de Santé.",
+      "Hache de Guerre est particulièrement précieuse pour les héros qui n'ont pas besoin de la pleine vitesse de déplacement des Bottes.",
+      "L'objet est souvent le plus fort quand amélioré tôt dans le match.",
+      "Envisagez Hache de Guerre si votre build manque de survivabilité ou de mobilité.",
+      "Les objets avec des statistiques équilibrées fournissent souvent une valeur plus constante que les objets hautement spécialisés."
+    ],
+    "bestHeroes": {
+      "mortifier": "Les dégâts bonus augmentent l'efficacité de ses attaques, tandis que la Santé supplémentaire améliore la survivabilité. Comme Mortifier peut déclencher des attaques supplémentaires via ses capacités, chaque point de dégâts bonus devient plus précieux.",
+      "death-slayer": "Un héros de mêlée qui a souvent du mal à rester sur les cibles qui fuient. Hache de Guerre résout plusieurs problèmes à la fois en fournissant des dégâts supplémentaires, de la survivabilité et de la vitesse de déplacement.",
+      "grizzly": "En tant que héros de mêlée, il valorise la vitesse de déplacement pour chasser les ennemis, la Santé pour survivre aux combats et les dégâts pour la pression offensive. Hache de Guerre renforce simultanément tous ces domaines."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Hache de Guerre ?",
+        "a": "Hache de Guerre est débloquée via le système de Récompenses Quotidiennes. Connectez-vous simplement au jeu et réclamez vos récompenses quotidiennes pour finalement débloquer l'objet."
+      },
+      {
+        "q": "Hache de Guerre est-elle un objet de dégâts ou défensif ?",
+        "a": "Les deux. Hache de Guerre fournit des dégâts, de la Santé et de la vitesse de déplacement, en faisant l'un des objets les plus équilibrés du jeu."
+      },
+      {
+        "q": "Hache de Guerre est-elle un bon premier objet ?",
+        "a": "Oui. De nombreux joueurs choisissent Hache de Guerre comme amélioration précoce car elle améliore immédiatement plusieurs aspects de leur héros."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Hache de Guerre ?",
+        "a": "Mortifier, Trancheur de Mort et Grizzly comptent parmi les héros qui gagnent le plus de valeur de Hache de Guerre."
+      },
+      {
+        "q": "Hache de Guerre aide-t-elle au farm ?",
+        "a": "Oui. Le bonus de dégâts précoce permet souvent aux héros de détruire les buissons en une seule attaque, améliorant significativement l'efficacité du farm."
+      },
+      {
+        "q": "Dois-je acheter des Bottes si j'ai déjà Hache de Guerre ?",
+        "a": "Cela dépend du héros. Certains héros bénéficient encore d'objets de vitesse de déplacement dédiés, tandis que d'autres gagnent assez de mobilité avec Hache de Guerre."
+      }
+    ]
+  },
+  "FireAxe": {
+    "description": "Hache de Feu est un objet de harcèlement qui applique un effet de brûlure aux ennemis touchés. Les dégâts de feu sont des dégâts purs qui ignorent à la fois l'Armure Physique et l'Armure Magique, et empêchent également la régénération naturelle de Santé de la cible pendant la durée de la brûlure.",
+    "whyUse": "Hache de Feu est un excellent choix pour les héros qui veulent faire pression sur les ennemis dans le temps plutôt que de compter entièrement sur les dégâts de burst. L'effet de brûlure de l'objet continue d'endommager les ennemis longtemps après l'attaque initiale. L'un des aspects les plus précieux de Hache de Feu est sa capacité à retarder la régénération de Santé ennemie — puisque les dégâts de brûlure continuent pendant plusieurs secondes, les ennemis affectés ne peuvent pas commencer leur régénération naturelle jusqu'à l'expiration de la brûlure.",
+    "strengths": [
+      "Fournit dégâts et vitesse de déplacement",
+      "Applique des dégâts purs ignorant l'armure",
+      "Retarde la régénération de Santé ennemie",
+      "Fort contre les héros à bouclier",
+      "Excellent outil de harcèlement",
+      "Se synergise bien avec d'autres effets de dégâts dans le temps",
+      "Utile à toutes les étapes du jeu"
+    ],
+    "weaknesses": [
+      "Dégâts de burst plus faibles que certains objets offensifs",
+      "Nécessite des attaques répétées pour maintenir la pression",
+      "Les dégâts sont étalés dans le temps au lieu d'être délivrés instantanément",
+      "Moins efficace si les ennemis peuvent finir rapidement les combats"
+    ],
+    "tips": [
+      "La première amélioration fournit assez de dégâts pour de nombreux héros pour détruire les buissons en une seule attaque.",
+      "La deuxième amélioration accorde une vitesse de déplacement comparable aux bottes de base.",
+      "Les Dégâts de Feu ignorent à la fois l'Armure Physique et l'Armure Magique.",
+      "Les ennemis en feu ne peuvent pas commencer la régénération naturelle de Santé jusqu'à la fin de l'effet de brûlure.",
+      "Hache de Feu est particulièrement efficace contre les héros qui comptent sur les boucliers.",
+      "L'objet excelle dans le harcèlement et les attaques répétées hit-and-run.",
+      "Les effets de dégâts dans le temps deviennent plus précieux pendant les longs combats."
+    ],
+    "bestHeroes": {
+      "viverna": "Se spécialise déjà dans les dégâts dans le temps via les effets de poison. Hache de Feu ajoute une autre source de dégâts périodiques, permettant aux deux effets de se cumuler et de faire pression continuellement sur les ennemis. La vitesse de déplacement aide aussi à se repositionner.",
+      "faerie": "Après avoir lancé des sorts, une seule attaque peut appliquer l'effet de brûlure et continuer à endommager la cible pendant que Fée se repositionne et attend les temps de recharge."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Hache de Feu ?",
+        "a": "Hache de Feu est disponible dès le début du jeu. Comme tous les objets Mystiques, elle ne nécessite pas de progression de héros pour être débloquée."
+      },
+      {
+        "q": "Les Dégâts de Feu ignorent-ils l'armure ?",
+        "a": "Oui. Les Dégâts de Feu sont des dégâts purs et ne sont pas réduits par l'Armure Physique ni l'Armure Magique."
+      },
+      {
+        "q": "Hache de Feu prévient-elle la régénération de Santé ?",
+        "a": "Oui. Pendant que l'effet de brûlure est actif, la cible continue à prendre des dégâts et ne peut pas commencer la régénération naturelle de Santé."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Hache de Feu ?",
+        "a": "Viverna et Fée comptent parmi les utilisateurs les plus forts car elles peuvent combiner son effet de brûlure avec leurs capacités existantes de dégâts dans le temps."
+      },
+      {
+        "q": "Hache de Feu est-elle un objet de farm ou de combat ?",
+        "a": "Les deux. Les premières améliorations améliorent le farm via les dégâts bonus, tandis que les améliorations ultérieures fournissent vitesse de déplacement et puissants effets de dégâts dans le temps pour le combat."
+      }
+    ]
+  },
+  "ManaAxe": {
+    "description": "Hache de Mana est un objet spécialisé conçu pour contrer les héros dépendants du mana. Chaque attaque brûle du mana à la cible et convertit le mana brûlé en dégâts purs qui ignorent l'armure, permettant de simultanément affaiblir les capacités ennemies et d'infliger des dégâts supplémentaires.",
+    "whyUse": "Hache de Mana est conçue pour punir les héros dépendants du mana. Chaque attaque brûle du mana à la cible et convertit le mana brûlé en dégâts purs. Contrairement aux Dégâts Physiques ou Magiques, ces dégâts ne sont pas réduits par l'armure, les rendant efficaces contre une grande variété d'ennemis. L'objet devient particulièrement puissant contre les héros qui comptent fortement sur les capacités — en drainant leur mana, Hache de Mana non seulement les endommage mais limite aussi leur capacité à riposter.",
+    "strengths": [
+      "Brûle le mana ennemi à chaque attaque",
+      "Inflige des dégâts purs basés sur le mana brûlé",
+      "Efficace contre les lanceurs de sorts et les builds à mana élevé",
+      "Fort sur les héros qui attaquent rapidement",
+      "Fournit de la vitesse de déplacement au niveau maximum",
+      "Peut significativement réduire la capacité d'un ennemi à lancer des sorts"
+    ],
+    "weaknesses": [
+      "Moins efficace contre les héros avec de petites réserves de mana",
+      "Fournit peu de valeur une fois qu'un ennemi n'a plus de mana",
+      "N'augmente pas directement les dégâts d'attaque",
+      "Nécessite des attaques répétées pour maximiser l'efficacité"
+    ],
+    "tips": [
+      "Hache de Mana devient plus forte contre les héros avec de grandes réserves de mana.",
+      "Les héros avec une haute vitesse d'attaque gagnent plus de valeur car ils déclenchent la brûlure de mana plus fréquemment.",
+      "Si un ennemi n'a plus de mana, Hache de Mana ne peut plus infliger de dégâts de brûlure de mana supplémentaires.",
+      "L'amélioration finale fournit de la vitesse de déplacement, faisant de Hache de Mana une alternative potentielle aux bottes de base.",
+      "Envisagez Hache de Mana quand vous faites face à des ennemis qui comptent fortement sur les capacités.",
+      "Hache de Mana est l'un des meilleurs compteurs aux builds Bouclier de Mana."
+    ],
+    "bestHeroes": {
+      "flameweaver": "A déjà plusieurs façons de drainer le mana ennemi via ses capacités. Combiné avec Hache de Mana, il peut rapidement vider la réserve de mana d'un adversaire.",
+      "freezi": "Sa haute vitesse d'attaque lui permet de déclencher Hache de Mana à répétition, brûlant de grandes quantités de mana en peu de temps.",
+      "volcarn": "Ses illusions héritent de l'effet de brûlure de mana, permettant à plusieurs attaques de drainer simultanément le mana et de submerger rapidement les ennemis dépendants du mana."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Hache de Mana ?",
+        "a": "Hache de Mana est disponible dès le début du jeu. Comme tous les objets Mystiques, elle ne nécessite pas de progression de héros pour être débloquée."
+      },
+      {
+        "q": "Hache de Mana inflige-t-elle des dégâts purs ?",
+        "a": "Oui. Les dégâts causés par Hache de Mana ignorent à la fois l'Armure Physique et l'Armure Magique."
+      },
+      {
+        "q": "Hache de Mana fonctionne-t-elle si la cible n'a pas de mana ?",
+        "a": "Non. Hache de Mana inflige des dégâts basés sur le mana brûlé. Si la cible n'a plus de mana, l'objet ne peut pas brûler de mana supplémentaire."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Hache de Mana ?",
+        "a": "Tisseneur de Flammes, Freezi et Volcarn comptent parmi les utilisateurs les plus forts car ils peuvent déclencher à répétition l'effet de brûlure de mana."
+      },
+      {
+        "q": "Quel objet Hache de Mana contre-t-elle ?",
+        "a": "Hache de Mana est l'un des compteurs les plus forts au Bouclier de Mana. Les builds Bouclier de Mana comptent sur de grandes quantités de mana — Hache de Mana attaque directement cette force en brûlant le mana tout en infligeant des dégâts."
+      },
+      {
+        "q": "Hache de Mana est-elle une bonne alternative aux Bottes ?",
+        "a": "Pour certains héros, oui. L'amélioration finale accorde de la vitesse de déplacement, permettant à certains builds de gagner de la mobilité tout en bénéficiant de la brûlure de mana."
+      }
+    ]
+  },
+  "AxeOfVampire": {
+    "description": "Hache du Vampire est un objet de maintien unique qui peut générer de puissantes Runes de Vampirisme depuis les buissons. Quand une Rune de Vampirisme est activée, le héros gagne 100% de Vol de Vie Physique pendant 5 secondes — l'une des capacités de soin les plus puissantes et temporaires du jeu.",
+    "whyUse": "Hache du Vampire est conçue pour les héros qui veulent un maintien puissant pendant le combat. Contrairement aux objets de vol de vie traditionnels qui fournissent un effet constant, Hache du Vampire accorde des accès temporaires à un soin extrêmement fort. Une Rune de Vampirisme bien chronométrée peut complètement changer l'issue d'un combat, permettant à un héros de récupérer de grandes quantités de Santé tout en continuant à attaquer. L'objet fournit aussi des statistiques de combat utiles incluant dégâts bonus, armure physique et vitesse de déplacement au niveau maximum.",
+    "strengths": [
+      "Fournit dégâts bonus et armure physique",
+      "Fournit de la vitesse de déplacement au niveau maximum",
+      "Peut générer de puissantes Runes de Vampirisme depuis les buissons",
+      "Accorde 100% de Vol de Vie Physique quand une rune est activée",
+      "Excellent maintien de burst pendant les combats",
+      "Particulièrement efficace sur les héros qui attaquent rapidement"
+    ],
+    "weaknesses": [
+      "L'effet de vol de vie dépend de la trouvaille d'une Rune de Vampirisme",
+      "Moins efficace sur les héros qui comptent principalement sur les dégâts magiques",
+      "Nécessite des attaques physiques pour tirer de la valeur de la rune",
+      "Une partie de sa puissance vient de la chance"
+    ],
+    "tips": [
+      "La Rune de Vampirisme n'apparaît qu'après avoir amélioré Hache du Vampire.",
+      "Gardez la Rune de Vampirisme pour les combats importants autant que possible.",
+      "Les héros avec une haute vitesse d'attaque gagnent le plus de valeur de l'effet de vol de vie.",
+      "L'objet vaut souvent la peine d'être amélioré au Niveau 2 tôt pour avoir accès à la Rune de Vampirisme.",
+      "L'armure physique rend l'objet utile même quand une Rune de Vampirisme n'est pas disponible."
+    ],
+    "bestHeroes": {
+      "druid": "Ses capacités peuvent créer des buissons supplémentaires pendant le combat, fournissant plus d'opportunités de découvrir des Runes de Vampirisme. Puisque Druide inflige principalement des dégâts physiques, il peut faire excellent usage de l'effet de 100% vol de vie.",
+      "freezi": "Ses opportunités d'attaque supplémentaires lui permettent de déclencher plusieurs instances de soin pendant la Rune de Vampirisme, l'aidant à récupérer de la Santé extrêmement rapidement pendant le combat.",
+      "grizzly": "Bénéficie des statistiques offensives et utilise la Rune de Vampirisme pour compenser les dégâts pris pendant les engagements agressifs, lui permettant de rester en combat plus longtemps."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Hache du Vampire ?",
+        "a": "Hache du Vampire est disponible dès le début du jeu. Comme tous les objets Mystiques, elle ne nécessite pas de progression de héros pour être débloquée."
+      },
+      {
+        "q": "Comment obtenir une Rune de Vampirisme ?",
+        "a": "Après avoir amélioré Hache du Vampire, détruire des buissons vous donne une chance de découvrir une Rune de Vampirisme."
+      },
+      {
+        "q": "Que fait la Rune de Vampirisme ?",
+        "a": "Quand elle est activée, la rune accorde 100% de Vol de Vie Physique pendant 5 secondes."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Hache du Vampire ?",
+        "a": "Druide, Freezi, Mortifier, Grizzly et Volcarn comptent parmi les utilisateurs les plus forts car ils peuvent pleinement profiter de l'effet temporaire de vol de vie."
+      },
+      {
+        "q": "Hache du Vampire est-elle une source fiable de soin ?",
+        "a": "Pas complètement. Le soin dépend de la trouvaille et de l'activation d'une Rune de Vampirisme. Cependant, quand elle est disponible, elle peut fournir certains des effets de soin les plus forts du jeu."
+      },
+      {
+        "q": "Dois-je améliorer complètement Hache du Vampire immédiatement ?",
+        "a": "Pas toujours. De nombreux joueurs l'améliorent tôt pour débloquer la Rune de Vampirisme puis finissent de l'améliorer plus tard quand ils ont besoin de dégâts supplémentaires, d'armure et de vitesse de déplacement."
+      }
+    ]
+  },
+  "Ring": {
+    "description": "Anneau est un objet de maintien solide qui combine dégâts physiques, armure physique et Vol de Vie Physique permanent. Il permet aux héros de récupérer de la Santé pendant les combats, les rendant beaucoup plus difficiles à éliminer lors d'engagements prolongés.",
+    "whyUse": "Anneau est conçu pour les héros qui comptent sur les dégâts physiques et les attaques fréquentes. L'objet augmente les dégâts physiques, accorde de l'armure physique et fournit du Vol de Vie Physique permanent. Cela permet aux héros de récupérer de la Santé pendant les combats, les rendant beaucoup plus difficiles à éliminer lors d'engagements prolongés. Le bonus d'armure est particulièrement précieux car il améliore l'efficacité de chaque point de soin reçu — prendre moins de dégâts tout en restaurant simultanément de la Santé crée une puissante combinaison.",
+    "strengths": [
+      "Fournit du Vol de Vie Physique permanent.",
+      "Accorde à la fois dégâts et armure.",
+      "Excellent maintien pendant les combats prolongés.",
+      "Forte synergie avec la vitesse d'attaque.",
+      "Se développe bien avec des dégâts physiques croissants.",
+      "Améliore la survivabilité sans sacrifier la puissance offensive."
+    ],
+    "weaknesses": [
+      "Ne fournit pas de soin en attaquant les buissons.",
+      "Moins efficace sur les héros qui comptent principalement sur les dégâts magiques.",
+      "Nécessite des attaques constantes pour maximiser la valeur.",
+      "Fournit moins de dégâts de burst que les objets purement offensifs."
+    ],
+    "tips": [
+      "Anneau ne restaure de la Santé que des dégâts physiques infligés aux héros et aux sbires.",
+      "L'objet devient plus fort à mesure que vos dégâts physiques augmentent.",
+      "La vitesse d'attaque augmente grandement la valeur d'Anneau.",
+      "Le vol de vie et l'armure fonctionnent exceptionnellement bien ensemble.",
+      "Anneau est souvent le plus fort pendant les longs combats où plusieurs attaques peuvent être portées.",
+      "Les héros avec du maintien intégré gagnent encore plus de valeur d'Anneau."
+    ],
+    "bestHeroes": {
+      "death-slayer": "Trancheur de Mort a déjà accès au vol de vie via ses capacités. Anneau s'accumule avec son maintien existant, lui permettant de récupérer encore plus de Santé pendant le combat. Les dégâts et l'armure supplémentaires renforcent davantage sa capacité à rester dans les combats."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Anneau ?",
+        "a": "Anneau est débloqué en améliorant Trancheur de Mort."
+      },
+      {
+        "q": "Anneau soigne-t-il en attaquant les buissons ?",
+        "a": "Non. Anneau ne restaure de la Santé que lors d'infliction de dégâts physiques aux héros et aux sbires."
+      },
+      {
+        "q": "Anneau fonctionne-t-il avec les capacités physiques ?",
+        "a": "Oui. Tout dégât physique qui bénéficie du vol de vie peut contribuer au soin."
+      },
+      {
+        "q": "Quels héros bénéficient le plus d'Anneau ?",
+        "a": "Trancheur de Mort, Freezi, Grizzly, Volcarn et Spitfire comptent parmi les utilisateurs les plus forts car ils attaquent rapidement ou infligent des dégâts physiques élevés."
+      },
+      {
+        "q": "Pourquoi l'armure est-elle utile sur un objet de vol de vie ?",
+        "a": "L'armure réduit les dégâts physiques entrants, permettant à la Santé restaurée via le vol de vie de devenir encore plus efficace. La combinaison d'armure et de soin rend les héros significativement plus difficiles à vaincre."
+      },
+      {
+        "q": "Anneau est-il un objet défensif ou de dégâts ?",
+        "a": "Anneau est les deux. Il fournit des dégâts, de l'armure et du vol de vie, en faisant l'un des objets de maintien les plus équilibrés disponibles pour les héros de dégâts physiques."
+      }
+    ]
+  },
+  "WarlockStaff": {
+    "description": "Bâton de Sorcier est un objet économique unique qui génère de l'or bonus chaque fois que votre héros meurt. Plutôt que de renforcer directement les capacités de combat, il accélère la progression d'objets en réduisant la pénalité économique des morts, permettant aux héros de continuer à s'équiper même sous pression.",
+    "whyUse": "Bâton de Sorcier est conçu pour les joueurs qui veulent maximiser leurs revenus d'or. La plupart des objets aident les héros à devenir plus forts directement — Bâton de Sorcier adopte une approche différente en aidant les héros à acquérir de l'or plus rapidement, leur permettant d'acheter des objets supplémentaires plus tôt. L'objet est particulièrement précieux pour les héros qui ont besoin de temps et de ressources pour atteindre leur plein potentiel.",
+    "strengths": [
+      "Génère de l'or bonus après la mort.",
+      "Crée des stratégies économiques uniques.",
+      "Réduit la pénalité pour mourir.",
+      "Fournit dégâts, vitesse d'attaque et puissance de sort.",
+      "Peut être utilisé efficacement par presque n'importe quel héros.",
+      "Aide les héros à atteindre plus vite des améliorations d'objets importantes."
+    ],
+    "weaknesses": [
+      "Encourage le jeu risqué.",
+      "N'améliore pas directement la survivabilité.",
+      "Perdre des couronnes peut l'emporter sur l'or bonus gagné.",
+      "Fournit moins de puissance de combat que les objets offensifs spécialisés.",
+      "Nécessite une prise de décision prudente pour être utilisé efficacement."
+    ],
+    "tips": [
+      "Bâton de Sorcier récompense les stratégies de farm agressives.",
+      "Mourir reste un désavantage, même quand l'or bonus est accordé.",
+      "Concentrez-vous sur la collecte de ressources et l'accélération de la progression d'objets.",
+      "L'objet est souvent le plus fort en début et milieu de partie.",
+      "Ne sacrifiez pas des couronnes imprudemment simplement parce que vous gagnez de l'or bonus.",
+      "Bâton de Sorcier fournit des statistiques de combat utiles même quand son effet passif n'est pas déclenché."
+    ],
+    "bestHeroes": {
+      "druid": "Volcarn est souvent vulnérable au début et nécessite généralement plusieurs objets avant d'atteindre son plein potentiel. Bâton de Sorcier aide à accélérer cette progression en réduisant l'impact économique des morts."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Bâton de Sorcier ?",
+        "a": "Bâton de Sorcier est débloqué via le système de Récompenses Quotidiennes. Connectez-vous simplement et réclamez vos récompenses quotidiennes pour débloquer l'objet."
+      },
+      {
+        "q": "Comment fonctionne Bâton de Sorcier ?",
+        "a": "Chaque fois que votre héros meurt, Bâton de Sorcier accorde de l'or bonus. Cela aide à réduire l'impact économique d'être vaincu."
+      },
+      {
+        "q": "Bâton de Sorcier est-il bon pour les débutants ?",
+        "a": "Il peut l'être, mais les joueurs doivent être prudents. L'objet récompense les morts avec de l'or, mais mourir trop souvent peut tout de même vous faire perdre le match."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bâton de Sorcier ?",
+        "a": "Druide et Volcarn comptent parmi les utilisateurs les plus courants car ils bénéficient souvent d'opportunités supplémentaires de farm et de progression."
+      },
+      {
+        "q": "Bâton de Sorcier signifie-t-il que je devrais mourir intentionnellement ?",
+        "a": "Généralement non. L'objectif n'est pas de mourir aussi souvent que possible. L'objet vous permet plutôt de prendre des risques calculés et de vous remettre plus facilement quand des morts surviennent."
+      },
+      {
+        "q": "Pourquoi certains joueurs considèrent-ils Bâton de Sorcier sous-estimé ?",
+        "a": "De nombreux joueurs se concentrent uniquement sur la puissance de combat. Bâton de Sorcier fournit de la puissance économique à la place, permettant aux joueurs habiles de construire des avantages en objets qui peuvent devenir extrêmement précieux plus tard."
+      }
+    ]
+  },
+  "GlaciumReaver": {
+    "description": "Faucheur Glacial est un objet puissant pour les lanceurs de sorts qui restaure du mana via le farm et le combat, fournit de la Puissance de Sort, et génère des projectiles magiques rebondissants. C'est l'un des meilleurs objets pour les héros qui ont besoin d'utiliser leurs capacités fréquemment et de rester actifs sur toute la carte.",
+    "whyUse": "Faucheur Glacial est l'un des meilleurs objets pour les héros qui lancent fréquemment des sorts. Le mana est souvent la ressource la plus importante pour les lanceurs de sorts — en restaurant du mana via le farm et le combat, Faucheur Glacial permet aux héros de continuer à utiliser des capacités sans manquer de ressources. L'objet fournit également de la Puissance de Sort, augmentant l'efficacité des capacités magiques. Son projectile magique rebondissant unique ajoute une utilité supplémentaire.",
+    "strengths": [
+      "Fournit de la Puissance de Sort.",
+      "Restaure du mana via le farm et le combat.",
+      "Accorde de la vitesse de déplacement au niveau maximum.",
+      "Aide les héros à rester actifs plus longtemps.",
+      "Améliore l'efficacité du farm.",
+      "Dispose d'un projectile magique rebondissant unique.",
+      "Fort choix pour les héros dépendants du mana."
+    ],
+    "weaknesses": [
+      "Moins efficace sur les héros qui n'utilisent pas fréquemment le mana.",
+      "Fournit moins de dégâts directs que les objets offensifs dédiés.",
+      "L'effet du projectile magique est basé sur la chance.",
+      "Nécessite un farm actif pour maximiser la restauration de mana."
+    ],
+    "tips": [
+      "Détruire des buissons est un excellent moyen de restaurer du mana.",
+      "L'objet devient plus précieux plus fréquemment votre héros lance des sorts.",
+      "Le projectile magique peut aider à nettoyer plusieurs buissons avec une seule attaque.",
+      "La vitesse de déplacement au niveau maximum permet à certains héros de se passer des bottes de base.",
+      "Les lanceurs de sorts gagnent généralement le plus de valeur de Faucheur Glacial.",
+      "Le projectile rebondissant peut parfois toucher des cibles que vous n'attaquiez pas directement."
+    ],
+    "bestHeroes": {
+      "viverna": "Viverna compte fortement sur le mana et les dégâts de sorts tout au long du match. La restauration de mana l'aide à continuer à lancer des capacités, tandis que la Puissance de Sort supplémentaire améliore l'efficacité de ses attaques magiques.",
+      "faerie": "Fée bénéficie de chaque aspect de Faucheur Glacial. Le mana supplémentaire lui permet de lancer des capacités plus fréquemment, la Puissance de Sort augmente ses dégâts, et la vitesse de déplacement améliore sa mobilité."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Faucheur Glacial ?",
+        "a": "Faucheur Glacial est disponible dès le début du jeu. Comme tous les objets Mystiques, il ne nécessite pas de progression de héros pour être débloqué."
+      },
+      {
+        "q": "Comment Faucheur Glacial restaure-t-il le mana ?",
+        "a": "Le mana est restauré chaque fois que vous détruisez des buissons, des sbires ou des héros ennemis."
+      },
+      {
+        "q": "Que fait la hache magique ?",
+        "a": "La hache magique convertit l'attaque en Dégâts Magiques et rebondit sur une cible supplémentaire, lui permettant de toucher plusieurs ennemis ou buissons."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Faucheur Glacial ?",
+        "a": "Viverna et Fée comptent parmi les utilisateurs les plus forts car elles comptent fortement sur le mana et les dégâts de sorts."
+      },
+      {
+        "q": "Faucheur Glacial est-il bon pour le farm ?",
+        "a": "Oui. L'effet de restauration de mana et le projectile magique rebondissant aident tous deux à améliorer l'efficacité du farm."
+      },
+      {
+        "q": "Faucheur Glacial peut-il remplacer les Bottes ?",
+        "a": "Pour certains héros, oui. Le bonus de vitesse de déplacement permet à certains builds de gagner de la mobilité sans dédier un emplacement d'objet aux bottes traditionnelles."
+      }
+    ]
+  },
+  "ClawsOfFerocity": {
+    "description": "Griffes de Férocité est un objet offensif qui augmente les dégâts de coup critique et accorde de la Santé bonus. Conçu pour les builds axés sur les coups critiques, il amplifie l'impact de chaque coup critique réussi tout en fournissant une survivabilité que la plupart des objets purement offensifs n'ont pas.",
+    "whyUse": "Griffes de Férocité est conçu pour les héros qui ont déjà accès à la chance de coup critique. Contrairement aux objets qui se concentrent sur l'augmentation de la fréquence des coups critiques, Griffes de Férocité se concentre sur l'augmentation de leur impact — chaque coup critique réussi devient considérablement plus fort. L'objet fournit également de la Santé bonus, le rendant étonnamment durable pour un objet offensif.",
+    "strengths": [
+      "Augmente les dégâts de coup critique.",
+      "Fournit de la Santé bonus.",
+      "Accorde une chance de coup critique supplémentaire.",
+      "Excellente synergie avec d'autres objets de coup critique.",
+      "Fort sur les héros avec des effets de coup critique intégrés.",
+      "Améliore à la fois l'offensive et la survivabilité."
+    ],
+    "weaknesses": [
+      "Relativement faible sans d'autres sources de chance de coup critique.",
+      "Fournit moins de dégâts directs que certains objets offensifs.",
+      "Les coups critiques restent basés sur la chance.",
+      "Moins efficace sur les héros qui ne comptent pas sur les dégâts physiques."
+    ],
+    "tips": [
+      "Griffes de Férocité est le plus fort quand combiné avec une chance de coup critique supplémentaire.",
+      "L'objet augmente la valeur de chaque coup critique que vous portez.",
+      "La Santé bonus rend l'objet plus sûr que beaucoup d'alternatives purement offensives.",
+      "Les builds de coup critique bénéficient généralement plus de cet objet que les builds de dégâts standard.",
+      "Envisagez d'associer Griffes de Férocité avec Serres Létales pour une efficacité maximale.",
+      "Les héros avec des effets de coup critique intégrés gagnent une valeur exceptionnelle de cet objet."
+    ],
+    "bestHeroes": {
+      "death-slayer": "Trancheur de Mort a déjà accès aux effets de coup critique via ses capacités. Augmenter les dégâts de ces coups critiques améliore significativement son potentiel de burst, tandis que la Santé supplémentaire l'aide à survivre assez longtemps pour bénéficier pleinement de sa puissance offensive."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Griffes de Férocité ?",
+        "a": "Griffes de Férocité est disponible dès le début du jeu. Comme tous les objets Mystiques, elles ne nécessitent pas de progression de héros pour être débloquées."
+      },
+      {
+        "q": "Que font les Griffes de Férocité ?",
+        "a": "Griffes de Férocité augmentent les dégâts de coup critique, accordent de la Santé bonus et fournissent une chance de coup critique supplémentaire."
+      },
+      {
+        "q": "Combien de dégâts les coups critiques infligent-ils avec Griffes de Férocité ?",
+        "a": "Normalement, les coups critiques infligent 50% de dégâts physiques supplémentaires. Griffes de Férocité augmente ce bonus à 75%."
+      },
+      {
+        "q": "Griffes de Férocité fonctionne-t-elles bien avec Serres Létales ?",
+        "a": "Oui. Serres Létales augmente la chance de coup critique, tandis que Griffes de Férocité augmente les dégâts de coup critique. Ensemble, elles forment l'une des combinaisons de coup critique les plus fortes de Spelltroum."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Griffes de Férocité ?",
+        "a": "Trancheur de Mort, Volcarn et Furie des Ombres comptent parmi les utilisateurs les plus forts car ils peuvent de manière fiable tirer avantage des mécaniques de coup critique."
+      },
+      {
+        "q": "Griffes de Férocité est-elles un objet de survivabilité ou de dégâts ?",
+        "a": "C'est principalement un objet de dégâts, mais la Santé bonus fournit une survivabilité précieuse que de nombreux objets de coup critique n'ont normalement pas."
+      }
+    ]
+  },
+  "Cuirass": {
+    "description": "Cuirasse est l'objet de référence quand votre héros a besoin de plus de survivabilité. Il fournit une grande augmentation de Santé maximale, bénéfique à pratiquement chaque héros quelle que soit la composition de build.",
+    "whyUse": "Cuirasse est l'objet de référence quand votre héros a besoin de plus de survivabilité. De nombreux builds se concentrent fortement sur les dégâts, la vitesse d'attaque, la puissance de sort ou l'utilité. Bien que ces builds puissent être puissants, ils laissent souvent les héros vulnérables pendant les combats d'équipe. Cuirasse résout ce problème en fournissant une grande augmentation de la Santé maximale. L'objet est particulièrement précieux car la santé bénéficie à chaque héros quel que soit son style de jeu.",
+    "strengths": [
+      "Fournit une très grande quantité de Santé",
+      "Efficace sur presque chaque héros",
+      "Excellent pour équilibrer les builds offensifs",
+      "Améliore la survivabilité tout au long du match",
+      "Accorde des avantages de régénération supplémentaires aux niveaux plus élevés"
+    ],
+    "weaknesses": [
+      "N'augmente pas les dégâts",
+      "Ne fournit aucun bonus de mobilité",
+      "Peut être moins précieux si votre build contient déjà plusieurs objets défensifs"
+    ],
+    "tips": [
+      "Cuirasse est souvent un bon achat quand la plupart de vos autres objets fournissent peu ou pas de Santé.",
+      "Même le premier niveau peut considérablement augmenter la survivabilité en début de partie.",
+      "Les héros avec une armure naturellement élevée gagnent une valeur exceptionnelle de la Santé bonus.",
+      "Envisagez d'améliorer Cuirasse si les combats durent plus longtemps et que vous êtes fréquemment éliminé avant d'utiliser toutes vos capacités.",
+      "Les bonus de régénération deviennent plus perceptibles lors de matchs prolongés."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Son armure naturellement élevée rend chaque point de Santé supplémentaire plus précieux, lui permettant d'absorber significativement plus de dégâts pendant les combats.",
+      "faerie": "Investit souvent fortement dans la puissance de sort et les objets axés sur le mana. Cuirasse aide à compenser le manque de survivabilité.",
+      "viverna": "Comme de nombreux builds orientés mage priorisent les dégâts sur la durabilité, Cuirasse fournit un moyen efficace de devenir beaucoup plus difficile à éliminer."
+    },
+    "faq": [
+      {
+        "q": "Cuirasse vaut-elle la peine d'être achetée sur les héros de dégâts ?",
+        "a": "Oui. De nombreux builds axés sur les dégâts deviennent significativement plus forts quand ils incluent au moins un objet défensif. Cuirasse est l'un des moyens les plus faciles d'améliorer la survivabilité."
+      },
+      {
+        "q": "Cuirasse est-elle uniquement pour les tanks ?",
+        "a": "Non. Bien que les tanks bénéficient grandement de Cuirasse, les mages et les dealers de dégâts l'achètent souvent pour éviter d'être éliminés trop rapidement."
+      },
+      {
+        "q": "Quand dois-je améliorer Cuirasse ?",
+        "a": "Si vous avez du mal à survivre aux combats d'équipe ou êtes fréquemment défait avant d'utiliser vos capacités, améliorer Cuirasse est souvent un bon investissement."
+      }
+    ]
+  },
+  "Helmet": {
+    "description": "Casque de Garde est l'objet de référence contre les puissants lanceurs de sorts. Il réduit considérablement les dégâts magiques entrants tout en augmentant la Puissance de Sort du porteur, offrant à la fois avantages défensifs et offensifs.",
+    "whyUse": "Casque de Garde est l'objet de référence quand vous faites face à de puissants lanceurs de sorts. L'objet réduit considérablement les dégâts magiques entrants, permettant aux héros de survivre à des capacités qui seraient autrement dévastatrices. En même temps, Casque de Garde augmente la Puissance de Sort, assurant que le propriétaire continue à bénéficier offensivement. Puisque la Puissance de Sort améliore toutes les capacités dans Spelltroum — y compris les capacités qui infligent des Dégâts Physiques — Casque de Garde fournit de la valeur à une grande variété de héros.",
+    "strengths": [
+      "Fournit une grande quantité de Résistance Magique.",
+      "Augmente la Puissance de Sort.",
+      "Fort contre les lanceurs de sorts.",
+      "Efficace sur les mages et les non-mages.",
+      "Aide à survivre aux dégâts de burst.",
+      "Excellent choix défensif dans les matchs avec de nombreux mages."
+    ],
+    "weaknesses": [
+      "Fournit peu de valeur contre les équipes qui comptent principalement sur les dégâts physiques.",
+      "N'augmente pas la durabilité physique.",
+      "Moins efficace quand les ennemis ont des dégâts magiques limités.",
+      "Souvent inutile contre des compositions d'équipe purement physiques."
+    ],
+    "tips": [
+      "Casque de Garde est le plus efficace contre les équipes avec plusieurs lanceurs de sorts.",
+      "La Résistance Magique devient plus précieuse à mesure que les dégâts de sorts ennemis augmentent.",
+      "Les héros avec de grandes réserves de Santé gagnent une valeur exceptionnelle de la Résistance Magique.",
+      "Une ou deux améliorations sont souvent suffisantes en début de partie.",
+      "L'objet fournit à la fois des avantages défensifs et offensifs.",
+      "Envisagez Casque de Garde chaque fois que les capacités ennemies deviennent difficiles à survivre."
+    ],
+    "bestHeroes": {
+      "volcarn": "Volcarn peut être vulnérable aux dégâts de burst des lanceurs de sorts, et Casque de Garde l'aide à survivre assez longtemps pour évoluer en puissante menace de fin de partie. La Puissance de Sort supplémentaire améliore également l'efficacité de ses capacités.",
+      "grizzly": "Dans les matchups mage contre mage, Casque de Garde est souvent un bon choix. L'objet réduit les dégâts de sorts entrants tout en augmentant simultanément la Puissance de Sort.",
+      "faerie": "Quand elle affronte d'autres lanceurs de sorts, la Résistance Magique supplémentaire peut considérablement améliorer la survivabilité tout en améliorant ses dégâts de capacités."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Casque de Garde ?",
+        "a": "Casque de Garde est disponible dès le début du jeu. Comme tous les objets Mystiques, il ne nécessite pas de progression de héros pour être débloqué."
+      },
+      {
+        "q": "Casque de Garde fonctionne-t-il uniquement sur les mages ?",
+        "a": "Non. N'importe quel héros peut bénéficier de la Résistance Magique. De nombreux héros de dégâts physiques achètent Casque de Garde quand ils font face à de forts lanceurs de sorts."
+      },
+      {
+        "q": "La Puissance de Sort améliore-t-elle les capacités physiques ?",
+        "a": "Oui. Dans Spelltroum, la Puissance de Sort améliore toutes les capacités, y compris les capacités qui infligent des Dégâts Physiques."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Casque de Garde ?",
+        "a": "Volcarn, Grizzly, Gardien de Pierre, Viverna et Fée comptent parmi les utilisateurs les plus forts, surtout quand ils font face à des adversaires à magie lourde."
+      },
+      {
+        "q": "Casque de Garde est-il un objet contre ?",
+        "a": "Oui. Casque de Garde est principalement un objet contre conçu pour réduire les dégâts magiques entrants et améliorer la survivabilité contre les lanceurs de sorts."
+      },
+      {
+        "q": "Dois-je améliorer complètement Casque de Garde immédiatement ?",
+        "a": "Généralement non. De nombreux joueurs achètent une ou deux améliorations tôt pour la protection et complètent l'objet plus tard si une Résistance Magique supplémentaire devient nécessaire."
+      }
+    ]
+  },
+  "TitansHelmet": {
+    "description": "Casque de Titan est un objet défensif Légendaire débloqué en améliorant Gardien de Pierre. Il fournit de l'Armure Physique, de la Puissance de Sort et un puissant effet de Réflexion de Dégâts qui punit les ennemis qui attaquent le porteur. Chaque fois que le propriétaire subit des dégâts, une partie est réfléchie à l'attaquant en Dégâts Purs — ignorant à la fois l'Armure Physique et Magique.",
+    "whyUse": "Casque de Titan est conçu pour les héros qui s'attendent à être attaqués. Au lieu de simplement réduire les dégâts entrants, il punit activement les ennemis pour avoir infligé des dégâts — chaque attaque contre le porteur a un coût, forçant les adversaires à réfléchir soigneusement avant de s'engager dans des combats prolongés. L'effet de réflexion est particulièrement puissant contre les builds de vol de vie, puisque les Dégâts Purs réfléchis compensent immédiatement la Santé que les ennemis récupèrent.",
+    "strengths": [
+      "Réfléchit les dégâts entrants.",
+      "Les dégâts réfléchis ignorent l'armure.",
+      "Fournit une forte Armure Physique.",
+      "Accorde de la Puissance de Sort.",
+      "Excellent contre les builds de vol de vie.",
+      "Efficace sur les tanks et certains lanceurs de sorts.",
+      "Punit les ennemis qui se concentrent sur le porteur."
+    ],
+    "weaknesses": [
+      "Moins efficace si les ennemis évitent d'attaquer le porteur.",
+      "Fournit moins de Santé directe que les objets de Santé dédiés.",
+      "Les dégâts de réflexion dépendent de subir des dégâts en premier.",
+      "Généralement le plus fort sur les héros durables."
+    ],
+    "tips": [
+      "Casque de Titan est le plus fort sur les héros capables de survivre à de longs combats.",
+      "Les héros à haute Santé gagnent généralement le plus de valeur de Casque de Titan.",
+      "Associez Casque de Titan avec des objets axés sur la Santé pour une durabilité maximale.",
+      "La réflexion de dégâts est particulièrement efficace contre les héros qui attaquent rapidement."
+    ],
+    "faq": [
+      {
+        "q": "Comment fonctionne la Réflexion de Dégâts ?",
+        "a": "Chaque fois que le porteur subit des dégâts, une partie de ces dégâts est réfléchie à l'attaquant en Dégâts Purs."
+      },
+      {
+        "q": "Les dégâts réfléchis ignorent-ils l'armure ?",
+        "a": "Oui. La Réflexion de Dégâts inflige des Dégâts Purs et n'est pas réduite par l'Armure Physique ou Magique."
+      }
+    ]
+  },
+  "BoneCuirass": {
+    "description": "Cuirasse d'Os est un objet défensif qui fournit une grande quantité de Santé et donne aux attaques une chance de ralentir la vitesse de déplacement des ennemis. L'effet de ralentissement peut empêcher les ennemis de s'échapper et créer des opportunités pour que vos alliés se concentrent sur une cible.",
+    "whyUse": "Cuirasse d'Os est conçue pour les héros qui ont besoin à la fois de durabilité et de contrôle de foule. Le grand bonus de Santé rend les héros significativement plus difficiles à éliminer, tandis que l'effet de ralentissement crée des opportunités pour chasser les ennemis, protéger les coéquipiers et sécuriser des kills. L'objet devient particulièrement puissant dans le jeu coordonné, où plusieurs héros peuvent se concentrer sur une cible ralentie avant qu'elle n'ait une chance de s'enfuir.",
+    "strengths": [
+      "Fournit une grande quantité de Santé.",
+      "Peut ralentir la vitesse de déplacement ennemie.",
+      "Aide les héros à rester près de leurs cibles.",
+      "Fort dans le jeu d'équipe coordonné.",
+      "Améliore à la fois la survivabilité et l'utilité.",
+      "Efficace à toutes les étapes du match."
+    ],
+    "weaknesses": [
+      "L'effet de ralentissement est basé sur la chance.",
+      "Fournit moins de dégâts directs que les objets offensifs.",
+      "Moins précieux contre les ennemis qui ne comptent pas sur le mouvement.",
+      "N'augmente pas les dégâts d'attaque ou la puissance de sort."
+    ],
+    "tips": [
+      "Cuirasse d'Os est particulièrement efficace quand plusieurs alliés se concentrent sur la même cible.",
+      "L'effet de ralentissement facilite la sécurisation des kills.",
+      "Les héros qui attaquent fréquemment ont plus d'opportunités d'appliquer le ralentissement.",
+      "La Santé supplémentaire rend l'objet utile même quand le ralentissement ne se déclenche pas.",
+      "Envisagez Cuirasse d'Os si les ennemis s'échappent fréquemment avec peu de Santé.",
+      "L'objet est particulièrement fort dans les modes en équipe."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Cuirasse d'Os ?",
+        "a": "Cuirasse d'Os est débloquée via le système de Récompenses Quotidiennes. Connectez-vous simplement et réclamez vos récompenses quotidiennes pour débloquer l'objet."
+      },
+      {
+        "q": "Que fait Cuirasse d'Os ?",
+        "a": "Cuirasse d'Os fournit de la Santé bonus et donne aux attaques une chance de ralentir les ennemis."
+      },
+      {
+        "q": "Quand l'effet de ralentissement devient-il disponible ?",
+        "a": "L'effet de ralentissement devient disponible après avoir amélioré Cuirasse d'Os."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Cuirasse d'Os ?",
+        "a": "Druide, Volcarn et Mortifier comptent parmi les utilisateurs les plus forts car ils bénéficient grandement du maintien des ennemis à portée d'attaque."
+      },
+      {
+        "q": "Cuirasse d'Os est-elle bonne en jeu d'équipe ?",
+        "a": "Oui. Cuirasse d'Os est particulièrement puissante quand les coéquipiers se concentrent sur la même cible, rendant beaucoup plus difficile la fuite pour les ennemis."
+      },
+      {
+        "q": "Cuirasse d'Os est-elle un objet défensif ou utilitaire ?",
+        "a": "Les deux. L'objet fournit une grande quantité de Santé tout en offrant du contrôle de foule via son effet de ralentissement."
+      }
+    ]
+  },
+  "DragonCuirass": {
+    "description": "Cuirasse du Dragon est un objet offensif-économique qui accorde de la Santé bonus et génère de l'or supplémentaire chaque fois que vous aidez à éliminer un ennemi. Conçu pour les styles de jeu agressifs, il récompense les joueurs qui s'impliquent activement dans les combats et créent des avantages économiques via des kills.",
+    "whyUse": "Cuirasse du Dragon est conçue pour les joueurs qui prévoient de sécuriser des kills tôt et souvent. L'objet fournit de la Santé bonus pour aider les héros à survivre aux engagements agressifs, tandis que son bonus de récompense de kill génère de l'or supplémentaire chaque fois que des ennemis sont éliminés. Cela crée un puissant effet de snowball — plus vous sécurisez de kills, plus vous gagnez d'or, et plus vite vous complétez votre build.",
+    "strengths": [
+      "Fournit de la Santé bonus.",
+      "Accorde de l'or supplémentaire pour les kills ennemis.",
+      "Excellent potentiel de snowball.",
+      "Fort objet de début de partie.",
+      "Récompense les styles de jeu agressifs.",
+      "Disponible dès le début du jeu."
+    ],
+    "weaknesses": [
+      "Nécessite des kills pour atteindre sa pleine valeur.",
+      "Moins efficace dans les matchs passifs.",
+      "Fournit moins de puissance de combat directe que certains autres objets.",
+      "Peut être un mauvais investissement si vous prenez du retard tôt."
+    ],
+    "tips": [
+      "Cuirasse du Dragon est le plus fort quand acheté tôt.",
+      "L'objet récompense le jeu agressif et les combats fréquents.",
+      "L'or supplémentaire est le plus précieux quand converti rapidement en améliorations d'objets.",
+      "Coordonnez-vous avec vos coéquipiers pour sécuriser plus d'éliminations.",
+      "Le bonus de Santé vous aide à survivre aux engagements risqués.",
+      "Cuirasse du Dragon est souvent plus efficace dans les matchs au rythme rapide que dans les jeux de farm passif."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Cuirasse du Dragon ?",
+        "a": "Cuirasse du Dragon est disponible dès le début du jeu. Comme tous les objets Mystiques, elle ne nécessite pas de progression de héros pour être débloquée."
+      },
+      {
+        "q": "Comment fonctionne Cuirasse du Dragon ?",
+        "a": "Cuirasse du Dragon accorde de l'or supplémentaire chaque fois que vous aidez à sécuriser des éliminations ennemies."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Cuirasse du Dragon ?",
+        "a": "Les héros agressifs comme Viverna, Druide et Trancheur de Mort comptent parmi les utilisateurs les plus forts car ils peuvent de manière fiable sécuriser des kills."
+      },
+      {
+        "q": "Cuirasse du Dragon est-elle bonne pour le farm ?",
+        "a": "Pas principalement. Cuirasse du Dragon est conçue pour récompenser les kills plutôt que la collecte passive de ressources."
+      },
+      {
+        "q": "Cuirasse du Dragon contre-t-elle Bâton de Sorcier ?",
+        "a": "Dans de nombreuses situations, oui. Bâton de Sorcier récompense les joueurs pour mourir, tandis que Cuirasse du Dragon récompense les joueurs pour sécuriser des kills."
+      },
+      {
+        "q": "Quand dois-je acheter Cuirasse du Dragon ?",
+        "a": "Cuirasse du Dragon est généralement le plus forte quand achetée tôt, vous permettant de faire du snowball de votre avantage économique via le jeu agressif."
+      }
+    ]
+  },
+  "DruidCuirass": {
+    "description": "Cuirasse du Druide est un objet de maintien unique qui restaure de la Santé chaque fois que vous éliminez un buisson, un sbire ou un héros ennemi. La quantité de soin est basée sur la Santé maximale de la cible, ce qui signifie que l'élimination de cibles durables peut fournir des bursts de soin massifs.",
+    "whyUse": "Cuirasse du Druide est conçue pour les héros qui sécurisent fréquemment des kills. Contrairement aux objets défensifs traditionnels qui augmentent simplement la survivabilité, elle récompense activement le farm et le combat réussis — chaque buisson détruit, sbire éliminé ou héros ennemi vaincu contribue à votre survivabilité en restaurant de la Santé. L'objet est particulièrement puissant lors de combats en chaîne où plusieurs ennemis sont vaincus successivement.",
+    "strengths": [
+      "Fournit une grande quantité de Santé bonus.",
+      "Restaure de la Santé depuis les kills.",
+      "Efficace pendant le farm et le combat.",
+      "Excellent objet de maintien.",
+      "Récompense les styles de jeu agressifs.",
+      "Peut fournir un soin massif depuis les cibles durables."
+    ],
+    "weaknesses": [
+      "Nécessite des kills pour activer son effet.",
+      "Fournit moins de valeur quand on prend du retard.",
+      "Moins fiable que la régénération passive.",
+      "N'offre aucune augmentation directe des dégâts."
+    ],
+    "tips": [
+      "Cuirasse du Druide récompense les héros qui sécurisent constamment des kills.",
+      "Les buissons et les sbires peuvent fournir du soin comme les héros ennemis.",
+      "L'objet devient plus précieux dans les zones avec de nombreuses opportunités de farm.",
+      "Éliminer des cibles à haute Santé fournit des soins significativement plus importants.",
+      "Les capacités de zone peuvent déclencher fréquemment le soin.",
+      "Cuirasse du Druide est le plus fort quand utilisée agressivement."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Cuirasse du Druide ?",
+        "a": "Cuirasse du Druide est disponible dès le début du jeu. Comme tous les objets Mystiques, elle ne nécessite pas de progression de héros pour être débloquée."
+      },
+      {
+        "q": "Cuirasse du Druide fonctionne-t-elle sur les buissons ?",
+        "a": "Oui. Détruire des buissons peut déclencher l'effet de soin."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Cuirasse du Druide ?",
+        "a": "Spiritmonger, Viverna et Fée comptent parmi les utilisateurs les plus forts car elles peuvent fréquemment éliminer plusieurs cibles avec leurs capacités."
+      },
+      {
+        "q": "Cuirasse du Druide est-elle bonne pour le farm ?",
+        "a": "Oui. L'objet fournit du soin depuis les buissons et les sbires, en faisant l'un des objets de maintien les plus forts pour les styles de jeu axés sur le farm."
+      },
+      {
+        "q": "Cuirasse du Druide est-elle meilleure qu'un objet de Santé normal ?",
+        "a": "Cela dépend. Cuirasse du Druide peut fournir bien plus de soin qu'un objet de Santé normal si vous sécurisez constamment des kills, mais elle offre moins de valeur quand vous ne pouvez pas finir les cibles."
+      }
+    ]
+  },
+  "MageCloak": {
+    "description": "Cape de Mage est un objet utilitaire simple qui augmente à la fois la Santé maximale et le Mana maximum. C'est un excellent choix pour les héros qui ont besoin de plus de ressources et de survivabilité sans sacrifier les emplacements d'objets pour des objets hautement spécialisés.",
+    "whyUse": "Cape de Mage est conçue pour les héros qui ont besoin de mana supplémentaire sans sacrifier la survivabilité. De nombreux héros atteignent éventuellement un point où leurs capacités deviennent puissantes mais coûteuses — dans ces situations, avoir une plus grande réserve de mana peut faire la différence entre lancer une capacité importante ou être forcé d'attendre. En même temps, Cape de Mage fournit de la Santé bonus.",
+    "strengths": [
+      "Fournit à la fois Santé et Mana.",
+      "Augmente l'utilisation des capacités pendant les combats.",
+      "Aide les héros à survivre plus longtemps.",
+      "S'adapte à une grande variété de builds.",
+      "Excellent objet utilitaire pour les héros dépendants du mana.",
+      "Valeur simple et fiable."
+    ],
+    "weaknesses": [
+      "Ne fournit aucune augmentation directe des dégâts.",
+      "N'offre aucune armure ou résistance.",
+      "Moins utile pour les héros qui manquent rarement de mana.",
+      "Peut être surpassé par des objets spécialisés dans certains builds."
+    ],
+    "tips": [
+      "Cape de Mage est souvent plus forte qu'un objet de Santé pur quand le mana limite votre utilisation des capacités.",
+      "Envisagez Cape de Mage si vous manquez fréquemment de mana avant la fin des combats.",
+      "L'objet fonctionne particulièrement bien dans les builds qui contiennent déjà plusieurs objets offensifs.",
+      "Le mana supplémentaire peut parfois être plus précieux que des dégâts supplémentaires.",
+      "Cape de Mage est le plus efficace sur les héros avec des capacités coûteuses.",
+      "La Santé bonus aide à compenser le manque de statistiques défensives dans de nombreux builds offensifs."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Cape de Mage ?",
+        "a": "Cape de Mage est disponible dès le début du jeu. Comme tous les objets Mystiques, elle ne nécessite pas de progression de héros pour être débloquée."
+      },
+      {
+        "q": "Que fait Cape de Mage ?",
+        "a": "Cape de Mage augmente votre Santé et votre Mana maximums."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Cape de Mage ?",
+        "a": "Freezi et Furie des Ombres comptent parmi les héros qui en bénéficient communément car ils ont souvent besoin à la fois de mana supplémentaire et de survivabilité."
+      },
+      {
+        "q": "Cape de Mage est-elle uniquement pour les mages ?",
+        "a": "Non. N'importe quel héros qui a besoin d'une plus grande réserve de mana peut bénéficier de Cape de Mage, qu'il inflige principalement des dégâts physiques ou magiques."
+      },
+      {
+        "q": "Quand dois-je acheter Cape de Mage ?",
+        "a": "Cape de Mage est un fort choix quand vos capacités consomment trop de mana ou quand votre build manque à la fois de Santé et de Mana."
+      },
+      {
+        "q": "Cape de Mage augmente-t-elle les dégâts ?",
+        "a": "Non. Cape de Mage n'augmente pas directement les dégâts. Son but est de fournir des ressources supplémentaires et de la survivabilité."
+      }
+    ]
+  },
+  "ManaShield": {
+    "description": "Bouclier de Mana est un objet défensif unique débloqué en améliorant Tisseneur de Flammes. Il absorbe une partie des dégâts entrants en consommant du mana plutôt que de la Santé, transformant efficacement votre réserve de mana en une couche de défense supplémentaire. Plus votre réserve de mana est grande, plus Bouclier de Mana peut absorber de dégâts.",
+    "whyUse": "Bouclier de Mana est conçu pour les héros avec de grandes réserves de mana. Plus un héros a de mana, plus Bouclier de Mana peut absorber de dégâts avant que la Santé ne commence à baisser significativement — transformant efficacement le mana en une couche de défense supplémentaire. Pour les héros qui construisent naturellement du mana ou bénéficient d'objets basés sur le mana, Bouclier de Mana peut fournir bien plus de survivabilité que l'équipement défensif traditionnel.",
+    "strengths": [
+      "Convertit une partie des dégâts entrants en perte de mana.",
+      "Augmente grandement la survivabilité sur les héros à mana élevé.",
+      "Se développe avec le mana maximum.",
+      "Fonctionne exceptionnellement bien avec les builds axés sur le mana.",
+      "Peut rendre les héros robustes encore plus difficiles à éliminer.",
+      "Fournit de la régénération de mana en plus de son effet défensif."
+    ],
+    "weaknesses": [
+      "Nécessite une grande réserve de mana pour atteindre son plein potentiel.",
+      "Moins efficace sur les héros avec peu de mana.",
+      "Peut laisser les héros incapables de lancer des capacités si le mana est épuisé.",
+      "Vulnérable aux effets de brûlure de mana.",
+      "Fournit moins de valeur quand on combat des ennemis capables de drainer rapidement le mana."
+    ],
+    "tips": [
+      "Bouclier de Mana devient plus fort à mesure que votre mana maximum augmente.",
+      "Les héros avec de grandes réserves de mana gagnent le plus de valeur de l'objet.",
+      "Envisagez de combiner Bouclier de Mana avec d'autres objets axés sur le mana.",
+      "Essayez d'éviter de gaspiller du mana inutilement avant les combats importants.",
+      "Bouclier de Mana est souvent plus efficace sur les héros durables que les héros fragiles.",
+      "Surveillez votre mana attentivement — en manquer supprime également une grande partie de la protection."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Bouclier de Mana ?",
+        "a": "Bouclier de Mana est débloqué en améliorant Tisseneur de Flammes."
+      },
+      {
+        "q": "Comment fonctionne Bouclier de Mana ?",
+        "a": "Bouclier de Mana absorbe une partie des dégâts entrants en consommant du mana. Au lieu que tous les dégâts soient infligés à la Santé, une partie est redirigée vers votre réserve de mana."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bouclier de Mana ?",
+        "a": "Tisseneur de Flammes est l'utilisateur le plus fort car il construit naturellement des objets axés sur le mana. Gardien de Pierre peut également utiliser Bouclier de Mana efficacement dans certains builds défensifs."
+      },
+      {
+        "q": "Bouclier de Mana est-il bon sur chaque héros ?",
+        "a": "Non. Les héros avec de petites réserves de mana gagnent souvent une valeur limitée car leur mana s'épuise trop rapidement."
+      },
+      {
+        "q": "Qu'est-ce qui contre Bouclier de Mana ?",
+        "a": "Les effets de brûlure de mana sont l'un des compteurs les plus forts à Bouclier de Mana. Des objets comme Hache de Mana peuvent rapidement drainer le mana tout en infligeant des dégâts, supprimant la protection que Bouclier de Mana fournit."
+      },
+      {
+        "q": "Dois-je build plus de mana si j'achète Bouclier de Mana ?",
+        "a": "Oui. Bouclier de Mana devient significativement plus fort quand combiné avec des objets qui augmentent le mana maximum ou améliorent le maintien du mana."
+      }
+    ]
+  },
+  "Hammer": {
+    "description": "Marteau Étourdissant est un objet Mystique qui fournit des points de vie bonus et donne aux attaques une chance d'étourdir les ennemis. Quand l'étourdissement se déclenche, la cible devient incapable de se déplacer, d'attaquer ou de lancer des compétences pendant une courte durée. Même un étourdissement d'une seconde peut complètement changer l'issue d'un combat. Pour éviter des chaînes d'étourdissement permanentes, l'objet a un temps de recharge interne après un étourdissement réussi.",
+    "whyUse": "Marteau Étourdissant est conçu pour les héros qui attaquent fréquemment. Plus un héros effectue d'attaques, plus il a d'opportunités de déclencher l'étourdissement — rendant la vitesse d'attaque l'une des statistiques les plus importantes avec cet objet. L'objet fournit également des points de vie bonus, le rendant utile même quand l'étourdissement ne s'active pas. Un seul étourdissement au bon moment peut interrompre des compétences, empêcher un ennemi de fuir, ou donner à votre équipe assez de temps pour sécuriser une élimination.",
+    "strengths": [
+      "Fournit des points de vie bonus.",
+      "Donne aux attaques une chance d'étourdir.",
+      "Excellent contrôle de foule.",
+      "Fort sur les héros à haute vitesse d'attaque.",
+      "Efficace tout au long du match.",
+      "Peut interrompre les compétences et tentatives de fuite ennemies."
+    ],
+    "weaknesses": [
+      "L'effet d'étourdissement est aléatoire.",
+      "Moins efficace sur les héros à faible vitesse d'attaque.",
+      "Fournit moins de dégâts directs que les objets offensifs.",
+      "Le temps de recharge interne empêche les étourdissements continus."
+    ],
+    "tips": [
+      "La vitesse d'attaque augmente considérablement la valeur de Marteau Étourdissant.",
+      "Un seul étourdissement peut suffire à sécuriser une élimination.",
+      "L'objet est particulièrement efficace contre les héros qui dépendent de la mobilité.",
+      "Marteau Étourdissant fonctionne mieux lors de combats prolongés où de nombreuses attaques sont portées.",
+      "Envisagez d'améliorer l'objet au niveau 2 tôt pour débloquer l'effet d'étourdissement.",
+      "Les points de vie bonus rendent l'objet utile même quand les étourdissements ne se déclenchent pas."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Marteau Étourdissant ?",
+        "a": "Marteau Étourdissant est disponible dès le début du jeu. Comme tous les objets Mystiques, il ne nécessite pas de progression de héros pour être débloqué."
+      },
+      {
+        "q": "Comment fonctionne Marteau Étourdissant ?",
+        "a": "Les attaques ont une chance d'étourdir les ennemis, les empêchant de se déplacer, d'attaquer ou de lancer des compétences pendant une courte durée."
+      },
+      {
+        "q": "Marteau Étourdissant peut-il étourdir les ennemis en permanence ?",
+        "a": "Non. Après un étourdissement réussi, l'objet entre dans un court temps de recharge interne avant qu'un autre étourdissement puisse se produire."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Marteau Étourdissant ?",
+        "a": "Furie des Ombres, Lançe-feu et Volcarn comptent parmi les utilisateurs les plus forts car leur haute vitesse d'attaque leur donne plus d'opportunités de déclencher l'étourdissement."
+      },
+      {
+        "q": "Quand dois-je améliorer Marteau Étourdissant ?",
+        "a": "De nombreux joueurs l'améliorent au niveau 2 tôt pour débloquer l'étourdissement, puis finissent de l'améliorer plus tard quand ils ont besoin d'une chance d'étourdissement plus élevée."
+      },
+      {
+        "q": "Marteau Étourdissant est-il un objet de dégâts ?",
+        "a": "Pas principalement. Marteau Étourdissant est principalement un objet utilitaire et de contrôle qui fournit de la santé et du contrôle de foule plutôt que des dégâts directs."
+      }
+    ]
+  },
+  "ReapersEmbrace": {
+    "description": "Étreinte du Faucheur est un objet Mystique qui combine puissance offensive, survivabilité et régénération. Il accorde du Vol de Vie Physique, du Vol de Vie de Sort, de la Résistance Magique, et une chance unique de lancer une faux spectrale qui endommage tout sur son passage. Contrairement à la plupart des objets de vol de vie qui ne bénéficient qu'aux attaquants physiques, Étreinte du Faucheur peut restaurer de la santé à partir des dégâts physiques et magiques — en faisant l'un des objets de régénération les plus polyvalents de Spelltroum.",
+    "whyUse": "Étreinte du Faucheur est conçu pour les héros qui veulent à la fois de la puissance offensive et de la survivabilité. L'objet fournit du vol de vie à partir des dégâts physiques et magiques, permettant aux héros de récupérer de la santé à travers presque toutes les formes de combat. L'un de ses plus grands avantages est que l'effet de vol de vie devient disponible dès la première amélioration. La faux spectrale ajoute encore plus de potentiel de régénération — elle se déplace en ligne droite et endommage chaque cible qu'elle traverse, générant des soins significatifs quand plusieurs ennemis ou serviteurs sont alignés.",
+    "strengths": [
+      "Fournit à la fois du Vol de Vie Physique et de Sort.",
+      "Accorde de la Résistance Magique.",
+      "Vol de vie disponible dès la première amélioration.",
+      "Fort contre les lanceurs de sorts.",
+      "Projectile de faux spectrale unique qui traverse plusieurs cibles.",
+      "Efficace sur les héros physiques et magiques.",
+      "Excellent objet hybride offensif et défensif."
+    ],
+    "weaknesses": [
+      "L'effet de faux est aléatoire.",
+      "Fournit moins de dégâts bruts que les objets offensifs dédiés.",
+      "Moins efficace sur les héros qui infligent rarement des dégâts.",
+      "Nécessite un combat actif pour bénéficier pleinement du vol de vie.",
+      "Le vol de vie ne fonctionne pas lors d'attaques de buissons."
+    ],
+    "tips": [
+      "La première amélioration fournit déjà du vol de vie, le rendant précieux tôt dans le jeu.",
+      "Étreinte du Faucheur restaure de la santé à partir des dégâts physiques et magiques.",
+      "La faux spectrale peut traverser plusieurs cibles d'un seul coup.",
+      "L'objet fonctionne sur la plupart des héros qui infligent des dégâts réguliers.",
+      "La Résistance Magique aide à survivre contre les mages ennemis.",
+      "Le vol de vie ne fonctionne pas contre les buissons."
+    ],
+    "faq": [
+      {
+        "q": "La faux spectrale s'arrête-t-elle après avoir touché un ennemi ?",
+        "a": "Non. La faux spectrale se déplace en ligne droite et endommage chaque cible qu'elle traverse."
+      }
+    ]
+  },
+  "BootsOfSpeed": {
+    "whyUse": "Bottes Vitales sont conçues pour les héros qui valorisent la mobilité et la survivabilité. La vitesse de déplacement est l'une des statistiques les plus importantes dans Spelltroum — les héros plus rapides farmient plus efficacement, se déplacent plus rapidement entre les combats et contrôlent mieux les engagements. La mécanique de Potion de Soins ajoute une autre couche de valeur : même une seule potion peut complètement changer l'issue d'un combat.",
+    "strengths": [
+      "Fournit le bonus de vitesse de déplacement le plus élevé du jeu.",
+      "Chance de trouver des Potions de Soins en détruisant des buissons.",
+      "Peut stocker des Potions de Soins supplémentaires.",
+      "Accorde de l'Armure Physique.",
+      "Excellente régénération et mobilité.",
+      "Utile tout au long du match."
+    ],
+    "weaknesses": [
+      "Dépend partiellement de la recherche de potions.",
+      "Fournit moins de dégâts directs que les objets offensifs.",
+      "Moins précieux sur les héros qui ne bénéficient pas beaucoup de la mobilité.",
+      "La génération de potions est aléatoire."
+    ],
+    "tips": [
+      "L'effet de recherche de potions devient disponible dès la première amélioration.",
+      "Conservez les Potions de Soins pour les combats importants autant que possible.",
+      "La vitesse de déplacement améliore à la fois le farm et les performances en combat.",
+      "Les héros avec de grandes réserves de points de vie gagnent une valeur supplémentaire des Potions de Soins.",
+      "Bottes Vitales peuvent fournir une survivabilité surprenante lors de matchs longs.",
+      "Porter une potion supplémentaire peut parfois décider d'un combat serré."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Bottes Vitales ?",
+        "a": "Bottes Vitales sont disponibles dès le début du jeu. Comme tous les objets Mystiques, elles ne nécessitent pas de progression de héros pour être débloquées."
+      },
+      {
+        "q": "Que font Bottes Vitales ?",
+        "a": "Bottes Vitales augmentent la vitesse de déplacement, fournissent de l'Armure Physique et permettent aux héros de trouver et transporter des Potions de Soins supplémentaires."
+      },
+      {
+        "q": "Puis-je trouver des Potions de Soins immédiatement après avoir acheté Bottes Vitales ?",
+        "a": "Oui. L'effet de recherche de potions devient disponible dès la première amélioration."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bottes Vitales ?",
+        "a": "Druide, Trancheur de Mort et Grizzly comptent parmi les utilisateurs les plus forts car ils bénéficient grandement de la mobilité et de la survivabilité."
+      },
+      {
+        "q": "Pourquoi Bottes Vitales sont-elles considérées comme un fort objet utilitaire ?",
+        "a": "Elles combinent vitesse de déplacement, Armure Physique, soins et stockage de potions supplémentaires en un seul objet, les rendant utiles dans une grande variété de situations."
+      },
+      {
+        "q": "Bottes Vitales sont-elles uniquement utiles pour les héros de mêlée ?",
+        "a": "Non. Tout héros qui valorise la mobilité et la régénération peut bénéficier de Bottes Vitales, bien que les héros de mêlée obtiennent souvent l'avantage le plus notable."
+      }
+    ]
+  },
+  "BootsOfRegen": {
+    "description": "Bottes de Régénération sont un objet Mystique qui combine haute vitesse de déplacement avec de puissants effets de régénération de santé. Ce qui les rend uniques est leur capacité à déclencher automatiquement la régénération de santé après avoir reçu un gros coup — si une seule attaque inflige plus d'un certain pourcentage des points de vie maximum du héros, l'objet s'active et commence immédiatement la régénération. Bottes de Régénération réduisent également le délai de régénération normale, permettant aux héros de récupérer plus rapidement après avoir subi des dégâts.",
+    "whyUse": "Bottes de Régénération sont conçues pour les héros qui dépendent de la mobilité et du gameplay hit-and-run. Bottes de Régénération réduisent ce délai tout en fournissant un moyen de déclencher instantanément la régénération après avoir reçu une attaque puissante. L'objet est particulièrement efficace sur les héros avec de petites réserves de points de vie, car ils déclenchent l'effet de régénération plus régulièrement.",
+    "strengths": [
+      "Fournit une haute vitesse de déplacement.",
+      "Peut déclencher la régénération après avoir subi de lourds dégâts.",
+      "Réduit le délai de régénération normale.",
+      "Excellent pour les héros mobiles.",
+      "Fort contre les dégâts en rafale.",
+      "Soutient les stratégies hit-and-run."
+    ],
+    "weaknesses": [
+      "Moins efficace sur les héros avec de très grandes réserves de points de vie.",
+      "Vulnérable aux effets de dégâts sur la durée.",
+      "Nécessite de se désengager pour bénéficier pleinement de la régénération.",
+      "Situationnel par rapport aux objets défensifs plus constants."
+    ],
+    "tips": [
+      "Bottes de Régénération sont plus fortes sur les héros avec de petites réserves de points de vie.",
+      "Le bonus de vitesse de déplacement aide à créer des opportunités de retraite et de récupération.",
+      "L'objet excelle dans les styles de jeu hit-and-run.",
+      "Évitez les combats prolongés contre les héros qui appliquent des dégâts sur la durée.",
+      "Envisagez Bottes de Régénération face à des héros à dégâts en rafale élevés.",
+      "La régénération est beaucoup plus facile à maintenir quand les ennemis ne peuvent pas vous endommager continuellement."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Bottes de Régénération ?",
+        "a": "Bottes de Régénération sont disponibles dès le début du jeu. Comme tous les objets Mystiques, elles ne nécessitent pas de progression de héros pour être débloquées."
+      },
+      {
+        "q": "Qu'est-ce qui rend Bottes de Régénération uniques ?",
+        "a": "Bottes de Régénération peuvent déclencher automatiquement la régénération de santé après que le héros reçoit un coup suffisamment important."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bottes de Régénération ?",
+        "a": "Viverna et Druide comptent parmi les utilisateurs les plus forts car ils peuvent rapidement battre en retraite, récupérer de la santé et retourner au combat."
+      }
+    ]
+  },
+  "ManaBoots": {
+    "whyUse": "Bottes de Mana sont conçues pour les héros qui manquent fréquemment de mana. Manquer de mana au mauvais moment peut complètement changer l'issue d'une bataille — Bottes de Mana aident à résoudre ce problème en fournissant une source constante de récupération de mana grâce aux potions trouvées en farmant des buissons. Contrairement aux objets de mana purs, Bottes de Mana fournissent également une excellente mobilité.",
+    "strengths": [
+      "Fournit une haute vitesse de déplacement.",
+      "Chance de trouver des Potions de Mana en détruisant des buissons.",
+      "Peut stocker des Potions de Mana supplémentaires.",
+      "Augmente le mana maximum aux niveaux supérieurs.",
+      "Excellente régénération de mana.",
+      "Fort objet utilitaire pour les héros basés sur les compétences."
+    ],
+    "weaknesses": [
+      "Ne fournit aucun dégât direct.",
+      "Moins utile pour les héros qui utilisent rarement le mana.",
+      "Dépend partiellement de la recherche de Potions de Mana.",
+      "N'offre aucune statistique défensive telle que l'armure ou les points de vie."
+    ],
+    "tips": [
+      "Les Potions de Mana peuvent être conservées pour les combats importants.",
+      "L'effet de recherche de potions devient disponible dès la première amélioration.",
+      "Les héros qui détruisent beaucoup de buissons gagnent généralement le plus de valeur de Bottes de Mana.",
+      "La vitesse de déplacement aide à la fois pour le farm et les performances en combat.",
+      "Bottes de Mana sont souvent plus fortes sur les héros qui dépendent fortement de leurs compétences.",
+      "Le mana supplémentaire au niveau maximum peut permettre à certains héros de lancer des compétences supplémentaires pendant les combats."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Bottes de Mana ?",
+        "a": "Bottes de Mana sont disponibles dès le début du jeu en tant qu'objet Commun."
+      },
+      {
+        "q": "Que font Bottes de Mana ?",
+        "a": "Bottes de Mana augmentent la vitesse de déplacement, permettent aux héros de trouver des Potions de Mana en détruisant des buissons, augmentent la capacité de stockage de potions et fournissent du mana maximum supplémentaire aux niveaux supérieurs."
+      },
+      {
+        "q": "Puis-je trouver des Potions de Mana immédiatement après avoir acheté Bottes de Mana ?",
+        "a": "Oui. L'effet Potion de Mana devient disponible dès la première amélioration."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bottes de Mana ?",
+        "a": "Tisseneur de Flammes, Furie des Ombres, Fée et Viverna comptent parmi les utilisateurs les plus forts car ils dépendent fréquemment du mana et des compétences."
+      },
+      {
+        "q": "Pourquoi Bottes de Mana sont-elles bonnes pour les mages ?",
+        "a": "Les mages consomment souvent de grandes quantités de mana en combat. Bottes de Mana les aident à maintenir leurs ressources tout en fournissant une mobilité précieuse."
+      },
+      {
+        "q": "Bottes de Mana sont-elles uniquement utiles pour les mages ?",
+        "a": "Non. Tout héros qui utilise fréquemment des compétences et a besoin d'une régénération de mana supplémentaire peut bénéficier de Bottes de Mana."
+      }
+    ]
+  },
+  "BlinkBoots": {
+    "whyUse": "Bottes de Téléportation sont conçues pour les héros qui dépendent du positionnement. La capacité à se téléporter instantanément donne aux joueurs accès à des opportunités qui seraient autrement impossibles — une Téléportation bien chronométrée peut sécuriser une élimination, échapper à une embuscade, esquiver des compétences dangereuses ou se repositionner rapidement en combat. Contrairement à de nombreux objets utilitaires, Bottes de Téléportation augmentent également la Chance de Coup Critique, qui se cumule avec d'autres sources de coups critiques.",
+    "strengths": [
+      "Fournit une haute vitesse de déplacement.",
+      "Chance de trouver des Runes de Téléportation en détruisant des buissons.",
+      "Peut transporter des Runes de Téléportation supplémentaires.",
+      "Accorde une Chance de Coup Critique.",
+      "Excellente mobilité.",
+      "Fort utilitaire offensif.",
+      "Efficace tout au long du match."
+    ],
+    "weaknesses": [
+      "Dépend partiellement de la recherche de Runes de Téléportation.",
+      "Fournit moins de survivabilité que les bottes défensives.",
+      "Nécessite un bon positionnement pour maximiser la valeur.",
+      "La Chance de Coup Critique est moins précieuse pour les héros qui ne dépendent pas des dégâts physiques."
+    ],
+    "tips": [
+      "Les Runes de Téléportation deviennent disponibles dès la première amélioration.",
+      "Conservez les Runes de Téléportation pour les combats importants autant que possible.",
+      "La Téléportation peut être utilisée à la fois offensivement et défensivement.",
+      "La Chance de Coup Critique se cumule avec d'autres objets et compétences de coup critique.",
+      "Les héros qui farmient rapidement gagnent souvent une valeur supplémentaire en utilisant les Runes de Téléportation pour se déplacer entre les objectifs.",
+      "Le positionnement est souvent plus précieux que les dégâts bruts."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Bottes de Téléportation ?",
+        "a": "Bottes de Téléportation sont disponibles dès le début du jeu. Comme tous les objets Mystiques, elles ne nécessitent pas de progression de héros pour être débloquées."
+      },
+      {
+        "q": "Que font Bottes de Téléportation ?",
+        "a": "Bottes de Téléportation augmentent la vitesse de déplacement, permettent aux héros de trouver des Runes de Téléportation en détruisant des buissons, augmentent la capacité de stockage et fournissent une Chance de Coup Critique."
+      },
+      {
+        "q": "Puis-je trouver des Runes de Téléportation immédiatement après avoir acheté Bottes de Téléportation ?",
+        "a": "Oui. L'effet Rune de Téléportation devient disponible dès la première amélioration."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bottes de Téléportation ?",
+        "a": "Trancheur de Mort, Volcarn, Mortifier et Furie des Ombres comptent parmi les utilisateurs les plus forts car ils bénéficient à la fois de la mobilité et de la Chance de Coup Critique."
+      },
+      {
+        "q": "Bottes de Téléportation fonctionnent-elles bien avec les builds de coup critique ?",
+        "a": "Oui. Bottes de Téléportation fournissent une Chance de Coup Critique, qui se cumule avec d'autres objets et compétences de coup critique."
+      },
+      {
+        "q": "Bottes de Téléportation sont-elles uniquement utiles pour les assassins ?",
+        "a": "Non. Bien que les assassins en bénéficient grandement, tout héros qui valorise la mobilité, le positionnement ou les coups critiques peut en faire un usage efficace."
+      }
+    ]
+  },
+  "FireBook": {
+    "whyUse": "Grimoire de Feu est conçu pour les joueurs qui veulent maximiser la puissance de leurs compétences. Parce qu'il fournit le plus grand bonus de Puissance de Sort du jeu, il délivre souvent une augmentation plus importante de l'efficacité des compétences que tout autre objet. Le Grimoire de Feu peut également être précieux sur des héros dont les compétences fournissent de l'utilité, des boucliers, des invocations ou d'autres effets spéciaux. L'objet est particulièrement puissant quand plusieurs compétences bénéficient de la mise à l'échelle de Puissance de Sort.",
+    "strengths": [
+      "Fournit le plus grand bonus de Puissance de Sort du jeu.",
+      "Améliore toutes les compétences à mise à l'échelle de Puissance de Sort.",
+      "Efficace sur de nombreux héros différents.",
+      "Augmente à la fois les effets de compétences offensifs et défensifs.",
+      "Fort tout au long du match.",
+      "Disponible dès le début du jeu."
+    ],
+    "weaknesses": [
+      "Ne fournit aucun point de vie.",
+      "Ne fournit aucune armure ou résistance.",
+      "Ne fournit aucune vitesse de déplacement.",
+      "Moins efficace sur les héros dont les compétences ont une mise à l'échelle de Puissance de Sort limitée.",
+      "Se concentre entièrement sur la puissance des compétences plutôt que sur la survivabilité."
+    ],
+    "tips": [
+      "Grimoire de Feu fournit le plus grand bonus de Puissance de Sort du jeu.",
+      "De nombreux héros bénéficient de la Puissance de Sort même s'ils ne sont pas des mages traditionnels.",
+      "Vérifiez toujours les descriptions de compétences pour voir comment la Puissance de Sort affecte votre héros.",
+      "Les héros avec plusieurs compétences à mise à l'échelle de Puissance de Sort obtiennent le plus de valeur.",
+      "Grimoire de Feu est souvent plus fort acheté sur des héros qui dépendent fortement de leurs compétences.",
+      "Certaines compétences défensives se mettent à l'échelle avec la Puissance de Sort aussi efficacement que les compétences offensives."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Grimoire de Feu ?",
+        "a": "Grimoire de Feu est disponible dès le début du jeu en tant qu'objet Commun."
+      },
+      {
+        "q": "Que fait Grimoire de Feu ?",
+        "a": "Grimoire de Feu fournit le plus grand bonus de Puissance de Sort disponible dans Spelltroum."
+      },
+      {
+        "q": "Qu'est-ce que la Puissance de Sort ?",
+        "a": "La Puissance de Sort améliore l'efficacité des compétences de héros. Selon la compétence, elle peut augmenter les dégâts, les boucliers, les invocations, les soins ou d'autres effets spéciaux."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Grimoire de Feu ?",
+        "a": "Spiritmonger, Viverna, Fée, Furie des Ombres et Druide comptent parmi les utilisateurs les plus forts car plusieurs compétences de leurs kits bénéficient de la Puissance de Sort."
+      },
+      {
+        "q": "Grimoire de Feu est-il uniquement pour les mages ?",
+        "a": "Non. Tout héros dont les compétences se mettent bien à l'échelle avec la Puissance de Sort peut bénéficier de Grimoire de Feu, y compris les héros qui infligent des dégâts physiques ou dépendent d'invocations et de compétences défensives."
+      }
+    ]
+  },
+  "WaterBook": {
+    "whyUse": "Grimoire d'Eau est conçu pour les héros qui ont besoin de grandes quantités de mana. L'objet fournit trois avantages précieux : mana maximum augmenté, régénération de mana augmentée et Réduction de Temps de Recharge. Grimoire d'Eau fonctionne également exceptionnellement bien avec Bouclier de Mana. Puisque Bouclier de Mana convertit une partie des dégâts entrants en perte de mana, augmenter votre réserve de mana augmente effectivement votre survivabilité — plus votre réserve de mana est grande, plus Bouclier de Mana peut absorber de dégâts avant que votre santé ne devienne vulnérable.",
+    "strengths": [
+      "Fournit une grande Réserve de Mana.",
+      "Accorde une forte Régénération de Mana.",
+      "Réduit les temps de recharge des compétences au niveau maximum.",
+      "Excellente synergie avec Bouclier de Mana.",
+      "Fort sur les héros dépendants du mana.",
+      "Efficace tout au long du match."
+    ],
+    "weaknesses": [
+      "Ne fournit aucun point de vie.",
+      "Ne fournit aucune armure ou résistance.",
+      "Ne fournit aucun bonus de dégâts direct.",
+      "Peut être risqué d'améliorer complètement tôt.",
+      "Moins utile sur les héros qui utilisent rarement le mana."
+    ],
+    "tips": [
+      "Grimoire d'Eau fonctionne exceptionnellement bien avec Bouclier de Mana.",
+      "Les héros qui manquent fréquemment de mana obtiennent le plus de valeur de cet objet.",
+      "La Réduction de Temps de Recharge devient disponible au niveau d'amélioration maximum.",
+      "L'objet est souvent le plus fort sur les héros axés sur les compétences.",
+      "Envisagez de combiner Grimoire d'Eau avec d'autres objets basés sur le mana.",
+      "Plus de mana signifie souvent à la fois plus de dégâts et plus de survivabilité pour certains héros."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Grimoire d'Eau ?",
+        "a": "Grimoire d'Eau est disponible dès le début du jeu. Comme tous les objets Mystiques, il ne nécessite pas de progression de héros pour être débloqué."
+      },
+      {
+        "q": "Que fait Grimoire d'Eau ?",
+        "a": "Grimoire d'Eau augmente le mana maximum, améliore la régénération de mana et réduit les temps de recharge des compétences au niveau maximum."
+      },
+      {
+        "q": "Pourquoi Grimoire d'Eau fonctionne-t-il bien avec Bouclier de Mana ?",
+        "a": "Bouclier de Mana absorbe les dégâts en utilisant du mana. Une plus grande réserve de mana permet à Bouclier de Mana d'absorber plus de dégâts avant que votre santé ne commence à diminuer."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Grimoire d'Eau ?",
+        "a": "Tisseneur de Flammes, Lançe-feu, Viverna et Fée comptent parmi les utilisateurs les plus forts car ils dépendent fortement du mana et de l'utilisation fréquente des compétences."
+      },
+      {
+        "q": "Grimoire d'Eau augmente-t-il les dégâts ?",
+        "a": "Pas directement. Cependant, le mana supplémentaire et la réduction des temps de recharge permettent aux héros de lancer des compétences plus souvent, ce qui peut augmenter considérablement leur production de dégâts globale."
+      },
+      {
+        "q": "Dois-je améliorer complètement Grimoire d'Eau tôt ?",
+        "a": "Généralement non. Parce que l'objet ne fournit aucun point de vie ni statistique défensive, de nombreux joueurs préfèrent d'abord acquérir de la survivabilité et compléter Grimoire d'Eau plus tard."
+      }
+    ]
+  },
+  "GeoBook": {
+    "whyUse": "Grimoire de Terre est conçu pour les héros qui dépendent des étourdissements et du contrôle de foule. Une durée d'étourdissement plus longue signifie que les ennemis passent plus de temps incapables de se déplacer, d'attaquer ou de lancer des compétences — donnant à votre équipe plus d'opportunités d'infliger des dégâts, d'échapper au danger ou de sécuriser des éliminations importantes. Le bonus de Points de Vie rend également le porteur plus durable, l'aidant à survivre tout en appliquant le contrôle de foule.",
+    "strengths": [
+      "Augmente la durée des étourdissements.",
+      "Fournit des Points de Vie bonus.",
+      "Excellent utilitaire de contrôle de foule.",
+      "Peut complètement changer les combats d'équipe.",
+      "Fort sur plusieurs héros.",
+      "Efficace tout au long du match."
+    ],
+    "weaknesses": [
+      "Fournit moins de dégâts directs que les objets offensifs.",
+      "Moins précieux sur les héros sans compétences de contrôle de foule.",
+      "N'affecte pas les étourdissements basés sur des objets.",
+      "Situationnel par rapport aux objets plus universellement utiles."
+    ],
+    "tips": [
+      "Grimoire de Terre n'affecte que les compétences de héros.",
+      "Marteau Étourdissant et autres étourdissements basés sur des objets ne bénéficient pas de l'effet.",
+      "Des étourdissements plus longs fournissent souvent plus de valeur que des dégâts supplémentaires.",
+      "Grimoire de Terre est le plus fort sur les héros qui ont déjà des compétences de contrôle de foule.",
+      "Les Points de Vie bonus rendent l'objet utile même quand l'effet de contrôle n'est pas nécessaire.",
+      "Coordonnez-vous avec vos coéquipiers pour maximiser la valeur des étourdissements plus longs."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Grimoire de Terre ?",
+        "a": "Grimoire de Terre est débloqué en améliorant Freezi."
+      },
+      {
+        "q": "Que fait Grimoire de Terre ?",
+        "a": "Grimoire de Terre augmente la durée des effets d'étourdissement appliqués par les compétences de héros et fournit des Points de Vie bonus."
+      },
+      {
+        "q": "Grimoire de Terre fonctionne-t-il avec Marteau Étourdissant ?",
+        "a": "Non. Grimoire de Terre n'affecte que les compétences de héros. Les étourdissements basés sur des objets comme Marteau Étourdissant ne sont pas affectés."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Grimoire de Terre ?",
+        "a": "Freezi, Spiritmonger, Trancheur de Mort, Lançe-feu et Fée comptent parmi les utilisateurs les plus forts car ils peuvent appliquer un contrôle de foule supplémentaire grâce à leurs compétences."
+      },
+      {
+        "q": "Grimoire de Terre augmente-t-il les dégâts ?",
+        "a": "Pas directement. Son but principal est d'améliorer le contrôle de foule et la survivabilité."
+      }
+    ]
+  },
+  "Scepter": {
+    "whyUse": "Sceptre est conçu pour les héros qui dépendent de compétences magiques pour infliger des dégâts. L'objet augmente la Puissance de Sort, améliorant la mise à l'échelle des compétences, tout en fournissant de la Régénération de Mana pour soutenir l'utilisation fréquente de sorts. Son effet le plus précieux est la Chance de Coup Critique Magique — quand une compétence magique inflige un coup critique, elle peut augmenter considérablement les dégâts en rafale et aider à sécuriser des éliminations qui auraient autrement été manquées.",
+    "strengths": [
+      "Fournit de la Puissance de Sort.",
+      "Accorde de la Régénération de Mana.",
+      "Ajoute une Chance de Coup Critique Magique.",
+      "Excellent pour les infligeurs de dégâts magiques.",
+      "Fort potentiel de dégâts en rafale.",
+      "Efficace tout au long du match."
+    ],
+    "weaknesses": [
+      "Moins de Puissance de Sort que Grimoire de Feu.",
+      "Les Coups Critiques Magiques n'affectent que les dégâts magiques.",
+      "Ne fournit aucun point de vie.",
+      "Ne fournit aucune armure ou résistance.",
+      "Faible sur les héros à dégâts physiques et purs."
+    ],
+    "tips": [
+      "Les Coups Critiques Magiques augmentent les dégâts magiques de 50%.",
+      "Sceptre est le plus fort sur les héros avec plusieurs compétences magiques offensives.",
+      "La Puissance de Sort et les Coups Critiques Magiques fonctionnent ensemble pour maximiser les dégâts des compétences.",
+      "La Régénération de Mana aide à maintenir la pression lors de combats prolongés.",
+      "Considérez toujours si votre héros inflige principalement des dégâts magiques, physiques ou purs avant d'acheter Sceptre.",
+      "Les nouveaux joueurs surestiment souvent Sceptre sur les héros à dégâts physiques."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Sceptre ?",
+        "a": "Sceptre est disponible dès le début du jeu. Comme tous les objets Mystiques, il ne nécessite pas de progression de héros pour être débloqué."
+      },
+      {
+        "q": "Que fait Sceptre ?",
+        "a": "Sceptre fournit de la Puissance de Sort, de la Régénération de Mana et une Chance de Coup Critique Magique."
+      },
+      {
+        "q": "Qu'est-ce qu'un Coup Critique Magique ?",
+        "a": "Un Coup Critique Magique augmente les dégâts magiques de 50%. Par exemple, une compétence qui inflige normalement 100 dégâts en infligera 150 quand elle inflige un coup critique."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Sceptre ?",
+        "a": "Viverna, Fée et Spiritmonger comptent parmi les utilisateurs les plus forts car plusieurs compétences de leurs kits infligent des dégâts magiques."
+      },
+      {
+        "q": "Sceptre fonctionne-t-il sur Furie des Ombres ?",
+        "a": "Pas efficacement. Furie des Ombres inflige principalement des dégâts physiques, donc elle obtient très peu de valeur de l'effet de Coup Critique Magique."
+      },
+      {
+        "q": "Sceptre est-il utile sur chaque héros ?",
+        "a": "Non. Sceptre est le plus efficace sur les héros qui infligent des dégâts magiques significatifs. Les héros qui dépendent des dégâts physiques ou purs ont généralement de meilleures alternatives."
+      }
+    ]
+  },
+  "MageStaff": {
+    "whyUse": "Bâton de Mage est conçu pour les héros qui infligent des dégâts magiques de manière constante tout au long d'un match. L'objet augmente la Puissance de Sort, permettant aux compétences d'infliger plus de dégâts. Il augmente également le Mana maximum, aidant les héros à lancer plus de compétences pendant les combats. Son effet le plus important est le Vol de Vie Magique — chaque fois que le héros inflige des dégâts magiques aux héros ou serviteurs ennemis, une partie de ces dégâts est convertie en santé. Notez que le Vol de Vie Magique ne fonctionne pas contre les buissons.",
+    "strengths": [
+      "Fournit de la Puissance de Sort.",
+      "Accorde du Vol de Vie Magique.",
+      "Augmente le Mana maximum.",
+      "Excellente régénération pour les lanceurs de sorts.",
+      "Forte synergie avec les compétences à dégâts sur la durée.",
+      "Efficace pendant le farm et le combat."
+    ],
+    "weaknesses": [
+      "Le Vol de Vie Magique ne fonctionne pas sur les buissons.",
+      "Ne fournit aucune armure ou résistance.",
+      "Moins efficace sur les héros qui infligent des dégâts physiques.",
+      "Nécessite des dégâts magiques pour pleinement utiliser la puissance de l'objet."
+    ],
+    "tips": [
+      "Le Vol de Vie Magique ne fonctionne que contre les héros et serviteurs ennemis.",
+      "Attaquer des buissons ne restaure pas de santé.",
+      "Bâton de Mage devient plus fort sur les héros qui infligent des dégâts magiques répétés.",
+      "Les effets de dégâts sur la durée peuvent générer des soins continus.",
+      "Puissance de Sort et Vol de Vie Magique fonctionnent très bien ensemble.",
+      "L'objet fournit à la fois de la valeur offensive et défensive."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Bâton de Mage ?",
+        "a": "Bâton de Mage est débloqué en améliorant Spiritmonger."
+      },
+      {
+        "q": "Que fait Bâton de Mage ?",
+        "a": "Bâton de Mage fournit de la Puissance de Sort, du Mana supplémentaire et du Vol de Vie Magique."
+      },
+      {
+        "q": "Qu'est-ce que le Vol de Vie Magique ?",
+        "a": "Le Vol de Vie Magique convertit une partie des dégâts magiques infligés aux héros et serviteurs ennemis en santé."
+      },
+      {
+        "q": "Le Vol de Vie Magique fonctionne-t-il sur les buissons ?",
+        "a": "Non. Comme tous les effets de vol de vie dans Spelltroum, le Vol de Vie Magique ne fonctionne que contre les héros et serviteurs ennemis."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bâton de Mage ?",
+        "a": "Spiritmonger, Viverna et Fée comptent parmi les utilisateurs les plus forts car ils infligent des dégâts magiques constants et peuvent déclencher fréquemment le Vol de Vie Magique."
+      },
+      {
+        "q": "Bâton de Mage est-il bon sur Furie des Ombres ?",
+        "a": "Non. Furie des Ombres inflige principalement des Dégâts Physiques, donc le Vol de Vie Magique ne fonctionne pas avec ses compétences. D'autres objets à dégâts physiques sont généralement bien plus efficaces."
+      }
+    ]
+  },
+  "WitchBlade": {
+    "description": "Lame de Sorcière est un objet Commun débloqué via les Récompenses Quotidiennes. Il est conçu pour les héros qui dépendent de compétences magiques et d'une utilisation fréquente de sorts, fournissant de la Régénération de Mana, de la Puissance de Sort et un effet unique qui réduit la Résistance Magique d'un ennemi. Contrairement à de nombreux objets offensifs qui n'augmentent que vos propres dégâts, Lame de Sorcière augmente également les dégâts infligés par vos coéquipiers, le rendant particulièrement précieux dans les stratégies d'équipe et les compositions axées sur la magie.",
+    "whyUse": "Lame de Sorcière est l'un des meilleurs objets utilitaires pour les héros magiques. La première amélioration accorde immédiatement de la Régénération de Mana. La deuxième amélioration fournit de la Puissance de Sort. Son effet le plus important est la Réduction de Résistance Magique — quand Lame de Sorcière affecte un ennemi, elle applique un débuff qui réduit la Résistance Magique de la cible, causant que tous les dégâts magiques infligés à cet ennemi deviennent plus forts, quel que soit le héros qui inflige les dégâts.",
+    "strengths": [
+      "Fournit de la Régénération de Mana.",
+      "Accorde de la Puissance de Sort.",
+      "Réduit la Résistance Magique ennemie.",
+      "Augmente les dégâts de l'équipe.",
+      "Excellent pour les héros magiques.",
+      "Fort en jeu coordonné."
+    ],
+    "weaknesses": [
+      "Ne fournit aucun Point de Vie.",
+      "Ne fournit aucune Armure.",
+      "Moins efficace pour les héros à dégâts physiques.",
+      "Fournit une valeur limitée si votre équipe inflige peu de dégâts magiques."
+    ],
+    "tips": [
+      "La première amélioration fournit immédiatement de la Régénération de Mana.",
+      "La deuxième amélioration accorde de la Puissance de Sort.",
+      "La Réduction de Résistance Magique bénéficie à vous et à vos coéquipiers.",
+      "Lame de Sorcière est plus forte contre les ennemis ciblés par plusieurs héros magiques.",
+      "L'objet est utile tout au long du début et de la fin du jeu.",
+      "Envisagez de prioriser Lame de Sorcière quand votre équipe inflige principalement des dégâts magiques."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Lame de Sorcière ?",
+        "a": "Lame de Sorcière est débloquée via les Récompenses Quotidiennes."
+      },
+      {
+        "q": "Lame de Sorcière aide-t-elle mes coéquipiers ?",
+        "a": "Oui. La Réduction de Résistance Magique est appliquée à l'ennemi, ce qui signifie que tous les dégâts magiques alliés deviennent plus forts contre cette cible."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Lame de Sorcière ?",
+        "a": "Viverna, Fée, Spiritmonger et autres infligeurs de dégâts magiques comptent parmi les utilisateurs les plus forts de l'objet."
+      }
+    ]
+  },
+  "RingOfRegen": {
+    "whyUse": "Anneau de Régénération est conçu pour les héros qui veulent lancer des compétences fréquemment, harceler les ennemis et se désengager avant de retourner au combat. L'objet fournit de la Régénération de Mana puissante, permettant aux héros d'utiliser des compétences plus souvent sans manquer de mana. Il réduit également les temps de recharge des compétences. L'un de ses effets défensifs les plus forts est la réduction du délai avant que la Régénération de Santé ne commence. Anneau de Régénération raccourcit considérablement ce délai, permettant aux héros de récupérer bien plus rapidement entre les engagements. La Résistance Magique supplémentaire aide également à se protéger contre les dégâts en rafale des lanceurs de sorts ennemis.",
+    "strengths": [
+      "Augmente la portée d'attaque",
+      "Peut transformer les héros de mêlée en attaquants à distance",
+      "Fournit une forte Régénération de Mana",
+      "Réduit les temps de recharge des compétences",
+      "Réduit le délai de Régénération de Santé",
+      "Accorde de la Résistance Magique",
+      "Soutient les styles de jeu hit-and-run"
+    ],
+    "weaknesses": [
+      "Ne fournit aucun bonus de dégâts direct",
+      "Fournit moins de survivabilité brute que les objets défensifs dédiés",
+      "Nécessite un bon positionnement pour pleinement utiliser la portée supplémentaire",
+      "Moins précieux sur les héros qui utilisent rarement des compétences"
+    ],
+    "tips": [
+      "Les héros de mêlée obtiennent le plus de valeur du bonus de portée d'attaque.",
+      "Utilisez le timing de régénération plus rapide pour prendre des échanges courts et récupérer rapidement.",
+      "La Réduction de Temps de Recharge devient plus précieuse sur les héros avec des compétences puissantes.",
+      "L'objet est particulièrement efficace sur les héros mobiles qui peuvent se désengager après avoir attaqué.",
+      "Combiner plusieurs objets axés sur la régénération peut créer de puissants builds de régénération.",
+      "La Résistance Magique aide à se protéger contre les lanceurs de sorts ennemis."
+    ],
+    "bestHeroes": {
+      "spitfire": "Anneau de Régénération est l'un des objets Légendaires les plus forts pour Lançe-feu. La Régénération de Mana et la Réduction de Temps de Recharge lui permettent d'utiliser ses compétences Boule de Feu bien plus fréquemment. La portée d'attaque accrue améliore également sa capacité à pressurer les ennemis à distance sécurisée tout en maintenant une utilisation constante des compétences.",
+      "mortifier": "Anneau de Régénération crée un style de jeu unique pour Mortifier. En tant que héros de mêlée, il gagne des attaques à distance grâce à l'objet, lui permettant de combattre de manières normalement indisponibles. La Régénération de Mana et la Réduction de Temps de Recharge l'aident également à placer des bombes plus fréquemment.",
+      "faerie": "Fée bénéficie grandement d'Anneau de Régénération. L'objet lui permet de lancer des compétences plus souvent, de maintenir la pression pendant les combats et de récupérer de la santé plus rapidement après s'être désengagée."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Anneau de Régénération ?",
+        "a": "Anneau de Régénération est débloqué en améliorant Lançe-feu."
+      },
+      {
+        "q": "Que fait Anneau de Régénération ?",
+        "a": "Anneau de Régénération augmente la portée d'attaque, fournit de la Régénération de Mana, réduit les temps de recharge, accorde de la Résistance Magique et réduit le délai avant que la Régénération de Santé ne commence."
+      },
+      {
+        "q": "Anneau de Régénération transforme-t-il les héros de mêlée en héros à distance ?",
+        "a": "Oui. Le bonus de portée d'attaque permet aux héros de mêlée d'attaquer depuis la distance, créant un style de jeu très différent."
+      },
+      {
+        "q": "Quels héros bénéficient le plus d'Anneau de Régénération ?",
+        "a": "Lançe-feu, Mortifier et Fée comptent parmi les utilisateurs les plus forts car ils bénéficient de la Régénération de Mana, de la Réduction de Temps de Recharge et du bonus de portée unique."
+      },
+      {
+        "q": "Anneau de Régénération se cumule-t-il avec d'autres objets de régénération ?",
+        "a": "Oui. Il fonctionne particulièrement bien avec Cuirasse et Bottes de Régénération car tous réduisent le délai avant que la Régénération de Santé ne commence."
+      },
+      {
+        "q": "Anneau de Régénération est-il bon contre les mages ?",
+        "a": "Oui. L'objet fournit de la Résistance Magique, aidant à réduire les dégâts magiques entrants tout en permettant une récupération plus rapide entre les combats."
+      }
+    ]
+  },
+  "HiddenFighterStaff": {
+    "whyUse": "Shuriken est l'un des objets utilitaires les plus flexibles de Spelltroum. La première amélioration fournit déjà du Mana et de la Réduction de Temps de Recharge, le rendant précieux avant même d'investir dans des améliorations supplémentaires. Son effet signature donne aux attaques une chance de devenir un projectile Shuriken rebondissant. Le projectile inflige des Dégâts Physiques, rebondit une fois et peut frapper des buissons ou ennemis supplémentaires. Puisque le projectile inflige des Dégâts Physiques, il bénéficie des Coups Critiques Physiques et des bonus de dégâts physiques.",
+    "strengths": [
+      "Fournit de la Vitesse d'Attaque",
+      "Accorde de la Réduction de Temps de Recharge",
+      "Fournit du Mana",
+      "Inclut de la Puissance de Sort",
+      "Améliore la vitesse de farm",
+      "Les projectiles rebondissants peuvent toucher plusieurs cibles",
+      "Se synergise avec les Coups Critiques Physiques",
+      "Utile tout au long du match"
+    ],
+    "weaknesses": [
+      "Dépend partiellement d'effets aléatoires",
+      "Ne fournit aucun Point de Vie",
+      "Ne fournit aucune Armure ou Résistance Magique",
+      "Moins précieux sur les héros qui attaquent rarement",
+      "Nécessite de la Vitesse d'Attaque pour maximiser l'efficacité"
+    ],
+    "tips": [
+      "La première amélioration fournit déjà du Mana et de la Réduction de Temps de Recharge.",
+      "Les Coups Critiques Physiques affectent les projectiles Shuriken.",
+      "Les bonus de dégâts physiques augmentent les dégâts du Shuriken.",
+      "L'objet est le plus fort sur les héros avec une haute Vitesse d'Attaque.",
+      "Les attaques rebondissantes améliorent considérablement l'efficacité du farm.",
+      "Combiner Shuriken avec d'autres objets de réduction de temps de recharge crée de puissants builds axés sur les compétences."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Shuriken fonctionne extrêmement bien sur Gardien de Pierre. La Vitesse d'Attaque supplémentaire l'aide à attaquer plus fréquemment, tandis que la Réduction de Temps de Recharge lui permet d'utiliser des compétences plus souvent. Ses dégâts naturellement élevés rendent chaque rebond de Shuriken plus menaçant.",
+      "spitfire": "Lançe-feu bénéficie de presque chaque statistique fournie par Shuriken. La Vitesse d'Attaque augmente la fréquence des déclenchements, tandis que le Mana et la Réduction de Temps de Recharge lui permettent de lancer des compétences plus souvent.",
+      "freezi": "Freezi est un autre excellent utilisateur de Shuriken. Sa haute Vitesse d'Attaque lui permet de déclencher l'effet fréquemment. Les projectiles rebondissants l'aident à farmer plus efficacement tout en créant une pression supplémentaire pendant les combats.",
+      "death-slayer": "Shuriken peut permettre des builds intéressants axés sur les temps de recharge pour Trancheur de Mort. La Réduction de Temps de Recharge se cumule bien avec d'autres objets de réduction, lui permettant de lancer son étourdissement bien plus souvent."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Shuriken ?",
+        "a": "Shuriken est disponible dès le début du jeu en tant qu'objet Commun."
+      },
+      {
+        "q": "Que fait Shuriken ?",
+        "a": "Shuriken fournit de la Vitesse d'Attaque, du Mana, de la Puissance de Sort, de la Réduction de Temps de Recharge et accorde une chance que les attaques deviennent des projectiles à Dégâts Physiques rebondissants."
+      },
+      {
+        "q": "Le Shuriken inflige-t-il des Dégâts Physiques ou Magiques ?",
+        "a": "Le Shuriken inflige des Dégâts Physiques."
+      },
+      {
+        "q": "Shuriken peut-il infliger un coup critique ?",
+        "a": "Oui. Parce que le projectile inflige des Dégâts Physiques, les effets de Coup Critique Physique peuvent s'y appliquer."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Shuriken ?",
+        "a": "Gardien de Pierre, Lançe-feu, Freezi et certains builds de Trancheur de Mort comptent parmi les utilisateurs les plus forts car ils bénéficient de la Vitesse d'Attaque et de la Réduction de Temps de Recharge."
+      },
+      {
+        "q": "Shuriken est-il bon pour le farm ?",
+        "a": "Oui. Le projectile rebondissant peut toucher des buissons et cibles supplémentaires, rendant le farm considérablement plus efficace."
+      },
+      {
+        "q": "Shuriken est-il utile pour les builds de réduction de temps de recharge ?",
+        "a": "Oui. Même la première amélioration fournit de la Réduction de Temps de Recharge, en faisant un ajout efficace aux héros qui veulent lancer des compétences plus fréquemment."
+      }
+    ]
+  },
+  "BladesOfCriticalHit": {
+    "whyUse": "Lames Critiques est conçu pour les héros qui veulent maximiser les dégâts de leurs coups critiques. L'objet fournit une petite quantité de Chance de Coup Critique, mais sa force principale vient de l'augmentation du bonus de Dégâts Critiques maximum. Cela signifie que chaque fois qu'un coup critique se produit, il inflige considérablement plus de dégâts qu'un coup critique normal. L'objet fournit également de la Puissance de Sort, le rendant utile pour les héros dont les compétences se mettent à l'échelle avec la Puissance de Sort tout en dépendant encore des dégâts physiques.",
+    "strengths": [
+      "Augmente les Dégâts Critiques maximum",
+      "Fournit une Chance de Coup Critique Physique",
+      "Accorde de la Puissance de Sort",
+      "Excellent potentiel de dégâts en rafale",
+      "Forte synergie avec les builds de coup critique",
+      "Efficace sur plusieurs héros à dégâts physiques"
+    ],
+    "weaknesses": [
+      "Dépend de la Chance de Coup Critique pour atteindre la valeur maximum",
+      "Ne fournit aucun Point de Vie",
+      "Ne fournit aucune Armure ou Résistance Magique",
+      "Moins efficace sur les héros qui infligent rarement des dégâts physiques",
+      "Nécessite d'autres sources de coup critique pour maximiser son potentiel"
+    ],
+    "tips": [
+      "Lames Critiques sont plus fortes quand combinées avec d'autres sources de Chance de Coup Critique.",
+      "Augmenter la Chance de Coup Critique augmente la valeur du bonus de Dégâts Critiques de l'objet.",
+      "Les héros à dégâts physiques en bénéficient le plus.",
+      "L'objet combine à la fois la mise à l'échelle de Puissance de Sort et de coup critique.",
+      "Les builds à dégâts en rafale obtiennent une valeur exceptionnelle de Lames Critiques.",
+      "L'objet est particulièrement dangereux sur les héros capables de porter des attaques à dégâts élevés."
+    ],
+    "bestHeroes": {
+      "shadow-fury": "Lames Critiques est l'un des objets signatures pour Furie des Ombres. La Puissance de Sort améliore ses compétences, y compris son attaque chargée. La Chance de Coup Critique supplémentaire augmente la probabilité de placer des coups critiques dévastateurs. Plus important encore, le multiplicateur de Dégâts Critiques accru permet à ses attaques chargées d'infliger considérablement plus de dégâts.",
+      "spiritmonger": "Spiritmonger obtient une valeur surprenante de Lames Critiques. Sa compétence Collecte d'Âmes inflige des dégâts physiques, lui permettant de bénéficier du multiplicateur de Dégâts Critiques accru. Le bonus de Puissance de Sort améliore également ses compétences.",
+      "death-slayer": "Lames Critiques peut être efficace sur Trancheur de Mort, surtout dans les builds orientés dégâts. La Chance de Coup Critique supplémentaire et le multiplicateur de Dégâts Critiques accru améliorent considérablement les dégâts des coups critiques réussis."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Lames Critiques ?",
+        "a": "Lames Critiques sont débloquées en améliorant Furie des Ombres."
+      },
+      {
+        "q": "Que font Lames Critiques ?",
+        "a": "Lames Critiques fournissent de la Puissance de Sort, une Chance de Coup Critique Physique et augmentent le bonus de Dégâts Critiques maximum."
+      },
+      {
+        "q": "Combien de dégâts supplémentaires les Coups Critiques infligent-ils avec Lames Critiques ?",
+        "a": "Normalement, les coups critiques infligent 50% de dégâts supplémentaires. Lames Critiques augmente ce bonus à 75%."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Lames Critiques ?",
+        "a": "Furie des Ombres, Spiritmonger et Trancheur de Mort comptent parmi les utilisateurs les plus forts car ils bénéficient à la fois des Dégâts Critiques accrus et de la Puissance de Sort."
+      },
+      {
+        "q": "Lames Critiques fonctionnent-elles bien avec d'autres objets de coup critique ?",
+        "a": "Oui. Lames Critiques deviennent considérablement plus fortes quand combinées avec des objets qui augmentent la Chance de Coup Critique."
+      }
+    ]
+  },
+  "RefresherStaff": {
+    "whyUse": "Bâton de Rafraîchissement est conçu pour les héros qui dépendent fortement des compétences actives. L'objet lui-même fournit des statistiques utiles grâce aux Points de Vie, Mana et Puissance de Sort supplémentaires, mais sa plus grande valeur vient de la capacité à réinitialiser les temps de recharge. Une Rune de Rafraîchissement bien chronométrée peut complètement changer un combat en permettant à un héros de lancer ses compétences les plus fortes deux fois de suite.",
+    "strengths": [
+      "Fournit des Points de Vie",
+      "Accorde du Mana",
+      "Fournit de la Puissance de Sort",
+      "Permet des réinitialisations de temps de recharge",
+      "Crée des opportunités de gameplay uniques",
+      "Extrêmement puissant pendant les combats importants",
+      "Utile sur de nombreux héros différents"
+    ],
+    "weaknesses": [
+      "Dépend de la recherche de Runes de Rafraîchissement",
+      "Nécessite un bon timing pour maximiser la valeur",
+      "Fournit moins de dégâts directs que les objets offensifs dédiés",
+      "Les nouveaux joueurs sous-estiment souvent les meilleurs moments pour l'utiliser"
+    ],
+    "tips": [
+      "Conservez les Runes de Rafraîchissement pour les combats importants autant que possible.",
+      "Les héros avec de fortes compétences actives obtiennent le plus de valeur.",
+      "La Réinitialisation n'affecte pas la compétence d'Attaque de Base.",
+      "Les cartes avec beaucoup de buissons augmentent naturellement la valeur de l'objet.",
+      "Une seule Rune de Rafraîchissement peut complètement changer un combat d'équipe.",
+      "Envisagez de conserver une Rune de Rafraîchissement avant d'engager un ennemi important."
+    ],
+    "bestHeroes": {
+      "faerie": "Bâton de Rafraîchissement est l'un des objets utilitaires les plus forts pour Fée. Ses deux compétences actives bénéficient énormément des réinitialisations de temps de recharge. Une Rune de Rafraîchissement lui permet de lancer immédiatement un autre vol ou une autre attaque de zone, augmentant considérablement à la fois ses dégâts et sa mobilité.",
+      "grizzly": "Grizzly a l'une des interactions les plus fortes avec Bâton de Rafraîchissement. Sa compétence d'amélioration de Points de Vie peut être lancée deux fois en utilisant une Rune de Rafraîchissement. Cela lui permet de gagner une quantité énorme de Points de Vie bonus et de devenir extrêmement difficile à éliminer.",
+      "mortifier": "Mortifier obtient une valeur immense de Bâton de Rafraîchissement. Une Rune de Rafraîchissement lui permet de placer des bombes supplémentaires et de réutiliser immédiatement sa compétence d'échange. Cela crée des combinaisons dangereuses qui peuvent prendre les adversaires au dépourvu."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Bâton de Rafraîchissement ?",
+        "a": "Bâton de Rafraîchissement est un objet Mystique et est disponible dès le début du jeu."
+      },
+      {
+        "q": "Que fait Bâton de Rafraîchissement ?",
+        "a": "Bâton de Rafraîchissement fournit des Points de Vie, du Mana, de la Puissance de Sort et permet aux héros de découvrir des Runes de Rafraîchissement en détruisant des buissons."
+      },
+      {
+        "q": "La Rune de Rafraîchissement réinitialise-t-elle la compétence d'Attaque de Base ?",
+        "a": "Non. La compétence d'Attaque de Base n'est pas affectée."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bâton de Rafraîchissement ?",
+        "a": "Fée, Grizzly et Mortifier comptent parmi les utilisateurs les plus forts car ils obtiennent une valeur immense en lançant leurs compétences actives plusieurs fois."
+      },
+      {
+        "q": "Bâton de Rafraîchissement est-il un objet de dégâts ?",
+        "a": "Pas principalement. Bien qu'il fournisse quelques statistiques offensives via la Puissance de Sort, sa plus grande force vient du rafraîchissement des temps de recharge et de la possibilité de combiner des compétences puissantes."
+      }
+    ]
+  },
+  "ArchmagesExecutioner": {
+    "description": "Hache de l'Archimage est un objet Mystique disponible dès le début du jeu. Son but principal n'est pas la mobilité, mais la Réduction de Temps de Recharge. L'objet est conçu pour les héros qui dépendent du lancement de compétences aussi souvent que possible. Il fournit des Points de Vie, de la Puissance de Sort, de la Réduction de Temps de Recharge et éventuellement de la Vitesse de Déplacement, en faisant l'un des objets utilitaires les plus forts pour les builds axés sur les compétences.",
+    "whyUse": "Hache de l'Archimage est l'un des moyens les plus faciles d'obtenir une Réduction de Temps de Recharge significative tôt dans un match. La première amélioration fournit des Points de Vie supplémentaires. La deuxième amélioration débloque la Réduction de Temps de Recharge, rendant l'objet immédiatement utile pour les héros qui dépendent fortement des compétences. L'objet fournit également de la Puissance de Sort, le rendant particulièrement attractif pour les héros magiques. Enfin, au niveau d'amélioration maximum, il accorde de la Vitesse de Déplacement, permettant aux héros de rester mobiles sans nécessairement acheter des Bottes.",
+    "strengths": [
+      "Fournit des Points de Vie",
+      "Accorde de la Puissance de Sort",
+      "Fournit une Réduction de Temps de Recharge tôt",
+      "Accorde de la Vitesse de Déplacement au niveau maximum",
+      "Excellent pour les héros axés sur les compétences",
+      "Forte synergie avec d'autres objets de réduction de temps de recharge",
+      "Peut soutenir des styles de jeu alternatifs"
+    ],
+    "weaknesses": [
+      "Fournit moins de dégâts bruts que les objets offensifs dédiés",
+      "Nécessite des héros axés sur les compétences pour atteindre la pleine valeur",
+      "Moins utile pour les héros qui dépendent principalement des attaques de base",
+      "Le bonus de Vitesse de Déplacement maximum nécessite des améliorations complètes"
+    ],
+    "tips": [
+      "Améliorez l'objet au niveau 2 tôt si la Réduction de Temps de Recharge est votre priorité.",
+      "Combinez-le avec Shuriken pour de puissants builds axés sur les temps de recharge.",
+      "L'objet est le plus fort sur les héros qui dépendent fortement des compétences actives.",
+      "Il peut partiellement remplacer les Bottes pour les héros qui n'ont besoin que d'une Vitesse de Déplacement modérée.",
+      "La Puissance de Sort augmente l'efficacité de nombreuses compétences magiques.",
+      "La Réduction de Temps de Recharge fournit souvent plus de valeur que les dégâts bruts dans les combats plus longs."
+    ],
+    "faq": [
+      {
+        "q": "Pourquoi la Réduction de Temps de Recharge est-elle importante ?",
+        "a": "La Réduction de Temps de Recharge permet aux héros de lancer des compétences plus fréquemment, augmentant à la fois les dégâts et l'utilité."
+      }
+    ]
+  },
+  "Glove": {
+    "whyUse": "Gants d'Azur augmentent considérablement la Vitesse d'Attaque. Les héros qui infligent déjà des dégâts élevés obtiennent souvent une valeur immense en attaquant plus fréquemment. Des attaques plus rapides signifient plus de dégâts, une vitesse de farm accrue, plus d'interactions de compétences et plus d'opportunités de déclencher des effets d'objet. Cependant, Gants d'Azur ne sont généralement pas un objet que les joueurs améliorent immédiatement au niveau 4. Dans de nombreuses situations, améliorer l'objet une ou deux fois tôt fournit suffisamment de Vitesse d'Attaque pour obtenir un avantage notable.",
+    "strengths": [
+      "Fournit une augmentation massive de Vitesse d'Attaque",
+      "Améliore la vitesse de farm",
+      "Se renforce bien en fin de jeu",
+      "Forte synergie avec les effets au coup",
+      "Excellent pour les héros avec des dégâts de base élevés",
+      "Améliore les builds d'étourdissement et de coup critique"
+    ],
+    "weaknesses": [
+      "Ne fournit aucun Point de Vie",
+      "Ne fournit aucune Armure ou Résistance Magique",
+      "Ne fournit aucun bonus de dégâts direct",
+      "Moins efficace sur les héros qui attaquent déjà très rapidement",
+      "Nécessite généralement d'autres objets offensifs pour atteindre la valeur maximum"
+    ],
+    "tips": [
+      "Gants d'Azur sont plus forts sur les héros qui ont déjà des dégâts élevés.",
+      "Envisagez d'améliorer l'objet une ou deux fois tôt et de le finir plus tard.",
+      "La Vitesse d'Attaque améliore l'efficacité du farm.",
+      "L'objet devient plus fort quand combiné avec des objets de dégâts.",
+      "Plus d'attaques signifie plus d'opportunités de déclencher des effets d'objet.",
+      "Gants d'Azur se combinent exceptionnellement bien avec Marteau Étourdissant."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Gants d'Azur sont l'un des objets offensifs les plus forts pour Gardien de Pierre. Son Attaque de Base inflige naturellement des dégâts élevés mais attaque plus lentement. Gants d'Azur aident à compenser cette faiblesse en augmentant considérablement la Vitesse d'Attaque.",
+      "spiritmonger": "Spiritmonger peut obtenir une valeur immense de Gants d'Azur. En collectant des Âmes, ses dégâts deviennent de plus en plus menaçants. La Vitesse d'Attaque supplémentaire lui permet d'appliquer ces dégâts bien plus fréquemment.",
+      "grizzly": "Gants d'Azur fonctionnent exceptionnellement bien sur Grizzly. Ses dégâts augmentent à mesure qu'il continue d'attaquer la même cible. Plus de Vitesse d'Attaque signifie qu'il atteint des niveaux de dégâts plus élevés beaucoup plus rapidement."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Gants d'Azur ?",
+        "a": "Gants d'Azur sont un objet Mystique et sont disponibles dès le début du jeu."
+      },
+      {
+        "q": "Que font Gants d'Azur ?",
+        "a": "Gants d'Azur fournissent une grande quantité de Vitesse d'Attaque et sont conçus pour les héros qui veulent attaquer plus fréquemment."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Gants d'Azur ?",
+        "a": "Gardien de Pierre, Spiritmonger et Grizzly comptent parmi les utilisateurs les plus forts car ils ont déjà de fortes attaques qui bénéficient grandement de la Vitesse d'Attaque supplémentaire."
+      },
+      {
+        "q": "Dois-je améliorer Gants d'Azur au niveau maximum immédiatement ?",
+        "a": "Généralement non. De nombreux joueurs améliorent l'objet une ou deux fois tôt et finissent de l'améliorer plus tard après avoir acquis des objets de dégâts supplémentaires."
+      }
+    ]
+  },
+  "GloveMidas": {
+    "description": "Gants Dorés est un objet Commun débloqué via les Récompenses Quotidiennes. L'objet fournit de la Vitesse d'Attaque, des Points de Vie et l'un des effets économiques les plus forts de Spelltroum : de l'or bonus pour chaque pièce collectée. Chaque fois que le héros ramasse une pièce, Gants Dorés accordent 10 or supplémentaires en plus de la valeur normale de la pièce.",
+    "whyUse": "Gants Dorés consistent à accélérer votre économie. Contrairement à la plupart des objets qui augmentent directement la puissance de combat, Gants Dorés aident les héros à gagner plus d'or tout au long du jeu. La première amélioration débloque immédiatement l'effet d'or bonus. La deuxième amélioration fournit des Points de Vie supplémentaires. Les améliorations ultérieures accordent de la Vitesse d'Attaque, améliorant davantage la vitesse de farm en permettant aux héros de détruire des buissons plus rapidement.",
+    "strengths": [
+      "Génère de l'or supplémentaire tout au long du match",
+      "Se rentabilise au fil du temps",
+      "Fournit des Points de Vie",
+      "Accorde de la Vitesse d'Attaque",
+      "Excellent pour les héros axés sur le farm",
+      "Aide à atteindre des builds d'objets coûteux plus rapidement"
+    ],
+    "weaknesses": [
+      "Fournit moins de puissance de combat immédiate que beaucoup d'autres objets",
+      "Nécessite du temps pour générer de la valeur",
+      "Moins efficace dans les matchs très agressifs",
+      "Devient moins fort quand acheté tard",
+      "Peut retarder des objets de combat importants si acheté au mauvais moment"
+    ],
+    "tips": [
+      "Achetez l'objet tôt pour maximiser la génération d'or.",
+      "La première amélioration est généralement la plus importante.",
+      "Les héros qui farmient rapidement obtiennent le plus de valeur.",
+      "La Vitesse d'Attaque aide à améliorer l'efficacité du farm.",
+      "L'objet devient moins fort quand acheté tard.",
+      "Considérez votre matchup avant d'investir dans un build axé sur l'économie."
+    ],
+    "bestHeroes": {
+      "druid": "Gants Dorés sont l'un des meilleurs objets de farm pour Druide. Son invocateur aide à détruire rapidement des buissons, lui permettant de collecter des pièces efficacement et de pleinement utiliser l'effet d'or bonus.",
+      "volcarn": "Volcarn bénéficie grandement d'atteindre ses pics d'objets aussi rapidement que possible. Parce qu'il dépend fortement des objets pour atteindre son plein potentiel, le revenu supplémentaire généré par Gants Dorés peut accélérer sa progression considérablement.",
+      "stonewarden": "Gardien de Pierre obtient de la valeur à la fois de l'effet économique et des bonus de Vitesse d'Attaque. La Vitesse d'Attaque supplémentaire aide à compenser ses attaques naturellement plus lentes.",
+      "freezi": "Freezi peut utiliser Gants Dorés pour accélérer son farm et atteindre des objets clés plus rapidement. Le revenu supplémentaire se traduit souvent par des pics de puissance plus rapides."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Gants Dorés ?",
+        "a": "Gants Dorés sont débloqués via les Récompenses Quotidiennes."
+      },
+      {
+        "q": "Que font Gants Dorés ?",
+        "a": "Gants Dorés fournissent de la Vitesse d'Attaque, des Points de Vie et de l'or bonus chaque fois que des pièces sont collectées."
+      },
+      {
+        "q": "Quand dois-je acheter Gants Dorés ?",
+        "a": "Généralement aussi tôt que possible. Plus tôt vous achetez l'objet, plus d'or bonus vous pouvez gagner pendant le match."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Gants Dorés ?",
+        "a": "Druide, Volcarn, Gardien de Pierre et Freezi comptent parmi les utilisateurs les plus forts car ils peuvent farmer efficacement et profiter du revenu supplémentaire."
+      },
+      {
+        "q": "Gants Dorés sont-ils bons dans chaque match ?",
+        "a": "Non. Si vous combattez constamment et êtes incapable de collecter des pièces, l'objet peut prendre trop de temps pour se rentabiliser."
+      },
+      {
+        "q": "Gants Dorés deviennent-ils moins forts plus tard dans le jeu ?",
+        "a": "Oui. Puisque l'objet génère de la valeur au fil du temps, l'acheter tard fournit généralement beaucoup moins d'avantages que l'acheter tôt."
+      }
+    ]
+  },
+  "RingOfProtection": {
+    "whyUse": "Anneau Gardien est conçu pour les héros qui veulent rester en vie tout en pressurisant constamment les ennemis. La grande quantité d'armure rend les héros considérablement plus difficiles à tuer. Son caractéristique la plus importante, cependant, est l'effet Rune de Vitesse. Chaque fois que le héros utilise une compétence, Anneau Gardien accorde une rafale temporaire de Vitesse de Déplacement. Cela permet aux joueurs de se rapprocher des ennemis, de maintenir la pression pendant les combats ou de se repositionner après avoir lancé un sort. L'effet Rune de Vitesse devient disponible dès la première amélioration.",
+    "strengths": [
+      "Fournit de l'Armure Physique",
+      "Fournit de la Résistance Magique",
+      "Accorde une Vitesse de Déplacement temporaire après le lancement de compétences",
+      "Excellent pour les styles de jeu agressifs",
+      "Fort sur les héros tankys",
+      "Efficace contre les dégâts physiques et magiques",
+      "L'effet principal est disponible dès la première amélioration"
+    ],
+    "weaknesses": [
+      "Ne fournit aucune augmentation directe des dégâts",
+      "Moins précieux pour les héros avec peu de compétences actives",
+      "Nécessite l'utilisation de compétences pour obtenir le bonus de vitesse de déplacement",
+      "Fournit moins de vitesse de déplacement permanente que les objets de mobilité dédiés"
+    ],
+    "tips": [
+      "L'effet Rune de Vitesse est disponible dès la première amélioration.",
+      "De nombreux joueurs achètent le premier niveau tôt et finissent d'améliorer plus tard.",
+      "Les héros avec plusieurs compétences actives obtiennent le plus de valeur.",
+      "L'objet est particulièrement efficace sur les héros qui ont besoin d'aide pour poursuivre les ennemis.",
+      "Les grandes réserves de Points de Vie deviennent considérablement plus fortes quand combinées avec les bonus d'armure de l'objet.",
+      "Anneau Gardien fournit à la fois de la survivabilité et de la mobilité dans un seul emplacement d'objet."
+    ],
+    "bestHeroes": {
+      "grizzly": "Anneau Gardien fonctionne étonnamment bien sur Viverna. Elle a deux compétences actives qui peuvent déclencher à plusieurs reprises l'effet Rune de Vitesse. Cela lui permet d'attaquer, de se repositionner, de battre en retraite et de se réengager bien plus efficacement que normalement.",
+      "mortifier": "Mortifier bénéficie grandement d'Anneau Gardien. Ses compétences Bombe et Échange activent toutes deux l'effet Rune de Vitesse. En tant que héros de mêlée, la Vitesse de Déplacement supplémentaire est extrêmement précieuse car elle l'aide à rester à portée des ennemis."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Anneau Gardien ?",
+        "a": "Anneau Gardien est débloqué en améliorant Grizzly."
+      },
+      {
+        "q": "Que fait Anneau Gardien ?",
+        "a": "Anneau Gardien fournit de l'Armure Physique, de la Résistance Magique et accorde une Rune de Vitesse temporaire chaque fois que le héros utilise une compétence."
+      },
+      {
+        "q": "Anneau Gardien fonctionne-t-il dès la première amélioration ?",
+        "a": "Oui. L'effet Rune de Vitesse devient disponible immédiatement au premier niveau d'amélioration."
+      },
+      {
+        "q": "Quels héros bénéficient le plus d'Anneau Gardien ?",
+        "a": "Grizzly, Viverna et Mortifier comptent parmi les utilisateurs les plus forts car ils peuvent déclencher l'effet Rune de Vitesse fréquemment et bénéficient grandement des statistiques défensives."
+      },
+      {
+        "q": "Anneau Gardien est-il un objet défensif ou de mobilité ?",
+        "a": "Les deux. Il fournit une armure substantielle tout en accordant des rafales temporaires de vitesse chaque fois que des compétences sont utilisées."
+      },
+      {
+        "q": "Pourquoi Anneau Gardien est-il particulièrement bon sur les héros avec beaucoup de Points de Vie ?",
+        "a": "L'Armure et la Résistance Magique deviennent plus précieuses à mesure que les Points de Vie d'un héros augmentent, rendant Anneau Gardien particulièrement efficace sur les héros naturellement tankys comme Grizzly."
+      }
+    ]
+  },
+  "InfinityShield": {
+    "whyUse": "Bouclier Infini est conçu pour les héros qui veulent de la durabilité supplémentaire sans sacrifier l'utilité. La première amélioration fournit des Points de Vie bonus. La deuxième amélioration accorde des Dégâts, aidant de nombreux héros à détruire des buissons en une seule attaque et à farmer plus efficacement. Les troisième et quatrième améliorations débloquent l'effet Rune de Bouclier et fournissent de la Réduction de Temps de Recharge supplémentaire, permettant aux héros d'utiliser leurs compétences plus fréquemment tout en accédant à de puissantes runes défensives.",
+    "uniqueEffect": "En détruisant des buissons, les héros ont une chance de découvrir une Rune de Bouclier. Quand elle est activée, la Rune de Bouclier accorde +200 Armure Physique, +200 Résistance Magique et une survivabilité grandement accrue pendant 5 secondes. C'est l'un des effets de rune défensive les plus forts du jeu. Cependant, la Rune de Bouclier ne protège pas contre les Dégâts Purs.",
+    "strengths": [
+      "Fournit des Points de Vie",
+      "Accorde des Dégâts",
+      "Réduit les temps de recharge",
+      "Génère des Runes de Bouclier",
+      "Améliore la survivabilité contre les dégâts physiques et magiques",
+      "Utile tout au long du match",
+      "Excellent sur les héros tankys",
+      "L'un des effets de rune défensive les plus forts du jeu"
+    ],
+    "weaknesses": [
+      "Nécessite le farm de buissons pour générer des Runes de Bouclier",
+      "Fournit moins de dégâts directs que les objets offensifs",
+      "La pleine valeur dépend d'une utilisation correcte des Runes de Bouclier",
+      "Ne réduit pas les Dégâts Purs",
+      "Pas aussi spécialisé que les objets purement défensifs ou offensifs"
+    ],
+    "tips": [
+      "Conservez les Runes de Bouclier pour les combats importants.",
+      "L'objet est particulièrement efficace sur les héros avec de grandes réserves de Points de Vie.",
+      "La Réduction de Temps de Recharge devient plus précieuse à mesure que les héros gagnent des compétences plus fortes.",
+      "Les Runes de Bouclier peuvent prévenir les dégâts en rafale et les tentatives d'élimination instantanée.",
+      "Utilisez la Rune de Bouclier avant d'engager des ennemis dangereux plutôt qu'après que votre Santé soit critique.",
+      "La Rune de Bouclier est plus forte contre les dégâts en rafale physiques et magiques."
+    ],
+    "bestHeroes": {
+      "grizzly": "Bouclier Infini est l'un des objets défensifs les plus forts pour Grizzly. Grizzly possède déjà l'une des plus grandes réserves de Points de Vie du jeu. Quand il active une Rune de Bouclier, l'armure supplémentaire devient extrêmement précieuse car l'armure se renforce exceptionnellement avec de grandes quantités de Points de Vie.",
+      "druid": "Bouclier Infini fonctionne très bien sur Mortifier. Il utilise fréquemment ses deux compétences actives, rendant la Réduction de Temps de Recharge très précieuse. Les Dégâts supplémentaires l'aident à détruire des buissons plus efficacement, tandis que la Rune de Bouclier peut le sauver quand les ennemis tentent de l'éliminer rapidement."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Bouclier Infini ?",
+        "a": "Bouclier Infini est un objet Mystique et est disponible dès le début du jeu."
+      },
+      {
+        "q": "Que fait Bouclier Infini ?",
+        "a": "Bouclier Infini fournit des Points de Vie, des Dégâts, de la Réduction de Temps de Recharge et permet aux héros de découvrir des Runes de Bouclier en détruisant des buissons."
+      },
+      {
+        "q": "Que fait une Rune de Bouclier ?",
+        "a": "Une Rune de Bouclier accorde +200 Armure Physique et +200 Résistance Magique pendant 5 secondes, rendant le héros considérablement plus difficile à tuer."
+      },
+      {
+        "q": "La Rune de Bouclier bloque-t-elle les Dégâts Purs ?",
+        "a": "Non. La Rune de Bouclier n'accorde que de l'Armure Physique et de la Résistance Magique. Les dégâts physiques et magiques sont fortement réduits pendant que le bouclier est actif, mais les Dégâts Purs ignorent le bouclier."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bouclier Infini ?",
+        "a": "Grizzly, Druide et Mortifier comptent parmi les utilisateurs les plus forts car ils bénéficient à la fois des statistiques défensives et de la réduction de temps de recharge."
+      },
+      {
+        "q": "Les Runes de Bouclier peuvent-elles aider contre les dégâts en rafale ?",
+        "a": "Oui. La Rune de Bouclier accorde +200 Armure Physique et +200 Résistance Magique pendant 5 secondes, en faisant l'un des outils les plus forts pour survivre aux dégâts en rafale. Cependant, les Dégâts Purs ne sont pas réduits par le bouclier."
+      }
+    ]
+  },
+  "SilenceBlade": {
+    "whyUse": "Casque du Silence est conçu pour contrer les héros qui dépendent fortement des compétences, des soins ou du vol de vie. L'objet fournit déjà des statistiques de combat utiles : Armure Physique pour la survivabilité, Vitesse d'Attaque pour augmenter les dégâts et Mana supplémentaire pour une utilisation plus fréquente des compétences. La principale raison pour laquelle les joueurs achètent Casque du Silence est l'accès aux Runes de Silence. Une Rune de Silence bien chronométrée peut complètement paralyser un héros ennemi pendant plusieurs secondes.",
+    "uniqueEffect": "En détruisant des buissons, les héros ont une chance de découvrir une Rune de Silence. Quand elle est activée, la rune crée un effet de silence autour du héros. Les ennemis affectés par le Silence ne peuvent pas utiliser de compétences, peuvent seulement utiliser des Attaques de Base, ne peuvent pas activer de compétences de soins, ne peuvent pas bénéficier d'effets de vol de vie, ne peuvent pas utiliser de consommables de soins et ne peuvent pas restaurer de Santé via d'autres effets de soins. Le silence dure 5 secondes. De plus, l'activation de la rune inflige 1 point de dégâts aux ennemis affectés, ce qui peut interrompre les minuteries de régénération de Santé.",
+    "strengths": [
+      "Fournit de l'Armure Physique",
+      "Fournit de la Vitesse d'Attaque",
+      "Accorde du Mana supplémentaire",
+      "Génère de puissantes Runes de Silence",
+      "Désactive complètement les compétences ennemies",
+      "Contre les soins et le vol de vie",
+      "Excellent pour les héros agressifs"
+    ],
+    "weaknesses": [
+      "Nécessite le farm de buissons pour générer des runes",
+      "Moins efficace contre les héros qui dépendent principalement des Attaques de Base",
+      "Fournit moins de dégâts directs que les objets offensifs dédiés",
+      "La pleine valeur dépend d'une utilisation correcte des Runes de Silence"
+    ],
+    "tips": [
+      "Conservez les Runes de Silence pour les combats importants.",
+      "Utilisez le Silence immédiatement après les effets de contrôle de foule pour un impact maximum.",
+      "Le Silence est particulièrement efficace contre les héros qui dépendent des soins.",
+      "La rune peut empêcher les ennemis de fuir avec des compétences.",
+      "L'activation à 1 dégât peut interrompre les minuteries de régénération.",
+      "La Vitesse d'Attaque augmente la valeur offensive globale de l'objet."
+    ],
+    "bestHeroes": {
+      "grizzly": "Casque du Silence est un excellent objet pour Grizzly. Il veut rester proche des ennemis et les pressuriser continuellement. Après avoir sauté sur une cible, Grizzly peut activer une Rune de Silence et empêcher l'ennemi de fuir avec des compétences.",
+      "freezi": "Viverna bénéficie de l'utilité agressive de l'objet. Elle peut engager un ennemi, appliquer des effets de poison et de dégâts, puis activer le Silence pour empêcher la cible de répondre avec des compétences. Contre les héros qui dépendent de compétences défensives ou de soins, cela peut être dévastateur."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Casque du Silence ?",
+        "a": "Casque du Silence est un objet Mystique et est disponible dès le début du jeu."
+      },
+      {
+        "q": "Que fait Casque du Silence ?",
+        "a": "Casque du Silence fournit de l'Armure Physique, de la Vitesse d'Attaque, du Mana et permet aux héros de découvrir des Runes de Silence en détruisant des buissons."
+      },
+      {
+        "q": "Que fait le Silence ?",
+        "a": "Le Silence empêche les ennemis affectés d'utiliser des compétences pendant 5 secondes. Ils ne peuvent qu'utiliser des Attaques de Base."
+      },
+      {
+        "q": "Le Silence arrête-t-il les soins ?",
+        "a": "Oui. Pendant qu'ils sont réduits au silence, les ennemis ne peuvent pas bénéficier du vol de vie, des compétences de soins, des consommables de soins ou d'autres effets de restauration de Santé."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Casque du Silence ?",
+        "a": "Grizzly, Freezi et Viverna comptent parmi les utilisateurs les plus forts car ils peuvent pleinement profiter de l'effet de silence pendant le combat."
+      }
+    ]
+  },
+  "Splash": {
+    "whyUse": "Bâton des Fées est conçu pour les héros qui dépendent fortement des dégâts magiques. L'objet augmente les Dégâts Critiques Magiques, permettant aux coups critiques d'infliger considérablement plus de dégâts que la normale. Normalement, un Coup Critique Magique inflige 50% de dégâts bonus. Bâton des Fées augmente ce bonus à 75%. L'objet fournit également une petite quantité de Chance de Coup Critique Magique et des Points de Vie bonus, rendant les héros magiques nettement plus durables.",
+    "uniqueEffect": "À partir du Niveau 2, Bâton des Fées gagne son effet de soutien unique. Chaque fois que le propriétaire utilise une Potion de Soins ou une Potion de Mana, le même effet est automatiquement appliqué à un allié proche. Cela permet aux héros orientés soutien d'aider leurs coéquipiers à récupérer Santé et Mana sans utiliser de ressources supplémentaires.",
+    "strengths": [
+      "Augmente les Dégâts Critiques Magiques",
+      "Fournit une Chance de Coup Critique Magique",
+      "Accorde des Points de Vie supplémentaires",
+      "Permet aux Potions de Soins d'affecter les alliés",
+      "Permet aux Potions de Mana d'affecter les alliés",
+      "Fort pour les builds de dégâts et de soutien",
+      "Excellent dans les modes en équipe"
+    ],
+    "weaknesses": [
+      "Ne fournit qu'une petite quantité de Chance de Coup Critique Magique seul",
+      "Nécessite d'autres objets de Coup Critique Magique pour atteindre le potentiel de dégâts maximum",
+      "Fournit moins de Puissance de Sort brute que certains objets de mage dédiés",
+      "L'effet de potion partagé est moins précieux quand on joue seul"
+    ],
+    "tips": [
+      "Bâton des Fées devient beaucoup plus fort quand combiné avec une Chance de Coup Critique Magique supplémentaire.",
+      "L'effet de potion partagé s'active automatiquement.",
+      "Restez proche des alliés pour maximiser la valeur de soutien.",
+      "L'objet fournit à la fois de l'attaque et de la survivabilité.",
+      "Les héros basés sur la magie bénéficient le plus de ses bonus.",
+      "L'amélioration de Niveau 2 est particulièrement importante car elle débloque l'effet de potion partagé."
+    ],
+    "bestHeroes": {
+      "faerie": "Bâton des Fées est l'objet Légendaire signature pour Fée. Il augmente les dégâts de ses compétences magiques tout en lui permettant de soutenir les alliés via des effets de potions partagés. Parce que Fée joue souvent proche de ses coéquipiers, elle peut pleinement profiter des aspects offensifs et de soutien de l'objet.",
+      "viverna": "Viverna bénéficie grandement de Bâton des Fées. Ses effets de poison et ses compétences magiques peuvent infliger des coups critiques, rendant les Dégâts Critiques Magiques accrus extrêmement précieux.",
+      "spiritmonger": "Spiritmonger est un autre excellent utilisateur de Bâton des Fées. Son orbe rebondissant peut bénéficier des Coups Critiques Magiques, et les dégâts critiques accrus peuvent considérablement augmenter son potentiel de rafale."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Bâton des Fées ?",
+        "a": "Bâton des Fées est un objet Légendaire débloqué en améliorant Fée."
+      },
+      {
+        "q": "Que fait Bâton des Fées ?",
+        "a": "Bâton des Fées fournit des Points de Vie, une Chance de Coup Critique Magique, des Dégâts Critiques Magiques accrus et permet aux effets de potions d'être partagés avec les alliés proches."
+      },
+      {
+        "q": "De combien Bâton des Fées augmente-t-il les Dégâts Critiques Magiques ?",
+        "a": "Normalement, les Coups Critiques Magiques infligent 50% de dégâts bonus. Bâton des Fées augmente ce bonus à 75%."
+      },
+      {
+        "q": "Bâton des Fées fonctionne-t-il avec les Potions de Soins et de Mana ?",
+        "a": "Oui. À partir du Niveau 2, les Potions de Soins et de Mana sont partagées avec un allié proche."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Bâton des Fées ?",
+        "a": "Fée, Viverna et Spiritmonger comptent parmi les utilisateurs les plus forts car ils dépendent fortement des dégâts magiques."
+      },
+      {
+        "q": "Bâton des Fées est-il bon seul ?",
+        "a": "Il est utile seul, mais il devient beaucoup plus fort quand combiné avec des objets qui augmentent la Chance de Coup Critique Magique."
+      }
+    ]
+  },
+  "DarkSplash": {
+    "whyUse": "Éclaboussure Sombre fournit plusieurs avantages puissants pour les héros magiques. La première amélioration accorde une Chance de Coup Critique Magique. La deuxième amélioration accorde des Points de Vie et applique une Réduction d'Armure Magique aux ennemis. Ce débuff augmente les dégâts infligés par les compétences magiques. Les troisième et quatrième améliorations débloquent la mécanique signature : les dégâts d'Éclaboussure Sombre déclenchés par les Potions de Soins.",
+    "uniqueEffect": "À partir du Niveau 3, Éclaboussure Sombre gagne son effet d'exécution unique. Chaque fois que le propriétaire utilise une Potion de Soins, le propriétaire est soigné normalement et l'ennemi le plus proche dans la portée subit des dégâts d'Éclaboussure Sombre — mais seulement si la cible est en dessous de 70% de Santé. Les buissons ne peuvent pas être ciblés.",
+    "strengths": [
+      "Accorde une Chance de Coup Critique Magique",
+      "Fournit des Points de Vie",
+      "Applique une Réduction d'Armure Magique",
+      "Augmente les dégâts magiques de l'équipe",
+      "Peut endommager les ennemis tout en se soignant",
+      "Excellent pour les builds de mage agressifs",
+      "Fort dans les compositions en double-mage"
+    ],
+    "weaknesses": [
+      "Nécessite des Potions de Soins pour activer son effet unique",
+      "Ne peut pas cibler les ennemis au-dessus de 70% de Santé",
+      "La sélection de cible est automatique",
+      "Peut accidentellement toucher un serviteur proche plutôt qu'un héros",
+      "Fournit moins de Puissance de Sort brute que certains objets de mage dédiés"
+    ],
+    "tips": [
+      "La Réduction d'Armure Magique bénéficie à toute votre équipe.",
+      "Conservez les Potions de Soins pour les combats importants autant que possible.",
+      "Positionnez-vous soigneusement avant d'utiliser une potion.",
+      "L'ennemi le plus proche devient la cible.",
+      "L'effet ne fonctionne que contre les ennemis en dessous de 70% de Santé.",
+      "Éclaboussure Sombre ne peut pas cibler les buissons.",
+      "Plusieurs héros magiques bénéficient grandement du même débuff de Réduction d'Armure Magique."
+    ],
+    "bestHeroes": {
+      "viverna": "Éclaboussure Sombre est l'objet Légendaire signature pour Viverna. La Réduction d'Armure Magique augmente les dégâts de ses effets de poison et ses compétences de zone. Parce que Viverna harcèle fréquemment les ennemis et les maintient à faible Santé, elle peut excellemment profiter de l'effet de dégâts déclenché par les potions.",
+      "faerie": "Fée est un autre excellent utilisateur d'Éclaboussure Sombre. Ses deux compétences actives infligent des dégâts magiques et bénéficient de la Réduction d'Armure Magique. Elle trouve et utilise également fréquemment des potions en se déplaçant sur la carte.",
+      "spiritmonger": "Spiritmonger bénéficie d'Éclaboussure Sombre grâce à l'augmentation des dégâts sur son orbe rebondissant. La Réduction d'Armure Magique aide à la fois elle et les héros magiques alliés.",
+      "spitfire": "Bien que moins courant, Éclaboussure Sombre peut bien fonctionner sur Lançe-feu. Ses compétences infligent des dégâts magiques, et la Réduction d'Armure Magique augmente l'efficacité de ses attaques basées sur le feu."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Éclaboussure Sombre ?",
+        "a": "Éclaboussure Sombre est un objet Légendaire débloqué en améliorant Viverna."
+      },
+      {
+        "q": "Que fait Éclaboussure Sombre ?",
+        "a": "Éclaboussure Sombre fournit une Chance de Coup Critique Magique, des Points de Vie, une Réduction d'Armure Magique et permet aux Potions de Soins d'endommager les ennemis affaiblis proches."
+      },
+      {
+        "q": "Comment fonctionnent les dégâts de potion ?",
+        "a": "Quand le propriétaire utilise une Potion de Soins, l'ennemi le plus proche dans la portée subit des dégâts si cet ennemi a moins de 70% de Santé."
+      },
+      {
+        "q": "Éclaboussure Sombre peut-elle cibler des buissons ?",
+        "a": "Non. Les buissons ne sont jamais des cibles valides."
+      },
+      {
+        "q": "Éclaboussure Sombre peut-elle toucher des serviteurs ?",
+        "a": "Oui. L'effet cible toujours l'ennemi valide le plus proche, qui peut être un serviteur ou un héros ennemi."
+      },
+      {
+        "q": "Quels héros bénéficient le plus d'Éclaboussure Sombre ?",
+        "a": "Viverna, Fée, Spiritmonger et les builds de Lançe-feu axés sur la magie comptent parmi les utilisateurs les plus forts."
+      },
+      {
+        "q": "Éclaboussure Sombre est-elle bonne dans les équipes en double-mage ?",
+        "a": "Oui. La Réduction d'Armure Magique bénéficie à tous les dégâts magiques alliés, rendant Éclaboussure Sombre particulièrement puissante quand plusieurs héros magiques se concentrent sur la même cible."
+      }
+    ]
+  },
+  "FireSphere": {
+    "whyUse": "Sphère de Feu est conçue pour les héros qui entrelacent activement compétences et attaques. L'objet accorde des Points de Vie bonus, de l'Armure Physique, de la Résistance Magique, un petit bonus de Vitesse de Déplacement et des Attaques Chargées après le lancement de compétences. Sphère de Feu change la façon dont un héros est joué — les joueurs sont encouragés à lancer une compétence et à immédiatement suivre avec une attaque de base pour maximiser les dégâts.",
+    "uniqueEffect": "L'effet signature de Sphère de Feu est l'Attaque Chargée. Chaque fois que le propriétaire utilise l'une de ses deux compétences actives, la prochaine attaque de base devient renforcée et inflige des Dégâts Magiques bonus. L'effet ne se déclenche pas depuis la compétence d'attaque de base du héros — seulement depuis les deux compétences actives du héros. Le bonus est consommé quand l'attaque touche avec succès une cible. Si l'attaque renforcée rate, les dégâts bonus sont perdus.",
+    "strengths": [
+      "Fournit des Points de Vie",
+      "Accorde de l'Armure Physique",
+      "Accorde de la Résistance Magique",
+      "Fournit un bonus de Vitesse de Déplacement",
+      "Ajoute de puissantes Attaques Chargées",
+      "Récompense le combat actif et l'utilisation des compétences",
+      "Fort tout au long du match",
+      "Excellent sur les héros avec plusieurs compétences actives"
+    ],
+    "weaknesses": [
+      "Nécessite un bon timing pour maximiser la valeur",
+      "Rater une Attaque Chargée gaspille les dégâts bonus",
+      "Moins efficace sur les héros qui utilisent rarement des compétences actives",
+      "Fournit moins de dégâts bruts que certains objets purement offensifs",
+      "Nécessite un jeu agressif pour atteindre le plein potentiel"
+    ],
+    "tips": [
+      "Essayez toujours d'attaquer immédiatement après avoir lancé une compétence.",
+      "Rater une Attaque Chargée gaspille les dégâts bonus.",
+      "L'objet est le plus fort sur les héros avec deux compétences actives.",
+      "Les héros de mêlée utilisent souvent Sphère de Feu particulièrement bien car ils ratent rarement les attaques renforcées.",
+      "Le bonus de Vitesse de Déplacement aide au positionnement et à la poursuite des cibles.",
+      "Sphère de Feu récompense un style de jeu agressif axé sur les combos."
+    ],
+    "bestHeroes": {
+      "mortifier": "Fée bénéficie grandement de Sphère de Feu. Ses deux compétences actives déclenchent des Attaques Chargées, lui permettant de combiner répétitivement les dégâts de sorts avec des attaques renforcées.",
+      "spitfire": "Lançe-feu est un autre excellent utilisateur de Sphère de Feu. Ses compétences actives lui permettent de déclencher des Attaques Chargées de manière constante pendant les combats. Les Dégâts Magiques supplémentaires ajoutent un potentiel de rafale significatif.",
+      "viverna": "Pour les builds agressifs de Viverna, Sphère de Feu peut être un choix fort. Après avoir utilisé Blink ou sa compétence de zone, elle peut immédiatement suivre avec une Attaque Chargée pour augmenter ses dégâts en rafale."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Sphère de Feu ?",
+        "a": "Sphère de Feu est un objet Légendaire débloqué en améliorant Mortifier."
+      },
+      {
+        "q": "Que fait Sphère de Feu ?",
+        "a": "Sphère de Feu fournit des Points de Vie, de l'Armure, de la Résistance Magique, de la Vitesse de Déplacement et renforce la prochaine attaque de base après utilisation d'une compétence active."
+      },
+      {
+        "q": "Comment fonctionne l'Attaque Chargée ?",
+        "a": "Après avoir utilisé l'une de vos deux compétences actives, votre prochaine attaque de base inflige des Dégâts Magiques supplémentaires."
+      },
+      {
+        "q": "Sphère de Feu fonctionne-t-elle avec la compétence d'attaque de base ?",
+        "a": "Non. Sphère de Feu se déclenche uniquement depuis les deux compétences actives du héros."
+      },
+      {
+        "q": "Que se passe-t-il si je rate l'Attaque Chargée ?",
+        "a": "Les dégâts bonus sont perdus et la charge est consommée."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Sphère de Feu ?",
+        "a": "Mortifier, Fée, Lançe-feu et les builds agressifs de Viverna comptent parmi les utilisateurs les plus forts."
+      },
+      {
+        "q": "Dois-je améliorer Sphère de Feu tôt ?",
+        "a": "Souvent oui. Les héros construits autour des combos de compétences peuvent obtenir un grand avantage en améliorant Sphère de Feu tôt et en maximisant les dégâts des Attaques Chargées."
+      }
+    ]
+  },
+  "DarkSphere": {
+    "whyUse": "Sphère Sombre est particulièrement efficace contre les héros qui dépendent d'une haute Vitesse d'Attaque. Chaque fois que le propriétaire attaque un ennemi, la Vitesse d'Attaque de l'ennemi est réduite, l'Armure Physique de l'ennemi est réduite et les héros alliés infligent plus de dégâts physiques à cette cible. Cela fait de Sphère Sombre un excellent contre contre les héros axés sur la vitesse d'attaque tout en augmentant simultanément les dégâts de votre équipe.",
+    "uniqueEffect": "Sphère Sombre applique deux débuffs au coup. La Réduction de Vitesse d'Attaque réduit la Vitesse d'Attaque de la cible — au niveau maximum, cela atteint jusqu'à 25%, ce qui est très notable contre les héros qui dépendent des attaques rapides. La Réduction d'Armure Physique s'applique également à la cible, causant que le propriétaire et tous les alliés infligent plus de dégâts physiques à cet ennemi.",
+    "strengths": [
+      "Fournit une grande quantité de Points de Vie",
+      "Réduit la Vitesse d'Attaque ennemie",
+      "Réduit l'Armure Physique ennemie",
+      "Augmente les dégâts de l'équipe contre les cibles affectées",
+      "Fort contre les héros basés sur la Vitesse d'Attaque",
+      "Efficace en jeu solo et en équipe",
+      "Peut être amélioré agressivement tôt dans le match"
+    ],
+    "weaknesses": [
+      "Fournit moins de dégâts directs que les objets offensifs",
+      "Le plus efficace contre les attaquants physiques",
+      "La Réduction de Vitesse d'Attaque a moins d'impact contre les héros axés sur les sorts",
+      "Nécessite d'attaquer les ennemis pour appliquer ses débuffs"
+    ],
+    "tips": [
+      "Concentrez les attaques sur une seule cible pour maximiser la valeur des débuffs.",
+      "Sphère Sombre est la plus forte dans les combats d'équipe où les alliés peuvent profiter de la réduction d'armure.",
+      "La Réduction de Vitesse d'Attaque devient plus impactante contre les héros qui dépendent des attaques rapides.",
+      "Les Points de Vie bonus rendent le propriétaire considérablement plus difficile à tuer.",
+      "Combinez Sphère Sombre avec des héros à dégâts physiques pour une efficacité maximale."
+    ],
+    "bestHeroes": {
+      "spiritmonger": "Sphère Sombre fonctionne très bien sur Spiritmonger. Les Points de Vie bonus améliorent sa survivabilité, tandis que les débuffs l'aident à gérer les héros qui submergent normalement les adversaires via la Vitesse d'Attaque.",
+      "druid": "Druide bénéficie grandement de Sphère Sombre. Quand Druide applique la Réduction d'Armure Physique, lui et son compagnon infligent tous deux des dégâts augmentés à la cible.",
+      "volcarn": "Sphère Sombre est un excellent choix pour Volcarn. Volcarn et son illusion bénéficient tous deux des ennemis ayant une Armure Physique réduite. La Réduction de Vitesse d'Attaque affaiblit également les adversaires."
+    },
+    "counterHeroes": {
+      "freezi": "Freezi dépend fortement d'une haute Vitesse d'Attaque pour maximiser ses dégâts. Sphère Sombre réduit directement cela, diminuant considérablement son efficacité en combat.",
+      "spitfire": "Lançe-feu dépend des attaques rapides pour infliger des dégâts constants. La Réduction de Vitesse d'Attaque de Sphère Sombre affaiblit notablement sa pression offensive."
+    },
+    "faq": [
+      {
+        "q": "Comment débloquer Sphère Sombre ?",
+        "a": "Sphère Sombre est un objet Mystique et est disponible dès le début du jeu."
+      },
+      {
+        "q": "Que fait Sphère Sombre ?",
+        "a": "Sphère Sombre fournit des Points de Vie, applique une Réduction de Vitesse d'Attaque et réduit l'Armure Physique ennemie."
+      },
+      {
+        "q": "De combien Sphère Sombre réduit-elle la Vitesse d'Attaque ?",
+        "a": "Au niveau maximum, Sphère Sombre réduit la Vitesse d'Attaque ennemie jusqu'à 25%."
+      },
+      {
+        "q": "Sphère Sombre aide-t-elle les alliés ?",
+        "a": "Oui. La Réduction d'Armure Physique affecte la cible, ce qui signifie que les alliés infligent également des dégâts physiques accrus à cet ennemi."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Sphère Sombre ?",
+        "a": "Spiritmonger, Druide et Volcarn comptent parmi les utilisateurs les plus forts."
+      },
+      {
+        "q": "Quels héros Sphère Sombre contre-elle ?",
+        "a": "Sphère Sombre est particulièrement efficace contre Freezi, Lançe-feu et autres héros qui dépendent fortement de la Vitesse d'Attaque."
+      },
+      {
+        "q": "Dois-je améliorer complètement Sphère Sombre tôt ?",
+        "a": "Souvent oui. L'objet fournit des Points de Vie, de l'utilité et de puissants débuffs à tous les niveaux d'amélioration, en faisant un investissement fort en début de jeu."
+      }
+    ]
+  },
+  "WaterSphere": {
+    "whyUse": "Sphère d'Eau est conçue pour les héros qui ont besoin de protection contre les étourdissements, les ralentissements, les poisons, les effets de réduction d'armure et autres débuffs. L'objet fournit une haute Armure Physique, une Réserve de Mana augmentée, un petit bonus de Vitesse de Déplacement, l'accès aux Runes de Clarté et une capacité de stockage supplémentaire de Runes de Clarté.",
+    "uniqueEffect": "En détruisant des buissons, les héros ont une chance de découvrir une Rune de Clarté. Quand elle est ramassée, la rune apparaît comme une nouvelle compétence qui peut être activée à tout moment. Une Rune de Clarté supprime tous les effets négatifs du héros, y compris les étourdissements, les ralentissements, les effets de poison, la Réduction d'Armure Physique, la Réduction d'Armure Magique et autres débuffs. L'une des caractéristiques les plus importantes de la Rune de Clarté est sa suppression automatique des étourdissements — si le héros est étourdi en portant une Rune de Clarté, la rune s'active automatiquement. Sphère d'Eau permet également aux héros de transporter une charge supplémentaire de Rune de Clarté, ce qui signifie qu'un héros peut stocker jusqu'à deux Runes de Clarté en même temps.",
+    "strengths": [
+      "Fournit une grande quantité d'Armure Physique",
+      "Augmente la Réserve de Mana",
+      "Accorde de la Vitesse de Déplacement",
+      "Génère des Runes de Clarté",
+      "Supprime tous les débuffs",
+      "Supprime automatiquement les étourdissements",
+      "Peut stocker plusieurs Runes de Clarté",
+      "Fort contre le contrôle de foule"
+    ],
+    "weaknesses": [
+      "Nécessite le farm de buissons pour générer des Runes de Clarté",
+      "Ne fournit aucune augmentation directe des dégâts",
+      "Moins efficace contre les équipes avec peu de contrôle de foule",
+      "N'augmente pas la Régénération de Mana",
+      "La pleine valeur dépend de l'obtention et de la gestion des Runes de Clarté"
+    ],
+    "tips": [
+      "Conservez les Runes de Clarté autant que possible.",
+      "Les Runes de Clarté s'activent automatiquement quand vous êtes étourdi.",
+      "Sphère d'Eau est plus forte contre les équipes lourdes en contrôle de foule.",
+      "La Réserve de Mana supplémentaire bénéficie à de nombreux lanceurs de sorts.",
+      "Porter deux Runes de Clarté peut considérablement améliorer la survivabilité.",
+      "L'Armure Physique aide à réduire les dégâts physiques entrants tout au long du match."
+    ],
+    "faq": [
+      {
+        "q": "Comment débloquer Sphère d'Eau ?",
+        "a": "Sphère d'Eau est un objet Mystique et est disponible dès le début du jeu."
+      },
+      {
+        "q": "Que fait Sphère d'Eau ?",
+        "a": "Sphère d'Eau fournit de l'Armure Physique, augmente la Réserve de Mana, accorde de la Vitesse de Déplacement et permet aux héros de découvrir des Runes de Clarté en détruisant des buissons."
+      },
+      {
+        "q": "Que fait une Rune de Clarté ?",
+        "a": "Une Rune de Clarté supprime tous les effets négatifs actifs, y compris les étourdissements, les ralentissements, les poisons et les débuffs d'armure."
+      },
+      {
+        "q": "La Rune de Clarté supprime-t-elle les étourdissements automatiquement ?",
+        "a": "Oui. Si le héros est étourdi en portant une Rune de Clarté, elle s'active automatiquement et supprime immédiatement l'étourdissement."
+      },
+      {
+        "q": "Quels héros bénéficient le plus de Sphère d'Eau ?",
+        "a": "Les héros qui sont particulièrement vulnérables aux étourdissements et aux effets de contrôle de foule, comme Mortifier, Furie des Ombres et Grizzly, bénéficient le plus de Sphère d'Eau."
+      },
+      {
+        "q": "Sphère d'Eau est-elle utile dans chaque match ?",
+        "a": "Sa valeur dépend de l'équipe ennemie. Contre des équipes avec beaucoup de contrôle de foule, Sphère d'Eau est extrêmement puissante. Contre des équipes sans étourdissements ni ralentissements, d'autres objets défensifs peuvent être plus précieux."
+      }
+    ]
+  }
+}

@@ -72,9 +72,27 @@ export default async function ItemPage({ params }: ItemPageProps) {
   const frameColor = frameColors[item.frame];
   const related = items.filter((i) => i.category === item.category && i.id !== item.id).slice(0, 8);
 
+  const itemJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Thing',
+    name: item.name,
+    description: description?.slice(0, 300),
+    url: `https://spelltroum.com/${lang}/wiki/items/${item.id}`,
+    image: item.image ? `https://spelltroum.com/items/${item.image}` : undefined,
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'Spelltroum',
+      url: 'https://spelltroum.com',
+    },
+  };
+
   return (
     <div className="min-h-screen px-4 sm:px-6 py-16">
       <div className="max-w-3xl mx-auto">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(itemJsonLd) }}
+        />
 
         {/* Breadcrumb */}
         <div className="flex items-center gap-2 text-sm text-white/40 mb-8">

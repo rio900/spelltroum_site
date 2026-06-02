@@ -1,0 +1,2563 @@
+{
+  "Sword": {
+    "description": "A Espada é um dos itens de dano mais diretos em Spelltroum. Embora muitos jogadores a ignorem por fornecer apenas dano, a Espada oferece uma quantidade surpreendentemente grande de poder de ataque pelo seu custo. Para heróis que simplesmente precisam de mais dano físico, ela costuma ser uma das atualizações mais eficientes disponíveis.",
+    "whyUse": "A Espada é uma ótima escolha quando seu objetivo é simples: causar mais dano. Ao contrário dos itens de utilidade que fornecem armadura, mana ou velocidade de movimento, a Espada se concentra inteiramente em aumentar o poder de ataque. Isso a torna especialmente eficaz para heróis agressivos que dependem de ataques básicos para farmar, pressionar oponentes e garantir eliminações. Muitos jogadores subestimam a Espada por seu design simples, mas a quantidade de dano que ela fornece pelo seu custo pode ter um grande impacto durante toda a partida.",
+    "strengths": [
+      "Alto dano pelo custo",
+      "Escolha de item simples e confiável",
+      "Ajuda heróis a farmar mais rápido",
+      "Excelente para builds de dano físico",
+      "Forte em todas as etapas do jogo"
+    ],
+    "weaknesses": [
+      "Não fornece sobrevivência",
+      "Não oferece mobilidade ou utilidade",
+      "Menos valioso para heróis que dependem principalmente de dano de habilidades"
+    ],
+    "tips": [
+      "Se a Espada permite que seu herói destrua arbustos com um golpe, você nem sempre precisa atualizá-la imediatamente.",
+      "Uma única atualização da Espada geralmente é suficiente para atingir pontos de referência de farm importantes.",
+      "Considere investir ouro em outros itens primeiro se níveis adicionais de Espada não melhorarem significativamente a velocidade de farm.",
+      "Se a partida chegar ao final, atualizar totalmente a Espada pode fornecer um grande bônus de dano.",
+      "A Espada é mais eficaz em heróis que já possuem habilidades que fortalecem seus ataques."
+    ],
+    "bestHeroes": {
+      "freezi": "Seus bônus de velocidade de ataque tornam cada ponto de dano adicional mais valioso. Combinada com ataques rápidos, a Espada aumenta significativamente o dano e a eficiência de farm.",
+      "shadow-fury": "Seus ataques podem reduzir a armadura inimiga, permitindo que o dano adicional cause ainda mais. À medida que a Espada é atualizada, ela se torna capaz de causar dano em rajada devastador.",
+      "druid": "Suas habilidades já adicionam dano de ataque extra, tornando o dano bônus mais valioso. A Espada também ajuda a destruir arbustos mais rápido para um farm mais eficiente."
+    },
+    "faq": [
+      {
+        "q": "A Espada é um bom item no início do jogo?",
+        "a": "Sim. A Espada pode aumentar significativamente sua velocidade de farm e ajudá-lo a atingir limites de dano importantes no início da partida."
+      },
+      {
+        "q": "Devo sempre atualizar a Espada para o Nível 4?",
+        "a": "Não necessariamente. Se a primeira atualização já permite destruir arbustos com um golpe, pode ser mais eficiente investir ouro em outros itens primeiro e terminar a Espada depois."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Espada?",
+        "a": "Heróis que dependem de ataques físicos, especialmente Shadow Fury e Furion, obtêm o maior valor da Espada."
+      }
+    ]
+  },
+  "BladesOfAttack": {
+    "description": "As Garras Letais são um item ofensivo que combina dano de ataque bônus com chance de golpe crítico. Ao contrário da Espada, que fornece um aumento consistente de dano, as Garras Letais oferecem o potencial de dano em rajada poderoso através de golpes críticos. O item é mais eficaz em heróis com alto dano base ou habilidades que causam dano físico.",
+    "whyUse": "As Garras Letais são projetadas para jogadores que querem maximizar seu potencial de dano. Embora o item forneça menos dano direto do que a Espada, compensa concedendo chance de golpe crítico. À medida que os heróis obtêm mais dano por níveis, habilidades e itens, cada golpe crítico bem-sucedido se torna significativamente mais valioso. O item é especialmente eficaz em heróis que já possuem ataques físicos fortes ou habilidades que escalam com dano físico. Como a chance de golpe crítico se acumula aditivamente com outras fontes, as Garras Letais se tornam ainda mais fortes quando combinadas com habilidades ou itens que fornecem chance de golpe crítico adicional. A contrapartida é a consistência — embora o dano médio possa ser muito alto, os golpes críticos nunca são garantidos.",
+    "strengths": [
+      "Alto potencial de dano em rajada",
+      "Golpes críticos causam 50% de dano físico adicional",
+      "Escala bem com outros itens de dano",
+      "A chance de golpe crítico se acumula com outras fontes",
+      "Eficaz tanto em ataques quanto em habilidades de dano físico",
+      "Item forte no meio e final do jogo"
+    ],
+    "weaknesses": [
+      "Menos consistente que a Espada",
+      "O dano depende da sorte",
+      "Pode ser pouco confiável quando dano estável é necessário",
+      "Não fornece bônus defensivos",
+      "Pode ter desempenho inferior em lutas curtas se os golpes críticos não forem acionados"
+    ],
+    "tips": [
+      "As Garras Letais ficam mais fortes à medida que seu dano físico total aumenta.",
+      "A chance de golpe crítico se acumula com outros bônus de golpe crítico de itens e habilidades de herói.",
+      "Heróis com efeitos de golpe crítico integrados podem atingir chances muito altas ao usar as Garras Letais.",
+      "Habilidades de dano físico podem se beneficiar de golpes críticos assim como ataques básicos.",
+      "Considere combinar as Garras Letais com outros itens de dano físico para maximizar o dano em rajada.",
+      "O item é mais eficaz quando você está disposto a trocar consistência por maior potencial de dano."
+    ],
+    "bestHeroes": {
+      "shadow-fury": "Seu disparo carregado causa dano físico e pode dar um golpe crítico. Quando ocorre um golpe crítico em um ataque totalmente carregado, o dano pode se tornar devastador e pode eliminar instantaneamente inimigos frágeis.",
+      "druid": "Possui habilidades que aumentam o dano de ataque. Quando ocorre um golpe crítico junto com seus efeitos de bônus de dano, o resultado pode ser uma enorme rajada de dano.",
+      "grizzly": "Acumula dano naturalmente contra alvos individuais. À medida que seus ataques ficam mais fortes, os golpes críticos se tornam cada vez mais perigosos e podem rapidamente mudar o curso de uma luta."
+    },
+    "faq": [
+      {
+        "q": "Os golpes críticos afetam as habilidades?",
+        "a": "Sim. Habilidades de dano físico podem causar golpes críticos e se beneficiar de bônus de dano crítico."
+      },
+      {
+        "q": "Quanto dano extra um golpe crítico causa?",
+        "a": "Golpes críticos causam 50% de dano físico adicional."
+      },
+      {
+        "q": "A chance de golpe crítico se acumula?",
+        "a": "Sim. A chance de golpe crítico das Garras Letais se acumula com bônus de golpe crítico de outros itens e habilidades de herói."
+      },
+      {
+        "q": "As Garras Letais são melhores que a Espada?",
+        "a": "Nem sempre. A Espada fornece dano confiável e consistente, enquanto as Garras Letais oferecem maior potencial de dano ao custo da consistência."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Garras Letais?",
+        "a": "Heróis com alto dano físico, como Shadow Fury, Furion e Grizzly, obtêm o maior valor do item."
+      },
+      {
+        "q": "As Garras Letais são boas no PvE?",
+        "a": "Podem ser poderosas, mas alguns jogadores preferem fontes de dano mais consistentes ao completar conteúdo PvE onde dano previsível é importante."
+      }
+    ]
+  },
+  "Dagger": {
+    "description": "A Adaga é um item ofensivo Lendário que combina dano físico com redução de armadura. Cada ataque aplica um efeito de enfraquecimento aos inimigos, reduzindo sua armadura física e tornando-os mais vulneráveis ao dano recebido. Ao contrário da maioria dos itens de dano, a Adaga pode aumentar o dano causado por toda a equipe.",
+    "whyUse": "A Adaga é uma excelente escolha para jogadores que querem maximizar o dano físico contra heróis inimigos. O efeito de redução de armadura do item aplica um debuff ao alvo, reduzindo sua armadura física por um breve tempo — permitindo que todos os aliados que atacam esse alvo causem mais dano. O efeito se torna especialmente poderoso contra inimigos com pouca armadura. Se a armadura de um alvo for reduzida a zero ou abaixo, o dano físico recebido aumenta significativamente. Como a redução de armadura é aplicada diretamente ao inimigo em vez de ser concedida como dano bônus ao atacante, a Adaga permanece eficaz para toda a equipe durante toda a luta.",
+    "strengths": [
+      "Fornece tanto dano quanto utilidade",
+      "Reduz a armadura física inimiga",
+      "Aumenta o dano causado por todos os aliados que atacam o alvo",
+      "Extremamente eficaz em lutas de equipe coordenadas",
+      "Sinergiza bem com heróis que já reduzem armadura",
+      "Forte contra alvos com pouca armadura",
+      "Excelente item para eliminação de alvos prioritários"
+    ],
+    "weaknesses": [
+      "Não fornece bônus defensivos",
+      "Menos eficaz se os inimigos não estiverem sendo focados por múltiplos atacantes",
+      "Fornece menos dano direto do que alguns itens de dano puro",
+      "Requer pressão constante sobre alvos-chave para obter valor máximo"
+    ],
+    "tips": [
+      "Concentre ataques em um único alvo para maximizar o valor do efeito de redução de armadura.",
+      "A Adaga fica mais forte quando múltiplos aliados atacam o mesmo inimigo.",
+      "O item é particularmente eficaz contra inimigos com pouca armadura.",
+      "Heróis com habilidades de redução de armadura existentes obtêm valor excepcional da Adaga.",
+      "Em lutas de equipe, aplique o debuff ao alvo de maior prioridade primeiro.",
+      "A Adaga é especialmente poderosa em partidas 2v2 onde ambos os companheiros podem focar o mesmo inimigo."
+    ],
+    "bestHeroes": {
+      "druid": "Pode invocar uma criatura dos arbustos para lutar ao seu lado. Uma vez que a Adaga reduz a armadura de um inimigo, tanto Furion quanto seu companheiro invocado se beneficiam do dano aumentado contra esse alvo.",
+      "volcarn": "Já possui habilidades que reduzem a armadura inimiga. Combinado com a Adaga, os inimigos ficam ainda mais vulneráveis, permitindo que Volcarn e seus companheiros causem dano significativamente maior.",
+      "shadow-fury": "Depende fortemente de dano físico e já possui habilidades que reduzem a armadura inimiga. A Adaga amplifica ainda mais essa força com um efeito adicional de redução de armadura."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear a Adaga?",
+        "a": "A Adaga é desbloqueada ao atualizar o Druid."
+      },
+      {
+        "q": "A Adaga aumenta apenas meu dano?",
+        "a": "Não. A Adaga reduz a armadura do alvo, permitindo que todos os aliados causem mais dano físico a esse inimigo."
+      },
+      {
+        "q": "A Adaga é boa no 2v2?",
+        "a": "Sim. A Adaga é particularmente forte no 2v2 porque ambos os companheiros podem se beneficiar do efeito de redução de armadura ao focar o mesmo alvo."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Adaga?",
+        "a": "Heróis que causam dano físico ou já têm efeitos de redução de armadura, como Druid, Volcarn e Shadow Fury, obtêm o maior valor da Adaga."
+      },
+      {
+        "q": "A Adaga é melhor contra inimigos com pouca armadura?",
+        "a": "Sim. Quanto mais próximo um inimigo estiver de zero de armadura, mais impactante se torna a redução de armadura adicional."
+      },
+      {
+        "q": "A Adaga funciona com unidades invocadas?",
+        "a": "Sim. Unidades invocadas também se beneficiam de atacar inimigos cuja armadura foi reduzida pela Adaga."
+      }
+    ]
+  },
+  "AssaultSpear": {
+    "description": "A Lança de Assalto é um item que combina velocidade de ataque, dano físico e recuperação de vida. Além de aumentar o poder ofensivo, o item restaura vida sempre que o dono acerta um ataque com sucesso. Essa combinação única torna a Lança de Assalto um dos melhores itens de sustento para heróis baseados em ataques.",
+    "whyUse": "A Lança de Assalto é uma excelente escolha para heróis que dependem de ataques frequentes. O item aumenta tanto a velocidade de ataque quanto o dano, permitindo que os heróis farmem mais rápido e causem mais dano durante as lutas. Ao mesmo tempo, cada ataque bem-sucedido restaura vida, ajudando o herói a se manter ativo no campo de batalha por mais tempo. Ao contrário dos itens de dano orientados a rajadas, a Lança de Assalto recompensa a agressão constante. Heróis que atacam rapidamente podem acionar o efeito de cura repetidamente, transformando pequenas quantidades de cura em uma vantagem significativa ao longo do tempo.",
+    "strengths": [
+      "Fornece velocidade de ataque e dano físico",
+      "Restaura vida em ataques bem-sucedidos",
+      "Excelente sustento durante lutas longas",
+      "Ajuda a reduzir o tempo de inatividade entre batalhas",
+      "Bom item de farm",
+      "Eficaz em todas as etapas do jogo"
+    ],
+    "weaknesses": [
+      "A cura é menos perceptível durante lutas curtas",
+      "Requer ataques frequentes para obter valor máximo",
+      "Menos eficaz em heróis que dependem principalmente de dano de habilidades",
+      "Não fornece armadura ou bônus defensivos diretos"
+    ],
+    "tips": [
+      "A Lança de Assalto fica mais forte à medida que sua velocidade de ataque aumenta.",
+      "Heróis que atacam rapidamente obtêm o maior valor do efeito de cura.",
+      "O item ajuda a manter a vida enquanto farma arbustos e monstros.",
+      "A Lança de Assalto costuma ser mais eficaz em lutas longas do que em confrontos curtos de rajada.",
+      "Considere atualizar totalmente o item se seu build depende fortemente de ataques básicos.",
+      "Heróis de dano sustentado geralmente se beneficiam mais da Lança de Assalto do que heróis de dano em rajada."
+    ],
+    "bestHeroes": {
+      "spitfire": "Já se beneficia de bônus de velocidade de ataque, permitindo acionar o efeito de cura com mais frequência. A velocidade de ataque e o dano adicionais também melhoram a velocidade de farm e facilitam pressionar os oponentes.",
+      "freezi": "Se beneficia enormemente graças à sua alta velocidade de ataque natural. Como o efeito de cura é acionado em cada ataque bem-sucedido, Freezi pode recuperar vida com mais frequência do que muitos outros heróis."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear a Lança de Assalto?",
+        "a": "A Lança de Assalto está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "A Lança de Assalto cura ao atacar arbustos?",
+        "a": "Sim. Ataques bem-sucedidos contra arbustos podem acionar o efeito de cura."
+      },
+      {
+        "q": "A Lança de Assalto cura ao atacar heróis inimigos?",
+        "a": "Sim. Cada ataque bem-sucedido pode restaurar vida."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Lança de Assalto?",
+        "a": "Spitfire e Freezi estão entre os usuários mais fortes porque podem atacar rapidamente e acionar o efeito de cura com mais frequência."
+      },
+      {
+        "q": "A Lança de Assalto é um item de dano ou de sobrevivência?",
+        "a": "É os dois. A Lança de Assalto aumenta a velocidade de ataque e o dano enquanto também fornece recuperação de vida através de seu efeito de cura."
+      }
+    ]
+  },
+  "BoneSword": {
+    "description": "A Espada de Osso é um item Lendário desbloqueado ao atualizar Volcarn. Oferece uma combinação poderosa de dano, vida, bônus de golpe crítico e escalonamento por nível — mas cada ataque drena uma parte da vida do dono.",
+    "whyUse": "A Espada de Osso é projetada para heróis que podem transformar sua desvantagem em vantagem. O item fornece uma grande quantidade de vida, dano bônus, bônus de golpe crítico e dano adicional baseado no nível do herói. Em níveis mais altos, o dano de escalonamento por si só pode se tornar uma enorme fonte de poder. No entanto, cada ataque consome vida — heróis que carecem de cura, roubo de vida ou alguma forma de recuperação de vida podem ter dificuldades para usá-lo efetivamente. O item brilha em heróis que podem se sustentar através do combate ou se beneficiar de ter menos vida.",
+    "strengths": [
+      "Concede uma grande quantidade de vida bônus",
+      "Fornece forte escalonamento de dano através dos níveis do herói",
+      "Aumenta o dano máximo de golpe crítico",
+      "Excelente potencial de dano no final do jogo",
+      "Extremamente poderoso em heróis com sustento",
+      "Não pode matar seu dono"
+    ],
+    "weaknesses": [
+      "Cada ataque consome vida",
+      "O autodano ocorre mesmo se os ataques errarem",
+      "Requer cura, roubo de vida ou sustento para atingir o potencial máximo",
+      "Pode ser difícil de usar efetivamente em heróis frágeis",
+      "A chance de golpe crítico é relativamente baixa sem fontes adicionais"
+    ],
+    "tips": [
+      "A Espada de Osso não pode matar seu dono, tornando-a mais segura do que pode parecer inicialmente.",
+      "O item fica mais forte à medida que seu herói ganha níveis.",
+      "Heróis com roubo de vida obtêm significativamente mais valor da Espada de Osso.",
+      "Heróis que se beneficiam de ter pouca vida podem transformar o autodano em vantagem.",
+      "O item funciona melhor quando combinado com cura ou sustento confiável.",
+      "Não compre a Espada de Osso apenas pela chance de golpe crítico — o bônus é relativamente pequeno por si só."
+    ],
+    "bestHeroes": {
+      "volcarn": "Ganha velocidade de ataque à medida que sua vida diminui. A Espada de Osso reduz continuamente sua vida enquanto ataca, ativando naturalmente seus bônus de velocidade de ataque. Seu sustento natural ajuda ainda mais a compensar o efeito de autodano.",
+      "death-slayer": "Seu roubo de vida integrado permite recuperar vida enquanto ataca, ajudando a compensar a vida perdida. Ele também se beneficia dos bônus de golpe crítico através de suas habilidades de golpe crítico existentes."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear a Espada de Osso?",
+        "a": "A Espada de Osso é desbloqueada ao atualizar Volcarn."
+      },
+      {
+        "q": "A Espada de Osso pode matar seu dono?",
+        "a": "Não. O efeito de autodano da Espada de Osso não pode reduzir a vida do dono a zero."
+      },
+      {
+        "q": "A Espada de Osso causa autodano se meu ataque errar?",
+        "a": "Sim. O efeito de autodano é acionado sempre que você ataca, independentemente de o ataque atingir um alvo."
+      },
+      {
+        "q": "A Espada de Osso é boa para Volcarn?",
+        "a": "Sim. A Espada de Osso é um dos itens mais fortes de Volcarn porque o autodano ajuda a ativar seus bônus de velocidade de ataque enquanto fornece poder ofensivo significativo."
+      },
+      {
+        "q": "A Espada de Osso é um item de golpe crítico?",
+        "a": "Não principalmente. Embora a Espada de Osso forneça alguma chance de golpe crítico e aumente o dano máximo de golpe crítico, ela geralmente é comprada pelo seu dano de escalonamento, vida bônus e mecânicas únicas de autodano."
+      },
+      {
+        "q": "Por que a Espada de Osso fica mais forte no final da partida?",
+        "a": "A Espada de Osso concede dano adicional baseado no nível do herói. À medida que seu herói sobe de nível, o bônus de dano do item continua aumentando."
+      }
+    ]
+  },
+  "WarriorAxe": {
+    "description": "O Machado de Guerra é um item ofensivo versátil que fornece uma combinação equilibrada de dano, vida e velocidade de movimento. Ao contrário dos itens especializados que se concentram em uma única estatística, o Machado de Guerra melhora vários atributos fundamentais de uma vez, tornando-o um dos itens mais flexíveis de Spelltroum.",
+    "whyUse": "O Machado de Guerra é ideal para heróis que querem um pouco de tudo. O item fornece dano bônus para melhorar o farm e a eficácia no combate, vida bônus para aumentar a sobrevivência e velocidade de movimento para ajudar os heróis a se engajar, perseguir inimigos e se reposicionar durante as lutas. Uma das maiores vantagens do Machado de Guerra é que ele pode substituir parcialmente a necessidade de itens focados em movimento. Alguns heróis não precisam do grande bônus de velocidade de movimento fornecido pelas Botas, mas ainda se beneficiam muito de um aumento moderado de velocidade.",
+    "strengths": [
+      "Fornece dano, vida e velocidade de movimento",
+      "Excelente item para tudo",
+      "Forte aumento de poder no início e meio do jogo",
+      "Ajuda heróis a destruir arbustos com mais eficiência",
+      "Melhora tanto a sobrevivência quanto a mobilidade",
+      "Funciona bem em uma ampla variedade de heróis"
+    ],
+    "weaknesses": [
+      "Não se destaca em nenhuma categoria individual",
+      "Fornece menos velocidade de movimento do que itens de Botas dedicados",
+      "Fornece menos dano do que itens puramente ofensivos",
+      "Pode ser superado por itens especializados em builds altamente otimizadas"
+    ],
+    "tips": [
+      "A primeira atualização geralmente fornece dano suficiente para destruir arbustos com um único ataque.",
+      "A segunda atualização concede um aumento significativo de vida, tornando seu herói visivelmente mais difícil de eliminar.",
+      "O Machado de Guerra é especialmente valioso para heróis que não precisam da velocidade de movimento total fornecida pelas Botas.",
+      "O item costuma ser mais forte quando atualizado no início da partida.",
+      "Considere o Machado de Guerra se seu build carece de sobrevivência ou mobilidade.",
+      "Itens de estatísticas equilibradas geralmente fornecem valor mais consistente do que itens altamente especializados."
+    ],
+    "bestHeroes": {
+      "mortifier": "O dano bônus aumenta a eficácia de seus ataques, enquanto a vida adicional melhora a sobrevivência. Como Mortifier pode acionar ataques adicionais através de suas habilidades, cada ponto de dano bônus se torna mais valioso.",
+      "death-slayer": "Um herói corpo a corpo que frequentemente tem dificuldade em perseguir alvos em fuga. O Machado de Guerra resolve vários problemas de uma vez ao fornecer dano adicional, sobrevivência e velocidade de movimento.",
+      "grizzly": "Como herói corpo a corpo, valoriza a velocidade de movimento para perseguir inimigos, vida para sobreviver às lutas e dano para pressão ofensiva. O Machado de Guerra fortalece todas essas áreas simultaneamente."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Machado de Guerra?",
+        "a": "O Machado de Guerra é desbloqueado através do sistema de Recompensas Diárias."
+      },
+      {
+        "q": "O Machado de Guerra é um item de dano ou defensivo?",
+        "a": "Os dois. O Machado de Guerra fornece dano, vida e velocidade de movimento, tornando-o um dos itens mais equilibrados do jogo."
+      },
+      {
+        "q": "O Machado de Guerra é um bom primeiro item?",
+        "a": "Sim. Muitos jogadores escolhem o Machado de Guerra como uma atualização inicial porque melhora imediatamente múltiplos aspectos de seu herói."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Machado de Guerra?",
+        "a": "Mortifier, Death Slayer e Grizzly estão entre os heróis que obtêm o maior valor do Machado de Guerra."
+      },
+      {
+        "q": "O Machado de Guerra ajuda no farm?",
+        "a": "Sim. O bônus de dano inicial geralmente permite que os heróis destruam arbustos com um único ataque, melhorando significativamente a eficiência do farm."
+      },
+      {
+        "q": "Devo comprar Botas se já tenho o Machado de Guerra?",
+        "a": "Depende do herói. Alguns heróis ainda se beneficiam de itens de velocidade de movimento dedicados, enquanto outros ganham mobilidade suficiente do Machado de Guerra."
+      }
+    ]
+  },
+  "FireAxe": {
+    "description": "O Machado de Fogo é um item Místico que combina dano físico, velocidade de movimento e um poderoso efeito de queimadura. Em níveis mais altos, os ataques incendeiam os inimigos e aplicam Dano de Fogo ao longo do tempo por 4 segundos. Ao contrário da maioria das fontes de dano, o Dano de Fogo causa dano puro não reduzido por Armadura Física ou Mágica.",
+    "whyUse": "O Machado de Fogo é uma excelente escolha para heróis que querem pressionar os inimigos ao longo do tempo em vez de depender inteiramente de dano em rajada. O efeito de queimadura do item continua causando dano aos inimigos muito após o ataque inicial. Embora cada tick de dano possa parecer pequeno, o dano total pode se tornar significativo ao longo de múltiplos confrontos. Um dos aspectos mais valiosos do Machado de Fogo é sua capacidade de atrasar a regeneração de vida inimiga — como o dano de queimadura continua por vários segundos, os inimigos afetados não podem começar sua regeneração natural até que a queimadura expire.",
+    "strengths": [
+      "Fornece dano e velocidade de movimento",
+      "Aplica dano puro que ignora armadura",
+      "Atrasa a regeneração de vida inimiga",
+      "Forte contra heróis baseados em escudo",
+      "Excelente ferramenta de assédio",
+      "Sinergiza bem com outros efeitos de dano ao longo do tempo",
+      "Útil em todas as etapas do jogo"
+    ],
+    "weaknesses": [
+      "Menor dano em rajada do que alguns itens ofensivos",
+      "Requer ataques repetidos para manter pressão",
+      "O dano é distribuído ao longo do tempo em vez de entregue instantaneamente",
+      "Menos eficaz se os inimigos podem terminar lutas rapidamente antes que a queimadura se torne impactante"
+    ],
+    "tips": [
+      "A primeira atualização fornece dano suficiente para muitos heróis destruírem arbustos com um único ataque.",
+      "A segunda atualização concede velocidade de movimento comparável às botas básicas.",
+      "O Dano de Fogo ignora tanto a Armadura Física quanto a Armadura Mágica.",
+      "Inimigos em chamas não podem começar a regeneração natural de vida até que o efeito de queimadura termine.",
+      "O Machado de Fogo é particularmente eficaz contra heróis que dependem de escudos.",
+      "O item se destaca em assédio e ataques repetidos de bater e correr.",
+      "Efeitos de dano ao longo do tempo se tornam mais valiosos durante lutas longas."
+    ],
+    "bestHeroes": {
+      "viverna": "Já se especializa em dano ao longo do tempo através de efeitos de veneno. O Machado de Fogo adiciona outra fonte de dano periódico, permitindo que ambos os efeitos se acumulem e pressionem continuamente os inimigos. A velocidade de movimento também ajuda a se reposicionar e manter distância.",
+      "faerie": "Após lançar feitiços, um único ataque pode aplicar o efeito de queimadura e continuar causando dano ao alvo enquanto Faerie se reposiciona e aguarda os recooldowns. Permite manter pressão mesmo quando não está lançando ativamente."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Machado de Fogo?",
+        "a": "O Machado de Fogo está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "O Dano de Fogo ignora armadura?",
+        "a": "Sim. O Dano de Fogo é dano puro e não é reduzido por Armadura Física ou Armadura Mágica."
+      },
+      {
+        "q": "O Machado de Fogo impede a regeneração de vida?",
+        "a": "Sim. Enquanto o efeito de queimadura está ativo, o alvo continua recebendo dano e não pode começar a regeneração natural de vida."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Machado de Fogo?",
+        "a": "Viverna e Faerie estão entre os usuários mais fortes porque podem combinar seu efeito de queimadura com suas habilidades existentes de dano ao longo do tempo e pressão."
+      },
+      {
+        "q": "O Machado de Fogo é um item de farm ou de luta?",
+        "a": "Os dois. Atualizações iniciais melhoram o farm através do dano bônus, enquanto atualizações posteriores fornecem velocidade de movimento e efeitos poderosos de dano ao longo do tempo para o combate."
+      }
+    ]
+  },
+  "ManaAxe": {
+    "description": "O Machado de Mana é um item Místico especializado em queima de mana. Em vez de aumentar o dano de ataque diretamente, ele queima a mana de heróis inimigos e causa dano puro baseado na quantidade de mana removida. Isso torna o Machado de Mana um dos itens anti-mago mais eficazes de Spelltroum.",
+    "whyUse": "O Machado de Mana é projetado para punir heróis dependentes de mana. Cada ataque queima mana do alvo e converte a mana queimada em dano puro. Ao contrário do Dano Físico ou Mágico, este dano não é reduzido por armadura, tornando-o eficaz contra uma ampla variedade de inimigos. O item se torna especialmente poderoso contra heróis que dependem fortemente de habilidades — ao drenar sua mana, o Machado de Mana não apenas os danifica, mas também limita sua capacidade de reagir.",
+    "strengths": [
+      "Queima a mana do inimigo em cada ataque",
+      "Causa dano puro baseado na mana queimada",
+      "Eficaz contra conjuradores e builds com muita mana",
+      "Forte em heróis que atacam rapidamente",
+      "Fornece velocidade de movimento no nível máximo",
+      "Pode reduzir significativamente a capacidade de um inimigo de lançar feitiços"
+    ],
+    "weaknesses": [
+      "Menos eficaz contra heróis com baixo pool de mana",
+      "Fornece pouco valor quando o inimigo fica sem mana",
+      "Não aumenta diretamente o dano de ataque",
+      "Requer ataques repetidos para maximizar a eficácia"
+    ],
+    "tips": [
+      "O Machado de Mana fica mais forte contra heróis com grandes pools de mana.",
+      "Heróis com alta velocidade de ataque obtêm mais valor porque acionam a queima de mana com mais frequência.",
+      "Se um inimigo não tiver mana restante, o Machado de Mana não pode mais causar dano adicional de queima de mana.",
+      "A atualização final fornece velocidade de movimento, tornando o Machado de Mana uma alternativa potencial às botas básicas.",
+      "Considere o Machado de Mana ao enfrentar inimigos que dependem fortemente de habilidades.",
+      "O Machado de Mana é um dos melhores contadores para builds de Escudo de Mana."
+    ],
+    "bestHeroes": {
+      "flameweaver": "Já possui múltiplas formas de drenar a mana inimiga através de suas habilidades. Combinado com o Machado de Mana, pode rapidamente esvaziar o pool de mana de um oponente e deixá-lo incapaz de lançar habilidades importantes.",
+      "freezi": "Sua alta velocidade de ataque permite acionar o Machado de Mana repetidamente, queimando grandes quantidades de mana em um curto período enquanto aplica continuamente dano puro adicional.",
+      "volcarn": "Suas ilusões herdam o efeito de queima de mana, permitindo que múltiplos ataques drenem mana simultaneamente e sobrecarreguem inimigos dependentes de mana muito rapidamente."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Machado de Mana?",
+        "a": "O Machado de Mana está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "O Machado de Mana causa dano puro?",
+        "a": "Sim. O dano causado pelo Machado de Mana ignora tanto a Armadura Física quanto a Armadura Mágica."
+      },
+      {
+        "q": "O Machado de Mana funciona se o alvo não tiver mana?",
+        "a": "Não. O Machado de Mana causa dano baseado na mana queimada. Se o alvo não tiver mana restante, o item não pode queimar mana adicional."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Machado de Mana?",
+        "a": "Flameweaver, Freezi e Volcarn estão entre os usuários mais fortes porque podem acionar repetidamente o efeito de queima de mana."
+      },
+      {
+        "q": "O Machado de Mana é uma boa alternativa às Botas?",
+        "a": "Para alguns heróis, sim. A atualização final concede velocidade de movimento, permitindo que certos builds ganhem mobilidade enquanto também se beneficiam da queima de mana e dano adicional."
+      }
+    ]
+  },
+  "AxeOfVampire": {
+    "description": "O Machado do Vampiro é um item Místico que fornece dano, armadura física, velocidade de movimento e acesso a um dos efeitos de sustento temporário mais fortes de Spelltroum. Após atualizar, os heróis ganham chance de descobrir uma Runa de Vampirismo ao destruir arbustos — concedendo 100% de Roubo de Vida Físico por 5 segundos.",
+    "whyUse": "O Machado do Vampiro é projetado para heróis que querem sustento poderoso durante o combate. Ao contrário dos itens tradicionais de roubo de vida que fornecem um efeito constante, o Machado do Vampiro concede acesso a rajadas temporárias de cura extremamente forte. Uma Runa de Vampirismo bem cronometrada pode mudar completamente o resultado de uma luta, permitindo que um herói recupere grandes quantidades de vida enquanto continua atacando. O item também fornece estatísticas de combate úteis incluindo dano bônus, armadura física e velocidade de movimento no nível máximo.",
+    "strengths": [
+      "Fornece dano bônus e armadura física",
+      "Fornece velocidade de movimento no nível máximo",
+      "Pode gerar poderosas Runas de Vampirismo dos arbustos",
+      "Concede 100% de Roubo de Vida Físico quando uma runa é ativada",
+      "Excelente sustento em rajada durante lutas",
+      "Particularmente eficaz em heróis que atacam rapidamente"
+    ],
+    "weaknesses": [
+      "O efeito de roubo de vida depende de encontrar uma Runa de Vampirismo",
+      "Menos eficaz em heróis que dependem principalmente de dano mágico",
+      "Requer ataques físicos para obter valor da runa",
+      "Parte de seu poder vem da aleatoriedade"
+    ],
+    "tips": [
+      "A Runa de Vampirismo só aparece após atualizar o Machado do Vampiro.",
+      "Guarde a Runa de Vampirismo para lutas importantes sempre que possível.",
+      "Heróis com alta velocidade de ataque obtêm o maior valor do efeito de roubo de vida.",
+      "O item geralmente vale a pena atualizar para o Nível 2 cedo para obter acesso à Runa de Vampirismo.",
+      "A armadura física torna o item útil mesmo quando uma Runa de Vampirismo não está disponível."
+    ],
+    "bestHeroes": {
+      "druid": "Suas habilidades podem criar arbustos adicionais durante o combate, fornecendo mais oportunidades de descobrir Runas de Vampirismo. Como Furion causa principalmente dano físico, pode fazer excelente uso do efeito de 100% de roubo de vida.",
+      "freezi": "Suas oportunidades de ataque adicionais permitem acionar múltiplas instâncias de cura durante a Runa de Vampirismo, ajudando a recuperar vida extremamente rápido durante o combate.",
+      "grizzly": "Se beneficia das estatísticas ofensivas e usa a Runa de Vampirismo para compensar o dano recebido durante engajamentos agressivos, permitindo permanecer no combate por mais tempo."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Machado do Vampiro?",
+        "a": "O Machado do Vampiro está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "Como conseguir uma Runa de Vampirismo?",
+        "a": "Após atualizar o Machado do Vampiro, destruir arbustos dá a você uma chance de descobrir uma Runa de Vampirismo."
+      },
+      {
+        "q": "O que a Runa de Vampirismo faz?",
+        "a": "Quando ativada, a runa concede 100% de Roubo de Vida Físico por 5 segundos."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Machado do Vampiro?",
+        "a": "Furion, Freezi, Mortifier, Grizzly e Volcarn estão entre os usuários mais fortes porque podem aproveitar ao máximo o efeito temporário de roubo de vida."
+      },
+      {
+        "q": "O Machado do Vampiro é uma fonte confiável de cura?",
+        "a": "Não completamente. A cura depende de encontrar e ativar uma Runa de Vampirismo. No entanto, quando disponível, pode fornecer alguns dos efeitos de cura mais fortes do jogo."
+      },
+      {
+        "q": "Devo atualizar totalmente o Machado do Vampiro imediatamente?",
+        "a": "Nem sempre. Muitos jogadores o atualizam cedo para desbloquear a Runa de Vampirismo e terminam de atualizar mais tarde quando precisam de dano adicional, armadura e velocidade de movimento."
+      }
+    ]
+  },
+  "Ring": {
+    "description": "O Anel é um item Lendário desbloqueado ao atualizar Death Slayer. Combina dano físico, armadura física e Roubo de Vida Físico permanente, tornando-o um dos itens de sustento mais fortes para heróis de dano físico. Ao contrário dos efeitos de cura temporários, o Anel fornece roubo de vida em todos os momentos — sempre que o herói causa dano físico a heróis ou súditos, uma parte desse dano é devolvida como vida. A combinação de dano, armadura e roubo de vida torna o Anel uma excelente escolha para heróis que querem permanecer no combate por mais tempo e gradualmente superar seus oponentes.",
+    "whyUse": "O Anel é projetado para heróis que dependem de dano físico e ataques frequentes. O item aumenta o dano físico, concede armadura física e fornece Roubo de Vida Físico permanente. Isso permite que os heróis recuperem vida enquanto lutam, tornando-os muito mais difíceis de eliminar durante engajamentos prolongados. O bônus de armadura é particularmente valioso porque melhora a eficácia de cada ponto de cura recebido — receber menos dano enquanto restaura vida simultaneamente cria uma combinação poderosa.",
+    "strengths": [
+      "Fornece Roubo de Vida Físico permanente.",
+      "Concede tanto dano quanto armadura.",
+      "Excelente sustento durante lutas prolongadas.",
+      "Forte sinergia com velocidade de ataque.",
+      "Escala bem com o aumento de dano físico.",
+      "Melhora a sobrevivência sem sacrificar poder ofensivo."
+    ],
+    "weaknesses": [
+      "Não fornece cura ao atacar arbustos.",
+      "Menos eficaz em heróis que dependem principalmente de dano mágico.",
+      "Requer ataques consistentes para maximizar o valor.",
+      "Fornece menos dano em rajada do que itens puramente ofensivos."
+    ],
+    "tips": [
+      "O Anel só restaura vida do dano físico causado a heróis e súditos.",
+      "O item fica mais forte à medida que seu dano físico aumenta.",
+      "A velocidade de ataque aumenta enormemente o valor do Anel.",
+      "Roubo de vida e armadura funcionam excepcionalmente bem juntos.",
+      "O Anel costuma ser mais forte durante lutas longas onde múltiplos ataques podem ser desferidos.",
+      "Heróis com sustento integrado obtêm ainda mais valor do Anel."
+    ],
+    "bestHeroes": {
+      "death-slayer": "Death Slayer já tem acesso ao roubo de vida através de suas habilidades. O Anel se acumula com seu sustento existente, permitindo recuperar ainda mais vida durante o combate. A armadura e o dano adicionais fortalecem ainda mais sua capacidade de permanecer nas lutas."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Anel?",
+        "a": "O Anel é desbloqueado ao atualizar Death Slayer."
+      },
+      {
+        "q": "O Anel cura ao atacar arbustos?",
+        "a": "Não. O Anel só restaura vida quando causa dano físico a heróis e súditos."
+      },
+      {
+        "q": "O Anel funciona com habilidades físicas?",
+        "a": "Sim. Qualquer dano físico que se beneficie do roubo de vida pode contribuir para a cura."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Anel?",
+        "a": "Death Slayer, Freezi, Grizzly, Volcarn e Spitfire estão entre os usuários mais fortes porque ou atacam rapidamente ou causam alto dano físico."
+      },
+      {
+        "q": "Por que a armadura é útil em um item de roubo de vida?",
+        "a": "A armadura reduz o dano físico recebido, tornando a vida restaurada através do roubo de vida ainda mais eficaz. A combinação de armadura e cura torna os heróis significativamente mais difíceis de derrotar."
+      },
+      {
+        "q": "O Anel é um item defensivo ou de dano?",
+        "a": "O Anel é os dois. Ele fornece dano, armadura e roubo de vida, tornando-o um dos itens de sustento mais equilibrados disponíveis para heróis de dano físico."
+      }
+    ]
+  },
+  "WarlockStaff": {
+    "description": "O Cajado do Bruxo é um dos itens mais incomuns de Spelltroum. Em vez de recompensar os jogadores por permanecerem vivos, ele os recompensa por morrerem. Sempre que o dono é derrotado, ele recebe ouro bônus — criando estratégias completamente novas impossíveis com a maioria dos outros itens. Além de sua passiva única, o Cajado do Bruxo fornece uma mistura equilibrada de dano, velocidade de ataque e poder de feitiço, tornando-o utilizável em quase qualquer herói.",
+    "whyUse": "O Cajado do Bruxo é projetado para jogadores que querem maximizar sua receita de ouro. A maioria dos itens ajuda os heróis a ficarem mais fortes diretamente — o Cajado do Bruxo adota uma abordagem diferente, ajudando os heróis a adquirir ouro mais rapidamente, permitindo que comprem itens adicionais mais cedo. O item é especialmente valioso para heróis que precisam de tempo e recursos para atingir seu potencial máximo. Mesmo que esses heróis morram enquanto farmam ou escalam, o Cajado do Bruxo ajuda a suavizar o revés econômico.",
+    "strengths": [
+      "Gera ouro bônus após a morte.",
+      "Cria estratégias econômicas únicas.",
+      "Reduz a punição por morrer.",
+      "Fornece dano, velocidade de ataque e poder de feitiço.",
+      "Pode ser usado efetivamente por quase qualquer herói.",
+      "Ajuda heróis a atingir atualizações de itens importantes mais rapidamente."
+    ],
+    "weaknesses": [
+      "Encoraja jogo arriscado.",
+      "Não melhora diretamente a sobrevivência.",
+      "Perder coroas pode superar o ouro bônus ganho.",
+      "Fornece menos poder de combate do que itens ofensivos especializados.",
+      "Requer tomada de decisão cuidadosa para usar efetivamente."
+    ],
+    "tips": [
+      "O Cajado do Bruxo recompensa estratégias de farm agressivo.",
+      "Morrer ainda é uma desvantagem, mesmo quando ouro bônus é concedido.",
+      "Foque em coletar recursos e acelerar sua progressão de itens.",
+      "O item costuma ser mais forte durante o início e meio do jogo.",
+      "Não sacrifique coroas descuidadamente apenas porque você ganha ouro bônus.",
+      "O Cajado do Bruxo fornece estatísticas de combate úteis mesmo quando seu efeito passivo não está sendo acionado."
+    ],
+    "bestHeroes": {
+      "druid": "Volcarn frequentemente é vulnerável durante os estágios iniciais e geralmente requer vários itens antes de atingir seu potencial máximo. O Cajado do Bruxo ajuda a acelerar essa progressão reduzindo o impacto econômico das mortes."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Cajado do Bruxo?",
+        "a": "O Cajado do Bruxo é desbloqueado através do sistema de Recompensas Diárias."
+      },
+      {
+        "q": "Como o Cajado do Bruxo funciona?",
+        "a": "Sempre que seu herói morre, o Cajado do Bruxo concede ouro bônus. Isso ajuda a reduzir o impacto econômico de ser derrotado."
+      },
+      {
+        "q": "O Cajado do Bruxo é um bom item para iniciantes?",
+        "a": "Pode ser, mas os jogadores devem ter cuidado. O item recompensa mortes com ouro, mas morrer com muita frequência ainda pode fazer você perder a partida."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Cajado do Bruxo?",
+        "a": "Druid e Volcarn estão entre os usuários mais comuns porque frequentemente se beneficiam de oportunidades adicionais de farm e escalonamento."
+      },
+      {
+        "q": "O Cajado do Bruxo significa que devo morrer intencionalmente?",
+        "a": "Geralmente não. O objetivo não é morrer o mais frequentemente possível. Em vez disso, o item permite que você tome riscos calculados e se recupere mais facilmente quando as mortes acontecem."
+      },
+      {
+        "q": "Por que alguns jogadores consideram o Cajado do Bruxo subestimado?",
+        "a": "Muitos jogadores se concentram apenas no poder de combate. O Cajado do Bruxo fornece poder econômico, permitindo que jogadores habilidosos construam vantagens de itens que podem se tornar extremamente valiosas mais tarde na partida."
+      }
+    ]
+  },
+  "GlaciumReaver": {
+    "description": "A Foice de Glacium é um item Místico projetado para heróis dependentes de mana. Ela fornece Poder de Feitiço, velocidade de movimento, restauração de mana e um efeito único de projétil mágico que ajuda tanto no farm quanto no combate. Sempre que o dono destrói arbustos, súditos ou heróis inimigos, a Foice de Glacium restaura mana — permitindo que conjuradores permaneçam ativos por períodos mais longos. O item também concede chance de lançar um machado mágico que converte o ataque em Dano Mágico e ricocheteia para um alvo adicional.",
+    "whyUse": "A Foice de Glacium é um dos melhores itens para heróis que lançam feitiços com frequência. A mana é frequentemente o recurso mais importante para conjuradores — ao restaurar mana através do farm e combate, a Foice de Glacium permite que os heróis continuem usando habilidades sem ficar sem recursos. O item também fornece Poder de Feitiço, aumentando a eficácia das habilidades mágicas. Seu projétil mágico ricocheteante único adiciona utilidade adicional: pode danificar múltiplos alvos, limpar arbustos com mais eficiência e criar pressão extra durante o combate.",
+    "strengths": [
+      "Fornece Poder de Feitiço.",
+      "Restaura mana através do farm e combate.",
+      "Concede velocidade de movimento no nível máximo.",
+      "Ajuda heróis a permanecerem ativos por mais tempo.",
+      "Melhora a eficiência do farm.",
+      "Possui um projétil mágico ricocheteante único.",
+      "Boa escolha para heróis dependentes de mana."
+    ],
+    "weaknesses": [
+      "Menos eficaz em heróis que não usam mana com frequência.",
+      "Fornece menos dano direto do que itens ofensivos dedicados.",
+      "O efeito do projétil mágico é baseado em chance.",
+      "Requer farm ativo para maximizar a restauração de mana."
+    ],
+    "tips": [
+      "Destruir arbustos é uma excelente maneira de restaurar mana.",
+      "O item se torna mais valioso quanto mais frequentemente seu herói lança feitiços.",
+      "O projétil mágico pode ajudar a limpar múltiplos arbustos com um único ataque.",
+      "A velocidade de movimento no nível máximo permite que alguns heróis pulem as botas básicas.",
+      "Conjuradores geralmente obtêm o maior valor da Foice de Glacium.",
+      "O projétil ricocheteante pode ocasionalmente atingir alvos que você não estava atacando diretamente."
+    ],
+    "bestHeroes": {
+      "viverna": "Viverna depende fortemente de mana e dano de feitiço durante toda a partida. A restauração de mana a ajuda a continuar lançando habilidades, enquanto o Poder de Feitiço adicional melhora a eficácia de seus ataques de veneno e mágicos.",
+      "faerie": "Faerie se beneficia de todos os aspectos da Foice de Glacium. A mana adicional permite lançar habilidades com mais frequência, o Poder de Feitiço aumenta seu dano e a velocidade de movimento melhora sua mobilidade durante as lutas."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear a Foice de Glacium?",
+        "a": "A Foice de Glacium está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "Como a Foice de Glacium restaura mana?",
+        "a": "A mana é restaurada sempre que você destrói arbustos, súditos ou heróis inimigos."
+      },
+      {
+        "q": "O que o machado mágico faz?",
+        "a": "O machado mágico converte o ataque em Dano Mágico e ricocheteia para um alvo adicional, permitindo atingir múltiplos inimigos ou arbustos."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Foice de Glacium?",
+        "a": "Viverna e Faerie estão entre os usuários mais fortes porque dependem fortemente de mana e dano de feitiço durante a partida."
+      },
+      {
+        "q": "A Foice de Glacium é boa para farm?",
+        "a": "Sim. O efeito de restauração de mana e o projétil mágico ricocheteante ajudam a melhorar a eficiência do farm."
+      },
+      {
+        "q": "A Foice de Glacium pode substituir as Botas?",
+        "a": "Para alguns heróis, sim. O bônus de velocidade de movimento permite que certos builds ganhem mobilidade sem dedicar um slot de item às botas tradicionais."
+      }
+    ]
+  },
+  "ClawsOfFerocity": {
+    "description": "As Garras da Ferocidade são um item Místico focado em golpes críticos. Fornece vida bônus, chance de golpe crítico e aumenta o dano causado pelos golpes críticos. Por padrão, golpes críticos em Spelltroum causam 50% de dano físico adicional — as Garras da Ferocidade aumentam esse bônus para 75%, tornando cada golpe crítico significativamente mais perigoso.",
+    "whyUse": "As Garras da Ferocidade são projetadas para heróis que já têm acesso à chance de golpe crítico. Ao contrário dos itens que se concentram em aumentar a frequência dos golpes críticos, as Garras da Ferocidade se concentram em aumentar seu impacto — cada golpe crítico bem-sucedido se torna consideravelmente mais forte. O item também fornece vida bônus, tornando-o surpreendentemente durável para um item ofensivo. Muitos jogadores combinam as Garras da Ferocidade com as Garras Letais, criando uma das combinações de golpe crítico mais fortes do jogo.",
+    "strengths": [
+      "Aumenta o dano de golpe crítico.",
+      "Fornece vida bônus.",
+      "Concede chance adicional de golpe crítico.",
+      "Excelente sinergia com outros itens de golpe crítico.",
+      "Forte em heróis com efeitos de golpe crítico integrados.",
+      "Melhora tanto o ataque quanto a sobrevivência."
+    ],
+    "weaknesses": [
+      "Relativamente fraco sem outras fontes de chance de golpe crítico.",
+      "Fornece menos dano direto do que alguns itens ofensivos.",
+      "Os golpes críticos continuam sendo baseados em chance.",
+      "Menos eficaz em heróis que não dependem de dano físico."
+    ],
+    "tips": [
+      "As Garras da Ferocidade são mais fortes quando combinadas com chance adicional de golpe crítico.",
+      "O item aumenta o valor de cada golpe crítico que você acerta.",
+      "A vida bônus torna o item mais seguro do que muitas alternativas puramente ofensivas.",
+      "Builds de golpe crítico geralmente se beneficiam mais deste item do que builds de dano padrão.",
+      "Considere combinar as Garras da Ferocidade com as Garras Letais para máxima eficácia.",
+      "Heróis com efeitos de golpe crítico integrados obtêm valor excepcional deste item."
+    ],
+    "bestHeroes": {
+      "death-slayer": "Death Slayer já tem acesso a efeitos de golpe crítico através de suas habilidades. Aumentar o dano desses golpes críticos melhora significativamente seu potencial de rajada, enquanto a vida adicional o ajuda a sobreviver tempo suficiente para se beneficiar completamente de seu poder ofensivo."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear as Garras da Ferocidade?",
+        "a": "As Garras da Ferocidade estão disponíveis desde o início do jogo. Como todos os itens Místicos, não requerem progressão de herói para desbloquear."
+      },
+      {
+        "q": "O que as Garras da Ferocidade fazem?",
+        "a": "As Garras da Ferocidade aumentam o dano de golpe crítico, concedem vida bônus e fornecem chance adicional de golpe crítico."
+      },
+      {
+        "q": "Quanto dano os golpes críticos causam com as Garras da Ferocidade?",
+        "a": "Normalmente, golpes críticos causam 50% de dano físico adicional. As Garras da Ferocidade aumentam esse bônus para 75%."
+      },
+      {
+        "q": "As Garras da Ferocidade funcionam bem com as Garras Letais?",
+        "a": "Sim. As Garras Letais aumentam a chance de golpe crítico, enquanto as Garras da Ferocidade aumentam o dano de golpe crítico. Juntas formam uma das combinações de golpe crítico mais fortes de Spelltroum."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Garras da Ferocidade?",
+        "a": "Death Slayer, Volcarn e Shadow Fury estão entre os usuários mais fortes porque podem aproveitar as mecânicas de golpe crítico de forma confiável."
+      },
+      {
+        "q": "As Garras da Ferocidade são um item de sobrevivência ou de dano?",
+        "a": "É principalmente um item de dano, mas a vida bônus fornece sobrevivência valiosa que muitos itens de golpe crítico normalmente não têm."
+      }
+    ]
+  },
+  "Cuirass": {
+    "description": "A Couraça é um dos itens defensivos mais confiáveis de Spelltroum. Fornece uma grande quantidade de vida bônus, tornando os heróis significativamente mais difíceis de derrotar durante toda a partida. Como a maioria dos heróis começa com um pool de vida relativamente baixo, até mesmo o primeiro nível da Couraça pode ter um grande impacto na sobrevivência.",
+    "whyUse": "A Couraça é o item de referência quando seu herói precisa de mais sobrevivência. Muitos builds se concentram fortemente em dano, velocidade de ataque, poder de feitiço ou utilidade. Embora esses builds possam ser poderosos, eles frequentemente deixam os heróis vulneráveis durante lutas de equipe. A Couraça resolve esse problema fornecendo um grande aumento à vida máxima. O item é particularmente valioso porque a vida beneficia cada herói independentemente de seu estilo de jogo.",
+    "strengths": [
+      "Fornece uma grande quantidade de vida",
+      "Eficaz em quase qualquer herói",
+      "Excelente para equilibrar builds ofensivas",
+      "Melhora a sobrevivência durante toda a partida",
+      "Concede benefícios adicionais de regeneração em níveis mais altos"
+    ],
+    "weaknesses": [
+      "Não aumenta o dano",
+      "Não fornece bônus de mobilidade",
+      "Pode ser menos valiosa se seu build já contém vários itens defensivos"
+    ],
+    "tips": [
+      "A Couraça costuma ser uma boa compra quando a maioria dos seus outros itens fornece pouca ou nenhuma vida.",
+      "Até mesmo o primeiro nível pode aumentar dramaticamente a sobrevivência durante o início do jogo.",
+      "Heróis com armadura naturalmente alta obtêm valor excepcional da vida bônus.",
+      "Considere atualizar a Couraça se as lutas estão durando mais e você está sendo frequentemente eliminado antes de usar todas as suas habilidades.",
+      "Os bônus de regeneração se tornam mais perceptíveis durante partidas prolongadas e engajamentos repetidos."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Sua armadura naturalmente alta torna cada ponto de vida adicional mais valioso, permitindo absorver significativamente mais dano durante as lutas.",
+      "faerie": "Frequentemente investe fortemente em poder de feitiço e itens focados em mana. A Couraça ajuda a compensar a falta de sobrevivência e facilita permanecer vivo enquanto lança feitiços.",
+      "viverna": "Como muitos builds orientados a magos priorizam dano sobre durabilidade, a Couraça fornece uma maneira eficiente de se tornar muito mais difícil de eliminar."
+    },
+    "faq": [
+      {
+        "q": "Vale a pena comprar a Couraça em heróis de dano?",
+        "a": "Sim. Muitos builds focados em dano se tornam significativamente mais fortes quando incluem pelo menos um item defensivo. A Couraça é uma das formas mais fáceis de melhorar a sobrevivência sem mudar seu estilo de jogo geral."
+      },
+      {
+        "q": "A Couraça é apenas para tanques?",
+        "a": "Não. Embora os tanques se beneficiem muito da Couraça, magos e heróis de dano frequentemente a compram para evitar ser eliminados muito rapidamente durante as lutas."
+      },
+      {
+        "q": "Quando devo atualizar a Couraça?",
+        "a": "Se você está tendo dificuldades para sobreviver em lutas de equipe ou frequentemente é derrotado antes de usar suas habilidades, atualizar a Couraça costuma ser um bom investimento."
+      }
+    ]
+  },
+  "Helmet": {
+    "description": "O Elmo Guardião é um item Místico projetado para contrariar dano mágico. Fornece uma grande quantidade de Resistência Mágica enquanto também aumenta o Poder de Feitiço, tornando-o um dos itens defensivos mais eficazes contra conjuradores. Ao contrário de muitos itens defensivos que sacrificam o potencial ofensivo, o Elmo Guardião permite que os heróis se tornem significativamente mais resistentes ao dano mágico enquanto ainda melhoram o poder de suas habilidades.",
+    "whyUse": "O Elmo Guardião é o item de referência ao enfrentar conjuradores poderosos. O item reduz dramaticamente o dano mágico recebido, permitindo que os heróis sobrevivam a habilidades que de outra forma seriam devastadoras. Ao mesmo tempo, o Elmo Guardião aumenta o Poder de Feitiço, garantindo que o dono continue se beneficiando ofensivamente. Como o Poder de Feitiço melhora todas as habilidades em Spelltroum — incluindo habilidades que causam Dano Físico — o Elmo Guardião fornece valor para uma variedade surpreendentemente ampla de heróis.",
+    "strengths": [
+      "Fornece uma grande quantidade de Resistência Mágica.",
+      "Aumenta o Poder de Feitiço.",
+      "Forte contra conjuradores.",
+      "Eficaz tanto em magos quanto em não-magos.",
+      "Ajuda a sobreviver ao dano em rajada.",
+      "Excelente opção defensiva em partidas com muitos magos."
+    ],
+    "weaknesses": [
+      "Fornece pouco valor contra equipes que dependem principalmente de dano físico.",
+      "Não aumenta a durabilidade física.",
+      "Menos eficaz quando os inimigos têm dano mágico limitado.",
+      "Frequentemente desnecessário contra composições de equipe puramente físicas."
+    ],
+    "tips": [
+      "O Elmo Guardião é mais eficaz contra equipes com múltiplos conjuradores.",
+      "A Resistência Mágica se torna mais valiosa à medida que o dano de feitiço inimigo aumenta.",
+      "Heróis com grandes pools de vida obtêm valor excepcional da Resistência Mágica.",
+      "Uma ou duas atualizações geralmente são suficientes no início da partida.",
+      "O item fornece benefícios tanto defensivos quanto ofensivos.",
+      "Considere o Elmo Guardião sempre que as habilidades inimigas estiverem se tornando difíceis de sobreviver."
+    ],
+    "bestHeroes": {
+      "volcarn": "Volcarn pode ser vulnerável ao dano em rajada de conjuradores, e o Elmo Guardião o ajuda a sobreviver tempo suficiente para escalar até se tornar uma ameaça poderosa no final do jogo.",
+      "grizzly": "Em confrontos mago contra mago, o Elmo Guardião costuma ser uma boa escolha. O item reduz o dano de feitiço recebido enquanto simultaneamente aumenta o Poder de Feitiço.",
+      "faerie": "Ao enfrentar outros conjuradores, a Resistência Mágica adicional pode melhorar dramaticamente a sobrevivência enquanto ainda aumenta seu dano de habilidade."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Elmo Guardião?",
+        "a": "O Elmo Guardião está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "O Elmo Guardião funciona apenas em magos?",
+        "a": "Não. Qualquer herói pode se beneficiar da Resistência Mágica. Muitos heróis de dano físico compram o Elmo Guardião ao enfrentar conjuradores fortes."
+      },
+      {
+        "q": "O Poder de Feitiço melhora habilidades físicas?",
+        "a": "Sim. Em Spelltroum, o Poder de Feitiço melhora todas as habilidades, incluindo habilidades que causam Dano Físico."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Elmo Guardião?",
+        "a": "Volcarn, Grizzly, Stonewarden, Viverna e Faerie estão entre os usuários mais fortes, especialmente ao enfrentar oponentes com muita magia."
+      },
+      {
+        "q": "O Elmo Guardião é um item de contorno?",
+        "a": "Sim. O Elmo Guardião é principalmente um item de contorno projetado para reduzir o dano mágico recebido e melhorar a sobrevivência contra conjuradores."
+      },
+      {
+        "q": "Devo atualizar totalmente o Elmo Guardião imediatamente?",
+        "a": "Geralmente não. Muitos jogadores compram uma ou duas atualizações cedo para proteção e completam o item mais tarde se Resistência Mágica adicional se tornar necessária."
+      }
+    ]
+  },
+  "TitansHelmet": {
+    "description": "O Elmo de Titã é um item defensivo Lendário desbloqueado ao atualizar Stonewarden. Fornece Armadura Física, Poder de Feitiço e um poderoso efeito de Reflexo de Dano que pune os inimigos por atacar o portador. Sempre que o dono recebe dano, uma parte desse dano é refletida de volta ao atacante como Dano Puro — ignorando tanto a Armadura Física quanto a Mágica. O item é particularmente poderoso em heróis duráveis que podem absorver grandes quantidades de dano e continuamente punir os oponentes através do dano refletido.",
+    "whyUse": "O Elmo de Titã é projetado para heróis que esperam ser atacados. Em vez de simplesmente reduzir o dano recebido, ele pune ativamente os inimigos por causar dano — cada ataque contra o portador tem um custo, forçando os oponentes a pensar cuidadosamente antes de se comprometer em lutas prolongadas. O efeito de reflexo é especialmente poderoso contra builds de roubo de vida, pois o Dano Puro refletido compensa imediatamente a vida que os inimigos recuperam. Como o dano refletido escala com o dano recebido, o Elmo de Titã frequentemente se torna mais ameaçador quanto mais forte os inimigos golpeiam.",
+    "strengths": [
+      "Reflete o dano recebido.",
+      "O dano refletido ignora armadura.",
+      "Fornece forte Armadura Física.",
+      "Concede Poder de Feitiço.",
+      "Excelente contra builds de roubo de vida.",
+      "Eficaz tanto em tanques quanto em alguns conjuradores.",
+      "Pune inimigos por focar no portador."
+    ],
+    "weaknesses": [
+      "Menos eficaz se os inimigos evitam atacar o portador.",
+      "Fornece menos vida direta do que itens dedicados de vida.",
+      "O dano de reflexo depende de receber dano primeiro.",
+      "Geralmente mais forte em heróis duráveis."
+    ],
+    "tips": [
+      "O Elmo de Titã é mais forte em heróis que podem sobrevivir a lutas longas.",
+      "Heróis com muita vida geralmente obtêm o maior valor do Elmo de Titã.",
+      "Combine o Elmo de Titã com itens focados em vida para máxima durabilidade.",
+      "O efeito de reflexo escala com o dano recebido — quanto mais você é golpeado, mais você reflete.",
+      "É especialmente poderoso contra heróis que dependem de ataques físicos repetidos."
+    ],
+    "faq": [
+      {
+        "q": "Como o Reflexo de Dano funciona?",
+        "a": "Sempre que o portador recebe dano, uma parte desse dano é refletida de volta ao atacante como Dano Puro."
+      },
+      {
+        "q": "O dano refletido ignora armadura?",
+        "a": "Sim. O Reflexo de Dano causa Dano Puro e não é reduzido por Armadura Física ou Armadura Mágica."
+      }
+    ]
+  },
+  "BoneCuirass": {
+    "description": "A Couraça de Osso é um item defensivo desbloqueado através do sistema de Recompensas Diárias. Fornece uma grande quantidade de vida bônus e dá aos ataques uma chance de desacelerar os inimigos, reduzindo sua velocidade de movimento por um breve tempo. Isso torna a Couraça de Osso um dos itens de vida baseados em utilidade mais úteis de Spelltroum — permitindo que os heróis sobrevivam por mais tempo enquanto dificulta a fuga dos oponentes.",
+    "whyUse": "A Couraça de Osso é projetada para heróis que precisam tanto de durabilidade quanto de controle de multidão. O grande bônus de vida torna os heróis significativamente mais difíceis de eliminar, enquanto o efeito de desaceleração cria oportunidades para perseguir inimigos, proteger companheiros e garantir abates. Ao contrário dos itens puramente defensivos que apenas melhoram a sobrevivência, a Couraça de Osso ajuda ativamente sua equipe tornando os inimigos mais fáceis de alcançar.",
+    "strengths": [
+      "Fornece uma grande quantidade de vida.",
+      "Pode desacelerar a velocidade de movimento inimiga.",
+      "Ajuda heróis a ficarem perto de seus alvos.",
+      "Forte no jogo de equipe coordenado.",
+      "Melhora tanto a sobrevivência quanto a utilidade.",
+      "Eficaz em todas as etapas da partida."
+    ],
+    "weaknesses": [
+      "O efeito de desaceleração é baseado em chance.",
+      "Fornece menos dano direto do que itens ofensivos.",
+      "Menos valioso contra inimigos que não dependem do movimento.",
+      "Não aumenta o dano de ataque ou poder de feitiço."
+    ],
+    "tips": [
+      "A Couraça de Osso é especialmente eficaz quando múltiplos aliados focam no mesmo alvo.",
+      "O efeito de desaceleração facilita garantir abates.",
+      "Heróis que atacam frequentemente têm mais oportunidades de aplicar a desaceleração.",
+      "A vida adicional torna o item útil mesmo quando a desaceleração não é acionada.",
+      "Considere a Couraça de Osso se os inimigos frequentemente escapam com pouca vida.",
+      "O item é particularmente forte nos modos baseados em equipe."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear a Couraça de Osso?",
+        "a": "A Couraça de Osso é desbloqueada através do sistema de Recompensas Diárias."
+      },
+      {
+        "q": "O que a Couraça de Osso faz?",
+        "a": "A Couraça de Osso fornece vida bônus e dá aos ataques uma chance de desacelerar os inimigos."
+      },
+      {
+        "q": "Quando o efeito de desaceleração fica disponível?",
+        "a": "O efeito de desaceleração fica disponível após atualizar a Couraça de Osso."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Couraça de Osso?",
+        "a": "Druid, Volcarn e Mortifier estão entre os usuários mais fortes porque se beneficiam muito de manter os inimigos dentro do alcance de ataque."
+      },
+      {
+        "q": "A Couraça de Osso é boa no jogo em equipe?",
+        "a": "Sim. A Couraça de Osso é especialmente poderosa quando os companheiros focam no mesmo alvo, tornando muito mais difícil para os inimigos escaparem."
+      },
+      {
+        "q": "A Couraça de Osso é um item defensivo ou de utilidade?",
+        "a": "É os dois. O item fornece uma grande quantidade de vida enquanto também oferece controle de multidão através de seu efeito de desaceleração."
+      }
+    ]
+  },
+  "DragonCuirass": {
+    "description": "A Couraça do Dragão é um item Místico construído para jogadores agressivos. Fornece vida bônus e aumenta a quantidade de ouro ganho com abates inimigos, permitindo que os heróis façam snowball de sua vantagem mais rapidamente do que o normal. Ao contrário da maioria dos itens defensivos que se concentram puramente na sobrevivência, a Couraça do Dragão recompensa o jogo ofensivo — cada eliminação bem-sucedida se torna mais valiosa, ajudando os jogadores a atingir atualizações de itens importantes mais cedo.",
+    "whyUse": "A Couraça do Dragão é projetada para jogadores que planejam garantir abates cedo e com frequência. O item fornece vida bônus para ajudar os heróis a sobreviver a engajamentos agressivos, enquanto seu bônus de recompensa por abate gera ouro adicional sempre que os inimigos são eliminados. Isso cria um poderoso efeito de snowball — quanto mais abates você garantir, mais ouro ganha, e mais rápido completa seu build.",
+    "strengths": [
+      "Fornece vida bônus.",
+      "Concede ouro adicional por abates inimigos.",
+      "Excelente potencial de snowball.",
+      "Item forte no início do jogo.",
+      "Recompensa estilos de jogo agressivos.",
+      "Disponível desde o início do jogo."
+    ],
+    "weaknesses": [
+      "Requer abates para atingir valor total.",
+      "Menos eficaz em partidas passivas.",
+      "Fornece menos poder de combate direto do que alguns outros itens.",
+      "Pode ser um mau investimento se você ficar para trás no início."
+    ],
+    "tips": [
+      "A Couraça do Dragão é mais forte quando comprada cedo.",
+      "O item recompensa jogo agressivo e lutas frequentes.",
+      "O ouro adicional é mais valioso quando convertido rapidamente em atualizações de itens.",
+      "Coordene com seus companheiros para garantir mais eliminações.",
+      "O bônus de vida ajuda a sobreviver a engajamentos arriscados.",
+      "A Couraça do Dragão costuma ser mais eficaz em partidas aceleradas do que em jogos de farm passivo."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear a Couraça do Dragão?",
+        "a": "A Couraça do Dragão está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "Como a Couraça do Dragão funciona?",
+        "a": "A Couraça do Dragão concede ouro adicional sempre que você ajuda a garantir eliminações inimigas."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Couraça do Dragão?",
+        "a": "Heróis agressivos como Viverna, Druid e Death Slayer estão entre os usuários mais fortes porque podem garantir abates de forma confiável e aproveitar o ouro bônus."
+      },
+      {
+        "q": "A Couraça do Dragão é boa para farm?",
+        "a": "Não principalmente. A Couraça do Dragão é projetada para recompensar abates em vez de coleta passiva de recursos."
+      },
+      {
+        "q": "A Couraça do Dragão contra o Cajado do Bruxo?",
+        "a": "Em muitas situações, sim. O Cajado do Bruxo recompensa jogadores por morrer, enquanto a Couraça do Dragão recompensa jogadores por garantir abates."
+      },
+      {
+        "q": "Quando devo comprar a Couraça do Dragão?",
+        "a": "A Couraça do Dragão costuma ser mais forte quando comprada cedo, permitindo fazer snowball de sua vantagem econômica através do jogo agressivo."
+      }
+    ]
+  },
+  "DruidCuirass": {
+    "description": "A Couraça do Druida é um item Místico que fornece uma grande quantidade de vida bônus e recompensa heróis por garantir abates. Sempre que o dono derrota um arbusto, súdito ou herói inimigo, uma parte da vida desse alvo é restaurada ao dono.",
+    "whyUse": "A Couraça do Druida é projetada para heróis que garantem abates com frequência. Ao contrário dos itens defensivos tradicionais que simplesmente aumentam a sobrevivência, ela recompensa ativamente o farm e o combate bem-sucedidos — cada arbusto destruído, súdito eliminado ou herói inimigo derrotado contribui para sua sobrevivência ao restaurar vida. O item é especialmente poderoso durante lutas em cadeia onde múltiplos inimigos são derrotados em sucessão.",
+    "strengths": [
+      "Fornece uma grande quantidade de vida bônus.",
+      "Restaura vida de abates.",
+      "Eficaz durante o farm e o combate.",
+      "Excelente item de sustento.",
+      "Recompensa estilos de jogo agressivos.",
+      "Pode fornecer cura massiva de alvos duráveis."
+    ],
+    "weaknesses": [
+      "Requer abates para ativar seu efeito.",
+      "Fornece menos valor quando fica para trás.",
+      "Menos confiável do que a regeneração passiva.",
+      "Não oferece aumento direto de dano."
+    ],
+    "tips": [
+      "A Couraça do Druida recompensa heróis que garantem abates consistentemente.",
+      "Arbustos e súditos podem fornecer cura assim como heróis inimigos.",
+      "O item se torna mais valioso em áreas com muitas oportunidades de farm.",
+      "Eliminar alvos com muita vida fornece curas significativamente maiores.",
+      "Habilidades de área de efeito podem acionar a cura com frequência.",
+      "A Couraça do Druida é mais forte quando usada agressivamente."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear a Couraça do Druida?",
+        "a": "A Couraça do Druida está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "A Couraça do Druida funciona em arbustos?",
+        "a": "Sim. Destruir arbustos pode acionar o efeito de cura."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Couraça do Druida?",
+        "a": "Spiritmonger, Viverna e Faerie estão entre os usuários mais fortes porque podem eliminar frequentemente múltiplos alvos com suas habilidades."
+      },
+      {
+        "q": "A Couraça do Druida é boa para farm?",
+        "a": "Sim. O item fornece cura de arbustos e súditos, tornando-o um dos itens de sustento mais fortes para estilos de jogo focados em farm."
+      },
+      {
+        "q": "A Couraça do Druida é melhor do que um item de vida normal?",
+        "a": "Depende. A Couraça do Druida pode fornecer muito mais cura do que um item de vida normal se você estiver garantindo abates consistentemente, mas oferece menos valor quando não consegue terminar os alvos."
+      }
+    ]
+  },
+  "MageCloak": {
+    "description": "O Manto do Mago é um item Místico que fornece dois recursos essenciais: Vida e Mana. Embora seu efeito seja direto, resolve um dos problemas mais comuns que muitos heróis enfrentam durante uma partida — ficar sem mana enquanto ainda precisa de sobrevivência. Por causa de sua simplicidade e flexibilidade, o Manto do Mago pode se encaixar em uma ampla variedade de builds.",
+    "whyUse": "O Manto do Mago é projetado para heróis que precisam de mana adicional sem sacrificar a sobrevivência. Muitos heróis eventualmente chegam a um ponto onde suas habilidades se tornam poderosas, mas caras — nessas situações, ter um pool de mana maior pode ser a diferença entre lançar uma habilidade importante ou ser forçado a esperar. Ao mesmo tempo, o Manto do Mago fornece vida bônus, tornando-o uma escolha prática para heróis que já têm dano suficiente, mas precisam de mais durabilidade.",
+    "strengths": [
+      "Fornece tanto Vida quanto Mana.",
+      "Aumenta o uso de habilidades durante as lutas.",
+      "Ajuda heróis a sobreviver por mais tempo.",
+      "Se encaixa em uma ampla variedade de builds.",
+      "Excelente item de utilidade para heróis dependentes de mana.",
+      "Valor simples e confiável."
+    ],
+    "weaknesses": [
+      "Não fornece aumento direto de dano.",
+      "Não oferece armadura ou resistência.",
+      "Menos útil para heróis que raramente ficam sem mana.",
+      "Pode ser superado por itens especializados em certos builds."
+    ],
+    "tips": [
+      "O Manto do Mago costuma ser mais forte do que um item de vida pura quando a mana está limitando o uso de suas habilidades.",
+      "Considere o Manto do Mago se você frequentemente fica sem mana antes que as lutas terminem.",
+      "O item funciona especialmente bem em builds que já contêm vários itens ofensivos.",
+      "A mana adicional às vezes pode ser mais valiosa do que dano adicional.",
+      "O Manto do Mago é mais eficaz em heróis com habilidades caras.",
+      "A vida bônus ajuda a compensar a falta de estatísticas defensivas em muitos builds ofensivos."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear o Manto do Mago?",
+        "a": "O Manto do Mago está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "O que o Manto do Mago faz?",
+        "a": "O Manto do Mago aumenta sua Vida e Mana máximas."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Manto do Mago?",
+        "a": "Freezi e Shadow Fury estão entre os heróis que comumente se beneficiam porque frequentemente precisam tanto de mana adicional quanto de sobrevivência."
+      },
+      {
+        "q": "O Manto do Mago é apenas para magos?",
+        "a": "Não. Qualquer herói que precise de um pool de mana maior pode se beneficiar do Manto do Mago, independentemente de causar principalmente dano físico ou mágico."
+      },
+      {
+        "q": "Quando devo comprar o Manto do Mago?",
+        "a": "O Manto do Mago é uma boa escolha quando suas habilidades estão consumindo muita mana ou quando seu build carece de Vida e Mana."
+      },
+      {
+        "q": "O Manto do Mago aumenta o dano?",
+        "a": "Não. O Manto do Mago não aumenta diretamente o dano. Seu propósito é fornecer recursos adicionais e sobrevivência."
+      }
+    ]
+  },
+  "ManaShield": {
+    "description": "O Escudo de Mana é um item Lendário desbloqueado ao atualizar Flameweaver. Converte parte do dano recebido em perda de mana, permitindo que os heróis usem seu pool de mana como um recurso defensivo adicional. Em vez de receber a quantidade total de dano à vida, uma parte é absorvida pela mana — aumentando dramaticamente a sobrevivência, especialmente quando combinado com itens que aumentam a mana máxima.",
+    "whyUse": "O Escudo de Mana é projetado para heróis com grandes pools de mana. Quanto mais mana um herói tem, mais dano o Escudo de Mana pode absorver antes que a vida comece a cair significativamente — efetivamente transformando mana em uma camada adicional de defesa. Para heróis que naturalmente constroem mana ou se beneficiam de itens baseados em mana, o Escudo de Mana pode fornecer muito mais sobrevivência do que equipamentos defensivos tradicionais.",
+    "strengths": [
+      "Converte parte do dano recebido em perda de mana.",
+      "Aumenta muito a sobrevivência em heróis baseados em mana.",
+      "Escala com a mana máxima.",
+      "Funciona excepcionalmente bem com builds focadas em mana.",
+      "Pode tornar heróis tanques ainda mais difíceis de eliminar.",
+      "Fornece regeneração de mana além de seu efeito defensivo."
+    ],
+    "weaknesses": [
+      "Requer um grande pool de mana para atingir o potencial máximo.",
+      "Menos eficaz em heróis com baixa mana.",
+      "Pode deixar heróis incapazes de lançar habilidades se a mana for esgotada.",
+      "Vulnerável a efeitos de queima de mana.",
+      "Fornece menos valor ao lutar contra inimigos que podem drenar mana rapidamente."
+    ],
+    "tips": [
+      "O Escudo de Mana fica mais forte à medida que sua mana máxima aumenta.",
+      "Heróis com grandes pools de mana obtêm o maior valor do item.",
+      "Considere combinar o Escudo de Mana com outros itens focados em mana.",
+      "Tente evitar desperdiçar mana desnecessariamente antes de lutas importantes.",
+      "O Escudo de Mana costuma ser mais eficaz em heróis duráveis do que em heróis frágeis.",
+      "Monitore sua mana cuidadosamente — ficar sem ela também remove grande parte da proteção."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear o Escudo de Mana?",
+        "a": "O Escudo de Mana é desbloqueado ao atualizar Flameweaver."
+      },
+      {
+        "q": "Como o Escudo de Mana funciona?",
+        "a": "O Escudo de Mana absorve parte do dano recebido consumindo mana. Em vez de todo o dano ser aplicado à vida, parte dele é redirecionado para seu pool de mana."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Escudo de Mana?",
+        "a": "Flameweaver é o usuário mais forte porque naturalmente constrói itens focados em mana. Stonewarden também pode usar o Escudo de Mana efetivamente em certos builds defensivos."
+      },
+      {
+        "q": "O Escudo de Mana é bom em todos os heróis?",
+        "a": "Não. Heróis com pequenos pools de mana frequentemente obtêm valor limitado porque sua mana é esgotada muito rapidamente."
+      },
+      {
+        "q": "O que contra o Escudo de Mana?",
+        "a": "Efeitos de queima de mana são um dos melhores contadores ao Escudo de Mana. Itens como o Machado de Mana podem drenar rapidamente a mana enquanto causam dano simultaneamente, removendo a proteção que o Escudo de Mana fornece."
+      },
+      {
+        "q": "Devo construir mais mana se comprar o Escudo de Mana?",
+        "a": "Sim. O Escudo de Mana fica significativamente mais forte quando combinado com itens que aumentam a mana máxima ou melhoram o sustento de mana."
+      }
+    ]
+  },
+  "Hammer": {
+    "description": "O Martelo Atordoante é um item Místico que fornece vida bônus e dá aos ataques uma chance de atordoar os inimigos. Quando o atordoamento é acionado, o alvo fica incapaz de se mover, atacar ou lançar habilidades por um breve tempo. Mesmo um atordoamento de um segundo pode mudar completamente o resultado de uma luta. Para evitar cadeias de atordoamento permanentes, o item tem um cooldown interno após um atordoamento bem-sucedido.",
+    "whyUse": "O Martelo Atordoante é projetado para heróis que atacam com frequência. Quanto mais ataques um herói faz, mais oportunidades ele tem de acionar o efeito de atordoamento — tornando a velocidade de ataque uma das estatísticas mais importantes ao usar este item. O item também fornece vida bônus, tornando-o útil mesmo quando o atordoamento não é ativado. Muitos jogadores atualizam o Martelo Atordoante para o Nível 2 no início de uma partida para desbloquear o efeito de atordoamento.",
+    "strengths": [
+      "Fornece vida bônus.",
+      "Dá aos ataques uma chance de atordoar.",
+      "Excelente controle de multidão.",
+      "Forte em heróis com alta velocidade de ataque.",
+      "Eficaz em todas as etapas do jogo.",
+      "Pode interromper habilidades inimigas e tentativas de fuga."
+    ],
+    "weaknesses": [
+      "O efeito de atordoamento é baseado em chance.",
+      "Menos eficaz em heróis com baixa velocidade de ataque.",
+      "Fornece menos dano direto do que itens ofensivos.",
+      "O cooldown interno impede atordoamentos contínuos."
+    ],
+    "tips": [
+      "A velocidade de ataque aumenta dramaticamente o valor do Martelo Atordoante.",
+      "Um único atordoamento pode ser suficiente para garantir um abate.",
+      "O item é especialmente eficaz contra heróis que dependem de mobilidade.",
+      "O Martelo Atordoante funciona melhor durante lutas prolongadas onde muitos ataques são feitos.",
+      "Considere atualizar o item para o Nível 2 cedo para desbloquear o efeito de atordoamento.",
+      "A vida bônus torna o item útil mesmo quando os atordoamentos não estão sendo acionados."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear o Martelo Atordoante?",
+        "a": "O Martelo Atordoante está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "Como o Martelo Atordoante funciona?",
+        "a": "Os ataques têm chance de atordoar os inimigos, impedindo-os de se mover, atacar ou lançar habilidades por um breve tempo."
+      },
+      {
+        "q": "O Martelo Atordoante pode atordoar permanentemente os inimigos?",
+        "a": "Não. Após um atordoamento bem-sucedido, o item entra em um breve cooldown interno antes que outro atordoamento possa ocorrer."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Martelo Atordoante?",
+        "a": "Freezi, Spitfire e Volcarn estão entre os usuários mais fortes porque sua alta velocidade de ataque lhes dá mais oportunidades de acionar o efeito de atordoamento."
+      },
+      {
+        "q": "Quando devo atualizar o Martelo Atordoante?",
+        "a": "Muitos jogadores o atualizam para o Nível 2 cedo para desbloquear o efeito de atordoamento e terminam de atualizar mais tarde quando precisam de uma chance de atordoamento maior."
+      },
+      {
+        "q": "O Martelo Atordoante é um item de dano?",
+        "a": "Não principalmente. O Martelo Atordoante é principalmente um item de utilidade e controle que fornece vida e controle de multidão em vez de dano direto."
+      }
+    ]
+  },
+  "ReapersEmbrace": {
+    "description": "O Abraço do Ceifador é um item Místico que combina poder ofensivo, sobrevivência e sustento. Concede Roubo de Vida Físico, Roubo de Vida de Feitiço, Resistência Mágica e uma chance única de lançar uma foice espectral que danifica tudo em seu caminho. Ao contrário da maioria dos itens de roubo de vida que beneficiam apenas atacantes físicos, o Abraço do Ceifador pode restaurar vida tanto de dano físico quanto mágico — tornando-o um dos itens de sustento mais versáteis de Spelltroum.",
+    "whyUse": "O Abraço do Ceifador é projetado para heróis que querem tanto poder ofensivo quanto sobrevivência. O item fornece roubo de vida tanto de dano físico quanto mágico, permitindo que os heróis recuperem vida através de quase qualquer forma de combate. Uma de suas maiores vantagens é que o efeito de roubo de vida está disponível desde a primeira atualização, permitindo que os jogadores o comprem cedo para sustento e o atualizem mais tarde quando a Resistência Mágica se tornar mais valiosa.",
+    "strengths": [
+      "Fornece tanto Roubo de Vida Físico quanto de Feitiço.",
+      "Concede Resistência Mágica.",
+      "Sustento disponível desde a primeira atualização.",
+      "Forte contra conjuradores.",
+      "Projétil de foice espectral único que atravessa múltiplos alvos.",
+      "Eficaz tanto em heróis físicos quanto mágicos.",
+      "Excelente item híbrido ofensivo e defensivo."
+    ],
+    "weaknesses": [
+      "O efeito da foice é baseado em chance.",
+      "Fornece menos dano bruto do que itens puramente ofensivos.",
+      "Menos eficaz em heróis que raramente causam dano.",
+      "Requer combate ativo para se beneficiar totalmente do roubo de vida.",
+      "O roubo de vida não funciona ao atacar arbustos."
+    ],
+    "tips": [
+      "A primeira atualização já fornece roubo de vida, tornando-o valioso desde o início do jogo.",
+      "O Abraço do Ceifador restaura vida tanto de dano físico quanto mágico.",
+      "A foice espectral pode fornecer cura massiva quando atravessa múltiplos alvos.",
+      "A Resistência Mágica melhora a sobrevivência contra conjuradores.",
+      "O item é especialmente forte em heróis que alternam entre ataques físicos e mágicos.",
+      "Considere o Abraço do Ceifador quando precisar de sustento, mas também enfrentar muito dano mágico."
+    ],
+    "faq": [
+      {
+        "q": "A foice espectral para após atingir um inimigo?",
+        "a": "Não. A foice espectral viaja em linha reta e danifica todos os alvos que atravessa."
+      }
+    ]
+  },
+  "BootsOfSpeed": {
+    "description": "As Botas Vitais são um item Místico que fornece o maior bônus de velocidade de movimento do jogo enquanto também oferece poderosa utilidade de cura. Além da velocidade, as Botas Vitais dão aos heróis chance de descobrir Poções de Cura ao destruir arbustos — poções que podem ser armazenadas e ativadas mais tarde para restaurar vida quando mais importa. Em níveis mais altos, o item também aumenta o número de poções que um herói pode carregar.",
+    "whyUse": "As Botas Vitais são projetadas para heróis que valorizam mobilidade e sobrevivência. A velocidade de movimento é uma das estatísticas mais importantes de Spelltroum — heróis mais rápidos farmam com mais eficiência, rotacionam entre lutas mais rapidamente e controlam os engajamentos com mais eficácia. A mecânica de Poção de Cura adiciona outra camada de valor: mesmo uma única poção pode mudar completamente o resultado de uma luta.",
+    "strengths": [
+      "Fornece o maior bônus de velocidade de movimento do jogo.",
+      "Chance de encontrar Poções de Cura ao destruir arbustos.",
+      "Pode armazenar Poções de Cura adicionais.",
+      "Concede Armadura Física.",
+      "Excelente sustento e mobilidade.",
+      "Útil em todas as etapas da partida."
+    ],
+    "weaknesses": [
+      "Depende parcialmente de encontrar poções.",
+      "Fornece menos dano direto do que itens ofensivos.",
+      "Menos valioso em heróis que não se beneficiam muito de mobilidade.",
+      "A geração de poções é baseada em chance."
+    ],
+    "tips": [
+      "O efeito de encontrar poções está disponível desde a primeira atualização.",
+      "Guarde as Poções de Cura para lutas importantes sempre que possível.",
+      "A velocidade de movimento melhora tanto o desempenho de farm quanto de combate.",
+      "Heróis com grandes pools de vida obtêm valor extra das Poções de Cura.",
+      "As Botas Vitais podem fornecer sobrevivência surpreendente durante partidas longas.",
+      "Carregar uma poção adicional às vezes pode decidir uma luta acirrada."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear as Botas Vitais?",
+        "a": "As Botas Vitais estão disponíveis desde o início do jogo. Como todos os itens Místicos, não requerem progressão de herói para desbloquear."
+      },
+      {
+        "q": "O que as Botas Vitais fazem?",
+        "a": "As Botas Vitais aumentam a velocidade de movimento, fornecem Armadura Física e permitem que os heróis encontrem e carreguem Poções de Cura adicionais."
+      },
+      {
+        "q": "Posso encontrar Poções de Cura imediatamente após comprar as Botas Vitais?",
+        "a": "Sim. O efeito de encontrar poções está disponível desde a primeira atualização."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Botas Vitais?",
+        "a": "Druid, Death Slayer e Grizzly estão entre os usuários mais fortes porque se beneficiam muito tanto de mobilidade quanto de sobrevivência."
+      },
+      {
+        "q": "Por que as Botas Vitais são consideradas um forte item de utilidade?",
+        "a": "Elas combinam velocidade de movimento, Armadura Física, cura e armazenamento adicional de poções em um único item, tornando-as úteis em uma ampla variedade de situações."
+      },
+      {
+        "q": "As Botas Vitais são úteis apenas para heróis corpo a corpo?",
+        "a": "Não. Qualquer herói que valorize mobilidade e sustento pode se beneficiar das Botas Vitais, embora heróis corpo a corpo frequentemente obtenham a vantagem mais notável."
+      }
+    ]
+  },
+  "BootsOfRegen": {
+    "description": "As Botas de Regeneração são um item Místico que combina alta velocidade de movimento com poderosos efeitos de regeneração de vida. O que as torna únicas é sua capacidade de acionar automaticamente a regeneração de vida após receber um golpe forte — se um único ataque causar mais de uma certa porcentagem da vida máxima do herói, o item é ativado e imediatamente inicia a regeneração. As Botas de Regeneração também reduzem o atraso normal de regeneração, permitindo que os heróis se recuperem mais rapidamente após receber dano.",
+    "whyUse": "As Botas de Regeneração são projetadas para heróis que dependem de mobilidade e jogabilidade de bater e correr. A maioria dos heróis deve esperar 10 segundos após receber dano antes que a regeneração natural de vida comece — as Botas de Regeneração reduzem esse atraso enquanto também fornecem uma maneira de acionar a regeneração instantaneamente após receber um ataque poderoso. Isso cria um estilo de jogo único onde os heróis podem se engajar, receber dano, recuar e se recuperar rapidamente antes de retornar à luta.",
+    "strengths": [
+      "Fornece alta velocidade de movimento.",
+      "Pode acionar regeneração após receber dano pesado.",
+      "Reduz o atraso normal de regeneração.",
+      "Excelente para heróis móveis.",
+      "Forte contra dano em rajada.",
+      "Apoia estratégias de bater e correr."
+    ],
+    "weaknesses": [
+      "Menos eficaz em heróis com pools de vida muito grandes (ex.: Grizzly).",
+      "Vulnerável a efeitos de dano ao longo do tempo como queimadura do Machado de Fogo ou veneno de Viverna.",
+      "Requer desengajamento para se beneficiar totalmente da regeneração.",
+      "Situacional em comparação com itens defensivos mais consistentes."
+    ],
+    "tips": [
+      "As Botas de Regeneração são mais fortes em heróis com pools de vida menores.",
+      "O bônus de velocidade de movimento ajuda a criar oportunidades para recuar e se recuperar.",
+      "O item se destaca em estilos de jogo de bater e correr.",
+      "Evite lutas prolongadas contra heróis que aplicam dano ao longo do tempo.",
+      "Considere as Botas de Regeneração ao enfrentar heróis de alto dano em rajada.",
+      "A regeneração é muito mais fácil de manter quando os inimigos não podem danificá-lo continuamente."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear as Botas de Regeneração?",
+        "a": "As Botas de Regeneração estão disponíveis desde o início do jogo. Como todos os itens Místicos, não requerem progressão de herói para desbloquear."
+      },
+      {
+        "q": "O que torna as Botas de Regeneração únicas?",
+        "a": "As Botas de Regeneração podem acionar automaticamente a regeneração de vida após o herói receber um golpe suficientemente forte."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Botas de Regeneração?",
+        "a": "Viverna e Druid estão entre os usuários mais fortes porque podem recuar rapidamente, recuperar vida e retornar à luta."
+      }
+    ]
+  },
+  "ManaBoots": {
+    "description": "As Botas de Mana são um item Comum que fornece velocidade de movimento e poderoso sustento de mana. Seu efeito único permite que os heróis descubram Poções de Mana ao destruir arbustos — poções que podem ser armazenadas e ativadas mais tarde para restaurar mana instantaneamente quando necessário. Em níveis mais altos, as Botas de Mana também aumentam o número de poções que um herói pode carregar e fornecem mana máxima adicional, tornando-as um dos itens de utilidade mais fortes para heróis dependentes de mana.",
+    "whyUse": "As Botas de Mana são projetadas para heróis que frequentemente ficam sem mana. Ficar sem mana no momento errado pode mudar completamente o resultado de uma batalha — as Botas de Mana ajudam a resolver isso fornecendo uma fonte constante de recuperação de mana através de poções encontradas ao farmar arbustos. Ao contrário dos itens de mana pura, as Botas de Mana também fornecem excelente mobilidade, permitindo que os heróis mantenham tanto suas reservas de mana quanto seu posicionamento durante toda a partida.",
+    "strengths": [
+      "Fornece alta velocidade de movimento.",
+      "Chance de encontrar Poções de Mana ao destruir arbustos.",
+      "Pode armazenar Poções de Mana adicionais.",
+      "Aumenta a mana máxima em níveis mais altos.",
+      "Excelente sustento de mana.",
+      "Forte item de utilidade para heróis baseados em habilidades."
+    ],
+    "weaknesses": [
+      "Não fornece dano direto.",
+      "Menos útil para heróis que raramente usam mana.",
+      "Depende parcialmente de encontrar Poções de Mana.",
+      "Não oferece estatísticas defensivas como armadura ou vida."
+    ],
+    "tips": [
+      "As Poções de Mana podem ser guardadas para lutas importantes.",
+      "O efeito de encontrar poções está disponível desde a primeira atualização.",
+      "Heróis que destroem muitos arbustos geralmente obtêm o maior valor das Botas de Mana.",
+      "A velocidade de movimento ajuda tanto no desempenho de farm quanto de combate.",
+      "As Botas de Mana costumam ser mais fortes em heróis que dependem fortemente de habilidades.",
+      "A mana adicional no nível máximo pode permitir que alguns heróis lancem habilidades extras durante as lutas."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear as Botas de Mana?",
+        "a": "As Botas de Mana estão disponíveis desde o início do jogo como item Comum."
+      },
+      {
+        "q": "O que as Botas de Mana fazem?",
+        "a": "As Botas de Mana aumentam a velocidade de movimento, permitem que os heróis encontrem Poções de Mana ao destruir arbustos, aumentam a capacidade de armazenamento de poções e fornecem mana máxima adicional em níveis mais altos."
+      },
+      {
+        "q": "Posso encontrar Poções de Mana imediatamente após comprar as Botas de Mana?",
+        "a": "Sim. O efeito de Poção de Mana está disponível desde a primeira atualização."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Botas de Mana?",
+        "a": "Flameweaver, Shadow Fury, Faerie e Viverna estão entre os usuários mais fortes porque frequentemente dependem de mana e habilidades."
+      },
+      {
+        "q": "Por que as Botas de Mana são boas para magos?",
+        "a": "Os magos frequentemente consomem grandes quantidades de mana durante o combate. As Botas de Mana os ajudam a manter seus recursos enquanto também fornecem mobilidade valiosa."
+      },
+      {
+        "q": "As Botas de Mana são úteis apenas para magos?",
+        "a": "Não. Qualquer herói que use frequentemente habilidades e precise de sustento adicional de mana pode se beneficiar das Botas de Mana."
+      }
+    ]
+  },
+  "BlinkBoots": {
+    "description": "As Botas de Blink são um item Místico projetado para heróis agressivos, assassinos e jogadores que valorizam mobilidade. Seu efeito único permite que os heróis descubram Runas de Blink ao destruir arbustos — runas que concedem uma habilidade de Blink para se teletransportar instantaneamente uma curta distância. Em níveis mais altos, as Botas de Blink permitem que os heróis carreguem uma Runa de Blink adicional e fornecem Chance de Golpe Crítico, tornando-as uma das opções de botas mais ofensivas do jogo.",
+    "whyUse": "As Botas de Blink são projetadas para heróis que dependem de posicionamento. A capacidade de blinkear instantaneamente dá aos jogadores acesso a oportunidades que de outra forma seriam impossíveis — um Blink bem cronometrado pode garantir um abate, escapar de uma emboscada, esquivar de habilidades perigosas ou se reposicionar rapidamente durante o combate. Ao contrário de muitos itens de utilidade, as Botas de Blink também aumentam a Chance de Golpe Crítico, que se acumula com outras fontes de golpes críticos.",
+    "strengths": [
+      "Fornece alta velocidade de movimento.",
+      "Chance de encontrar Runas de Blink ao destruir arbustos.",
+      "Pode carregar Runas de Blink adicionais.",
+      "Concede Chance de Golpe Crítico.",
+      "Excelente mobilidade.",
+      "Forte utilidade ofensiva.",
+      "Eficaz em todas as etapas da partida."
+    ],
+    "weaknesses": [
+      "Depende parcialmente de encontrar Runas de Blink.",
+      "Fornece menos sobrevivência do que botas defensivas.",
+      "Requer bom posicionamento para maximizar o valor.",
+      "A Chance de Golpe Crítico é menos valiosa para heróis que não dependem de dano físico."
+    ],
+    "tips": [
+      "As Runas de Blink ficam disponíveis desde a primeira atualização.",
+      "Guarde as Runas de Blink para lutas importantes sempre que possível.",
+      "O Blink pode ser usado tanto ofensivamente quanto defensivamente.",
+      "A Chance de Golpe Crítico se acumula com outros itens e habilidades de golpe crítico.",
+      "Heróis de farm rápido frequentemente obtêm valor adicional usando Runas de Blink para se mover entre objetivos.",
+      "O posicionamento costuma ser mais valioso do que dano bruto."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear as Botas de Blink?",
+        "a": "As Botas de Blink estão disponíveis desde o início do jogo. Como todos os itens Místicos, não requerem progressão de herói para desbloquear."
+      },
+      {
+        "q": "O que as Botas de Blink fazem?",
+        "a": "As Botas de Blink aumentam a velocidade de movimento, permitem que os heróis encontrem Runas de Blink ao destruir arbustos, aumentam a capacidade de armazenamento de Runas de Blink e fornecem Chance de Golpe Crítico."
+      },
+      {
+        "q": "Posso encontrar Runas de Blink imediatamente após comprar as Botas de Blink?",
+        "a": "Sim. O efeito de Runa de Blink está disponível desde a primeira atualização."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Botas de Blink?",
+        "a": "Death Slayer, Volcarn, Mortifier e Shadow Fury estão entre os usuários mais fortes porque se beneficiam tanto de mobilidade quanto de Chance de Golpe Crítico."
+      },
+      {
+        "q": "As Botas de Blink funcionam bem com builds de golpe crítico?",
+        "a": "Sim. As Botas de Blink fornecem Chance de Golpe Crítico, que se acumula com outros itens e habilidades de golpe crítico do herói."
+      },
+      {
+        "q": "As Botas de Blink são úteis apenas para assassinos?",
+        "a": "Não. Embora os assassinos se beneficiem muito, qualquer herói que valorize mobilidade, posicionamento ou golpes críticos pode fazer uso eficaz do item."
+      }
+    ]
+  },
+  "FireBook": {
+    "description": "O Grimório de Fogo é um item Comum que fornece o maior bônus de Poder de Feitiço em Spelltroum. Ao contrário de muitos itens que combinam múltiplas estatísticas, o Grimório de Fogo se concentra inteiramente em aumentar o Poder de Feitiço — tornando-o um dos itens ofensivos mais fortes para heróis que dependem de habilidades para causar dano, controlar inimigos, invocar unidades ou fortalecer efeitos defensivos. O Poder de Feitiço melhora todas as habilidades do herói, incluindo Habilidades Básicas, Habilidades Definitivas e alguns efeitos vinculados ao herói.",
+    "whyUse": "O Grimório de Fogo é projetado para jogadores que querem maximizar o poder de suas habilidades. Como fornece o maior bônus de Poder de Feitiço do jogo, frequentemente oferece um maior aumento na eficácia das habilidades do que qualquer outro item. Embora muitos jogadores associem o Poder de Feitiço principalmente com magos, o Grimório de Fogo também pode ser valioso em heróis cujas habilidades fornecem utilidade, escudos, invocações ou outros efeitos especiais.",
+    "strengths": [
+      "Fornece o maior bônus de Poder de Feitiço do jogo.",
+      "Melhora todas as habilidades que escalam com Poder de Feitiço.",
+      "Eficaz em muitos heróis diferentes.",
+      "Aumenta tanto os efeitos de habilidades ofensivos quanto defensivos.",
+      "Forte em todas as etapas da partida.",
+      "Disponível desde o início do jogo."
+    ],
+    "weaknesses": [
+      "Não fornece vida.",
+      "Não fornece armadura ou resistências.",
+      "Não fornece velocidade de movimento.",
+      "Menos eficaz em heróis cujas habilidades têm escalonamento de Poder de Feitiço limitado.",
+      "Se concentra inteiramente na força de habilidades em vez de sobrevivência."
+    ],
+    "tips": [
+      "O Grimório de Fogo fornece o maior bônus de Poder de Feitiço do jogo.",
+      "Muitos heróis se beneficiam do Poder de Feitiço mesmo se não forem magos tradicionais.",
+      "Sempre verifique as descrições de habilidades para ver como o Poder de Feitiço afeta seu herói.",
+      "Heróis com múltiplas habilidades que escalam com Poder de Feitiço obtêm o maior valor.",
+      "O Grimório de Fogo costuma ser mais forte quando comprado em heróis que dependem fortemente de habilidades.",
+      "Algumas habilidades defensivas escalam com Poder de Feitiço tão efetivamente quanto as ofensivas."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear o Grimório de Fogo?",
+        "a": "O Grimório de Fogo está disponível desde o início do jogo como item Comum."
+      },
+      {
+        "q": "O que o Grimório de Fogo faz?",
+        "a": "O Grimório de Fogo fornece o maior bônus de Poder de Feitiço disponível em Spelltroum."
+      },
+      {
+        "q": "O que é Poder de Feitiço?",
+        "a": "O Poder de Feitiço melhora a eficácia das habilidades do herói. Dependendo da habilidade, pode aumentar dano, escudos, invocações, cura ou outros efeitos especiais."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Grimório de Fogo?",
+        "a": "Spiritmonger, Viverna, Faerie, Shadow Fury e Druid estão entre os usuários mais fortes porque múltiplas habilidades em seus kits se beneficiam do Poder de Feitiço."
+      },
+      {
+        "q": "O Grimório de Fogo é apenas para magos?",
+        "a": "Não. Qualquer herói cujas habilidades escalam bem com Poder de Feitiço pode se beneficiar do Grimório de Fogo, incluindo heróis que causam dano físico ou dependem de invocações e habilidades defensivas."
+      }
+    ]
+  },
+  "WaterBook": {
+    "description": "O Grimório de Água é um item Místico que fornece um grande Pool de Mana, forte Regeneração de Mana e Redução de Cooldown. Ao contrário do Grimório de Fogo, que se concentra inteiramente em aumentar o Poder de Feitiço, o Grimório de Água é projetado para heróis que dependem de lançar habilidades com frequência durante uma partida. No nível máximo, o Grimório de Água também reduz cooldowns de habilidades, tornando-o um dos melhores itens para heróis que dependem fortemente de suas habilidades.",
+    "whyUse": "O Grimório de Água é projetado para heróis que precisam de grandes quantidades de mana. O item fornece três benefícios valiosos: maior mana máxima, maior regeneração de mana e Redução de Cooldown. Juntos, esses bônus permitem que os heróis lancem habilidades com mais frequência e permaneçam eficazes durante lutas longas. O Grimório de Água também funciona excepcionalmente bem com o Escudo de Mana. Como o Escudo de Mana converte parte do dano recebido em perda de mana, aumentar seu pool de mana efetivamente aumenta sua sobrevivência.",
+    "strengths": [
+      "Fornece um grande Pool de Mana.",
+      "Concede forte Regeneração de Mana.",
+      "Reduz cooldowns de habilidades no nível máximo.",
+      "Excelente sinergia com o Escudo de Mana.",
+      "Forte em heróis dependentes de mana.",
+      "Eficaz durante toda a partida."
+    ],
+    "weaknesses": [
+      "Não fornece vida.",
+      "Não fornece armadura ou resistências.",
+      "Não fornece bônus de dano direto.",
+      "Pode ser arriscado atualizar totalmente cedo.",
+      "Menos útil em heróis que raramente usam mana."
+    ],
+    "tips": [
+      "O Grimório de Água funciona excepcionalmente bem com o Escudo de Mana.",
+      "Heróis que frequentemente ficam sem mana obtêm o maior valor deste item.",
+      "A Redução de Cooldown fica disponível no nível máximo de atualização.",
+      "O item costuma ser mais forte em heróis focados em habilidades.",
+      "Considere combinar o Grimório de Água com outros itens baseados em mana.",
+      "Mais mana frequentemente significa tanto mais dano quanto mais sobrevivência para certos heróis."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear o Grimório de Água?",
+        "a": "O Grimório de Água está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "O que o Grimório de Água faz?",
+        "a": "O Grimório de Água aumenta a mana máxima, melhora a regeneração de mana e reduz cooldowns de habilidades no nível máximo."
+      },
+      {
+        "q": "Por que o Grimório de Água funciona bem com o Escudo de Mana?",
+        "a": "O Escudo de Mana absorve dano usando mana. Um pool de mana maior permite que o Escudo de Mana absorva mais dano antes que sua vida comece a cair."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Grimório de Água?",
+        "a": "Flameweaver, Spitfire, Viverna e Faerie estão entre os usuários mais fortes porque dependem fortemente de mana e uso frequente de habilidades."
+      },
+      {
+        "q": "O Grimório de Água aumenta o dano?",
+        "a": "Não diretamente. No entanto, a mana adicional e a redução de cooldown permitem que os heróis lancem habilidades com mais frequência, o que pode aumentar significativamente seu dano geral."
+      },
+      {
+        "q": "Devo atualizar totalmente o Grimório de Água cedo?",
+        "a": "Geralmente não. Como o item não fornece vida ou estatísticas defensivas, muitos jogadores preferem ganhar alguma sobrevivência primeiro e completar o Grimório de Água mais tarde."
+      }
+    ]
+  },
+  "GeoBook": {
+    "description": "O Grimório de Terra é um item Lendário desbloqueado ao atualizar Freezi. O item fornece Vida bônus e um efeito único que aumenta a duração das habilidades de controle de multidão. Ao contrário da maioria dos itens ofensivos, o Grimório de Terra se concentra em controle em vez de dano, permitindo que os heróis mantenham os inimigos desativados por períodos mais longos. A duração bônus afeta apenas habilidades de herói e não afeta atordoamentos baseados em itens como o Martelo Atordoante.",
+    "whyUse": "O Grimório de Terra é projetado para heróis que dependem de atordoamentos e controle de multidão. Uma duração de atordoamento maior significa que os inimigos passam mais tempo incapazes de se mover, atacar ou lançar habilidades — dando à sua equipe mais oportunidades de causar dano, escapar de perigo ou garantir abates importantes. A Vida bônus também torna o portador mais durável, ajudando-o a sobreviver enquanto aplica controle de multidão.",
+    "strengths": [
+      "Aumenta a duração do atordoamento.",
+      "Fornece Vida bônus.",
+      "Excelente utilidade de controle de multidão.",
+      "Pode mudar completamente as lutas de equipe.",
+      "Forte em múltiplos heróis.",
+      "Eficaz durante toda a partida."
+    ],
+    "weaknesses": [
+      "Fornece menos dano direto do que itens ofensivos.",
+      "Menos valioso em heróis sem habilidades de controle de multidão.",
+      "Não afeta atordoamentos baseados em itens.",
+      "Situacional em comparação com itens mais universalmente úteis."
+    ],
+    "tips": [
+      "O Grimório de Terra afeta apenas habilidades de herói.",
+      "O Martelo Atordoante e outros atordoamentos baseados em itens não se beneficiam do efeito.",
+      "Atordoamentos mais longos frequentemente fornecem mais valor do que dano adicional.",
+      "O Grimório de Terra é mais forte em heróis que já possuem habilidades de controle de multidão.",
+      "A Vida bônus torna o item útil mesmo quando o efeito de controle não é necessário.",
+      "Coordene com seus companheiros para maximizar o valor de atordoamentos mais longos."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear o Grimório de Terra?",
+        "a": "O Grimório de Terra é desbloqueado ao atualizar Freezi."
+      },
+      {
+        "q": "O que o Grimório de Terra faz?",
+        "a": "O Grimório de Terra aumenta a duração dos efeitos de atordoamento aplicados por habilidades de herói e fornece Vida bônus."
+      },
+      {
+        "q": "O Grimório de Terra funciona com o Martelo Atordoante?",
+        "a": "Não. O Grimório de Terra afeta apenas habilidades de herói. Atordoamentos baseados em itens como o Martelo Atordoante não são afetados."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Grimório de Terra?",
+        "a": "Freezi, Spiritmonger, Death Slayer, Spitfire e Faerie estão entre os usuários mais fortes porque podem aplicar controle de multidão adicional através de suas habilidades."
+      },
+      {
+        "q": "O Grimório de Terra aumenta o dano?",
+        "a": "Não diretamente. Seu propósito principal é melhorar o controle de multidão e a sobrevivência."
+      }
+    ]
+  },
+  "Scepter": {
+    "description": "O Cetro é um item Místico que combina Poder de Feitiço, Regeneração de Mana e Chance de Golpe Crítico Mágico. Ao contrário do Grimório de Fogo, que se concentra inteiramente em aumentar o Poder de Feitiço, o Cetro fornece um bônus menor de Poder de Feitiço em troca de um efeito ofensivo único: a capacidade do dano mágico de causar golpes críticos. Um Golpe Crítico Mágico causa 50% de dano adicional — por exemplo, uma habilidade que normalmente causa 100 de dano causará 150 de dano quando um Golpe Crítico Mágico ocorrer.",
+    "whyUse": "O Cetro é projetado para heróis que dependem de habilidades mágicas para causar dano. O item aumenta o Poder de Feitiço, melhorando o escalonamento de habilidades, enquanto também fornece Regeneração de Mana para suportar o uso frequente de feitiços. Seu efeito mais valioso é a Chance de Golpe Crítico Mágico — quando uma habilidade mágica causa golpe crítico, pode aumentar dramaticamente o dano em rajada e ajudar a garantir abates que de outra forma seriam perdidos.",
+    "strengths": [
+      "Fornece Poder de Feitiço.",
+      "Concede Regeneração de Mana.",
+      "Adiciona Chance de Golpe Crítico Mágico.",
+      "Excelente para heróis que causam dano mágico.",
+      "Forte potencial de dano em rajada.",
+      "Eficaz em todas as etapas da partida."
+    ],
+    "weaknesses": [
+      "Menos Poder de Feitiço do que o Grimório de Fogo.",
+      "Os Golpes Críticos Mágicos afetam apenas dano mágico.",
+      "Não fornece vida.",
+      "Não fornece armadura ou resistências.",
+      "Fraco em heróis de dano físico e puro."
+    ],
+    "tips": [
+      "Os Golpes Críticos Mágicos aumentam o dano mágico em 50%.",
+      "O Cetro é mais forte em heróis com múltiplas habilidades mágicas de dano.",
+      "O Poder de Feitiço e os Golpes Críticos Mágicos trabalham juntos para maximizar o dano de habilidades.",
+      "A Regeneração de Mana ajuda a manter pressão durante lutas prolongadas.",
+      "Sempre considere se seu herói causa principalmente dano mágico, físico ou puro antes de comprar o Cetro.",
+      "Jogadores novos frequentemente superestimam o Cetro em heróis de dano físico."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear o Cetro?",
+        "a": "O Cetro está disponível desde o início do jogo. Como todos os itens Místicos, não requer progressão de herói para desbloquear."
+      },
+      {
+        "q": "O que o Cetro faz?",
+        "a": "O Cetro fornece Poder de Feitiço, Regeneração de Mana e Chance de Golpe Crítico Mágico."
+      },
+      {
+        "q": "O que é um Golpe Crítico Mágico?",
+        "a": "Um Golpe Crítico Mágico aumenta o dano mágico em 50%. Por exemplo, uma habilidade que normalmente causa 100 de dano causará 150 de dano quando causar golpe crítico."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Cetro?",
+        "a": "Viverna, Faerie e Spiritmonger estão entre os usuários mais fortes porque múltiplas habilidades em seus kits causam dano mágico."
+      },
+      {
+        "q": "O Cetro funciona em Shadow Fury?",
+        "a": "Não efetivamente. Shadow Fury causa principalmente dano físico, então ela obtém muito pouco valor do efeito de Golpe Crítico Mágico."
+      },
+      {
+        "q": "O Cetro é útil em todos os heróis?",
+        "a": "Não. O Cetro é mais eficaz em heróis que causam dano mágico significativo. Heróis que dependem de dano físico ou puro geralmente têm alternativas mais fortes."
+      }
+    ]
+  },
+  "MageStaff": {
+    "description": "O Cajado do Mago é um item Lendário desbloqueado ao atualizar Spiritmonger. O item fornece Poder de Feitiço, Mana adicional e um dos efeitos mais valiosos para conjuradores: Roubo de Vida Mágico. Ao contrário dos itens de roubo de vida físico, o Cajado do Mago permite que os heróis restaurem vida através de dano mágico, tornando-o uma excelente escolha para heróis que dependem de habilidades como sua principal fonte de dano.",
+    "whyUse": "O Cajado do Mago é projetado para heróis que causam dano mágico consistentemente durante uma partida. O item aumenta o Poder de Feitiço, permitindo que as habilidades causem mais dano ou ganhem efeitos de escalonamento mais fortes. Também aumenta a Mana máxima, ajudando os heróis a lançar mais habilidades durante as lutas. Seu efeito mais importante é o Roubo de Vida Mágico — sempre que o herói causa dano mágico a heróis ou súditos inimigos, uma parte desse dano é convertida em vida.",
+    "strengths": [
+      "Fornece Poder de Feitiço.",
+      "Concede Roubo de Vida Mágico.",
+      "Aumenta a Mana máxima.",
+      "Excelente sustento para conjuradores.",
+      "Forte sinergia com habilidades de dano ao longo do tempo.",
+      "Eficaz durante o farm e o combate."
+    ],
+    "weaknesses": [
+      "O Roubo de Vida Mágico não funciona em arbustos.",
+      "Não fornece armadura ou resistências.",
+      "Menos eficaz em heróis que causam dano físico.",
+      "Requer dano mágico para utilizar totalmente o poder do item."
+    ],
+    "tips": [
+      "O Roubo de Vida Mágico funciona apenas contra heróis e súditos inimigos.",
+      "Atacar arbustos não restaura vida.",
+      "O Cajado do Mago fica mais forte em heróis que causam dano mágico repetidamente.",
+      "Efeitos de dano ao longo do tempo podem gerar cura contínua.",
+      "O Poder de Feitiço e o Roubo de Vida Mágico funcionam extremamente bem juntos.",
+      "O item fornece tanto valor ofensivo quanto defensivo."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear o Cajado do Mago?",
+        "a": "O Cajado do Mago é desbloqueado ao atualizar Spiritmonger."
+      },
+      {
+        "q": "O que o Cajado do Mago faz?",
+        "a": "O Cajado do Mago fornece Poder de Feitiço, Mana adicional e Roubo de Vida Mágico."
+      },
+      {
+        "q": "O que é Roubo de Vida Mágico?",
+        "a": "O Roubo de Vida Mágico converte uma parte do dano mágico causado a heróis e súditos inimigos em vida."
+      },
+      {
+        "q": "O Roubo de Vida Mágico funciona em arbustos?",
+        "a": "Não. Como todos os efeitos de roubo de vida em Spelltroum, o Roubo de Vida Mágico só funciona contra heróis e súditos inimigos."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Cajado do Mago?",
+        "a": "Spiritmonger, Viverna e Faerie estão entre os usuários mais fortes porque causam dano mágico consistente e podem acionar o Roubo de Vida Mágico com frequência."
+      },
+      {
+        "q": "O Cajado do Mago é bom para Shadow Fury?",
+        "a": "Não. Shadow Fury causa principalmente Dano Físico, então o Roubo de Vida Mágico não funciona com suas habilidades. Outros itens de dano físico são geralmente muito mais eficazes."
+      },
+      {
+        "q": "O Cajado do Mago é útil em heróis de dano físico?",
+        "a": "Geralmente não. O Cajado do Mago é projetado para heróis que causam Dano Mágico. Heróis de dano físico não podem utilizar totalmente o efeito de Roubo de Vida Mágico, que é a principal força do item."
+      }
+    ]
+  },
+  "WitchBlade": {
+    "description": "A Lâmina da Bruxa é um item Comum desbloqueado através das Recompensas Diárias. É projetado para heróis que dependem de habilidades mágicas e uso frequente de feitiços, fornecendo Regeneração de Mana, Poder de Feitiço e um efeito único que reduz a Resistência Mágica de um inimigo. Ao contrário de muitos itens ofensivos que apenas aumentam seu próprio dano, a Lâmina da Bruxa também aumenta o dano causado por seus companheiros, tornando-a especialmente valiosa em estratégias de equipe e composições focadas em magia.",
+    "whyUse": "A Lâmina da Bruxa é um dos melhores itens de utilidade para heróis mágicos. A primeira atualização concede imediatamente Regeneração de Mana, permitindo que os heróis usem habilidades com mais frequência durante o início do jogo. A segunda atualização fornece Poder de Feitiço, aumentando a eficácia das habilidades. Seu efeito mais importante é a Redução de Resistência Mágica — quando a Lâmina da Bruxa afeta um inimigo, ela aplica um debuff que reduz a Resistência Mágica do alvo, fazendo com que todo o dano mágico causado a esse inimigo se torne mais forte.",
+    "strengths": [
+      "Fornece Regeneração de Mana.",
+      "Concede Poder de Feitiço.",
+      "Reduz a Resistência Mágica inimiga.",
+      "Aumenta o dano da equipe.",
+      "Excelente para heróis mágicos.",
+      "Forte no jogo coordenado."
+    ],
+    "weaknesses": [
+      "Não fornece Vida.",
+      "Não fornece Armadura.",
+      "Menos eficaz para heróis de dano físico.",
+      "Fornece valor limitado se sua equipe causa pouco dano mágico."
+    ],
+    "tips": [
+      "A primeira atualização fornece imediatamente Regeneração de Mana.",
+      "A segunda atualização concede Poder de Feitiço.",
+      "A Redução de Resistência Mágica beneficia tanto você quanto seus companheiros.",
+      "A Lâmina da Bruxa é mais forte contra inimigos focados por múltiplos heróis mágicos.",
+      "O item é útil tanto no início quanto no final do jogo.",
+      "Considere priorizar a Lâmina da Bruxa quando sua equipe causar principalmente dano mágico."
+    ],
+    "faq": [
+      {
+        "q": "Como desbloquear a Lâmina da Bruxa?",
+        "a": "A Lâmina da Bruxa é desbloqueada através das Recompensas Diárias."
+      },
+      {
+        "q": "A Lâmina da Bruxa ajuda meus companheiros?",
+        "a": "Sim. A Redução de Resistência Mágica é aplicada ao inimigo, o que significa que todo o dano mágico aliado se torna mais forte contra esse alvo."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Lâmina da Bruxa?",
+        "a": "Viverna, Faerie, Spiritmonger e outros heróis de dano mágico estão entre os usuários mais fortes do item."
+      }
+    ]
+  },
+  "RingOfRegen": {
+    "description": "O Anel de Regeneração é um item Lendário desbloqueado ao atualizar Spitfire. Este item muda dramaticamente a forma como alguns heróis são jogados. Seu efeito mais único é o bônus de Alcance de Ataque que fornece. Heróis corpo a corpo se tornam atacantes à distância, enquanto heróis à distância ganham alcance de ataque adicional. Por causa disso, o Anel de Regeneração pode transformar completamente o estilo de jogo de um herói e abrir estratégias que de outra forma seriam impossíveis. Além do maior alcance de ataque, o item fornece Regeneração de Mana, Redução de Cooldown, Resistência Mágica e reduz significativamente o tempo necessário para que a Regeneração de Vida comece após receber dano.",
+    "whyUse": "O Anel de Regeneração é projetado para heróis que querem lançar habilidades com frequência, assediar inimigos e se desengajar antes de retornar à luta. O item fornece poderosa Regeneração de Mana, permitindo que os heróis usem habilidades com mais frequência sem ficar sem recursos. Também reduz cooldowns de habilidades, tornando os feitiços disponíveis com mais frequência durante toda a partida.",
+    "strengths": [
+      "Aumenta o alcance de ataque",
+      "Pode transformar heróis corpo a corpo em atacantes à distância",
+      "Fornece forte Regeneração de Mana",
+      "Reduz cooldowns de habilidades",
+      "Reduz o atraso de Regeneração de Vida",
+      "Concede Resistência Mágica",
+      "Apoia estilos de jogo de bater e correr"
+    ],
+    "weaknesses": [
+      "Não fornece bônus de dano direto",
+      "Fornece menos sobrevivência bruta do que itens defensivos dedicados",
+      "Requer bom posicionamento para aproveitar totalmente o alcance adicional",
+      "Menos valioso em heróis que raramente usam habilidades"
+    ],
+    "tips": [
+      "Heróis corpo a corpo obtêm o maior valor do bônus de alcance de ataque.",
+      "Use o tempo de regeneração mais rápido para fazer trocas curtas e se recuperar rapidamente.",
+      "A Redução de Cooldown se torna mais valiosa em heróis com habilidades poderosas.",
+      "O item é especialmente eficaz em heróis móveis que podem se desengajar após atacar.",
+      "Combinar múltiplos itens focados em regeneração pode criar builds de sustento poderosas.",
+      "A Resistência Mágica ajuda a proteger contra conjuradores inimigos."
+    ],
+    "bestHeroes": {
+      "spitfire": "O Anel de Regeneração é um dos itens Lendários mais fortes para Spitfire. A Regeneração de Mana e a Redução de Cooldown permitem que ele use suas habilidades de Bola de Fogo com muito mais frequência. O maior alcance de ataque também melhora sua capacidade de pressionar inimigos de uma distância segura.",
+      "mortifier": "O Anel de Regeneração cria um estilo de jogo único para Mortifier. Como herói corpo a corpo, ele ganha ataques à distância do item, permitindo que lute de maneiras que normalmente não estão disponíveis para ele. A Regeneração de Mana e a Redução de Cooldown também o ajudam a colocar bombas com mais frequência.",
+      "faerie": "Faerie se beneficia muito do Anel de Regeneração. O item permite que ela lance habilidades com mais frequência, mantenha pressão durante as lutas e recupere vida mais rapidamente após se desengajar."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Anel de Regeneração?",
+        "a": "O Anel de Regeneração é desbloqueado ao atualizar Spitfire."
+      },
+      {
+        "q": "O que o Anel de Regeneração faz?",
+        "a": "O Anel de Regeneração aumenta o alcance de ataque, fornece Regeneração de Mana, reduz cooldowns, concede Resistência Mágica e reduz o atraso antes que a Regeneração de Vida comece."
+      },
+      {
+        "q": "O Anel de Regeneração transforma heróis corpo a corpo em heróis à distância?",
+        "a": "Sim. O bônus de alcance de ataque permite que heróis corpo a corpo ataquem à distância, criando um estilo de jogo muito diferente."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Anel de Regeneração?",
+        "a": "Spitfire, Mortifier e Faerie estão entre os usuários mais fortes porque se beneficiam da Regeneração de Mana, Redução de Cooldown e do bônus único de alcance."
+      },
+      {
+        "q": "O Anel de Regeneração se combina bem com outros itens de regeneração?",
+        "a": "Sim. Funciona particularmente bem com a Couraça e as Botas de Regeneração porque todos reduzem o atraso antes que a Regeneração de Vida comece."
+      },
+      {
+        "q": "O Anel de Regeneração é bom contra magos?",
+        "a": "Sim. O item fornece Resistência Mágica, ajudando a reduzir o dano mágico recebido enquanto também permite uma recuperação mais rápida entre lutas."
+      }
+    ]
+  },
+  "HiddenFighterStaff": {
+    "description": "O Shuriken é um item Comum disponível desde o início do jogo. O item fornece Velocidade de Ataque, Redução de Cooldown, Poder de Feitiço e Mana. Seu efeito único dá aos ataques uma chance de se transformar em um projétil de Shuriken ricocheteante. Sempre que esse efeito é acionado, o ataque se torna um projétil de Dano Físico que ricocheteia uma vez para outro alvo. Isso permite que os heróis farmem arbustos com mais eficiência, danifiquem múltiplos inimigos e se beneficiem de Golpes Críticos Físicos e outros bônus de dano físico. Como combina Velocidade de Ataque e Redução de Cooldown, o Shuriken é útil tanto para heróis focados em ataque quanto em habilidades.",
+    "whyUse": "O Shuriken é um dos itens de utilidade mais flexíveis de Spelltroum. A primeira atualização já fornece Mana e Redução de Cooldown, tornando-o valioso mesmo antes de investir em mais atualizações. Isso é particularmente útil para heróis que já têm redução de cooldown de outros itens. Mesmo um único nível de Shuriken pode melhorar visivelmente o tempo de atividade das habilidades.",
+    "strengths": [
+      "Fornece Velocidade de Ataque",
+      "Concede Redução de Cooldown",
+      "Fornece Mana",
+      "Inclui Poder de Feitiço",
+      "Melhora a velocidade de farm",
+      "Projéteis ricocheteantes podem danificar múltiplos alvos",
+      "Sinergiza com Golpes Críticos Físicos",
+      "Útil durante toda a partida"
+    ],
+    "weaknesses": [
+      "Depende parcialmente de efeitos baseados em chance",
+      "Não fornece Vida",
+      "Não fornece Armadura ou Resistência Mágica",
+      "Menos valioso em heróis que raramente atacam",
+      "Requer Velocidade de Ataque para maximizar a eficácia"
+    ],
+    "tips": [
+      "A primeira atualização já fornece Mana e Redução de Cooldown.",
+      "Os Golpes Críticos Físicos afetam os projéteis de Shuriken.",
+      "Os bônus de dano físico aumentam o dano do Shuriken.",
+      "O item é mais forte em heróis com alta Velocidade de Ataque.",
+      "Ataques ricocheteantes melhoram significativamente a eficiência do farm.",
+      "Combinar o Shuriken com outros itens de redução de cooldown cria builds poderosas focadas em habilidades."
+    ],
+    "bestHeroes": {
+      "stonewarden": "O Shuriken funciona extremamente bem em Stonewarden. A Velocidade de Ataque adicional o ajuda a atacar com mais frequência, enquanto a Redução de Cooldown permite que use habilidades com mais frequência. Seu dano naturalmente alto torna cada ricochete do Shuriken mais ameaçador.",
+      "spitfire": "Spitfire se beneficia de quase todas as estatísticas fornecidas pelo Shuriken. A Velocidade de Ataque aumenta a frequência dos procs do Shuriken, enquanto a Mana e a Redução de Cooldown permitem que lance habilidades com mais frequência.",
+      "freezi": "Freezi é outra excelente usuária do Shuriken. Sua alta Velocidade de Ataque permite acionar o efeito com frequência. Os projéteis ricocheteantes a ajudam a farmar com mais eficiência enquanto criam pressão adicional durante as lutas.",
+      "death-slayer": "O Shuriken pode habilitar builds interessantes focadas em cooldown para Death Slayer. A Redução de Cooldown se combina bem com outros itens de redução de cooldown, permitindo que lance seu atordoamento com muito mais frequência."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Shuriken?",
+        "a": "O Shuriken está disponível desde o início do jogo como item Comum."
+      },
+      {
+        "q": "O que o Shuriken faz?",
+        "a": "O Shuriken fornece Velocidade de Ataque, Mana, Poder de Feitiço, Redução de Cooldown e dá aos ataques uma chance de se transformarem em projéteis de Dano Físico ricocheteantes."
+      },
+      {
+        "q": "O Shuriken causa Dano Físico ou Mágico?",
+        "a": "O Shuriken causa Dano Físico."
+      },
+      {
+        "q": "O Shuriken pode causar golpe crítico?",
+        "a": "Sim. Como o projétil causa Dano Físico, efeitos de Golpe Crítico Físico podem ser aplicados a ele."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Shuriken?",
+        "a": "Stonewarden, Spitfire, Freezi e certos builds de Death Slayer estão entre os usuários mais fortes porque se beneficiam de Velocidade de Ataque e Redução de Cooldown."
+      },
+      {
+        "q": "O Shuriken é bom para farm?",
+        "a": "Sim. O projétil ricocheteante pode atingir arbustos e alvos adicionais, tornando o farm significativamente mais eficiente."
+      },
+      {
+        "q": "O Shuriken é útil para builds de redução de cooldown?",
+        "a": "Sim. Até mesmo a primeira atualização fornece Redução de Cooldown, tornando-o uma adição eficaz para heróis que querem lançar habilidades com mais frequência."
+      }
+    ]
+  },
+  "BladesOfCriticalHit": {
+    "description": "As Lâminas Críticas são um item Lendário desbloqueado ao atualizar Shadow Fury. O item fornece Poder de Feitiço, Chance de Golpe Crítico Físico e seu efeito único aumenta o multiplicador máximo de Dano Crítico. Normalmente, os Golpes Críticos em Spelltroum causam 50% de dano adicional. As Lâminas Críticas aumentam esse limite para 75%, tornando cada golpe crítico bem-sucedido significativamente mais poderoso. Por causa disso, as Lâminas Críticas são um dos itens mais fortes para heróis que dependem de dano físico e builds de golpe crítico.",
+    "whyUse": "As Lâminas Críticas são projetadas para heróis que querem maximizar o dano de seus golpes críticos. O item fornece uma pequena quantidade de Chance de Golpe Crítico, mas sua principal força vem de aumentar o bônus máximo de Dano Crítico. Isso significa que sempre que um golpe crítico ocorre, ele causa substancialmente mais dano do que um golpe crítico normal. O item também fornece Poder de Feitiço, tornando-o útil para heróis cujas habilidades escalam com Poder de Feitiço enquanto ainda dependem de dano físico.",
+    "strengths": [
+      "Aumenta o Dano Crítico máximo",
+      "Fornece Chance de Golpe Crítico Físico",
+      "Concede Poder de Feitiço",
+      "Excelente potencial de dano em rajada",
+      "Forte sinergia com builds de golpe crítico",
+      "Eficaz em múltiplos heróis de dano físico"
+    ],
+    "weaknesses": [
+      "Depende da Chance de Golpe Crítico para atingir o valor máximo",
+      "Não fornece Vida",
+      "Não fornece Armadura ou Resistência Mágica",
+      "Menos eficaz em heróis que raramente causam dano físico",
+      "Requer outras fontes de golpe crítico para maximizar totalmente seu potencial"
+    ],
+    "tips": [
+      "As Lâminas Críticas são mais fortes quando combinadas com outras fontes de Chance de Golpe Crítico.",
+      "Aumentar a Chance de Golpe Crítico aumenta o valor do bônus de Dano Crítico do item.",
+      "Heróis de dano físico se beneficiam mais.",
+      "O item combina tanto o escalonamento de Poder de Feitiço quanto de golpe crítico.",
+      "Builds de dano em rajada obtêm valor excepcional das Lâminas Críticas.",
+      "O item é especialmente perigoso em heróis capazes de desferir ataques de alto dano."
+    ],
+    "bestHeroes": {
+      "shadow-fury": "As Lâminas Críticas são um dos itens característicos de Shadow Fury. O Poder de Feitiço melhora suas habilidades, incluindo seu ataque carregado. A Chance de Golpe Crítico adicional aumenta a probabilidade de causar golpes críticos devastadores. O multiplicador de Dano Crítico aumentado permite que seus ataques carregados causem significativamente mais dano.",
+      "spiritmonger": "Spiritmonger obtém valor surpreendente das Lâminas Críticas. Sua habilidade de Coleta de Almas causa dano físico, permitindo que se beneficie do multiplicador de Dano Crítico aumentado. O bônus de Poder de Feitiço também melhora suas habilidades.",
+      "death-slayer": "As Lâminas Críticas podem ser eficazes em Death Slayer, especialmente em builds orientadas a dano. Death Slayer já tem acesso a mecânicas de Golpe Crítico através de suas habilidades. A Chance de Golpe Crítico adicional e o multiplicador de Dano Crítico aumentado melhoram significativamente o dano dos golpes críticos bem-sucedidos."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear as Lâminas Críticas?",
+        "a": "As Lâminas Críticas são desbloqueadas ao atualizar Shadow Fury."
+      },
+      {
+        "q": "O que as Lâminas Críticas fazem?",
+        "a": "As Lâminas Críticas fornecem Poder de Feitiço, Chance de Golpe Crítico Físico e aumentam o bônus máximo de Dano Crítico."
+      },
+      {
+        "q": "Quanto dano extra os Golpes Críticos causam com as Lâminas Críticas?",
+        "a": "Normalmente, golpes críticos causam 50% de dano adicional. As Lâminas Críticas aumentam esse bônus para 75%."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Lâminas Críticas?",
+        "a": "Shadow Fury, Spiritmonger e Death Slayer estão entre os usuários mais fortes porque se beneficiam tanto do Dano Crítico aumentado quanto do Poder de Feitiço."
+      },
+      {
+        "q": "As Lâminas Críticas funcionam bem com outros itens de golpe crítico?",
+        "a": "Sim. As Lâminas Críticas ficam significativamente mais fortes quando combinadas com itens que aumentam a Chance de Golpe Crítico."
+      }
+    ]
+  },
+  "RefresherStaff": {
+    "description": "O Cajado Renovador é um item Místico disponível desde o início do jogo. O item fornece Vida, Mana e Poder de Feitiço, mas sua verdadeira força vem de sua capacidade única de gerar Runas Renovadoras ao destruir arbustos. Quando um herói encontra uma Runa Renovadora, ele ganha uma habilidade Renovadora temporária. Ativá-la reinicia instantaneamente os cooldowns das habilidades do herói.",
+    "whyUse": "O Cajado Renovador é projetado para heróis que dependem fortemente de habilidades ativas. O item em si fornece estatísticas úteis através de Vida adicional, Mana e Poder de Feitiço, mas seu maior valor vem da capacidade de reiniciar cooldowns. Uma Runa Renovadora bem cronometrada pode mudar completamente uma luta ao permitir que um herói lance suas habilidades mais poderosas duas vezes seguidas. Ao contrário dos itens de dano puro, o Cajado Renovador recompensa planejamento, timing e gerenciamento de habilidades.",
+    "strengths": [
+      "Fornece Vida",
+      "Concede Mana",
+      "Fornece Poder de Feitiço",
+      "Permite reiniciar cooldowns",
+      "Cria oportunidades de jogo únicas",
+      "Extremamente poderoso durante lutas importantes",
+      "Útil em muitos heróis diferentes"
+    ],
+    "weaknesses": [
+      "Depende de encontrar Runas Renovadoras",
+      "Requer bom timing para maximizar o valor",
+      "Fornece menos dano direto do que itens ofensivos dedicados",
+      "Jogadores novos frequentemente subestimam os melhores momentos para usá-lo"
+    ],
+    "tips": [
+      "Guarde as Runas Renovadoras para lutas importantes sempre que possível.",
+      "Heróis com habilidades ativas poderosas obtêm o maior valor.",
+      "O Renovador não afeta a habilidade de Ataque Básico.",
+      "Mapas com muitos arbustos aumentam naturalmente o valor do item.",
+      "Uma única Runa Renovadora pode mudar completamente uma luta de equipe.",
+      "Considere carregar uma Runa Renovadora antes de se engajar com um inimigo importante."
+    ],
+    "bestHeroes": {
+      "faerie": "O Cajado Renovador é um dos itens de utilidade mais fortes para Faerie. Ambas as suas habilidades ativas se beneficiam tremendamente dos reinícios de cooldown. Uma Runa Renovadora permite que ela lance imediatamente outro voo ou outro ataque de área.",
+      "grizzly": "Grizzly tem uma das interações mais fortes com o Cajado Renovador. Sua habilidade de melhoria de Vida pode ser lançada duas vezes usando uma Runa Renovadora, permitindo ganhar uma enorme quantidade de Vida bônus.",
+      "mortifier": "Mortifier obtém valor tremendo do Cajado Renovador. Uma Runa Renovadora permite colocar bombas adicionais e reutilizar imediatamente sua habilidade de troca, criando combinações perigosas."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Cajado Renovador?",
+        "a": "O Cajado Renovador é um item Místico e está disponível desde o início do jogo."
+      },
+      {
+        "q": "O que o Cajado Renovador faz?",
+        "a": "O Cajado Renovador fornece Vida, Mana, Poder de Feitiço e permite que os heróis descubram Runas Renovadoras ao destruir arbustos."
+      },
+      {
+        "q": "A Runa Renovadora reinicia a habilidade de Ataque Básico?",
+        "a": "Não. A habilidade de Ataque Básico não é afetada."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Cajado Renovador?",
+        "a": "Faerie, Grizzly e Mortifier estão entre os usuários mais fortes porque obtêm valor tremendo ao lançar suas habilidades ativas múltiplas vezes."
+      },
+      {
+        "q": "O Cajado Renovador é um item de dano?",
+        "a": "Não principalmente. Embora forneça algumas estatísticas ofensivas através do Poder de Feitiço, sua maior força vem de reiniciar cooldowns e habilitar combinações de habilidades poderosas."
+      }
+    ]
+  },
+  "ArchmagesExecutioner": {
+    "description": "O Executor do Arquimago é um item Místico disponível desde o início do jogo. Como todos os machados, concede Velocidade de Movimento em seu nível final de atualização. No entanto, seu propósito principal não é mobilidade, mas Redução de Cooldown. O item é projetado para heróis que dependem de lançar habilidades o mais frequentemente possível. Fornece Vida, Poder de Feitiço, Redução de Cooldown e eventualmente Velocidade de Movimento, tornando-o um dos itens de utilidade mais fortes para builds focadas em habilidades. Para muitos heróis, o Executor do Arquimago pode mudar completamente seu estilo de jogo ao permitir que usem habilidades com muito mais frequência do que o normal.",
+    "whyUse": "O Executor do Arquimago é uma das formas mais fáceis de ganhar Redução de Cooldown significativa no início de uma partida. A primeira atualização fornece Vida adicional, que é valiosa porque a maioria dos heróis se beneficia muito de ter pelo menos uma fonte de Vida bônus no início do jogo. A segunda atualização desbloqueia a Redução de Cooldown, tornando o item imediatamente útil para heróis que dependem fortemente de habilidades.",
+    "strengths": [
+      "Fornece Vida",
+      "Concede Poder de Feitiço",
+      "Fornece Redução de Cooldown antecipada",
+      "Concede Velocidade de Movimento no nível máximo",
+      "Excelente para heróis focados em habilidades",
+      "Forte sinergia com outros itens de redução de cooldown",
+      "Pode suportar estilos de jogo alternativos"
+    ],
+    "weaknesses": [
+      "Fornece menos dano bruto do que itens ofensivos dedicados",
+      "Requer heróis focados em habilidades para atingir o valor máximo",
+      "Menos útil para heróis que dependem principalmente de ataques básicos",
+      "O bônus máximo de Velocidade de Movimento requer atualizações completas"
+    ],
+    "tips": [
+      "Atualize o item para o nível 2 cedo se a Redução de Cooldown for sua prioridade.",
+      "Combine com o Shuriken para builds poderosas focadas em cooldown.",
+      "O item é mais forte em heróis que dependem fortemente de habilidades ativas.",
+      "Pode parcialmente substituir as Botas para heróis que precisam apenas de Velocidade de Movimento moderada.",
+      "O Poder de Feitiço aumenta a eficácia de muitas habilidades mágicas.",
+      "A Redução de Cooldown frequentemente fornece mais valor do que dano bruto em lutas mais longas."
+    ],
+    "faq": [
+      {
+        "q": "Por que a Redução de Cooldown é importante?",
+        "a": "A Redução de Cooldown permite que os heróis lancem habilidades com mais frequência, aumentando tanto o dano quanto a utilidade."
+      }
+    ]
+  },
+  "Glove": {
+    "description": "As Luvas Azuis são um item Místico disponível desde o início do jogo. O item se concentra inteiramente em uma coisa: Velocidade de Ataque. Ao contrário de muitos outros itens que fornecem múltiplos bônus, as Luvas Azuis são projetadas para heróis que já possuem ataques fortes e simplesmente precisam atacar mais rápido. Para alguns heróis, aumentar a Velocidade de Ataque fornece um maior aumento de dano do que comprar itens de dano adicionais. Por causa disso, as Luvas Azuis podem se tornar um dos itens ofensivos mais eficazes no build certo.",
+    "whyUse": "As Luvas Azuis aumentam dramaticamente a Velocidade de Ataque. Heróis que já causam alto dano frequentemente obtêm valor enorme ao atacar com mais frequência. Ataques mais rápidos significam mais dano, maior velocidade de farm, mais interações de habilidades e mais oportunidades de acionar efeitos de itens. No entanto, as Luvas Azuis geralmente não são um item que os jogadores rushiam para o nível 4 imediatamente. Em muitas situações, atualizar o item uma ou duas vezes cedo fornece Velocidade de Ataque suficiente para obter uma vantagem notável.",
+    "strengths": [
+      "Fornece um aumento massivo de Velocidade de Ataque",
+      "Melhora a velocidade de farm",
+      "Escala bem no final do jogo",
+      "Forte sinergia com efeitos on-hit",
+      "Excelente para heróis com alto dano base",
+      "Melhora builds de atordoamento e golpe crítico"
+    ],
+    "weaknesses": [
+      "Não fornece Vida",
+      "Não fornece Armadura ou Resistência Mágica",
+      "Não fornece bônus de dano direto",
+      "Menos eficaz em heróis que já atacam muito rapidamente",
+      "Geralmente requer outros itens ofensivos para atingir o valor máximo"
+    ],
+    "tips": [
+      "As Luvas Azuis são mais fortes em heróis que já têm alto dano.",
+      "Considere atualizar o item uma ou duas vezes cedo e terminar depois.",
+      "A Velocidade de Ataque melhora a eficiência do farm.",
+      "O item fica mais forte quando combinado com itens de dano.",
+      "Mais ataques significam mais oportunidades de acionar efeitos de itens.",
+      "As Luvas Azuis se combinam excepcionalmente bem com o Martelo Atordoante."
+    ],
+    "bestHeroes": {
+      "stonewarden": "As Luvas Azuis são um dos itens ofensivos mais fortes para Stonewarden. Seu Ataque Básico naturalmente causa alto dano, mas ataca mais lentamente. As Luvas Azuis ajudam a compensar essa fraqueza ao aumentar significativamente a Velocidade de Ataque.",
+      "spiritmonger": "Spiritmonger pode obter valor tremendo das Luvas Azuis. À medida que coleta Almas, seu dano se torna cada vez mais ameaçador. A Velocidade de Ataque adicional permite aplicar esse dano com muito mais frequência.",
+      "grizzly": "As Luvas Azuis funcionam excepcionalmente bem em Grizzly. Seu dano aumenta à medida que continua atacando o mesmo alvo. Mais Velocidade de Ataque significa que ele atinge níveis de dano mais altos muito mais rápido."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear as Luvas Azuis?",
+        "a": "As Luvas Azuis são um item Místico e estão disponíveis desde o início do jogo."
+      },
+      {
+        "q": "O que as Luvas Azuis fazem?",
+        "a": "As Luvas Azuis fornecem uma grande quantidade de Velocidade de Ataque e são projetadas para heróis que querem atacar com mais frequência."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Luvas Azuis?",
+        "a": "Stonewarden, Spiritmonger e Grizzly estão entre os usuários mais fortes porque já possuem ataques fortes que se beneficiam muito de Velocidade de Ataque adicional."
+      },
+      {
+        "q": "Devo atualizar as Luvas Azuis ao nível máximo imediatamente?",
+        "a": "Geralmente não. Muitos jogadores atualizam o item uma ou duas vezes cedo e terminam de atualizar depois de adquirir itens de dano adicionais."
+      }
+    ]
+  },
+  "GloveMidas": {
+    "description": "As Luvas Douradas são um item Comum desbloqueado através das Recompensas Diárias. O item fornece Velocidade de Ataque, Vida e um dos efeitos econômicos mais fortes de Spelltroum: ouro bônus por cada moeda coletada. Sempre que o herói pega uma moeda, as Luvas Douradas concedem 10 de ouro adicional além do valor normal da moeda. Por causa disso, o item é projetado para heróis que querem farmar agressivamente, atingir seus itens principais mais rápido e construir uma vantagem econômica no início da partida.",
+    "whyUse": "As Luvas Douradas são tudo sobre acelerar sua economia. Ao contrário da maioria dos itens que aumentam diretamente o poder de combate, as Luvas Douradas ajudam os heróis a ganhar mais ouro durante todo o jogo. A primeira atualização desbloqueia imediatamente o efeito de ouro bônus, tornando-o útil desde o momento em que é comprado. Isso cria uma escolha interessante para os jogadores: em vez de investir fortemente em estatísticas de combate no início, podem investir em farm mais rápido e potencialmente ganhar muito mais ouro ao longo da partida.",
+    "strengths": [
+      "Gera ouro adicional durante toda a partida",
+      "Paga por si mesmo ao longo do tempo",
+      "Fornece Vida",
+      "Concede Velocidade de Ataque",
+      "Excelente para heróis focados em farm",
+      "Ajuda a atingir builds de itens caros mais rápido"
+    ],
+    "weaknesses": [
+      "Fornece menos poder de combate imediato do que muitos outros itens",
+      "Requer tempo para gerar valor",
+      "Menos eficaz em partidas altamente agressivas",
+      "Fica mais fraco quando comprado tarde",
+      "Pode atrasar itens de combate importantes se comprado no momento errado"
+    ],
+    "tips": [
+      "Compre o item cedo para maximizar a geração de ouro.",
+      "A primeira atualização geralmente é a mais importante.",
+      "Heróis que farmam rapidamente obtêm o maior valor.",
+      "A Velocidade de Ataque ajuda a melhorar a eficiência do farm.",
+      "O item fica mais fraco quando comprado tarde.",
+      "Considere seu confronto antes de investir em um build focado em economia."
+    ],
+    "bestHeroes": {
+      "druid": "As Luvas Douradas são um dos melhores itens de farm para Druid. Sua invocação ajuda a limpar arbustos rapidamente, permitindo coletar moedas eficientemente e aproveitar totalmente o efeito de ouro bônus.",
+      "volcarn": "Volcarn se beneficia muito de atingir seus picos de itens o mais rápido possível. Como depende fortemente de itens para atingir seu potencial máximo, a renda adicional gerada pelas Luvas Douradas pode acelerar significativamente sua progressão.",
+      "stonewarden": "Stonewarden obtém valor tanto do efeito econômico quanto dos bônus de Velocidade de Ataque. A Velocidade de Ataque adicional ajuda a compensar seus ataques naturalmente mais lentos.",
+      "freezi": "Freezi pode usar as Luvas Douradas para acelerar seu farm e atingir itens-chave mais rapidamente. A renda adicional frequentemente se traduz em picos de poder mais rápidos."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear as Luvas Douradas?",
+        "a": "As Luvas Douradas são desbloqueadas através das Recompensas Diárias."
+      },
+      {
+        "q": "O que as Luvas Douradas fazem?",
+        "a": "As Luvas Douradas fornecem Velocidade de Ataque, Vida e ouro bônus sempre que moedas são coletadas."
+      },
+      {
+        "q": "Quando devo comprar as Luvas Douradas?",
+        "a": "Geralmente o mais cedo possível. Quanto mais cedo você comprar o item, mais ouro bônus poderá ganhar durante a partida."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais das Luvas Douradas?",
+        "a": "Druid, Volcarn, Stonewarden e Freezi estão entre os usuários mais fortes porque podem farmar eficientemente e aproveitar a renda adicional."
+      },
+      {
+        "q": "As Luvas Douradas são boas em todas as partidas?",
+        "a": "Não. Se você está constantemente lutando e incapaz de coletar moedas, o item pode demorar muito para se pagar."
+      },
+      {
+        "q": "As Luvas Douradas ficam mais fracas no final do jogo?",
+        "a": "Sim. Como o item gera valor ao longo do tempo, comprá-lo tarde geralmente fornece um benefício significativamente menor do que comprá-lo cedo."
+      }
+    ]
+  },
+  "RingOfProtection": {
+    "description": "O Anel Guardião é um item Lendário desbloqueado ao atualizar Grizzly. O item fornece uma grande quantidade de Armadura Física e Resistência Mágica, tornando-o um dos itens defensivos mais fortes de Spelltroum. Seu efeito único concede uma Runa de Velocidade temporária sempre que o herói usa uma habilidade. Essa velocidade de movimento bônus permite que os heróis se engajem, persigam, se reposicionem ou escapem com muito mais eficácia. Por causa disso, o Anel Guardião não é apenas um item defensivo, mas também um item de mobilidade que pode mudar dramaticamente o estilo de jogo de um herói.",
+    "whyUse": "O Anel Guardião é projetado para heróis que querem permanecer vivos enquanto pressionam constantemente os inimigos. A grande quantidade de armadura torna os heróis significativamente mais difíceis de matar, especialmente heróis que já têm grandes pools de Vida. Seu recurso mais importante, no entanto, é o efeito de Runa de Velocidade. Sempre que o herói usa uma habilidade, o Anel Guardião concede uma rajada temporária de Velocidade de Movimento. O efeito de Runa de Velocidade fica disponível desde a primeira atualização, o que significa que muitos jogadores compram um único nível cedo e terminam de atualizar o item mais tarde.",
+    "strengths": [
+      "Fornece Armadura Física",
+      "Fornece Resistência Mágica",
+      "Concede Velocidade de Movimento temporária após lançar habilidades",
+      "Excelente para estilos de jogo agressivos",
+      "Forte em heróis resistentes",
+      "Eficaz contra dano físico e mágico",
+      "O efeito principal está disponível desde a primeira atualização"
+    ],
+    "weaknesses": [
+      "Não fornece aumento direto de dano",
+      "Menos valioso para heróis com poucas habilidades ativas",
+      "Requer uso de habilidades para obter o bônus de velocidade de movimento",
+      "Fornece menos velocidade de movimento permanente do que itens de mobilidade dedicados"
+    ],
+    "tips": [
+      "O efeito de Runa de Velocidade está disponível desde a primeira atualização.",
+      "Muitos jogadores compram o primeiro nível cedo e terminam de atualizar mais tarde.",
+      "Heróis com múltiplas habilidades ativas obtêm o maior valor.",
+      "O item é especialmente eficaz em heróis que precisam de ajuda para perseguir inimigos.",
+      "Grandes pools de Vida ficam significativamente mais fortes quando combinados com os bônus de armadura do item.",
+      "O Anel Guardião fornece tanto sobrevivência quanto mobilidade em um único slot de item."
+    ],
+    "bestHeroes": {
+      "grizzly": "O Anel Guardião funciona surpreendentemente bem em Viverna. Ela tem duas habilidades ativas que podem acionar repetidamente o efeito de Runa de Velocidade. Isso permite que ela ataque, se reposicione, recue e se reengage com muito mais eficácia do que o normal. A armadura adicional também melhora sua sobrevivência contra dano mágico e físico.",
+      "mortifier": "Mortifier se beneficia muito do Anel Guardião. Tanto sua habilidade de Bomba quanto a de Troca ativam o efeito de Runa de Velocidade. Como herói corpo a corpo, a Velocidade de Movimento adicional é extremamente valiosa porque o ajuda a ficar no alcance dos inimigos e criar oportunidades para suas habilidades."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Anel Guardião?",
+        "a": "O Anel Guardião é desbloqueado ao atualizar Grizzly."
+      },
+      {
+        "q": "O que o Anel Guardião faz?",
+        "a": "O Anel Guardião fornece Armadura Física, Resistência Mágica e concede uma Runa de Velocidade temporária sempre que o herói usa uma habilidade."
+      },
+      {
+        "q": "O Anel Guardião funciona desde a primeira atualização?",
+        "a": "Sim. O efeito de Runa de Velocidade fica disponível imediatamente no primeiro nível de atualização."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Anel Guardião?",
+        "a": "Grizzly, Viverna e Mortifier estão entre os usuários mais fortes porque podem acionar o efeito de Runa de Velocidade com frequência e se beneficiam muito das estatísticas defensivas."
+      },
+      {
+        "q": "O Anel Guardião é um item defensivo ou de mobilidade?",
+        "a": "Os dois. Fornece armadura substancial enquanto também concede rajadas temporárias de velocidade sempre que habilidades são usadas."
+      },
+      {
+        "q": "Por que o Anel Guardião é especialmente bom em heróis com muita Vida?",
+        "a": "Armadura e Resistência Mágica se tornam mais valiosas à medida que a Vida de um herói aumenta, tornando o Anel Guardião particularmente eficaz em heróis naturalmente resistentes como Grizzly."
+      }
+    ]
+  },
+  "InfinityShield": {
+    "description": "O Escudo Infinito é um item Místico disponível desde o início do jogo. O item fornece Vida, Dano, Redução de Cooldown e a capacidade de descobrir Runas de Escudo ao destruir arbustos. Uma Runa de Escudo concede um poderoso efeito defensivo que aumenta significativamente tanto a Armadura Física quanto a Resistência Mágica por um curto tempo. Quando ativada no momento certo, pode mudar completamente o resultado de uma luta ao permitir que um herói sobreviva a dano que normalmente seria letal. Por causa de sua combinação de sobrevivência, redução de cooldown e utilidade, o Escudo Infinito é um dos itens defensivos mais versáteis de Spelltroum.",
+    "whyUse": "O Escudo Infinito é projetado para heróis que querem durabilidade adicional sem sacrificar utilidade. A primeira atualização fornece Vida bônus, tornando os heróis visivelmente mais difíceis de matar durante o início do jogo. A segunda atualização concede Dano, o que ajuda muitos heróis a destruir arbustos com um único ataque e farmar com mais eficiência. A terceira e quarta atualizações desbloqueiam o efeito de Runa de Escudo e fornecem Redução de Cooldown adicional.",
+    "uniqueEffect": "Ao destruir arbustos, os heróis têm chance de descobrir uma Runa de Escudo. Quando ativada, a Runa de Escudo concede +200 de Armadura Física, +200 de Resistência Mágica e sobrevivência enormemente aumentada por 5 segundos. Este é um dos efeitos de runa defensiva mais fortes do jogo. Durante esses 5 segundos, os heróis se tornam extremamente difíceis de matar com dano físico e mágico. No entanto, a Runa de Escudo não protege contra Dano Puro.",
+    "strengths": [
+      "Fornece Vida",
+      "Concede Dano",
+      "Reduz cooldowns",
+      "Gera Runas de Escudo",
+      "Melhora a sobrevivência contra dano físico e mágico",
+      "Útil durante toda a partida",
+      "Excelente em heróis resistentes",
+      "Um dos efeitos de runa defensiva mais fortes do jogo"
+    ],
+    "weaknesses": [
+      "Requer farm de arbustos para gerar Runas de Escudo",
+      "Fornece menos dano direto do que itens ofensivos",
+      "O valor total depende do uso correto da Runa de Escudo",
+      "Não reduz Dano Puro",
+      "Não tão especializado quanto itens puramente defensivos ou ofensivos"
+    ],
+    "tips": [
+      "Guarde as Runas de Escudo para lutas importantes.",
+      "O item é especialmente eficaz em heróis com grandes pools de Vida.",
+      "A Redução de Cooldown se torna mais valiosa à medida que os heróis ganham habilidades mais fortes.",
+      "As Runas de Escudo podem prevenir dano em rajada e tentativas de one-shot.",
+      "Use a Runa de Escudo antes de se engajar com inimigos perigosos em vez de depois que sua Vida estiver criticamente baixa.",
+      "A Runa de Escudo é mais forte contra dano em rajada físico e mágico."
+    ],
+    "bestHeroes": {
+      "grizzly": "O Escudo Infinito é um dos itens defensivos mais fortes para Grizzly. Grizzly já tem um dos maiores pools de Vida do jogo. Quando ele ativa uma Runa de Escudo, a armadura adicional se torna extremamente valiosa porque a armadura escala excepcionalmente bem com grandes quantidades de Vida.",
+      "druid": "O Escudo Infinito funciona muito bem em Mortifier. Ele usa frequentemente ambas as suas habilidades ativas, tornando a Redução de Cooldown muito valiosa. O Dano adicional o ajuda a limpar arbustos com mais eficiência, enquanto a Runa de Escudo pode salvá-lo quando os inimigos tentam eliminá-lo com rajadas."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Escudo Infinito?",
+        "a": "O Escudo Infinito é um item Místico e está disponível desde o início do jogo."
+      },
+      {
+        "q": "O que o Escudo Infinito faz?",
+        "a": "O Escudo Infinito fornece Vida, Dano, Redução de Cooldown e permite que os heróis descubram Runas de Escudo ao destruir arbustos."
+      },
+      {
+        "q": "O que uma Runa de Escudo faz?",
+        "a": "Uma Runa de Escudo concede +200 de Armadura Física e +200 de Resistência Mágica por 5 segundos, tornando o herói significativamente mais difícil de matar."
+      },
+      {
+        "q": "A Runa de Escudo bloqueia Dano Puro?",
+        "a": "Não. A Runa de Escudo apenas concede Armadura Física e Resistência Mágica. O dano físico e mágico é muito reduzido enquanto o escudo está ativo, mas o Dano Puro ignora o escudo."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Escudo Infinito?",
+        "a": "Grizzly, Druid e Mortifier estão entre os usuários mais fortes porque se beneficiam tanto das estatísticas defensivas quanto da redução de cooldown."
+      },
+      {
+        "q": "As Runas de Escudo podem ajudar contra dano em rajada?",
+        "a": "Sim. A Runa de Escudo concede +200 de Armadura Física e +200 de Resistência Mágica por 5 segundos. No entanto, o Dano Puro não é reduzido pelo escudo."
+      },
+      {
+        "q": "Devo atualizar totalmente o Escudo Infinito imediatamente?",
+        "a": "Nem sempre. Muitos jogadores o atualizam gradualmente, aproveitando os bônus iniciais de Vida e Dano antes de completar os níveis finais mais tarde na partida."
+      }
+    ]
+  },
+  "SilenceBlade": {
+    "description": "O Elmo do Silêncio é um item Místico disponível desde o início do jogo. O item fornece Armadura Física, Velocidade de Ataque e Mana, tornando-o uma escolha sólida para heróis que querem tanto sobrevivência quanto poder ofensivo. Seu efeito único permite que os heróis descubram Runas de Silêncio ao destruir arbustos. Essas runas podem mudar completamente o resultado de uma luta ao impedir que os inimigos usem habilidades e parar todas as formas de cura. Por causa disso, o Elmo do Silêncio é um dos itens anti-cura e anti-conjurador mais fortes de Spelltroum.",
+    "whyUse": "O Elmo do Silêncio é projetado para contrariar heróis que dependem fortemente de habilidades, cura ou roubo de vida. O item em si já fornece estatísticas de combate úteis: Armadura Física para sobrevivência, Velocidade de Ataque para maior dano e Mana adicional para uso mais frequente de habilidades. No entanto, a principal razão pela qual os jogadores compram o Elmo do Silêncio é o acesso às Runas de Silêncio. Uma Runa de Silêncio bem cronometrada pode desativar completamente um herói inimigo por vários segundos.",
+    "uniqueEffect": "Ao destruir arbustos, os heróis têm chance de descobrir uma Runa de Silêncio. Quando ativada, a runa cria um efeito de silêncio ao redor do herói. Inimigos afetados pelo Silêncio não podem usar habilidades, só podem usar Ataques Básicos, não podem ativar habilidades de cura, não podem se beneficiar de efeitos de roubo de vida, não podem usar consumíveis de cura e não podem restaurar Vida através de outros efeitos de cura. O silêncio dura 5 segundos.",
+    "strengths": [
+      "Fornece Armadura Física",
+      "Fornece Velocidade de Ataque",
+      "Concede Mana adicional",
+      "Gera poderosas Runas de Silêncio",
+      "Desativa completamente as habilidades inimigas",
+      "Contra cura e roubo de vida",
+      "Excelente para heróis agressivos"
+    ],
+    "weaknesses": [
+      "Requer farm de arbustos para gerar runas",
+      "Menos eficaz contra heróis que dependem principalmente de Ataques Básicos",
+      "Fornece menos dano direto do que itens ofensivos dedicados",
+      "O valor total depende do uso correto da Runa de Silêncio"
+    ],
+    "tips": [
+      "Guarde as Runas de Silêncio para lutas importantes.",
+      "Use o Silêncio imediatamente após efeitos de controle de multidão para máximo impacto.",
+      "O Silêncio é especialmente eficaz contra heróis que dependem de cura.",
+      "A runa pode impedir que inimigos escapem com habilidades.",
+      "A ativação de 1 de dano pode interromper temporizadores de regeneração.",
+      "A Velocidade de Ataque aumenta o valor ofensivo geral do item."
+    ],
+    "bestHeroes": {
+      "grizzly": "O Elmo do Silêncio é um excelente item para Grizzly. Ele quer ficar perto dos inimigos e pressioná-los continuamente. Após pular sobre um alvo, Grizzly pode ativar uma Runa de Silêncio e impedir que o inimigo escape com habilidades.",
+      "freezi": "Viverna se beneficia da utilidade agressiva do item. Ela pode se engajar com um inimigo, aplicar veneno e efeitos de dano, então ativar o Silêncio para impedir que o alvo responda com habilidades."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Elmo do Silêncio?",
+        "a": "O Elmo do Silêncio é um item Místico e está disponível desde o início do jogo."
+      },
+      {
+        "q": "O que o Elmo do Silêncio faz?",
+        "a": "O Elmo do Silêncio fornece Armadura Física, Velocidade de Ataque, Mana e permite que os heróis descubram Runas de Silêncio ao destruir arbustos."
+      },
+      {
+        "q": "O que o Silêncio faz?",
+        "a": "O Silêncio impede que os inimigos afetados usem habilidades por 5 segundos. Eles só podem usar Ataques Básicos."
+      },
+      {
+        "q": "O Silêncio para a cura?",
+        "a": "Sim. Enquanto silenciados, os inimigos não podem se beneficiar de roubo de vida, habilidades de cura, consumíveis de cura ou outros efeitos de restauração de Vida."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Elmo do Silêncio?",
+        "a": "Grizzly, Freezi e Viverna estão entre os usuários mais fortes porque podem aproveitar totalmente o efeito de silêncio durante o combate."
+      }
+    ]
+  },
+  "Splash": {
+    "description": "O Cajado da Fada é um item Lendário desbloqueado ao atualizar Faerie. O item fornece Vida, Chance de Golpe Crítico Mágico e Dano Crítico Mágico aumentado, tornando-o um dos itens ofensivos mais fortes para heróis mágicos. Além de seus bônus de combate, o Cajado da Fada introduz uma mecânica de suporte única. Quando o dono usa uma Poção de Cura ou Poção de Mana, o mesmo efeito é automaticamente aplicado a um aliado próximo. Por causa dessa combinação de dano e utilidade de suporte, o Cajado da Fada é uma escolha poderosa tanto para magos agressivos quanto para composições de equipe de suporte.",
+    "whyUse": "O Cajado da Fada é projetado para heróis que dependem fortemente de dano mágico. O item aumenta o Dano Crítico Mágico, permitindo que golpes críticos causem significativamente mais dano do que o normal. Normalmente, um Golpe Crítico Mágico causa 50% de dano bônus. O Cajado da Fada aumenta esse bônus para 75%, tornando cada golpe crítico bem-sucedido muito mais impactante. O item também fornece uma pequena quantidade de Chance de Golpe Crítico Mágico.",
+    "uniqueEffect": "A partir do Nível 2, o Cajado da Fada ganha seu efeito de suporte único. Sempre que o dono usa uma Poção de Cura ou uma Poção de Mana, o mesmo efeito é automaticamente aplicado a um aliado próximo. Em modos baseados em equipe, esse efeito pode criar uma vantagem significativa durante lutas prolongadas.",
+    "strengths": [
+      "Aumenta o Dano Crítico Mágico",
+      "Fornece Chance de Golpe Crítico Mágico",
+      "Concede Vida adicional",
+      "Permite que Poções de Cura afetem aliados",
+      "Permite que Poções de Mana afetem aliados",
+      "Forte tanto para builds de dano quanto de suporte",
+      "Excelente em modos baseados em equipe"
+    ],
+    "weaknesses": [
+      "Fornece apenas uma pequena quantidade de Chance de Golpe Crítico Mágico por si só",
+      "Requer outros itens de Crítico Mágico para atingir o potencial máximo de dano",
+      "Fornece menos Poder de Feitiço bruto do que alguns itens de mago dedicados",
+      "O efeito de poção compartilhada é menos valioso quando se joga sozinho"
+    ],
+    "tips": [
+      "O Cajado da Fada fica muito mais forte quando combinado com Chance de Golpe Crítico Mágico adicional.",
+      "O efeito de poção compartilhada é ativado automaticamente.",
+      "Fique perto dos aliados para maximizar o valor de suporte.",
+      "O item fornece tanto ataque quanto sobrevivência.",
+      "Heróis baseados em magia se beneficiam mais de seus bônus.",
+      "A atualização do Nível 2 é particularmente importante porque desbloqueia o efeito de poção compartilhada."
+    ],
+    "bestHeroes": {
+      "faerie": "O Cajado da Fada é o item Lendário característico de Faerie. Aumenta o dano de suas habilidades mágicas enquanto também permite que apoie aliados através de efeitos de poções compartilhadas.",
+      "viverna": "Viverna se beneficia muito do Cajado da Fada. Seus efeitos de veneno e habilidades mágicas podem causar golpes críticos, tornando o Dano Crítico Mágico aumentado extremamente valioso.",
+      "spiritmonger": "Spiritmonger é outra excelente usuária do Cajado da Fada. Seu orbe ricocheteante pode se beneficiar dos Golpes Críticos Mágicos, e o dano crítico aumentado pode potencializar significativamente seu potencial de rajada."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Cajado da Fada?",
+        "a": "O Cajado da Fada é um item Lendário desbloqueado ao atualizar Faerie."
+      },
+      {
+        "q": "O que o Cajado da Fada faz?",
+        "a": "O Cajado da Fada fornece Vida, Chance de Golpe Crítico Mágico, Dano Crítico Mágico aumentado e permite que os efeitos de poção sejam compartilhados com aliados próximos."
+      },
+      {
+        "q": "Quanto o Cajado da Fada aumenta o Dano Crítico Mágico?",
+        "a": "Normalmente, Golpes Críticos Mágicos causam 50% de dano bônus. O Cajado da Fada aumenta esse bônus para 75%."
+      },
+      {
+        "q": "O Cajado da Fada funciona com Poções de Cura e de Mana?",
+        "a": "Sim. A partir do Nível 2, tanto as Poções de Cura quanto as de Mana são compartilhadas com um aliado próximo."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Cajado da Fada?",
+        "a": "Faerie, Viverna e Spiritmonger estão entre os usuários mais fortes porque dependem fortemente de dano mágico."
+      },
+      {
+        "q": "O Cajado da Fada é bom sozinho?",
+        "a": "É útil sozinho, mas fica muito mais forte quando combinado com itens que aumentam a Chance de Golpe Crítico Mágico."
+      }
+    ]
+  },
+  "DarkSplash": {
+    "description": "O Toque Sombrio é um item Lendário desbloqueado ao atualizar Viverna. O item é projetado principalmente para heróis mágicos e fornece Chance de Golpe Crítico Mágico, Vida e Redução de Armadura Mágica. Sua característica mais única é a capacidade de danificar inimigos usando Poções de Cura. Isso cria um estilo de jogo incomum onde a cura também pode ser usada ofensivamente para terminar oponentes enfraquecidos. Por causa de sua combinação de ofensiva mágica, utilidade e potencial de execução, o Toque Sombrio é um dos itens de mago mais únicos de Spelltroum.",
+    "whyUse": "O Toque Sombrio fornece vários benefícios poderosos para heróis mágicos. A primeira atualização concede Chance de Golpe Crítico Mágico, permitindo que os jogadores acessem golpes críticos mágicos muito cedo no jogo. A segunda atualização concede Vida e aplica Redução de Armadura Mágica aos inimigos. Esse debuff aumenta o dano causado pelas habilidades mágicas, tornando-o especialmente poderoso quando múltiplos heróis mágicos focam no mesmo alvo.",
+    "uniqueEffect": "A partir do Nível 3, o Toque Sombrio ganha seu efeito único de execução. Sempre que o dono usa uma Poção de Cura, o dono é curado normalmente e o inimigo mais próximo dentro do alcance recebe dano do Toque Sombrio. O efeito só funciona se o alvo estiver abaixo de 70% de Vida. Arbustos não podem ser alvo. O efeito destina-se a ajudar a terminar inimigos enfraquecidos durante lutas.",
+    "strengths": [
+      "Concede Chance de Golpe Crítico Mágico",
+      "Fornece Vida",
+      "Aplica Redução de Armadura Mágica",
+      "Aumenta o dano mágico da equipe",
+      "Pode danificar inimigos enquanto se cura",
+      "Excelente para builds de mago agressivo",
+      "Forte em composições de duplo mago"
+    ],
+    "weaknesses": [
+      "Requer Poções de Cura para ativar seu efeito único",
+      "Não pode atingir inimigos acima de 70% de Vida",
+      "A seleção de alvo é automática",
+      "Pode acidentalmente atingir um súdito próximo em vez de um herói",
+      "Fornece menos Poder de Feitiço bruto do que alguns itens de mago dedicados"
+    ],
+    "tips": [
+      "A Redução de Armadura Mágica beneficia toda a sua equipe.",
+      "Guarde Poções de Cura para lutas importantes quando possível.",
+      "Posicione-se cuidadosamente antes de usar uma poção.",
+      "O inimigo mais próximo se torna o alvo.",
+      "O efeito só funciona contra inimigos abaixo de 70% de Vida.",
+      "O Toque Sombrio não pode atingir arbustos.",
+      "Múltiplos heróis mágicos se beneficiam muito do mesmo debuff de Redução de Armadura Mágica."
+    ],
+    "bestHeroes": {
+      "viverna": "O Toque Sombrio é o item Lendário característico de Viverna. A Redução de Armadura Mágica aumenta o dano de seus efeitos de veneno e habilidades de área. Como Viverna frequentemente assedia inimigos e os mantém com pouca Vida, ela pode aproveitar muito bem o efeito de dano acionado por poção.",
+      "faerie": "Faerie é outra excelente usuária do Toque Sombrio. Ambas as suas habilidades ativas causam dano mágico e se beneficiam da Redução de Armadura Mágica.",
+      "spiritmonger": "Spiritmonger se beneficia do Toque Sombrio através do dano aumentado em seu orbe ricocheteante. A Redução de Armadura Mágica ajuda tanto ela quanto os heróis mágicos aliados a causar dano adicional.",
+      "spitfire": "Embora menos comum, o Toque Sombrio pode funcionar bem em Spitfire. Suas habilidades causam dano mágico, e a Redução de Armadura Mágica aumenta a eficácia de seus ataques baseados em fogo."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear o Toque Sombrio?",
+        "a": "O Toque Sombrio é um item Lendário desbloqueado ao atualizar Viverna."
+      },
+      {
+        "q": "O que o Toque Sombrio faz?",
+        "a": "O Toque Sombrio fornece Chance de Golpe Crítico Mágico, Vida, Redução de Armadura Mágica e permite que as Poções de Cura danifiquem inimigos enfraquecidos próximos."
+      },
+      {
+        "q": "Como o dano da poção funciona?",
+        "a": "Quando o dono usa uma Poção de Cura, o inimigo mais próximo dentro do alcance recebe dano se esse inimigo tiver menos de 70% de Vida."
+      },
+      {
+        "q": "O Toque Sombrio pode atingir arbustos?",
+        "a": "Não. Arbustos nunca são alvos válidos."
+      },
+      {
+        "q": "O Toque Sombrio pode atingir súditos?",
+        "a": "Sim. O efeito sempre tem como alvo o inimigo válido mais próximo, que pode ser um súdito ou um herói inimigo."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais do Toque Sombrio?",
+        "a": "Viverna, Faerie, Spiritmonger e builds de Spitfire focadas em magia estão entre os usuários mais fortes."
+      },
+      {
+        "q": "O Toque Sombrio é bom em equipes de duplo mago?",
+        "a": "Sim. A Redução de Armadura Mágica beneficia todo o dano mágico aliado, tornando o Toque Sombrio particularmente poderoso quando múltiplos heróis mágicos focam no mesmo alvo."
+      }
+    ]
+  },
+  "FireSphere": {
+    "description": "A Esfera de Fogo é um item Lendário desbloqueado ao atualizar Mortifier. O item fornece Vida, Armadura Física, Resistência Mágica e uma pequena quantidade de Velocidade de Movimento. Embora suas estatísticas defensivas sejam úteis, seu verdadeiro poder vem de sua mecânica única de Ataque Carregado. Sempre que o dono usa uma de suas duas habilidades ativas, seu próximo ataque básico fica empoderado e causa Dano Mágico adicional. Por causa desse efeito, a Esfera de Fogo recompensa heróis agressivos que constantemente lançam habilidades e permanecem engajados no combate.",
+    "whyUse": "A Esfera de Fogo é projetada para heróis que alternam ativamente habilidades e ataques. O item concede Vida bônus, Armadura Física, Resistência Mágica, um pequeno bônus de Velocidade de Movimento e Ataques Carregados após lançar habilidades. Ao contrário de muitos itens que simplesmente aumentam estatísticas, a Esfera de Fogo muda a forma como um herói é jogado.",
+    "uniqueEffect": "O efeito característico da Esfera de Fogo é o Ataque Carregado. Sempre que o dono usa uma de suas duas habilidades ativas, o próximo ataque básico fica empoderado e causa Dano Mágico bônus. O efeito não aciona a partir da habilidade de ataque básico do herói — apenas das duas habilidades ativas do herói. O bônus é consumido quando o ataque atinge com sucesso um alvo. Se o ataque empoderado errar, o dano bônus é desperdiçado.",
+    "strengths": [
+      "Fornece Vida",
+      "Concede Armadura Física",
+      "Concede Resistência Mágica",
+      "Fornece Velocidade de Movimento bônus",
+      "Adiciona poderosos Ataques Carregados",
+      "Recompensa combate ativo e uso de habilidades",
+      "Forte durante toda a partida",
+      "Excelente em heróis com múltiplas habilidades ativas"
+    ],
+    "weaknesses": [
+      "Requer timing adequado para maximizar o valor",
+      "Errar um Ataque Carregado desperdiça o dano bônus",
+      "Menos eficaz em heróis que raramente usam habilidades ativas",
+      "Fornece menos dano bruto do que alguns itens puramente ofensivos",
+      "Requer jogo agressivo para atingir o potencial máximo"
+    ],
+    "tips": [
+      "Sempre tente atacar imediatamente após lançar uma habilidade.",
+      "Errar um Ataque Carregado desperdiça o dano bônus.",
+      "O item é mais forte em heróis com duas habilidades ativas.",
+      "Heróis corpo a corpo frequentemente usam a Esfera de Fogo particularmente bem porque raramente erram ataques empoderados.",
+      "O bônus de Velocidade de Movimento ajuda no posicionamento e perseguição de alvos.",
+      "A Esfera de Fogo recompensa um estilo de jogo agressivo focado em combos."
+    ],
+    "bestHeroes": {
+      "mortifier": "Faerie se beneficia muito da Esfera de Fogo. Ambas as suas habilidades ativas acionam Ataques Carregados, permitindo que ela combine repetidamente dano de feitiço com ataques empoderados.",
+      "spitfire": "Spitfire é outro excelente usuário da Esfera de Fogo. Suas habilidades ativas permitem acionar Ataques Carregados consistentemente durante as lutas.",
+      "viverna": "Para builds agressivas de Viverna, a Esfera de Fogo pode ser uma opção forte. Após usar Blink ou sua habilidade de área, ela pode imediatamente seguir com um Ataque Carregado para aumentar seu dano em rajada."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear a Esfera de Fogo?",
+        "a": "A Esfera de Fogo é um item Lendário desbloqueado ao atualizar Mortifier."
+      },
+      {
+        "q": "O que a Esfera de Fogo faz?",
+        "a": "A Esfera de Fogo fornece Vida, Armadura, Resistência Mágica, Velocidade de Movimento e empodera o próximo ataque básico após usar uma habilidade ativa."
+      },
+      {
+        "q": "Como o Ataque Carregado funciona?",
+        "a": "Após usar uma de suas duas habilidades ativas, seu próximo ataque básico causa Dano Mágico adicional."
+      },
+      {
+        "q": "A Esfera de Fogo funciona com a habilidade de ataque básico?",
+        "a": "Não. A Esfera de Fogo só aciona a partir das duas habilidades ativas do herói."
+      },
+      {
+        "q": "O que acontece se eu errar o Ataque Carregado?",
+        "a": "O dano bônus é desperdiçado e a carga é consumida."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Esfera de Fogo?",
+        "a": "Mortifier, Faerie, Spitfire e builds agressivas de Viverna estão entre os usuários mais fortes."
+      },
+      {
+        "q": "Devo atualizar a Esfera de Fogo cedo?",
+        "a": "Frequentemente sim. Heróis construídos em torno de combos de habilidades podem obter uma grande vantagem atualizando a Esfera de Fogo cedo."
+      }
+    ]
+  },
+  "DarkSphere": {
+    "description": "A Esfera Sombria é um item Místico disponível desde o início do jogo. O item fornece Vida, um pequeno bônus de Velocidade de Movimento em níveis de atualização mais altos, Redução de Velocidade de Ataque e Redução de Armadura Física. A Esfera Sombria é projetada para enfraquecer heróis inimigos em vez de simplesmente fortalecer o dono. Ao reduzir tanto a Velocidade de Ataque quanto a Armadura Física do inimigo, ela torna os alvos significativamente mais fáceis de matar, especialmente em lutas de equipe. Por causa de seus poderosos debuffs e fortes bônus de Vida, a Esfera Sombria é um dos melhores itens de utilidade para heróis que querem controlar lutas e desativar oponentes que atacam rapidamente.",
+    "whyUse": "A Esfera Sombria é particularmente eficaz contra heróis que dependem de alta Velocidade de Ataque. Sempre que o dono ataca um inimigo, a Velocidade de Ataque do inimigo é reduzida, a Armadura Física do inimigo é reduzida e heróis aliados causam mais dano físico a esse alvo. No nível máximo, a Redução de Velocidade de Ataque se torna significativa o suficiente para enfraquecer visivelmente heróis que dependem de ataques rápidos.",
+    "uniqueEffect": "A Esfera Sombria aplica dois debuffs ao acertar. A Redução de Velocidade de Ataque reduz a Velocidade de Ataque do alvo — no nível máximo isso chega a 25%, o que é muito perceptível contra heróis que dependem de atacar rapidamente. A Redução de Armadura Física também se aplica ao alvo, fazendo com que o dono e todos os aliados causem mais dano físico a esse inimigo.",
+    "strengths": [
+      "Fornece uma grande quantidade de Vida",
+      "Reduz a Velocidade de Ataque inimiga",
+      "Reduz a Armadura Física inimiga",
+      "Aumenta o dano da equipe contra alvos afetados",
+      "Forte contra heróis baseados em Velocidade de Ataque",
+      "Eficaz tanto no jogo individual quanto em equipe",
+      "Pode ser atualizado agressivamente no início da partida"
+    ],
+    "weaknesses": [
+      "Fornece menos dano direto do que itens ofensivos",
+      "Mais eficaz contra atacantes físicos",
+      "A Redução de Velocidade de Ataque tem menos impacto contra heróis focados em feitiços",
+      "Requer atacar inimigos para aplicar seus debuffs"
+    ],
+    "tips": [
+      "Concentre ataques em um único alvo para maximizar o valor dos debuffs.",
+      "A Esfera Sombria é mais forte em lutas de equipe onde os aliados podem aproveitar a redução de armadura.",
+      "A Redução de Velocidade de Ataque se torna mais impactante contra heróis que dependem de ataques rápidos.",
+      "A Vida bônus torna o dono significativamente mais difícil de matar.",
+      "Combine a Esfera Sombria com heróis de dano físico para máxima eficácia."
+    ],
+    "bestHeroes": {
+      "spiritmonger": "A Esfera Sombria funciona muito bem em Spiritmonger. A Vida bônus melhora sua sobrevivência, enquanto os debuffs a ajudam a lidar com heróis que normalmente sobrecarregam os oponentes através da Velocidade de Ataque.",
+      "druid": "Druid se beneficia muito da Esfera Sombria. Quando Druid aplica Redução de Armadura Física, tanto ele quanto seu companheiro causam dano aumentado ao alvo.",
+      "volcarn": "A Esfera Sombria é uma excelente escolha para Volcarn. Tanto Volcarn quanto sua ilusão se beneficiam de inimigos com Armadura Física reduzida."
+    },
+    "counterHeroes": {
+      "freezi": "Freezi depende fortemente de alta Velocidade de Ataque para maximizar seu dano. A Esfera Sombria reduz diretamente isso, diminuindo significativamente sua eficácia no combate.",
+      "spitfire": "Spitfire depende de ataques rápidos para causar dano consistente. A Redução de Velocidade de Ataque da Esfera Sombria enfraquece visivelmente sua pressão ofensiva."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear a Esfera Sombria?",
+        "a": "A Esfera Sombria é um item Místico e está disponível desde o início do jogo."
+      },
+      {
+        "q": "O que a Esfera Sombria faz?",
+        "a": "A Esfera Sombria fornece Vida, aplica Redução de Velocidade de Ataque e reduz a Armadura Física inimiga."
+      },
+      {
+        "q": "Quanto de Velocidade de Ataque a Esfera Sombria reduz?",
+        "a": "No nível máximo, a Esfera Sombria reduz a Velocidade de Ataque inimiga em até 25%."
+      },
+      {
+        "q": "A Esfera Sombria ajuda os aliados?",
+        "a": "Sim. A Redução de Armadura Física afeta o alvo, o que significa que os aliados também causam dano físico aumentado a esse inimigo."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Esfera Sombria?",
+        "a": "Spiritmonger, Druid e Volcarn estão entre os usuários mais fortes."
+      },
+      {
+        "q": "Quais heróis a Esfera Sombria contra?",
+        "a": "A Esfera Sombria é particularmente eficaz contra Freezi, Spitfire e outros heróis que dependem fortemente de Velocidade de Ataque."
+      },
+      {
+        "q": "Devo atualizar totalmente a Esfera Sombria cedo?",
+        "a": "Frequentemente sim. O item fornece Vida, utilidade e debuffs poderosos em todos os níveis de atualização, tornando-o um forte investimento no início do jogo."
+      }
+    ]
+  },
+  "WaterSphere": {
+    "description": "A Esfera de Água é um item Comum desbloqueado através do sistema de Bônus Diário. O item fornece uma grande quantidade de Armadura Física, Mana adicional, um pequeno bônus de Velocidade de Movimento e a capacidade de descobrir Runas de Clareza ao destruir arbustos. A Esfera de Água é principalmente um item de utilidade defensiva projetado para contrariar efeitos de controle de multidão, especialmente atordoamentos. Seu efeito único de runa pode remover automaticamente efeitos negativos e salvar heróis de situações que normalmente resultariam em morte. Por causa de suas poderosas mecânicas anti-controle, a Esfera de Água é um dos itens de utilidade defensiva mais fortes de Spelltroum.",
+    "whyUse": "A Esfera de Água é projetada para heróis que precisam de proteção contra atordoamentos, desacelerações, venenos, efeitos de redução de armadura e outros debuffs. O item fornece alta Armadura Física, um pool de Mana aumentado, um pequeno bônus de Velocidade de Movimento, acesso às Runas de Clareza e capacidade adicional de armazenamento de Runas de Clareza.",
+    "uniqueEffect": "Ao destruir arbustos, os heróis têm chance de descobrir uma Runa de Clareza. Quando coletada, a runa aparece como uma nova habilidade que pode ser ativada a qualquer momento. Uma Runa de Clareza remove todos os efeitos negativos do herói, incluindo atordoamentos, desacelerações, efeitos de veneno, Redução de Armadura Física, Redução de Armadura Mágica e outros debuffs. Um dos recursos mais importantes da Runa de Clareza é sua remoção automática de atordoamento — se o herói ficar atordoado enquanto carrega uma Runa de Clareza, a runa é ativada automaticamente, o atordoamento é imediatamente removido e o herói pode continuar se movendo e lutando.",
+    "strengths": [
+      "Fornece uma grande quantidade de Armadura Física",
+      "Aumenta o Pool de Mana",
+      "Concede Velocidade de Movimento",
+      "Gera Runas de Clareza",
+      "Remove todos os debuffs",
+      "Remove atordoamentos automaticamente",
+      "Pode armazenar múltiplas Runas de Clareza",
+      "Forte contador ao controle de multidão"
+    ],
+    "weaknesses": [
+      "Requer farm de arbustos para gerar Runas de Clareza",
+      "Não fornece aumento direto de dano",
+      "Menos eficaz contra equipes com pouco controle de multidão",
+      "Não aumenta a Regeneração de Mana",
+      "O valor total depende de obter e gerenciar as Runas de Clareza"
+    ],
+    "tips": [
+      "Guarde as Runas de Clareza sempre que possível.",
+      "As Runas de Clareza são ativadas automaticamente quando atordoado.",
+      "A Esfera de Água é mais forte contra equipes com muito controle de multidão.",
+      "O Pool de Mana adicional beneficia muitos conjuradores.",
+      "Carregar duas Runas de Clareza pode melhorar dramaticamente a sobrevivência.",
+      "A Armadura Física ajuda a reduzir o dano físico recebido durante toda a partida."
+    ],
+    "bestHeroes": {
+      "flameweaver": "Flameweaver é um dos usuários mais fortes da Esfera de Água. O Pool de Mana adicional aumenta diretamente a eficácia de suas habilidades, enquanto as Runas de Clareza o protegem de ser travado por atordoamentos.",
+      "viverna": "A Esfera de Água é excelente em Viverna. Ela depende de mobilidade e posicionamento, frequentemente usando Blink para se engajar ou escapar. As Runas de Clareza a protegem de atordoamentos que normalmente impediriam sua fuga.",
+      "faerie": "Faerie se beneficia muito da Esfera de Água. Como maga móvel, ela frequentemente precisa se reposicionar durante as lutas. O Pool de Mana adicional, a Velocidade de Movimento e a remoção automática de atordoamento complementam seu estilo de jogo de bater e correr.",
+      "mortifier": "A Esfera de Água pode ser surpreendentemente eficaz em Mortifier. Combinada com a Esfera de Fogo, cria uma configuração equilibrada que fornece Mana adicional, utilidade defensiva, proteção contra controle de multidão e Velocidade de Movimento extra."
+    },
+    "counterHeroes": {
+      "freezi": "Death Slayer depende tanto de dano físico quanto de controle de multidão. A Esfera de Água fornece Armadura Física para reduzir o dano recebido enquanto também remove automaticamente seu atordoamento."
+    },
+    "faq": [
+      {
+        "q": "Como desbloquear a Esfera de Água?",
+        "a": "A Esfera de Água é um item Comum desbloqueado através do sistema de Bônus Diário."
+      },
+      {
+        "q": "O que a Esfera de Água faz?",
+        "a": "A Esfera de Água fornece Armadura Física, Mana, Velocidade de Movimento e permite que os heróis descubram Runas de Clareza ao destruir arbustos."
+      },
+      {
+        "q": "O que uma Runa de Clareza faz?",
+        "a": "Uma Runa de Clareza remove todos os efeitos negativos do herói, incluindo atordoamentos, desacelerações, venenos e efeitos de redução de armadura."
+      },
+      {
+        "q": "A Runa de Clareza remove atordoamentos automaticamente?",
+        "a": "Sim. Se um herói carregando uma Runa de Clareza ficar atordoado, a runa é ativada automaticamente e remove o atordoamento."
+      },
+      {
+        "q": "A Esfera de Água pode contra o Martelo Atordoante?",
+        "a": "Sim. A Esfera de Água é um dos melhores contadores ao Martelo Atordoante porque a Runa de Clareza remove automaticamente o efeito de atordoamento."
+      },
+      {
+        "q": "Quais heróis se beneficiam mais da Esfera de Água?",
+        "a": "Flameweaver, Viverna, Faerie e Mortifier estão entre os usuários mais fortes."
+      },
+      {
+        "q": "Posso carregar mais de uma Runa de Clareza?",
+        "a": "Sim. A Esfera de Água permite que os heróis armazenem uma carga adicional de Runa de Clareza, permitindo carregar até duas runas de uma vez."
+      },
+      {
+        "q": "A Esfera de Água é boa contra Death Slayer?",
+        "a": "Sim. Fornece Armadura Física para reduzir seu dano e as Runas de Clareza podem remover automaticamente seu atordoamento."
+      }
+    ]
+  }
+}

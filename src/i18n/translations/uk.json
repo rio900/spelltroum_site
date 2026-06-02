@@ -48,7 +48,10 @@
     "roleSummoner": "Заклинач",
     "roleAssassin": "Асасин",
     "otherHeroes": "Інші герої",
-    "legendaryItem": "Легендарний предмет"
+    "legendaryItem": "Легендарний предмет",
+    "metaTitle": "{name} — Гайд героя",
+    "metaDescription": "Дізнайся про {name} у Spelltroum — вміння, кращі білди, сильні та слабкі сторони, поради.",
+    "metaGuide": "Гайд героя"
   },
   "faq": {
     "title": "FAQ",

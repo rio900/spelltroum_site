@@ -1,0 +1,47 @@
+{
+  "game-mechanics": {
+    "title": "Mecânicas de Spelltroum — Guia Completo",
+    "description": "Aprenda como o Spelltroum funciona: fluxo de partidas, coroas, ouro, itens, melhorias de habilidades, criaturas neutras, combates contra chefes e estratégias vencedoras neste rápido jogo mobile multijogador.",
+    "category": "Guias",
+    "sections": [
+      { "type": "h2", "content": "Como funciona uma partida no Spelltroum" },
+      { "type": "p", "content": "Spelltroum é um rápido jogo mobile multijogador onde cada partida dura cerca de 2 a 3 minutos. O modo de jogo principal é o 2v2, onde você forma equipe com um amigo ou outro jogador para competir contra uma equipe adversária. O jogo também inclui um modo Free-for-All solo e conteúdo PvE para jogadores que apreciam desafios cooperativos." },
+      { "type": "p", "content": "Cada partida acontece em uma arena de batalha em grade cheia de arbustos destrutíveis, paredes de pedra indestrutíveis, criaturas neutras, tesouros e objetivos. O objetivo é simples: coletar mais Coroas do que a equipe adversária e atingir o alvo de vitória antes deles. Embora o objetivo seja fácil de entender, há muitas maneiras diferentes de alcançá-lo — alguns jogadores se concentram em lutar contra heróis inimigos e roubar suas Coroas, enquanto outros evitam o combate, farmam eficientemente e vencem através de controle de mapa superior." },
+      { "type": "image", "src": "/articles/game-mechanics/roundpreviw.jpg", "alt": "Prévia do mapa da arena Spelltroum antes do início da partida", "caption": "A tela de visão geral do mapa permite que você planeje sua estratégia antes que a batalha comece." },
+      { "type": "h2", "content": "Antes da partida" },
+      { "type": "p", "content": "Antes de entrar na batalha, os jogadores preparam seus builds de herói. Cada build contém 4 slots de itens — os três primeiros podem conter qualquer item disponível, e o quarto slot pode conter um item regular ou um item Lendário. Itens Lendários são opcionais e são projetados para desbloquear mecânicas únicas e estilos de jogo alternativos, em vez de fornecer vantagens de poder diretas." },
+      { "type": "p", "content": "Antes do início da partida, os jogadores podem criar múltiplos builds para o mesmo herói. Uma vez que os oponentes são revelados, os jogadores podem selecionar o build que melhor se adapta ao confronto — permitindo adaptação estratégica completa antes que a batalha comece." },
+      { "type": "image", "src": "/articles/game-mechanics/beginingmatchselectitembuild.jpg", "alt": "Tela de seleção de build de itens do Spelltroum no início da partida", "caption": "Selecione ou troque seu build de itens assim que ver a equipe adversária — o counter-building é uma parte central da estratégia do Spelltroum." },
+      { "type": "h2", "content": "O campo de batalha" },
+      { "type": "p", "content": "Cada arena contém arbustos destrutíveis, paredes de pedra indestrutíveis, criaturas neutras, moedas, coroas e runas. Os arbustos são um dos elementos mais importantes do jogo — destruí-los pode revelar moedas, coroas, poções, runas e bônus especiais. Como os arbustos contêm recursos valiosos, o farm eficiente é uma grande parte de vencer." },
+      { "type": "h2", "content": "Moedas e ouro" },
+      { "type": "p", "content": "O ouro é o recurso primário durante uma partida. Os jogadores ganham ouro coletando moedas, destruindo arbustos, derrotando inimigos e usando certos efeitos de itens. O ouro é usado para comprar e melhorar itens durante a partida. À medida que o jogo avança, os jogadores decidem continuamente se investem em dano, saúde, mobilidade, eficiência de farm, utilidade ou efeitos de suporte." },
+      { "type": "image", "src": "/articles/game-mechanics/gameplay1.jpg", "alt": "Loja do Spelltroum aberta durante uma partida — comprando o primeiro item", "caption": "Assim que você coleta ouro suficiente, a loja abre automaticamente para que você possa comprar seu primeiro item sem sair da ação." },
+      { "type": "h2", "content": "Criaturas neutras e melhorias de habilidades" },
+      { "type": "p", "content": "Criaturas neutras aparecem periodicamente no mapa. Derrotá-las solta Pergaminhos, que fornecem experiência usada para melhorar habilidades. Cada herói tem três habilidades: Ataque Básico, Habilidade de Utilidade e Habilidade de Combate. Até o Ataque Básico é uma habilidade que pode ser melhorada. Os jogadores devem decidir quais habilidades priorizar — algumas melhorias aprimoram o farm, algumas a mobilidade e outras a eficácia em combate." },
+      { "type": "h2", "content": "Coroas: o objetivo principal" },
+      { "type": "p", "content": "Coroas são o recurso mais importante no Spelltroum. A primeira equipe a atingir o alvo de Coroas vence imediatamente. Coroas podem ser obtidas destruindo arbustos, derrotando heróis inimigos, completando objetivos e derrotando chefes. Quando um herói é derrotado, aproximadamente 30% de suas Coroas carregadas são largadas — criando uma tensão estratégica chave: focar em coletar Coroas, ou caçar jogadores carregando grandes quantidades?" },
+      { "type": "image", "src": "/articles/game-mechanics/gameplay2.jpg", "alt": "Gameplay do Spelltroum — coroas e moedas no mapa da arena", "caption": "Coroas e moedas estão espalhadas pelo mapa. Farmar eficientemente enquanto permanece vivo é a chave para a vitória." },
+      { "type": "h2", "content": "Rodadas e fluxo da partida" },
+      { "type": "p", "content": "Uma partida é dividida em rodadas curtas, cada uma com duração de aproximadamente um minuto. No início de cada rodada, os arbustos reaparecem, os recursos são redistribuídos e novas oportunidades aparecem no mapa. Isso mantém as partidas dinâmicas e evita que os jogos sejam previsíveis — os jogadores devem se adaptar constantemente a situações em mudança." },
+      { "type": "h2", "content": "Encontros com chefes" },
+      { "type": "p", "content": "Muitos mapas classificados apresentam um poderoso Chefe durante a rodada final. Derrotar o Chefe recompensa com um grande bônus de Coroas. Como o Chefe vale tantas Coroas, muitas vezes se torna o centro das atenções no final do jogo. No entanto, derrotar o Chefe nem sempre é a estratégia correta — às vezes é mais eficaz deixar outra equipe engajar o Chefe e então roubar o objetivo, ou derrotar a equipe inimiga enfraquecida depois que ela já comprometeu recursos." },
+      { "type": "h2", "content": "Heróis e sinergia de equipe" },
+      { "type": "p", "content": "Spelltroum apresenta um elenco crescente de heróis únicos, cada um com seus próprios pontos fortes, pontos fracos e estilos de jogo. A maioria dos heróis é projetada em torno de uma ferramenta de mobilidade, uma habilidade ofensiva e uma mecânica de herói única. Como o modo principal é 2v2, as combinações de heróis importam — uma equipe bem coordenada pode criar sinergias poderosas impossíveis de alcançar sozinho." },
+      { "type": "h2", "content": "Filosofia de equilíbrio" },
+      { "type": "p", "content": "Spelltroum é projetado em torno de escolhas significativas em vez de obrigatórias. Diferentes itens suportam diferentes estratégias, estilos de jogo e situações. Um build focado em dano ajuda um herói a farmar mais rápido e eliminar oponentes mais rapidamente. Um build defensivo torna esse mesmo herói significativamente mais difícil de matar. Nenhuma escolha é automaticamente melhor." },
+      { "type": "p", "content": "O Time-to-Kill é um dos princípios fundamentais usados no balanceamento do jogo. O objetivo não é criar lutas de eliminação instantânea — é criar um combate onde posicionamento, movimento, timing, tomada de decisão e trabalho em equipe importem. Itens Lendários não são destinados a ser mais fortes do que itens regulares. Eles desbloqueiam novas mecânicas, estratégias alternativas e estilos de jogo únicos específicos do herói." },
+      { "type": "h2", "content": "Perguntas frequentes" },
+      { "type": "faq", "faqItems": [
+        { "q": "Quanto tempo dura uma partida do Spelltroum?", "a": "A maioria das partidas dura entre 2 e 3 minutos." },
+        { "q": "Qual é o modo de jogo principal?", "a": "O modo de jogo principal é o multijogador 2v2, embora os modos Free-for-All solo e PvE também estejam disponíveis." },
+        { "q": "Qual é o objetivo de uma partida?", "a": "Coletar Coroas suficientes para atingir o alvo de vitória antes da equipe adversária." },
+        { "q": "O que acontece quando um herói morre?", "a": "Aproximadamente 30% de suas Coroas coletadas são largadas e podem ser recolhidas por outros jogadores." },
+        { "q": "Por que os arbustos são importantes?", "a": "Os arbustos contêm recursos valiosos como Moedas, Coroas, Poções, Runas e outros bônus." },
+        { "q": "Preciso lutar contra jogadores inimigos para vencer?", "a": "Nem sempre. Alguns jogadores vencem através de combate agressivo, enquanto outros se concentram em farm eficiente e controle de objetivos." },
+        { "q": "Itens Lendários são mais fortes do que itens regulares?", "a": "Não. Itens Lendários desbloqueiam mecânicas únicas e estilos de jogo alternativos em vez de fornecer vantagens de poder diretas." },
+        { "q": "Existe um único melhor build no Spelltroum?", "a": "Não. Diferentes situações, companheiros de equipe, inimigos e mapas requerem diferentes estratégias e combinações de itens." }
+      ]}
+    ]
+  }
+}
