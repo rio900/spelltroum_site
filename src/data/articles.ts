@@ -1,0 +1,197 @@
+export interface ArticleSection {
+  type: 'h2' | 'h3' | 'p' | 'ul' | 'image' | 'faq';
+  content?: string;
+  items?: string[];
+  src?: string;
+  alt?: string;
+  caption?: string;
+  faqItems?: { q: string; a: string }[];
+}
+
+export interface Article {
+  slug: string;
+  title: string;
+  description: string;         // meta description
+  keywords: string[];
+  publishedAt: string;         // ISO date
+  updatedAt?: string;
+  category: string;
+  readingTimeMin: number;
+  sections: ArticleSection[];
+}
+
+export const articles: Article[] = [
+  {
+    slug: 'game-mechanics',
+    title: 'Spelltroum Game Mechanics — Complete Guide',
+    description:
+      'Learn how Spelltroum works: match flow, crowns, gold, items, ability upgrades, neutral creatures, boss fights, and winning strategies in this fast-paced mobile multiplayer game.',
+    keywords: [
+      'Spelltroum game mechanics',
+      'Spelltroum how to play',
+      'Spelltroum match guide',
+      'Spelltroum crowns',
+      'Spelltroum items guide',
+      'Spelltroum gold farming',
+      'Spelltroum boss fight',
+      'mobile MOBA guide',
+      'Spelltroum beginner guide',
+      'Spelltroum 2v2',
+    ],
+    publishedAt: '2025-06-01',
+    category: 'Guides',
+    readingTimeMin: 8,
+    sections: [
+      {
+        type: 'h2',
+        content: 'How a Match Works in Spelltroum',
+      },
+      {
+        type: 'p',
+        content:
+          'Spelltroum is a fast-paced multiplayer mobile game where every match lasts around 2–3 minutes. The main game mode is 2v2, where you team up with a friend or another player to compete against an opposing team. The game also includes a solo Free-for-All mode and PvE content for players who enjoy cooperative challenges.',
+      },
+      {
+        type: 'p',
+        content:
+          'Every match takes place in a grid-based battle arena filled with destructible bushes, indestructible stone walls, neutral creatures, treasures, and objectives. The goal is simple: collect more Crowns than the opposing team and reach the victory target before they do. While the objective is easy to understand, there are many different ways to achieve it — some players focus on fighting enemy heroes and stealing their Crowns, while others avoid combat, farm efficiently, and win through superior map control.',
+      },
+      {
+        type: 'image',
+        src: '/articles/game-mechanics/roundpreviw.jpg',
+        alt: 'Spelltroum arena map preview before match start',
+        caption: 'The map overview screen lets you plan your strategy before the battle begins.',
+      },
+      {
+        type: 'h2',
+        content: 'Before the Match',
+      },
+      {
+        type: 'p',
+        content:
+          'Before entering battle, players prepare their hero builds. Each build contains 4 item slots — the first three can hold any available items, and the fourth slot may contain either a regular item or a Legendary item. Legendary items are optional and are designed to unlock unique mechanics and alternative playstyles rather than provide direct power advantages.',
+      },
+      {
+        type: 'p',
+        content:
+          'Before the match starts, players can create multiple builds for the same hero. Once opponents are revealed, players can select the build that best fits the matchup — allowing full strategic adaptation before the battle begins.',
+      },
+      {
+        type: 'image',
+        src: '/articles/game-mechanics/beginingmatchselectitembuild.jpg',
+        alt: 'Spelltroum item build selection screen at match start',
+        caption: 'Select or swap your item build once you see the opposing team — counter-building is a core part of Spelltroum strategy.',
+      },
+      {
+        type: 'h2',
+        content: 'The Battlefield',
+      },
+      {
+        type: 'p',
+        content:
+          'Each arena contains destructible bushes, indestructible stone walls, neutral creatures, coins, crowns, and runes. Bushes are one of the most important elements of the game — destroying them can reveal coins, crowns, potions, runes, and special bonuses. Because bushes contain valuable resources, efficient farming is a major part of winning.',
+      },
+      {
+        type: 'h2',
+        content: 'Coins and Gold',
+      },
+      {
+        type: 'p',
+        content:
+          'Gold is the primary resource during a match. Players earn gold by collecting coins, destroying bushes, defeating enemies, and using certain item effects. Gold is used to purchase and upgrade items throughout the match. As the game progresses, players continuously decide whether to invest in damage, health, mobility, farming efficiency, utility, or support effects.',
+      },
+      {
+        type: 'image',
+        src: '/articles/game-mechanics/gameplay1.jpg',
+        alt: 'Spelltroum shop open during a match — buying first item',
+        caption: 'Once you collect enough gold, the shop opens automatically so you can purchase your first item without leaving the action.',
+      },
+      {
+        type: 'h2',
+        content: 'Neutral Creatures and Ability Upgrades',
+      },
+      {
+        type: 'p',
+        content:
+          'Neutral creatures periodically appear on the map. Defeating them drops Scrolls, which provide experience used to upgrade abilities. Every hero has three abilities: Basic Attack, Utility Ability, and Combat Ability. Even the Basic Attack is an ability that can be upgraded. Players must decide which abilities to prioritize — some upgrades improve farming, some improve mobility, and others improve combat effectiveness.',
+      },
+      {
+        type: 'h2',
+        content: 'Crowns: The Main Objective',
+      },
+      {
+        type: 'p',
+        content:
+          'Crowns are the most important resource in Spelltroum. The first team to reach the Crown target wins immediately. Crowns can be obtained by destroying bushes, defeating enemy heroes, completing objectives, and defeating bosses. When a hero is defeated, approximately 30% of their carried Crowns are dropped — creating a key strategic tension: focus on collecting Crowns, or hunt players carrying large amounts?',
+      },
+      {
+        type: 'image',
+        src: '/articles/game-mechanics/gameplay2.jpg',
+        alt: 'Spelltroum gameplay — crowns and coins on the arena map',
+        caption: 'Crowns and coins are scattered across the map. Farming efficiently while staying alive is the key to victory.',
+      },
+      {
+        type: 'h2',
+        content: 'Rounds and Match Flow',
+      },
+      {
+        type: 'p',
+        content:
+          'A match is divided into short rounds, each lasting approximately one minute. At the start of every round, bushes respawn, resources are redistributed, and new opportunities appear on the map. This keeps matches dynamic and prevents games from becoming predictable — players must constantly adapt to changing situations.',
+      },
+      {
+        type: 'h2',
+        content: 'Boss Encounters',
+      },
+      {
+        type: 'p',
+        content:
+          'Many ranked maps feature a powerful Boss during the final round. Defeating the Boss rewards a large Crown bonus. Because the Boss is worth so many Crowns, it often becomes the center of attention during the late game. However, defeating the Boss is not always the correct strategy — sometimes it is more effective to let another team engage the Boss and then steal the objective, or defeat the weakened enemy team after they have already committed resources.',
+      },
+      {
+        type: 'h2',
+        content: 'Heroes and Team Synergy',
+      },
+      {
+        type: 'p',
+        content:
+          'Spelltroum features a growing roster of unique heroes, each with their own strengths, weaknesses, and playstyles. Most heroes are designed around a mobility tool, an offensive ability, and a unique hero mechanic. Because the primary mode is 2v2, hero combinations matter — a well-coordinated team can create powerful synergies that are impossible to achieve alone.',
+      },
+      {
+        type: 'h2',
+        content: 'Balance Philosophy',
+      },
+      {
+        type: 'p',
+        content:
+          'Spelltroum is designed around meaningful choices rather than mandatory ones. Different items support different strategies, playstyles, and situations. A damage-focused build helps a hero farm faster and eliminate opponents more quickly. A defensive build makes that same hero significantly harder to kill. Neither choice is automatically better.',
+      },
+      {
+        type: 'p',
+        content:
+          'Time-to-Kill is one of the core principles used when balancing the game. The goal is not to create instant one-shot fights — it is to create combat where positioning, movement, timing, decision-making, and teamwork matter. Legendary items are not intended to be stronger than regular items. They unlock new mechanics, alternative strategies, and unique hero-specific playstyles.',
+      },
+      {
+        type: 'h2',
+        content: 'Frequently Asked Questions',
+      },
+      {
+        type: 'faq',
+        faqItems: [
+          { q: 'How long does a Spelltroum match last?', a: 'Most matches last between 2 and 3 minutes.' },
+          { q: 'What is the main game mode?', a: 'The primary game mode is 2v2 multiplayer, though solo Free-for-All and PvE modes are also available.' },
+          { q: 'What is the objective of a match?', a: 'Collect enough Crowns to reach the victory target before the opposing team.' },
+          { q: 'What happens when a hero dies?', a: 'Approximately 30% of their collected Crowns are dropped and can be picked up by other players.' },
+          { q: 'Why are bushes important?', a: 'Bushes contain valuable resources such as Coins, Crowns, Potions, Runes, and other bonuses.' },
+          { q: 'Do I need to fight enemy players to win?', a: 'Not always. Some players win through aggressive combat, while others focus on efficient farming and objective control.' },
+          { q: 'Are Legendary items stronger than regular items?', a: 'No. Legendary items unlock unique mechanics and alternative playstyles rather than providing direct power advantages.' },
+          { q: 'Is there a single best build in Spelltroum?', a: 'No. Different situations, teammates, enemies, and maps require different strategies and item combinations.' },
+        ],
+      },
+    ],
+  },
+];
+
+export function getArticleBySlug(slug: string): Article | undefined {
+  return articles.find((a) => a.slug === slug);
+}

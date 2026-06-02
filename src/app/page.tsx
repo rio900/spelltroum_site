@@ -1,12 +1,15 @@
-import CustomButton from "@/components/custom/CustomButton";
 import ItemSetSection from "@/components/pages-components/item-set/item-set";
 import MainPageSection from "@/components/pages-components/main-page/main-page";
 import TeamUpSection from "@/components/pages-components/team-up/team-up";
 import VideoSection from "@/components/pages-components/video-section/video-section";
+import Navbar from "@/components/layout/Navbar";
 
 export default function Home() {
+  const navT = { wiki: 'Wiki', faq: 'FAQ', articles: 'Articles', play: 'Play' };
+
   return (
     <div className="grid min-h-screen">
+      <Navbar lang="en" t={navT} />
       <main className="flex flex-col justify-center">
         <MainPageSection />
         <TeamUpSection />

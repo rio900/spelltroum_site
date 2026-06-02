@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "FAQ – Spelltroum | Kostenloses mobiles MOBA-Spiel",
+    "description": "Antworten auf häufige Fragen zu Spelltroum — ein kostenloses mobiles Multiplayer-Actionspiel mit 2–3 Minuten Matches, Helden-Progression und Gegenstand-Builds.",
+    "ogTitle": "FAQ – Spelltroum",
+    "ogDescription": "Alles, was du über Spelltroum wissen musst — Helden, Gegenstände, Monetarisierung und wie du anfängst."
+  },
+  "heading": "Häufig gestellte Fragen",
+  "subheading": "Alles, was du über Spelltroum wissen musst — ein kostenloses mobiles Multiplayer-Spiel mit 2–3 Minuten Matches, Helden-Progression und kompetitivem Gameplay. Alle Helden können kostenlos freigeschaltet werden, einfach durch Spielen.",
+  "ctaText": "Noch Fragen? Tritt unserer Community bei!",
+  "ctaButton": "Discord beitreten",
+  "sections": [
+    {
+      "heading": "Über Spelltroum",
+      "items": [
+        {
+          "q": "Was ist Spelltroum?",
+          "a": "Spelltroum ist ein mobiles Multiplayer-Actionspiel, das Helden-Progression, Gegenstand-Builds, schnellen Kampf und teambasierte Strategie in Matches verbindet, die nur 2–3 Minuten dauern — kurz genug für unterwegs, tief genug, um immer wiederzukommen. Spieler schalten Helden frei, entdecken Gegenstandskombinationen, spielen mit Freunden und treten in schnellen Kämpfen an, die Können und kluge Entscheidungen belohnen."
+        },
+        {
+          "q": "Was hat Spelltroum inspiriert?",
+          "a": "Spelltroum schöpft aus den besten Elementen des MOBA-Genres — Helden-Progression, Ressourcen-Farming, Gegenstand-Builds und Teamkoordination — und liefert sie in einem mobilfreundlichen Format mit 2–3 Minuten Matches. Statt 30-minütiger Sessions erlebst du die Aufregung, einen Helden zu bauen, Gegenstände auszuwählen und Gegner in schnellen, actionreichen Runden auszuspielen."
+        },
+        {
+          "q": "Wie läuft ein Match ab?",
+          "a": "Ein typisches Spelltroum-Match dauert nur 2–3 Minuten. Während eines Matches farmen Spieler Büsche und Ressourcen, verdienen Gold, verbessern Fähigkeiten, kaufen Gegenstände, kämpfen gegen Gegner und streben nach dem Sieg. Jedes Match ist ein vollständiges Erlebnis — schnell, kompetitiv und lohnend."
+        },
+        {
+          "q": "Was unterscheidet Spelltroum von anderen Handyspielen?",
+          "a": "Spelltroum wurde von einem Solo-Entwickler erstellt, der die Fairness und Tiefe des kompetitiven Multiplayer-Gamings auf Mobilgeräte bringen wollte — ohne Pay-to-Win-Mechaniken, Fortschrittswände oder 30-Minuten-Zeitverpflichtungen. Du kannst in ein Match springen, mit Helden und Gegenständen experimentieren, mit Freunden spielen und in wenigen Minuten auf Augenhöhe konkurrieren."
+        },
+        {
+          "q": "Kann ich mit Freunden spielen?",
+          "a": "Ja! Du kannst dich mit einem Freund zusammenschließen und Fähigkeiten für mächtige Kombos kombinieren. Ob alleine oder als Duo — jedes Match ist auf Schnelligkeit, Wettbewerb und Spaß ausgelegt."
+        }
+      ]
+    },
+    {
+      "heading": "Helden & Freischaltungen",
+      "items": [
+        {
+          "q": "Wie viele Helden gibt es in Spelltroum?",
+          "a": "Derzeit gibt es 13 Helden, jeder mit einzigartigen Fähigkeiten und Spielstilen: Spitfire, Viverna, Death Slayer, Druid, Freezi, Flameweaver, Shadow Fury, Spiritmonger, Mortifier, Grizzly, Faerie, Volcarn und Stonewarden."
+        },
+        {
+          "q": "Kann ich alle Helden kostenlos freischalten?",
+          "a": "Ja. Jeder Held kann einfach durch Spielen freigeschaltet werden. Die meisten Spieler können jeden gewünschten Helden innerhalb weniger Tage normalen Spielens freischalten."
+        },
+        {
+          "q": "Warum müssen Helden und Gegenstände freigeschaltet werden?",
+          "a": "Freischaltungen schaffen ein Gefühl von Fortschritt und Entdeckung. Beim Spielen schaltest du nach und nach neue Helden, neue legendäre Gegenstände, neue Strategien und neue Spielstile frei. In Spelltroum geht es beim Freischalten nicht darum, stärker als alle anderen zu werden — es geht darum, deine Optionen zu erweitern und neue Spielweisen zu entdecken."
+        },
+        {
+          "q": "Sind Legendäre Helden stärker als andere Helden?",
+          "a": "Nein. Legendäre Helden bieten andere Spielstile, keine höheren Kraftniveaus. Jeder Held kann in den richtigen Händen effektiv sein."
+        },
+        {
+          "q": "Welche verschiedenen Helden-Seltenheiten gibt es?",
+          "a": "Helden gibt es in vier Seltenheiten: Gewöhnlich, Ungewöhnlich, Selten und Legendär. Helden höherer Seltenheit bieten typischerweise komplexere oder einzigartigere Fähigkeiten und Spielstile."
+        }
+      ]
+    },
+    {
+      "heading": "Gegenstände & Progression",
+      "items": [
+        {
+          "q": "Sind Legendäre Gegenstände stärker als andere Gegenstände?",
+          "a": "Nein. Legendäre Gegenstände schalten einzigartige Strategien und Gameplay-Optionen frei, anstatt direkte Stärkevorteile zu bieten. Sie ermöglichen andere Builds, andere Taktiken und andere Spielweisen mit deinen Lieblingshelden."
+        },
+        {
+          "q": "Wofür werden Hämmer verwendet?",
+          "a": "Hämmer werden zum Verbessern von Helden verwendet und verbessern deren Werte und Fähigkeiten. Du kannst Hämmer in Türen (Truhen) finden."
+        },
+        {
+          "q": "Was ist der Super-Zauber?",
+          "a": "Jeder Held hat einen einzigartigen passiven Super-Zauber, der unter bestimmten Bedingungen aktiviert wird und dem Gameplay eine strategische Ebene hinzufügt. Zum Beispiel verliert Spiritmonger nach Erreichen von Stufe 10 keine Seelen mehr."
+        }
+      ]
+    },
+    {
+      "heading": "Fairplay & Monetarisierung",
+      "items": [
+        {
+          "q": "Ist Spelltroum Pay-to-Win?",
+          "a": "Nein. Spelltroum ist absichtlich so gestaltet, dass Pay-to-Win-Mechaniken vermieden werden. Helden-Upgrades bieten Progression und Anpassung, sind aber nicht darauf ausgelegt, überwältigende Kraftunterschiede zu erzeugen. Ein geschickter Spieler mit einem neu freigeschalteten Helden kann durchaus einen Spieler mit einem vollständig upgegradeten Helden besiegen. Können, Teamarbeit, Positionierung und Entscheidungsfindung sind weit wichtiger als Progressionsstufen."
+        },
+        {
+          "q": "Muss ich Geld ausgeben, um konkurrenzfähig zu sein?",
+          "a": "Nein. Spelltroum ist so gestaltet, dass Geldausgaben optional und nicht erforderlich sind, um wettbewerbsfähig zu sein. Unser Ziel ist, dass Spieler das Spiel unterstützen, weil sie es genießen — nicht weil sie sich dazu gezwungen fühlen."
+        },
+        {
+          "q": "Wie verdient Spelltroum Geld?",
+          "a": "Die primäre Monetarisierung von Spelltroum sind kosmetische Inhalte — Helden-Skins, kosmetische Anpassungen und visuelle Upgrades. Diese Käufe bieten keine Gameplay-Vorteile. Wir glauben, dass Spieler gewinnen sollten, weil sie besser gespielt haben, nicht weil sie mehr Geld ausgegeben haben."
+        },
+        {
+          "q": "Wofür sollte ich Geld ausgeben, wenn ich das Spiel unterstützen möchte?",
+          "a": "In erster Linie für kosmetische Inhalte wie Skins und visuelle Anpassungsoptionen. Jeder Kauf fließt direkt in die weitere Entwicklung des Spiels."
+        },
+        {
+          "q": "Kann ein neuer Spieler einen erfahrenen Spieler besiegen?",
+          "a": "Absolut. Können, Teamarbeit, Positionierung und Entscheidungsfindung haben einen viel größeren Einfluss auf Match-Ergebnisse als Progression. Während engagierte Wettkampfspieler eventuell vollständig upgegradete Helden für maximale Optimierung wollen, sind Upgrades darauf ausgelegt, relativ kleine Vorteile zu bieten, anstatt den Ausgang eines Matches zu bestimmen."
+        }
+      ]
+    }
+  ]
+}

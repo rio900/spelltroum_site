@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "FAQ – Spelltroum | Free-to-Play Mobile MOBA Game",
+    "description": "Answers to common questions about Spelltroum — a free-to-play multiplayer mobile action game with 2–3 minute matches, hero progression, and item builds. Learn about heroes, items, unlocks, and fair play.",
+    "ogTitle": "FAQ – Spelltroum",
+    "ogDescription": "Everything you need to know about Spelltroum — heroes, items, monetization, and how to get started."
+  },
+  "heading": "Frequently Asked Questions",
+  "subheading": "Everything you need to know about Spelltroum — a free-to-play multiplayer mobile game with 2–3 minute matches, hero progression, and competitive gameplay. All heroes are unlockable for free, simply by playing.",
+  "ctaText": "Still have questions? Join our community!",
+  "ctaButton": "Join Discord",
+  "sections": [
+    {
+      "heading": "About Spelltroum",
+      "items": [
+        {
+          "q": "What is Spelltroum?",
+          "a": "Spelltroum is a multiplayer mobile action game that combines hero progression, item builds, fast-paced combat, and team-based strategy into matches that last just 2–3 minutes — short enough to play anywhere, deep enough to keep you coming back. Players unlock heroes, discover item combinations, team up with friends, and compete in quick battles that reward skill and smart decisions over grinding or spending."
+        },
+        {
+          "q": "What inspired Spelltroum?",
+          "a": "Spelltroum draws from the best elements of the MOBA genre — hero progression, resource farming, item builds, and team coordination — and delivers them in a mobile-first format built around 2–3 minute matches. Instead of committing to 30-minute sessions, you get the excitement of building a hero, choosing items, and outplaying opponents in fast, action-packed rounds that fit into any schedule."
+        },
+        {
+          "q": "What is a match like?",
+          "a": "A typical Spelltroum match lasts just 2–3 minutes. During a match, players farm bushes and resources, earn gold, upgrade abilities, purchase items, fight opponents, and compete for victory. Every match is a complete experience — fast, competitive, and rewarding."
+        },
+        {
+          "q": "What makes Spelltroum different from other mobile games?",
+          "a": "Spelltroum was created by a solo developer who wanted to bring the fairness and depth of competitive multiplayer gaming to mobile — without the pay-to-win mechanics, progression walls, or 30-minute time commitments that define most mobile games. You can jump into a match, experiment with heroes and items, play with friends, and compete on equal footing in just a few minutes."
+        },
+        {
+          "q": "Can I play with friends?",
+          "a": "Yes! You can team up with a friend and combine abilities for powerful combos. Whether you are playing solo or as a duo, every match is designed to be fast, competitive, and fun."
+        }
+      ]
+    },
+    {
+      "heading": "Heroes & Unlocks",
+      "items": [
+        {
+          "q": "How many heroes are in Spelltroum?",
+          "a": "There are currently 13 heroes, each with unique abilities and playstyles: Spitfire, Viverna, Death Slayer, Druid, Freezi, Flameweaver, Shadow Fury, Spiritmonger, Mortifier, Grizzly, Faerie, Volcarn, and Stonewarden."
+        },
+        {
+          "q": "Can I unlock all heroes for free?",
+          "a": "Yes. Every hero can be unlocked simply by playing the game. Most players can unlock any hero they want within a couple of days of regular play."
+        },
+        {
+          "q": "Why do heroes and items need to be unlocked?",
+          "a": "Unlocks exist to create a sense of progression and discovery. As you play, you will gradually unlock new heroes, new legendary items, new strategies, and new playstyles. Unlocking something in Spelltroum is not about becoming stronger than everyone else — it is about expanding your options and discovering new ways to play."
+        },
+        {
+          "q": "Are Legendary heroes stronger than other heroes?",
+          "a": "No. Legendary heroes are designed to offer different playstyles, not higher power levels. Every hero can be effective in the right hands."
+        },
+        {
+          "q": "What are the different hero rarities?",
+          "a": "Heroes come in four rarities: Common, Uncommon, Rare, and Legendary. Higher rarity heroes typically offer more complex or unique abilities and playstyles."
+        }
+      ]
+    },
+    {
+      "heading": "Items & Progression",
+      "items": [
+        {
+          "q": "Are Legendary items stronger than other items?",
+          "a": "No. Legendary items unlock unique strategies and gameplay options rather than providing direct power advantages. They enable different builds, different tactics, and different ways to play your favorite heroes."
+        },
+        {
+          "q": "What are Hammers used for?",
+          "a": "Hammers are used to upgrade heroes, improving their stats and abilities. You can find hammers inside Doors (chests)."
+        },
+        {
+          "q": "What is the Super Spell?",
+          "a": "Each hero has a unique passive Super Spell that activates under specific conditions, adding a strategic layer to gameplay. For example, Spiritmonger stops losing souls after reaching level 10."
+        }
+      ]
+    },
+    {
+      "heading": "Fair Play & Monetization",
+      "items": [
+        {
+          "q": "Is Spelltroum pay-to-win?",
+          "a": "No. Spelltroum is intentionally designed to avoid pay-to-win mechanics. Hero upgrades provide progression and customization, but they are not designed to create overwhelming power differences. A skilled player using a newly unlocked hero can absolutely defeat a player with a fully upgraded hero. Skill, teamwork, positioning, and decision-making matter far more than progression levels."
+        },
+        {
+          "q": "Do I need to spend money to compete?",
+          "a": "No. Spelltroum is designed so that spending money is optional and not required to be competitive. Our goal is for players to support the game because they enjoy it — not because they feel forced to."
+        },
+        {
+          "q": "How does Spelltroum make money?",
+          "a": "Spelltroum's primary monetization is cosmetic content — hero skins, cosmetic customization, and visual upgrades. These purchases do not provide gameplay advantages. We believe players should win because they played better, not because they spent more money."
+        },
+        {
+          "q": "What should I spend money on if I want to support the game?",
+          "a": "Primarily cosmetic content such as skins and visual customization options. Any purchase goes directly toward supporting continued development of the game."
+        },
+        {
+          "q": "Can a new player beat a veteran player?",
+          "a": "Absolutely. Skill, teamwork, positioning, and decision-making have a much greater impact on match outcomes than progression. While dedicated competitive players may eventually want fully upgraded heroes for maximum optimization, upgrades are designed to provide relatively small advantages rather than determining the outcome of a match."
+        }
+      ]
+    }
+  ]
+}

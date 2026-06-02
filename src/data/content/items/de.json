@@ -1,0 +1,2565 @@
+{
+  "Sword": {
+    "description": "Das Schwert ist eines der unkompliziertesten Schadensitems in Spelltroum. Obwohl viele Spieler es unterschätzen, weil es nur Schaden bietet, liefert das Schwert für seinen Preis eine überraschend hohe Angriffskraft. Für Helden, die einfach mehr physischen Schaden benötigen, ist es oft eines der effizientesten Upgrades.",
+    "whyUse": "Das Schwert ist eine hervorragende Wahl, wenn das Ziel einfach ist: mehr Schaden anrichten. Im Gegensatz zu Utility-Items, die Rüstung, Mana oder Bewegungsgeschwindigkeit bieten, konzentriert sich das Schwert vollständig auf die Steigerung der Angriffskraft. Es ist besonders effektiv für aggressive Helden, die auf Grundangriffe angewiesen sind, um zu farmen, Gegner unter Druck zu setzen und Elimierungen zu sichern.",
+    "strengths": [
+      "Hoher Schaden für seinen Preis",
+      "Einfache und zuverlässige Itemwahl",
+      "Hilft Helden, schneller zu farmen",
+      "Ausgezeichnet für physische Schadensbuilds",
+      "Stark in allen Spielphasen"
+    ],
+    "weaknesses": [
+      "Bietet keine Überlebensfähigkeit",
+      "Keine Mobilität oder Utility",
+      "Weniger wertvoll für Helden, die hauptsächlich auf Zauber-Schaden setzen"
+    ],
+    "tips": [
+      "Wenn das Schwert deinem Helden erlaubt, Büsche mit einem Treffer zu zerstören, musst du es nicht sofort upgraden.",
+      "Ein einzelnes Schwert-Upgrade reicht oft aus, um wichtige Farm-Schwellenwerte zu erreichen.",
+      "Erwäge, Gold in andere Items zu investieren, wenn weitere Schwert-Level die Farmgeschwindigkeit nicht deutlich verbessern.",
+      "Im späten Spiel kann ein vollständiges Schwert-Upgrade einen großen Schadensbonus liefern.",
+      "Das Schwert ist am effektivsten bei Helden, die bereits über Fähigkeiten verfügen, die ihre Angriffe stärken."
+    ],
+    "bestHeroes": {
+      "freezi": "Ihre Angriffsgeschwindigkeitsboni machen jeden zusätzlichen Schadenspunkt wertvoller. In Kombination mit schnellen Angriffen steigert das Schwert den Schadensausstoß und die Farmeffizienz erheblich.",
+      "shadow-fury": "Ihre Angriffe können feindliche Rüstung reduzieren, sodass erhöhter Schaden noch stärker trifft. Mit dem Upgrade des Schwertes kann sie verheerenden Burst-Schaden austeilen.",
+      "druid": "Seine Fähigkeiten fügen bereits zusätzlichen Angriffsschaden hinzu, was Bonusschaden wertvoller macht. Das Schwert hilft auch, Büsche schneller zu zerstören und effizienter zu farmen."
+    },
+    "faq": [
+      {
+        "q": "Ist das Schwert ein gutes Early-Game-Item?",
+        "a": "Ja. Das Schwert kann deine Farmgeschwindigkeit erheblich steigern und dir helfen, früh wichtige Schadensschwellen zu erreichen."
+      },
+      {
+        "q": "Sollte ich das Schwert immer auf Stufe 4 upgraden?",
+        "a": "Nicht unbedingt. Wenn das erste Upgrade bereits erlaubt, Büsche mit einem Treffer zu zerstören, kann es effizienter sein, zunächst Gold in andere Items zu investieren."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Schwert?",
+        "a": "Helden, die auf physische Angriffe angewiesen sind, insbesondere Shadow Fury und Druid, erhalten den meisten Nutzen vom Schwert."
+      }
+    ]
+  },
+  "BladesOfAttack": {
+    "whyUse": "Tödliche Klauen sind für Spieler gedacht, die ihr Schadenspotenzial maximieren möchten. Das Item bietet weniger direkten Schaden als das Schwert, gleicht dies jedoch durch kritische Trefferchance aus. Je mehr Schaden ein Held durch Level, Fähigkeiten und Items erhält, desto wertvoller wird jeder kritische Treffer. Das Item ist besonders effektiv bei Helden mit starken physischen Angriffen oder Fähigkeiten, die mit physischem Schaden skalieren.",
+    "strengths": [
+      "Hohes Burst-Schadenspotenzial",
+      "Kritische Treffer verursachen 50% zusätzlichen physischen Schaden",
+      "Skaliert gut mit anderen Schadensitems",
+      "Kritische Trefferchance stapelt sich mit anderen Quellen",
+      "Wirksam bei Angriffen und physischen Schadensfähigkeiten",
+      "Starkes Mid- und Late-Game-Item"
+    ],
+    "weaknesses": [
+      "Weniger konstant als das Schwert",
+      "Schaden hängt vom Zufall ab",
+      "Kann unzuverlässig sein, wenn stabiler Schaden benötigt wird",
+      "Bietet keine defensiven Boni",
+      "Kann in kurzen Kämpfen unterdurchschnittlich sein, wenn keine kritischen Treffer ausgelöst werden"
+    ],
+    "tips": [
+      "Tödliche Klauen werden stärker, wenn dein gesamter physischer Schaden steigt.",
+      "Kritische Trefferchance stapelt sich mit anderen kritischen Boni von Items und Heldenfähigkeiten.",
+      "Helden mit eingebauten kritischen Treffereffekten können sehr hohe kritische Trefferchancen erreichen.",
+      "Physische Schadensfähigkeiten können genauso wie Grundangriffe kritisch treffen.",
+      "Kombiniere Tödliche Klauen mit anderen physischen Schadensitems, um Burst-Schaden zu maximieren.",
+      "Das Item ist am effektivsten, wenn du Konsistenz gegen höheres Schadenspotenzial eintauschen möchtest."
+    ],
+    "bestHeroes": {
+      "shadow-fury": "Ihr aufgeladener Schuss verursacht physischen Schaden und kann kritisch treffen. Bei einem vollständig aufgeladenen Angriff kann der Schaden verheerend sein und zerbrechliche Gegner sofort eliminieren.",
+      "druid": "Hat Fähigkeiten, die den Angriffsschaden erhöhen. Wenn ein kritischer Treffer zusammen mit seinen Schadensbonus-Effekten auftritt, kann das Ergebnis ein enormer Burst-Schaden sein.",
+      "grizzly": "Baut auf natürliche Weise Schaden gegen einzelne Ziele auf. Wenn seine Angriffe stärker werden, werden kritische Treffer immer gefährlicher und können einen Kampf schnell entscheiden."
+    },
+    "faq": [
+      {
+        "q": "Beeinflussen kritische Treffer Fähigkeiten?",
+        "a": "Ja. Physische Schadensfähigkeiten können kritisch treffen und von kritischen Schadensboni profitieren."
+      },
+      {
+        "q": "Wie viel zusätzlichen Schaden verursacht ein kritischer Treffer?",
+        "a": "Kritische Treffer verursachen 50% zusätzlichen physischen Schaden."
+      },
+      {
+        "q": "Stapelt sich die kritische Trefferchance?",
+        "a": "Ja. Die kritische Trefferchance von Tödlichen Klauen stapelt sich mit kritischen Boni von anderen Items und Heldenfähigkeiten."
+      },
+      {
+        "q": "Sind Tödliche Klauen besser als das Schwert?",
+        "a": "Nicht immer. Das Schwert bietet zuverlässigen und konstanten Schaden, während Tödliche Klauen höheres Schadenspotenzial auf Kosten der Konsistenz bieten."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Tödlichen Klauen?",
+        "a": "Helden mit hohem physischem Schaden wie Shadow Fury, Druid und Grizzly erhalten den meisten Nutzen."
+      },
+      {
+        "q": "Sind Tödliche Klauen gut im PvE?",
+        "a": "Sie können mächtig sein, aber manche Spieler bevorzugen konstantere Schadensquellen bei PvE-Inhalten, wo vorhersehbarer Schaden wichtig ist."
+      }
+    ],
+    "description": "Tödliche Klauen ist ein offensiver Gegenstand, der Bonusangriffschaden mit kritischer Trefferchance kombiniert. Schaltet kritische Treffer frei, die 50% zusätzlichen physischen Schaden verursachen."
+  },
+  "Dagger": {
+    "whyUse": "Der Dolch ist eine ausgezeichnete Wahl für Spieler, die physischen Schaden gegen feindliche Helden maximieren möchten. Der Rüstungsreduzierungseffekt des Items debufft das Ziel und verringert dessen physische Rüstung für kurze Zeit — sodass alle verbündeten Angreifer mehr Schaden an diesem Ziel verursachen. Der Effekt ist besonders mächtig gegen Feinde mit niedriger Rüstung. Wenn die Rüstung eines Ziels auf null oder darunter reduziert wird, steigt der eingehende physische Schaden erheblich.",
+    "strengths": [
+      "Bietet sowohl Schaden als auch Utility",
+      "Reduziert feindliche physische Rüstung",
+      "Erhöht den Schaden aller verbündeten Angreifer am Ziel",
+      "Extrem effektiv in koordinierten Teamkämpfen",
+      "Synergiert gut mit Helden, die bereits Rüstung reduzieren",
+      "Stark gegen Ziele mit niedriger Rüstung",
+      "Ausgezeichnetes Item zur fokussierten Zieleliminierung"
+    ],
+    "weaknesses": [
+      "Bietet keine defensiven Boni",
+      "Weniger effektiv, wenn Feinde nicht von mehreren Angreifern fokussiert werden",
+      "Liefert weniger direkten Schaden als reine Schadensitems",
+      "Erfordert konstanten Druck auf Schlüsselziele für maximalen Nutzen"
+    ],
+    "tips": [
+      "Fokussiere Angriffe auf ein einzelnes Ziel, um den Wert des Rüstungsreduzierungseffekts zu maximieren.",
+      "Der Dolch wird stärker, wenn mehrere Verbündete denselben Feind angreifen.",
+      "Das Item ist besonders effektiv gegen Feinde mit niedriger Rüstung.",
+      "Helden mit vorhandenen Rüstungsreduzierungsfähigkeiten erhalten außergewöhnlichen Nutzen vom Dolch.",
+      "Wende in Teamkämpfen den Debuff zuerst auf das hochwertigste Ziel an.",
+      "Der Dolch ist besonders mächtig in 2v2-Matches, wo beide Teammitglieder denselben Feind fokussieren können."
+    ],
+    "bestHeroes": {
+      "druid": "Kann eine Kreatur aus Büschen beschwören, die neben ihm kämpft. Sobald der Dolch die Rüstung eines Feindes reduziert, profitieren sowohl Druid als auch sein beschworener Begleiter vom erhöhten Schaden gegen dieses Ziel.",
+      "volcarn": "Hat bereits Fähigkeiten, die feindliche Rüstung reduzieren. In Kombination mit dem Dolch werden Feinde noch verwundbarer, sodass Volcarn und Verbündete deutlich höheren Schaden verursachen können.",
+      "shadow-fury": "Verlässt sich stark auf physischen Schaden und hat bereits Fähigkeiten, die feindliche Rüstung reduzieren. Der Dolch verstärkt diese Stärke noch weiter mit einem zusätzlichen Rüstungsreduzierungseffekt."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Dolch frei?",
+        "a": "Der Dolch wird durch das Upgraden von Druid freigeschaltet."
+      },
+      {
+        "q": "Erhöht der Dolch nur meinen Schaden?",
+        "a": "Nein. Der Dolch reduziert die Rüstung des Ziels, sodass alle Verbündeten mehr physischen Schaden an diesem Feind verursachen."
+      },
+      {
+        "q": "Ist der Dolch gut im 2v2?",
+        "a": "Ja. Der Dolch ist besonders stark im 2v2, weil beide Teammitglieder vom Rüstungsreduzierungseffekt profitieren können."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Dolch?",
+        "a": "Helden, die physischen Schaden verursachen oder bereits Rüstungsreduzierungseffekte haben, wie Druid, Volcarn und Shadow Fury, erhalten den meisten Nutzen."
+      },
+      {
+        "q": "Ist der Dolch besser gegen Feinde mit niedriger Rüstung?",
+        "a": "Ja. Je näher ein Feind an null Rüstung ist, desto wirkungsvoller wird zusätzliche Rüstungsreduzierung."
+      },
+      {
+        "q": "Funktioniert der Dolch mit beschworenen Einheiten?",
+        "a": "Ja. Beschworene Einheiten profitieren ebenfalls davon, Feinde anzugreifen, deren Rüstung durch den Dolch reduziert wurde."
+      }
+    ],
+    "description": "Dolch ist ein legendärer offensiver Gegenstand, der physischen Schaden mit Rüstungsreduzierung kombiniert. Jeder Angriff reduziert die physische Rüstung des Ziels, was nachfolgende Treffer stärker macht."
+  },
+  "AssaultSpear": {
+    "whyUse": "Der Sturmspeer ist eine ausgezeichnete Wahl für Helden, die auf häufige Angriffe angewiesen sind. Das Item erhöht sowohl Angriffsgeschwindigkeit als auch Schaden, sodass Helden schneller farmen und in Kämpfen mehr Schaden anrichten können. Gleichzeitig stellt jeder erfolgreiche Angriff Lebenspunkte wieder her, sodass der Held länger aktiv auf dem Schlachtfeld bleiben kann.",
+    "strengths": [
+      "Bietet Angriffsgeschwindigkeit und physischen Schaden",
+      "Stellt bei erfolgreichen Angriffen Lebenspunkte wieder her",
+      "Ausgezeichnete Ausdauer in langen Kämpfen",
+      "Hilft, Ausfallzeiten zwischen Kämpfen zu reduzieren",
+      "Starkes Farm-Item",
+      "Wirksam in allen Spielphasen"
+    ],
+    "weaknesses": [
+      "Heilung ist in kurzen Kämpfen weniger spürbar",
+      "Erfordert häufige Angriffe für maximalen Nutzen",
+      "Weniger effektiv bei Helden, die hauptsächlich auf Zauber-Schaden setzen",
+      "Bietet keine Rüstung oder direkte defensive Boni"
+    ],
+    "tips": [
+      "Der Sturmspeer wird stärker, wenn deine Angriffsgeschwindigkeit steigt.",
+      "Helden, die schnell angreifen, erhalten den meisten Nutzen vom Heilungseffekt.",
+      "Das Item hilft, Lebenspunkte beim Farmen von Büschen und Monstern aufrechtzuerhalten.",
+      "Der Sturmspeer ist in langen Kämpfen oft effektiver als in kurzen Burst-Gefechten.",
+      "Erwäge, das Item vollständig zu upgraden, wenn dein Build stark auf Grundangriffe setzt.",
+      "Helden mit anhaltendem Schaden profitieren generell mehr vom Sturmspeer als Burst-Schaden-Helden."
+    ],
+    "bestHeroes": {
+      "spitfire": "Profitiert bereits von Angriffsgeschwindigkeitsboni, sodass der Heilungseffekt häufiger ausgelöst werden kann. Die zusätzliche Angriffsgeschwindigkeit und der Schaden verbessern auch die Farmgeschwindigkeit.",
+      "freezi": "Profitiert dank ihrer natürlich hohen Angriffsgeschwindigkeit stark. Da der Heilungseffekt bei jedem erfolgreichen Angriff ausgelöst wird, kann Freezi Lebenspunkte häufiger als viele andere Helden regenerieren."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Sturmspeer frei?",
+        "a": "Der Sturmspeer ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert er keine Heldenentwicklung zum Freischalten."
+      },
+      {
+        "q": "Heilt der Sturmspeer beim Angriff auf Büsche?",
+        "a": "Ja. Erfolgreiche Angriffe gegen Büsche können den Heilungseffekt auslösen."
+      },
+      {
+        "q": "Heilt der Sturmspeer beim Angriff auf feindliche Helden?",
+        "a": "Ja. Jeder erfolgreiche Angriff kann Lebenspunkte wiederherstellen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Sturmspeer?",
+        "a": "Spitfire und Freezi gehören zu den stärksten Nutzern, weil sie schnell angreifen und den Heilungseffekt häufiger auslösen können."
+      },
+      {
+        "q": "Ist der Sturmspeer ein Schadensitem oder ein Überlebensfähigkeitsitem?",
+        "a": "Beides. Der Sturmspeer erhöht Angriffsgeschwindigkeit und Schaden und bietet gleichzeitig Lebenspunkte-Regeneration durch seinen Heilungseffekt."
+      }
+    ],
+    "description": "Sturmspeer ist ein Gegenstand, der Angriffsgeschwindigkeit, physischen Schaden und Gesundheitsregeneration kombiniert. Zusätzlich zur Steigerung der Angriffskraft stellt der Gegenstand Gesundheit wieder her, wenn der Besitzer erfolgreich einen Angriff landet."
+  },
+  "BoneSword": {
+    "whyUse": "Das Knochenschwert ist für Helden konzipiert, die seinen Nachteil in einen Vorteil verwandeln können. Das Item bietet eine große Menge an Lebenspunkten, Bonusschaden, kritische Trefferchance und zusätzlichen Schaden basierend auf dem Heldenlevel. Auf höheren Leveln kann der skalierende Schaden allein eine massive Kraftquelle werden. Allerdings verbraucht jeder Angriff Lebenspunkte — Helden ohne Heilung, Lebensraub oder eine Form der Lebenspunkte-Regeneration können Schwierigkeiten haben, es effektiv zu nutzen.",
+    "strengths": [
+      "Gewährt eine große Menge an Bonuslebenspunkten",
+      "Bietet starke Schadensskalierung durch Heldenlevel",
+      "Erhöht maximalen kritischen Trefferschaden",
+      "Ausgezeichnetes Late-Game-Schadenspotenzial",
+      "Extrem mächtig bei Helden mit Ausdauer",
+      "Kann seinen Besitzer nicht töten"
+    ],
+    "weaknesses": [
+      "Jeder Angriff verbraucht Lebenspunkte",
+      "Selbstschaden tritt auch auf, wenn Angriffe verfehlen",
+      "Erfordert Heilung, Lebensraub oder Ausdauer für volles Potenzial",
+      "Kann bei zerbrechlichen Helden schwer effektiv eingesetzt werden",
+      "Kritische Trefferchance ist ohne zusätzliche Quellen relativ niedrig"
+    ],
+    "tips": [
+      "Das Knochenschwert kann seinen Besitzer nicht töten, was es sicherer macht als es zunächst erscheint.",
+      "Das Item wird stärker, wenn dein Held Level aufsteigt.",
+      "Helden mit Lebensraub erhalten deutlich mehr Nutzen vom Knochenschwert.",
+      "Helden, die von niedrigen Lebenspunkten profitieren, können den Selbstschaden in einen Vorteil verwandeln.",
+      "Das Item funktioniert am besten in Kombination mit zuverlässiger Heilung oder Ausdauer.",
+      "Kaufe das Knochenschwert nicht ausschließlich wegen seiner kritischen Trefferchance — der Bonus ist allein relativ gering."
+    ],
+    "bestHeroes": {
+      "volcarn": "Gewinnt Angriffsgeschwindigkeit, wenn seine Lebenspunkte sinken. Das Knochenschwert reduziert beim Angreifen kontinuierlich seine Lebenspunkte und aktiviert so natürlich seine Angriffsgeschwindigkeitsboni. Seine natürliche Ausdauer hilft, den Selbstschaden-Effekt auszugleichen.",
+      "death-slayer": "Sein eingebauter Lebensraub ermöglicht es ihm, beim Angreifen Lebenspunkte zu regenerieren und so die verlorenen Lebenspunkte zu kompensieren. Er profitiert auch von den kritischen Trefferchance-Boni durch seine vorhandenen kritischen Trefferfähigkeiten."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich das Knochenschwert frei?",
+        "a": "Das Knochenschwert wird durch das Upgraden von Volcarn freigeschaltet."
+      },
+      {
+        "q": "Kann das Knochenschwert seinen Besitzer töten?",
+        "a": "Nein. Der Selbstschaden-Effekt des Knochenschwertes kann die Lebenspunkte des Besitzers nicht auf null reduzieren."
+      },
+      {
+        "q": "Verursacht das Knochenschwert Selbstschaden, wenn mein Angriff verfehlt?",
+        "a": "Ja. Der Selbstschaden-Effekt wird beim Angreifen aktiviert, unabhängig davon, ob der Angriff ein Ziel trifft."
+      },
+      {
+        "q": "Ist das Knochenschwert gut für Volcarn?",
+        "a": "Ja. Das Knochenschwert ist eines von Volcarns stärksten Items, weil der Selbstschaden hilft, seine Angriffsgeschwindigkeitsboni zu aktivieren, während es erhebliche Angriffskraft bietet."
+      },
+      {
+        "q": "Ist das Knochenschwert ein kritisches Treffer-Item?",
+        "a": "Nicht primär. Obwohl das Knochenschwert etwas kritische Trefferchance bietet und maximalen kritischen Trefferschaden erhöht, wird es normalerweise wegen seines skalierenden Schadens, Bonuslebenspunkten und einzigartiger Selbstschaden-Mechanik gekauft."
+      },
+      {
+        "q": "Warum wird das Knochenschwert später im Match stärker?",
+        "a": "Das Knochenschwert gewährt zusätzlichen Schaden basierend auf dem Heldenlevel. Wenn dein Held aufsteigt, steigt auch der Schadensbonus des Items weiter."
+      }
+    ],
+    "description": "Knochenschwert ist ein legendärer Gegenstand, der durch das Upgraden von Volcarn freigeschaltet wird. Es bietet eine kraftvolle Kombination aus Schaden und Selbstschadenseffekten."
+  },
+  "WarriorAxe": {
+    "whyUse": "Die Kriegsaxt ist ideal für Helden, die ein bisschen von allem möchten. Das Item bietet Bonusschaden für bessere Farm- und Kampfeffektivität, Bonuslebenspunkte für höhere Überlebensfähigkeit und Bewegungsgeschwindigkeit, um Helden beim Engagieren, Verfolgen von Feinden und Neupositionieren in Kämpfen zu helfen. Einer der größten Vorteile der Kriegsaxt ist, dass sie teilweise den Bedarf an bewegungsorientierten Items ersetzen kann.",
+    "strengths": [
+      "Bietet Schaden, Lebenspunkte und Bewegungsgeschwindigkeit",
+      "Ausgezeichnetes Allround-Item",
+      "Starker Early- und Mid-Game-Leistungsschub",
+      "Hilft Helden, Büsche effizienter zu zerstören",
+      "Verbessert sowohl Überlebensfähigkeit als auch Mobilität",
+      "Funktioniert gut bei einer Vielzahl von Helden"
+    ],
+    "weaknesses": [
+      "Übertrifft keine einzelne Kategorie",
+      "Bietet weniger Bewegungsgeschwindigkeit als dedizierte Stiefel-Items",
+      "Bietet weniger Schaden als reine Offensiv-Items",
+      "Kann in hochoptimierten Builds von spezialisierten Items übertroffen werden"
+    ],
+    "tips": [
+      "Das erste Upgrade bietet oft genug Schaden, um Büsche mit einem Angriff zu zerstören.",
+      "Das zweite Upgrade gewährt eine signifikante Lebenspunkte-Erhöhung, die deinen Helden spürbar schwerer eliminierbar macht.",
+      "Die Kriegsaxt ist besonders wertvoll für Helden, die die volle Bewegungsgeschwindigkeit von Stiefeln nicht benötigen.",
+      "Das Item ist oft am stärksten, wenn es früh im Match upgegraded wird.",
+      "Erwäge die Kriegsaxt, wenn deinem Build entweder Überlebensfähigkeit oder Mobilität fehlt.",
+      "Ausgewogene Stat-Items bieten oft konstanteren Nutzen als hochspezialisierte Items."
+    ],
+    "bestHeroes": {
+      "mortifier": "Der Bonusschaden erhöht die Effektivität seiner Angriffe, während die zusätzlichen Lebenspunkte die Überlebensfähigkeit verbessern. Da Mortifier durch seine Fähigkeiten zusätzliche Angriffe auslösen kann, wird jeder Bonusschadenspunkt wertvoller.",
+      "death-slayer": "Ein Nahkampfheld, der oft Schwierigkeiten hat, fliehende Ziele einzuholen. Die Kriegsaxt löst mehrere Probleme auf einmal, indem sie zusätzlichen Schaden, Überlebensfähigkeit und Bewegungsgeschwindigkeit bietet.",
+      "grizzly": "Als Nahkampfheld schätzt er Bewegungsgeschwindigkeit zum Verfolgen von Feinden, Lebenspunkte zum Überleben von Kämpfen und Schaden für Angriffsdruck. Die Kriegsaxt stärkt all diese Bereiche gleichzeitig."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich die Kriegsaxt frei?",
+        "a": "Die Kriegsaxt wird durch das Tägliche-Belohnungs-System freigeschaltet. Melde dich einfach im Spiel an und hol dir deine täglichen Belohnungen."
+      },
+      {
+        "q": "Ist die Kriegsaxt ein Schadensitem oder ein Defensivitem?",
+        "a": "Beides. Die Kriegsaxt bietet Schaden, Lebenspunkte und Bewegungsgeschwindigkeit und ist damit eines der ausgewogensten Items im Spiel."
+      },
+      {
+        "q": "Ist die Kriegsaxt ein gutes erstes Item?",
+        "a": "Ja. Viele Spieler wählen die Kriegsaxt als frühes Upgrade, weil sie sofort mehrere Aspekte ihres Helden verbessert."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von der Kriegsaxt?",
+        "a": "Mortifier, Death Slayer und Grizzly gehören zu den Helden, die den meisten Nutzen aus der Kriegsaxt ziehen."
+      },
+      {
+        "q": "Hilft die Kriegsaxt beim Farmen?",
+        "a": "Ja. Der frühe Schadensbonus ermöglicht es Helden oft, Büsche mit einem einzigen Angriff zu zerstören, was die Farmeffizienz erheblich verbessert."
+      },
+      {
+        "q": "Sollte ich Stiefel kaufen, wenn ich bereits die Kriegsaxt habe?",
+        "a": "Das hängt vom Helden ab. Manche Helden profitieren immer noch von dedizierten Bewegungsgeschwindigkeits-Items, während andere genug Mobilität von der Kriegsaxt erhalten."
+      }
+    ],
+    "description": "Kriegsaxt ist ein vielseitiger offensiver Gegenstand, der eine ausgewogene Kombination aus Schaden, Gesundheit und Angriffsgeschwindigkeit bietet."
+  },
+  "FireAxe": {
+    "whyUse": "Die Feueraxt ist eine ausgezeichnete Wahl für Helden, die Feinde im Laufe der Zeit unter Druck setzen möchten, anstatt sich vollständig auf Burst-Schaden zu verlassen. Der Brenneffekt des Items schädigt Feinde weiterhin lange nach dem ersten Angriff. Einer der wertvollsten Aspekte der Feueraxt ist ihre Fähigkeit, feindliche Lebenspunkte-Regeneration zu verzögern — da Brennschaden mehrere Sekunden anhält, können betroffene Feinde ihre natürliche Regeneration erst beginnen, wenn der Brenneffekt abläuft.",
+    "strengths": [
+      "Bietet Schaden und Bewegungsgeschwindigkeit",
+      "Fügt reinen Schaden zu, der Rüstung ignoriert",
+      "Verzögert feindliche Lebenspunkte-Regeneration",
+      "Stark gegen schildbasierte Helden",
+      "Ausgezeichnetes Belästigungswerkzeug",
+      "Synergiert gut mit anderen Schaden-über-Zeit-Effekten",
+      "Nützlich in allen Spielphasen"
+    ],
+    "weaknesses": [
+      "Niedrigerer Burst-Schaden als manche Offensiv-Items",
+      "Erfordert wiederholte Angriffe, um Druck aufrechtzuerhalten",
+      "Schaden wird über Zeit verteilt statt sofort geliefert",
+      "Weniger effektiv, wenn Feinde Kämpfe schnell beenden können, bevor der Brenneffekt wirkungsvoll wird"
+    ],
+    "tips": [
+      "Das erste Upgrade bietet genug Schaden, um Büsche mit einem Angriff zu zerstören.",
+      "Das zweite Upgrade gewährt Bewegungsgeschwindigkeit vergleichbar mit einfachen Stiefeln.",
+      "Feuerschaden ignoriert sowohl physische Rüstung als auch magische Rüstung.",
+      "Brennende Feinde können keine natürliche Lebenspunkte-Regeneration beginnen, bis der Brenneffekt endet.",
+      "Die Feueraxt ist besonders effektiv gegen Helden, die auf Schilde angewiesen sind.",
+      "Das Item eignet sich hervorragend zur Belästigung und wiederholten Treffer-und-Lauf-Angriffen.",
+      "Schaden-über-Zeit-Effekte werden in langen Kämpfen wertvoller."
+    ],
+    "bestHeroes": {
+      "viverna": "Spezialisiert sich bereits auf Schaden über Zeit durch Gifteffekte. Die Feueraxt fügt eine weitere periodische Schadensquelle hinzu, sodass beide Effekte sich stapeln und Feinde kontinuierlich unter Druck setzen. Die Bewegungsgeschwindigkeit hilft ihr auch beim Neupositionieren.",
+      "faerie": "Nach dem Wirken von Zaubern kann ein einzelner Angriff den Brenneffekt aufbringen und das Ziel weiterhin schädigen, während Faerie sich neu positioniert und auf Abklingzeiten wartet. Ermöglicht ihr, auch dann Druck aufrechtzuerhalten, wenn sie nicht aktiv zaubert."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich die Feueraxt frei?",
+        "a": "Die Feueraxt ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert sie keine Heldenentwicklung zum Freischalten."
+      },
+      {
+        "q": "Ignoriert Feuerschaden Rüstung?",
+        "a": "Ja. Feuerschaden ist reiner Schaden und wird weder durch physische Rüstung noch durch magische Rüstung reduziert."
+      },
+      {
+        "q": "Verhindert die Feueraxt Lebenspunkte-Regeneration?",
+        "a": "Ja. Während der Brenneffekt aktiv ist, erleidet das Ziel weiterhin Schaden und kann keine natürliche Lebenspunkte-Regeneration beginnen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von der Feueraxt?",
+        "a": "Viverna und Faerie gehören zu den stärksten Nutzern, weil sie ihren Brenneffekt mit vorhandenen Schaden-über-Zeit- und Poke-Fähigkeiten kombinieren können."
+      },
+      {
+        "q": "Ist die Feueraxt ein Farm-Item oder ein Kampf-Item?",
+        "a": "Beides. Frühe Upgrades verbessern das Farmen durch Bonusschaden, während spätere Upgrades Bewegungsgeschwindigkeit und mächtige Schaden-über-Zeit-Effekte für den Kampf bieten."
+      }
+    ],
+    "description": "Feueraxt ist ein mystischer Gegenstand, der physischen Schaden, Bewegungsgeschwindigkeit und einen mächtigen Brenneffekt kombiniert."
+  },
+  "ManaAxe": {
+    "whyUse": "Die Manaaxt ist dafür konzipiert, manaabhängige Helden zu bestrafen. Jeder Angriff verbrennt Mana vom Ziel und wandelt das verbrannte Mana in reinen Schaden um. Im Gegensatz zu physischem oder magischem Schaden wird dieser Schaden nicht durch Rüstung reduziert, was ihn gegen eine Vielzahl von Feinden effektiv macht. Das Item wird besonders mächtig gegen Helden, die stark auf Fähigkeiten angewiesen sind.",
+    "strengths": [
+      "Verbrennt feindliches Mana bei jedem Angriff",
+      "Verursacht reinen Schaden basierend auf verbranntem Mana",
+      "Effektiv gegen Zauberwirker und manastarke Builds",
+      "Stark bei schnell angreifenden Helden",
+      "Bietet Bewegungsgeschwindigkeit auf Maximallevel",
+      "Kann die Fähigkeit eines Feindes zum Zaubern erheblich einschränken"
+    ],
+    "weaknesses": [
+      "Weniger effektiv gegen Helden mit kleinen Manapools",
+      "Bietet kaum Nutzen, sobald ein Feind kein Mana mehr hat",
+      "Erhöht nicht direkt den Angriffsschaden",
+      "Erfordert wiederholte Angriffe für maximale Effektivität"
+    ],
+    "tips": [
+      "Die Manaaxt wird stärker gegen Helden mit großen Manapools.",
+      "Helden mit hoher Angriffsgeschwindigkeit erhalten mehr Nutzen, da sie Manaverbrennung häufiger auslösen.",
+      "Wenn ein Feind kein Mana mehr hat, kann die Manaaxt keinen zusätzlichen Manaverbrennungsschaden mehr verursachen.",
+      "Das letzte Upgrade gewährt Bewegungsgeschwindigkeit, was die Manaaxt für bestimmte Builds zu einer potenziellen Alternative zu einfachen Stiefeln macht.",
+      "Erwäge die Manaaxt, wenn du gegen Feinde kämpfst, die stark auf Fähigkeiten angewiesen sind.",
+      "Die Manaaxt ist einer der stärksten Konter gegen Manaschutzschild-Builds."
+    ],
+    "bestHeroes": {
+      "flameweaver": "Hat bereits mehrere Möglichkeiten, feindliches Mana durch seine Fähigkeiten zu entleeren. In Kombination mit der Manaaxt kann er schnell den Manapool eines Gegners leeren und ihn unfähig lassen, wichtige Fähigkeiten zu wirken.",
+      "freezi": "Ihre hohe Angriffsgeschwindigkeit lässt sie die Manaaxt wiederholt auslösen, große Mana-Mengen in kurzer Zeit verbrennen und gleichzeitig zusätzlichen reinen Schaden verursachen.",
+      "volcarn": "Seine Illusionen erben den Manaverbrennungseffekt, sodass mehrere Angriffe gleichzeitig Mana entleeren und manaabhängige Feinde sehr schnell überwältigen können."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich die Manaaxt frei?",
+        "a": "Die Manaaxt ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert sie keine Heldenentwicklung."
+      },
+      {
+        "q": "Verursacht die Manaaxt reinen Schaden?",
+        "a": "Ja. Der durch die Manaaxt verursachte Schaden ignoriert sowohl physische Rüstung als auch magische Rüstung."
+      },
+      {
+        "q": "Funktioniert die Manaaxt, wenn das Ziel kein Mana hat?",
+        "a": "Nein. Die Manaaxt verursacht Schaden basierend auf verbranntem Mana. Wenn das Ziel kein Mana mehr hat, kann das Item kein weiteres Mana verbrennen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von der Manaaxt?",
+        "a": "Flameweaver, Freezi und Volcarn gehören zu den stärksten Nutzern, weil sie den Manaverbrennungseffekt wiederholt auslösen können."
+      },
+      {
+        "q": "Welches Item konterkariert die Manaaxt?",
+        "a": "Die Manaaxt ist einer der stärksten Konter gegen den Manaschutzschild. Manaschutzschild-Builds verlassen sich auf große Mana-Mengen — die Manaaxt greift diese Stärke direkt an, indem sie Mana verbrennt und gleichzeitig Schaden verursacht."
+      },
+      {
+        "q": "Ist die Manaaxt eine gute Alternative zu Stiefeln?",
+        "a": "Für manche Helden ja. Das letzte Upgrade gewährt Bewegungsgeschwindigkeit, sodass bestimmte Builds Mobilität gewinnen können, während sie gleichzeitig von Manaverbrennung und zusätzlichem Schaden profitieren."
+      }
+    ],
+    "description": "Manaaxt ist ein mystischer Gegenstand, der sich auf Manaverbrennung spezialisiert. Anstatt den Angriffschaden direkt zu erhöhen, entzieht er dem Ziel bei jedem Treffer Mana."
+  },
+  "AxeOfVampire": {
+    "whyUse": "Die Vampiraxt ist für Helden konzipiert, die mächtige Ausdauer im Kampf wünschen. Im Gegensatz zu traditionellen Lebensraub-Items, die einen konstanten Effekt bieten, gewährt die Vampiraxt Zugang zu temporären Ausbrüchen extrem starker Heilung. Eine gut getimte Vampir-Rune kann das Ergebnis eines Kampfes vollständig ändern und es einem Helden ermöglichen, große Mengen an Lebenspunkten zu regenerieren, während er weiter angreift.",
+    "strengths": [
+      "Bietet Bonusschaden und physische Rüstung",
+      "Bietet Bewegungsgeschwindigkeit auf Maximallevel",
+      "Kann mächtige Vampir-Runen aus Büschen generieren",
+      "Gewährt 100% physischen Lebensraub, wenn eine Rune aktiviert wird",
+      "Ausgezeichnete Burst-Ausdauer in Kämpfen",
+      "Besonders effektiv bei schnell angreifenden Helden"
+    ],
+    "weaknesses": [
+      "Der Lebensraub-Effekt hängt davon ab, eine Vampir-Rune zu finden",
+      "Weniger effektiv bei Helden, die hauptsächlich auf magischen Schaden setzen",
+      "Erfordert physische Angriffe, um Nutzen aus der Rune zu ziehen",
+      "Ein Teil der Stärke kommt aus Zufälligkeit"
+    ],
+    "tips": [
+      "Die Vampir-Rune erscheint erst nach dem Upgraden der Vampiraxt.",
+      "Spare die Vampir-Rune nach Möglichkeit für wichtige Kämpfe.",
+      "Helden mit hoher Angriffsgeschwindigkeit erhalten den meisten Nutzen vom Lebensraub-Effekt.",
+      "Das Item ist oft wert, früh auf Stufe 2 zu upgraden, um Zugang zur Vampir-Rune zu erhalten.",
+      "Physische Rüstung macht das Item nützlich, auch wenn keine Vampir-Rune verfügbar ist."
+    ],
+    "bestHeroes": {
+      "druid": "Seine Fähigkeiten können während des Kampfes zusätzliche Büsche erstellen und so mehr Möglichkeiten bieten, Vampir-Runen zu entdecken. Da Druid hauptsächlich physischen Schaden verursacht, kann er den 100% Lebensraub-Effekt ausgezeichnet nutzen.",
+      "freezi": "Die zusätzlichen Angriffsmöglichkeiten ermöglichen es ihr, während der Vampir-Rune mehrere Heilungsinstanzen auszulösen und so sehr schnell Lebenspunkte zu regenerieren.",
+      "grizzly": "Profitiert von den Offensivwerten und nutzt die Vampir-Rune, um erlittenen Schaden in aggressiven Engagements auszugleichen, sodass er länger im Kampf bleiben kann."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich die Vampiraxt frei?",
+        "a": "Die Vampiraxt ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert sie keine Heldenentwicklung."
+      },
+      {
+        "q": "Wie bekomme ich eine Vampir-Rune?",
+        "a": "Nach dem Upgraden der Vampiraxt besteht beim Zerstören von Büschen die Chance, eine Vampir-Rune zu entdecken."
+      },
+      {
+        "q": "Was macht die Vampir-Rune?",
+        "a": "Bei Aktivierung gewährt die Rune 5 Sekunden lang 100% physischen Lebensraub."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von der Vampiraxt?",
+        "a": "Druid, Freezi, Mortifier, Grizzly und Volcarn gehören zu den stärksten Nutzern, weil sie den temporären Lebensraub-Effekt voll ausnutzen können."
+      },
+      {
+        "q": "Ist die Vampiraxt eine zuverlässige Heilungsquelle?",
+        "a": "Nicht vollständig. Die Heilung hängt davon ab, eine Vampir-Rune zu finden und zu aktivieren. Wenn sie jedoch verfügbar ist, kann sie einige der stärksten Heilungseffekte im Spiel bieten."
+      },
+      {
+        "q": "Sollte ich die Vampiraxt sofort vollständig upgraden?",
+        "a": "Nicht immer. Viele Spieler upgraden sie früh, um die Vampir-Rune freizuschalten, und beenden das Upgrade später, wenn sie zusätzlichen Schaden, Rüstung und Bewegungsgeschwindigkeit benötigen."
+      }
+    ],
+    "description": "Vampiraxt ist ein mystischer Gegenstand, der Schaden, physische Rüstung, Bewegungsgeschwindigkeit und Lebensraub kombiniert."
+  },
+  "WarlockStaff": {
+    "whyUse": "Der Hexmeisterstab ist für Spieler konzipiert, die ihr Goldeinkommen maximieren möchten. Die meisten Items machen Helden direkt stärker — der Hexmeisterstab verfolgt einen anderen Ansatz, indem er Helden hilft, Gold schneller zu erwerben und zusätzliche Items früher kaufen zu können. Das Item ist besonders wertvoll für Helden, die Zeit und Ressourcen benötigen, um ihr volles Potenzial zu entfalten.",
+    "strengths": [
+      "Generiert Bonusgold nach dem Tod",
+      "Ermöglicht einzigartige wirtschaftliche Strategien",
+      "Reduziert die Strafe fürs Sterben",
+      "Bietet Schaden, Angriffsgeschwindigkeit und Zaubermacht",
+      "Kann von fast jedem Helden effektiv genutzt werden",
+      "Hilft Helden, wichtige Item-Upgrades schneller zu erreichen"
+    ],
+    "weaknesses": [
+      "Fördert riskantes Spielen",
+      "Verbessert nicht direkt die Überlebensfähigkeit",
+      "Kronenverlust kann das gewonnene Bonusgold überwiegen",
+      "Bietet weniger Kampfkraft als spezialisierte Offensivitems",
+      "Erfordert sorgfältige Entscheidungsfindung für effektiven Einsatz"
+    ],
+    "tips": [
+      "Der Hexmeisterstab belohnt aggressive Farm-Strategien.",
+      "Sterben ist immer noch ein Nachteil, auch wenn Bonusgold vergeben wird.",
+      "Konzentriere dich auf das Sammeln von Ressourcen und die Beschleunigung deiner Item-Entwicklung.",
+      "Das Item ist oft in der Früh- und Mittelphase am stärksten.",
+      "Opfere Kronen nicht leichtfertig, nur weil du Bonusgold erhältst.",
+      "Der Hexmeisterstab bietet nützliche Kampfwerte, auch wenn sein passiver Effekt nicht ausgelöst wird."
+    ],
+    "bestHeroes": {
+      "druid": "Volcarn ist in frühen Phasen oft verwundbar und benötigt typischerweise mehrere Items, bevor er sein volles Potenzial erreicht. Der Hexmeisterstab hilft, diesen Fortschritt zu beschleunigen, indem er die wirtschaftlichen Auswirkungen von Toden reduziert."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Hexmeisterstab frei?",
+        "a": "Der Hexmeisterstab wird durch das Tägliche-Belohnungs-System freigeschaltet."
+      },
+      {
+        "q": "Wie funktioniert der Hexmeisterstab?",
+        "a": "Wann immer dein Held stirbt, gewährt der Hexmeisterstab Bonusgold. Dies hilft, die wirtschaftlichen Auswirkungen einer Niederlage zu reduzieren."
+      },
+      {
+        "q": "Ist der Hexmeisterstab ein gutes Item für Anfänger?",
+        "a": "Er kann es sein, aber Spieler sollten vorsichtig sein. Das Item belohnt Tode mit Gold, aber zu häufiges Sterben kann immer noch dazu führen, dass du das Match verlierst."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Hexmeisterstab?",
+        "a": "Druid und Volcarn gehören zu den häufigsten Nutzern, da sie oft von zusätzlichen Farm- und Skalierungsmöglichkeiten profitieren."
+      },
+      {
+        "q": "Bedeutet der Hexmeisterstab, dass ich absichtlich sterben sollte?",
+        "a": "Normalerweise nicht. Das Ziel ist nicht, so oft wie möglich zu sterben. Stattdessen ermöglicht das Item kalkulierte Risiken und eine einfachere Erholung nach Toden."
+      },
+      {
+        "q": "Warum gilt der Hexmeisterstab als unterschätzt?",
+        "a": "Viele Spieler konzentrieren sich nur auf Kampfkraft. Der Hexmeisterstab bietet stattdessen wirtschaftliche Stärke und ermöglicht erfahrenen Spielern, Item-Vorteile aufzubauen."
+      }
+    ],
+    "description": "Hexenmeisterstab ist einer der ungewöhnlichsten Gegenstände in Spelltroum. Anstatt Spieler dafür zu belohnen, dass sie aktiv kämpfen, belohnt er sie für das Halten ihres Manaportfolios."
+  },
+  "GlaciumReaver": {
+    "whyUse": "Der Glacium-Reißer ist eines der besten Items für Helden, die häufig Zauber wirken. Mana ist oft die wichtigste Ressource für Zauberwirker — durch die Wiederherstellung von Mana beim Farmen und Kämpfen ermöglicht der Glacium-Reißer Helden, Fähigkeiten weiterhin einzusetzen ohne die Ressourcen zu erschöpfen. Das Item bietet auch Zaubermacht und ein einzigartiges abprallendes magisches Projektil.",
+    "strengths": [
+      "Bietet Zaubermacht",
+      "Stellt Mana durch Farmen und Kämpfen wieder her",
+      "Gewährt Bewegungsgeschwindigkeit auf Maximallevel",
+      "Hilft Helden, länger aktiv zu bleiben",
+      "Verbessert die Farmeffizienz",
+      "Einzigartiges abprallendes magisches Projektil",
+      "Starke Wahl für manaabhängige Helden"
+    ],
+    "weaknesses": [
+      "Weniger effektiv bei Helden, die nicht häufig Mana verwenden",
+      "Bietet weniger direkten Schaden als dedizierte Offensivitems",
+      "Der magische Projektileffekt ist zufallsbasiert",
+      "Erfordert aktives Farmen für maximale Manawiederherstellung"
+    ],
+    "tips": [
+      "Büsche zerstören ist ein ausgezeichneter Weg, Mana wiederherzustellen.",
+      "Das Item wird wertvoller, je häufiger dein Held Zauber wirkt.",
+      "Das magische Projektil kann helfen, mehrere Büsche mit einem einzigen Angriff zu räumen.",
+      "Bewegungsgeschwindigkeit auf Maximallevel ermöglicht es manchen Helden, einfache Stiefel zu überspringen.",
+      "Zauberwirker erhalten generell den meisten Nutzen vom Glacium-Reißer.",
+      "Das abprallende Projektil kann gelegentlich Ziele treffen, die du nicht direkt angegriffen hast."
+    ],
+    "bestHeroes": {
+      "viverna": "Viverna ist stark auf Mana und Zauber-Schaden angewiesen. Die Manawiederherstellung hilft ihr, Fähigkeiten weiterhin zu wirken, während zusätzliche Zaubermacht die Effektivität ihrer Gift- und magischen Angriffe verbessert.",
+      "faerie": "Faerie profitiert von jedem Aspekt des Glacium-Reißers. Zusätzliches Mana ermöglicht häufigeres Zaubern, Zaubermacht erhöht ihren Schadensausstoß und Bewegungsgeschwindigkeit verbessert ihre Mobilität."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Glacium-Reißer frei?",
+        "a": "Der Glacium-Reißer ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert er keine Heldenentwicklung."
+      },
+      {
+        "q": "Wie stellt der Glacium-Reißer Mana wieder her?",
+        "a": "Mana wird wiederhergestellt, wenn du Büsche, Creeps oder feindliche Helden zerstörst."
+      },
+      {
+        "q": "Was macht die magische Axt?",
+        "a": "Die magische Axt wandelt den Angriff in magischen Schaden um und prallt zu einem zusätzlichen Ziel ab."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Glacium-Reißer?",
+        "a": "Viverna und Faerie gehören zu den stärksten Nutzern, da sie stark auf Mana und Zauber-Schaden angewiesen sind."
+      },
+      {
+        "q": "Ist der Glacium-Reißer gut zum Farmen?",
+        "a": "Ja. Sowohl die Manawiederherstellung als auch das abprallende Projektil verbessern die Farmeffizienz."
+      },
+      {
+        "q": "Kann der Glacium-Reißer Stiefel ersetzen?",
+        "a": "Für manche Helden ja. Der Bewegungsgeschwindigkeitsbonus ermöglicht bestimmten Builds, Mobilität zu gewinnen ohne einen Item-Slot für Stiefel zu widmen."
+      }
+    ],
+    "description": "Glacium-Spalter ist ein mystischer Gegenstand für manabhängige Helden. Er bietet Zauberkraft, Bewegungsgeschwindigkeit und einen einzigartigen Einfriereffekt."
+  },
+  "ClawsOfFerocity": {
+    "whyUse": "Klauen der Wildheit sind für Helden konzipiert, die bereits Zugang zu kritischer Trefferchance haben. Im Gegensatz zu Items, die sich auf die Erhöhung der Häufigkeit kritischer Treffer konzentrieren, fokussieren sich die Klauen der Wildheit auf die Verstärkung ihrer Auswirkung — jeder erfolgreiche kritische Treffer wird deutlich stärker. Das Item bietet auch Bonuslebenspunkte, was es überraschend widerstandsfähig für ein offensives Item macht.",
+    "strengths": [
+      "Erhöht kritischen Trefferschaden",
+      "Bietet Bonuslebenspunkte",
+      "Gewährt zusätzliche kritische Trefferchance",
+      "Ausgezeichnete Synergie mit anderen kritischen Treffer-Items",
+      "Stark bei Helden mit eingebauten kritischen Treffereffekten",
+      "Verbessert sowohl Angriff als auch Überlebensfähigkeit"
+    ],
+    "weaknesses": [
+      "Relativ schwach ohne andere Quellen für kritische Trefferchance",
+      "Bietet weniger direkten Schaden als manche Offensivitems",
+      "Kritische Treffer bleiben zufallsbasiert",
+      "Weniger effektiv bei Helden, die nicht auf physischen Schaden angewiesen sind"
+    ],
+    "tips": [
+      "Klauen der Wildheit sind am stärksten in Kombination mit zusätzlicher kritischer Trefferchance.",
+      "Das Item erhöht den Wert jedes kritischen Treffers.",
+      "Bonuslebenspunkte machen das Item sicherer als viele reine Offensivalternativen.",
+      "Kritische Treffer-Builds profitieren generell mehr von diesem Item als Standard-Schaden-Builds.",
+      "Erwäge, Klauen der Wildheit mit Tödlichen Klauen für maximale Effektivität zu kombinieren.",
+      "Helden mit eingebauten kritischen Treffereffekten erhalten außergewöhnlichen Nutzen."
+    ],
+    "bestHeroes": {
+      "death-slayer": "Death Slayer hat bereits durch seine Fähigkeiten Zugang zu kritischen Treffereffekten. Die Erhöhung des Schadens dieser kritischen Treffer verbessert sein Burst-Potenzial erheblich, während die zusätzlichen Lebenspunkte ihm helfen zu überleben."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich Klauen der Wildheit frei?",
+        "a": "Klauen der Wildheit sind von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordern sie keine Heldenentwicklung."
+      },
+      {
+        "q": "Was machen Klauen der Wildheit?",
+        "a": "Klauen der Wildheit erhöhen kritischen Trefferschaden, gewähren Bonuslebenspunkte und bieten zusätzliche kritische Trefferchance."
+      },
+      {
+        "q": "Wie viel Schaden verursachen kritische Treffer mit Klauen der Wildheit?",
+        "a": "Normalerweise verursachen kritische Treffer 50% zusätzlichen physischen Schaden. Klauen der Wildheit erhöhen diesen Bonus auf 75%."
+      },
+      {
+        "q": "Funktionieren Klauen der Wildheit gut mit Tödlichen Klauen?",
+        "a": "Ja. Tödliche Klauen erhöhen die kritische Trefferchance, während Klauen der Wildheit den kritischen Trefferschaden erhöhen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Klauen der Wildheit?",
+        "a": "Death Slayer, Volcarn und Shadow Fury gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Ist es ein Überlebensfähigkeits- oder Schadensitem?",
+        "a": "Es ist primär ein Schadensitem, aber die Bonuslebenspunkte bieten wertvolle Überlebensfähigkeit."
+      }
+    ],
+    "description": "Klauen der Wildheit ist ein mystischer Gegenstand, der auf kritische Treffer ausgerichtet ist. Er bietet Bonusgesundheit, kritische Trefferchance und kritischen Schaden."
+  },
+  "Cuirass": {
+    "whyUse": "Der Küraß ist das bevorzugte Item, wenn dein Held mehr Überlebensfähigkeit benötigt. Viele Builds konzentrieren sich stark auf Schaden, Angriffsgeschwindigkeit, Zaubermacht oder Utility. Während diese Builds mächtig sein können, lassen sie Helden oft in Teamkämpfen verwundbar. Der Küraß löst dieses Problem, indem er ein großes Maximum an Lebenspunkten bietet.",
+    "strengths": [
+      "Bietet sehr viele Lebenspunkte",
+      "Effektiv bei fast jedem Helden",
+      "Ausgezeichnet zum Ausbalancieren offensiver Builds",
+      "Verbessert Überlebensfähigkeit im gesamten Match",
+      "Gewährt auf höheren Leveln zusätzliche Regenerationsboni"
+    ],
+    "weaknesses": [
+      "Erhöht nicht den Schadensausstoß",
+      "Bietet keine Mobilitätsboni",
+      "Kann weniger wertvoll sein, wenn dein Build bereits mehrere defensive Items enthält"
+    ],
+    "tips": [
+      "Der Küraß ist oft ein starker Kauf, wenn die meisten anderen Items wenig oder keine Lebenspunkte bieten.",
+      "Bereits das erste Level kann die Überlebensfähigkeit im Early Game drastisch erhöhen.",
+      "Helden mit natürlich hoher Rüstung erhalten außergewöhnlichen Nutzen von Bonuslebenspunkten.",
+      "Erwäge, den Küraß zu upgraden, wenn Kämpfe länger dauern und du häufig eliminiert wirst, bevor du alle Fähigkeiten einsetzen kannst.",
+      "Die Regenerationsboni werden bei ausgedehnten Matches und wiederholten Gefechten spürbarer."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Seine natürlich hohe Rüstung macht jeden Punkt zusätzlicher Lebenspunkte wertvoller und ermöglicht ihm, deutlich mehr Schaden in Kämpfen zu absorbieren.",
+      "faerie": "Investiert oft stark in Zaubermacht- und manaorientierte Items. Der Küraß hilft, den Mangel an Überlebensfähigkeit zu kompensieren.",
+      "viverna": "Da viele magieroientierte Builds Schaden über Beständigkeit priorisieren, bietet der Küraß einen effizienten Weg, deutlich schwerer eliminierbar zu werden."
+    },
+    "faq": [
+      {
+        "q": "Lohnt sich der Küraß bei Schaden-Helden?",
+        "a": "Ja. Viele schadensorientierte Builds werden deutlich stärker, wenn sie mindestens ein defensives Item enthalten."
+      },
+      {
+        "q": "Ist der Küraß nur für Tanks?",
+        "a": "Nein. Während Tanks stark vom Küraß profitieren, kaufen Magier und Schadenswirker ihn oft, um nicht zu schnell eliminiert zu werden."
+      },
+      {
+        "q": "Wann sollte ich den Küraß upgraden?",
+        "a": "Wenn du Schwierigkeiten hast, Teamkämpfe zu überleben oder häufig besiegt wirst, bevor du deine Fähigkeiten einsetzen kannst, ist das Upgraden des Küraß oft eine gute Investition."
+      }
+    ],
+    "description": "Küraß ist einer der zuverlässigsten Verteidigungsgegenstände in Spelltroum. Er bietet eine große Menge an Bonusgesundheit und physischer Rüstung."
+  },
+  "Helmet": {
+    "whyUse": "Der Schutzhelm ist das bevorzugte Item gegen mächtige Zauberwirker. Das Item reduziert eingehenden magischen Schaden erheblich und ermöglicht Helden, Fähigkeiten zu überleben, die sonst verheerend wären. Gleichzeitig erhöht der Schutzhelm die Zaubermacht, sodass der Besitzer weiterhin offensiv profitiert. Da Zaubermacht in Spelltroum alle Fähigkeiten verbessert — einschließlich Fähigkeiten, die physischen Schaden verursachen — bietet der Schutzhelm einer überraschend großen Vielfalt von Helden Nutzen.",
+    "strengths": [
+      "Bietet eine große Menge an magischer Resistenz",
+      "Erhöht die Zaubermacht",
+      "Stark gegen Zauberwirker",
+      "Effektiv bei Magiern und Nicht-Magiern",
+      "Hilft, Burst-Schaden zu überleben",
+      "Ausgezeichnete defensive Option in magierreichen Matches"
+    ],
+    "weaknesses": [
+      "Bietet wenig Nutzen gegen Teams, die hauptsächlich physischen Schaden verursachen",
+      "Erhöht nicht die physische Widerstandsfähigkeit",
+      "Weniger effektiv, wenn Feinde begrenzten magischen Schaden haben",
+      "Oft unnötig gegen rein physische Teamzusammensetzungen"
+    ],
+    "tips": [
+      "Der Schutzhelm ist am effektivsten gegen Teams mit mehreren Zauberwirkern.",
+      "Magische Resistenz wird wertvoller, wenn feindlicher Zauber-Schaden zunimmt.",
+      "Helden mit großen Lebenspunktepools erhalten außergewöhnlichen Nutzen von magischer Resistenz.",
+      "Ein oder zwei Upgrades reichen oft früh im Match.",
+      "Das Item bietet sowohl defensive als auch offensive Vorteile.",
+      "Erwäge den Schutzhelm, wenn feindliche Fähigkeiten schwer zu überleben werden."
+    ],
+    "bestHeroes": {
+      "volcarn": "Volcarn kann anfällig für Burst-Schaden von Zauberwirkern sein, und der Schutzhelm hilft ihm, lange genug zu überleben, um zu einem mächtigen Late-Game-Helden zu skalieren.",
+      "grizzly": "In Magier-gegen-Magier-Matchups ist der Schutzhelm oft eine starke Wahl. Er reduziert eingehenden Zauber-Schaden und erhöht gleichzeitig die Zaubermacht.",
+      "faerie": "Beim Kampf gegen andere Zauberwirker kann die zusätzliche magische Resistenz die Überlebensfähigkeit dramatisch verbessern."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Schutzhelm frei?",
+        "a": "Der Schutzhelm ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert er keine Heldenentwicklung."
+      },
+      {
+        "q": "Funktioniert der Schutzhelm nur bei Magiern?",
+        "a": "Nein. Jeder Held kann von magischer Resistenz profitieren. Viele physische Schadenshelden kaufen den Schutzhelm gegen starke Zauberwirker."
+      },
+      {
+        "q": "Verbessert Zaubermacht physische Fähigkeiten?",
+        "a": "Ja. In Spelltroum verbessert Zaubermacht alle Fähigkeiten, einschließlich Fähigkeiten, die physischen Schaden verursachen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Schutzhelm?",
+        "a": "Volcarn, Grizzly, Stonewarden, Viverna und Faerie gehören zu den stärksten Nutzern, besonders gegen magiereiche Gegner."
+      },
+      {
+        "q": "Ist der Schutzhelm ein Konter-Item?",
+        "a": "Ja. Der Schutzhelm ist primär ein Konter-Item, um eingehenden magischen Schaden zu reduzieren."
+      },
+      {
+        "q": "Sollte ich den Schutzhelm sofort vollständig upgraden?",
+        "a": "Normalerweise nicht. Viele Spieler kaufen früh ein oder zwei Upgrades und vervollständigen das Item später."
+      }
+    ],
+    "description": "Wächterhelm ist ein mystischer Gegenstand, der gegen Magieschaden konzipiert ist. Er bietet eine große Menge magischer Rüstung und Gesundheit."
+  },
+  "TitansHelmet": {
+    "description": "Der Titanhelm ist ein legendäres Defensivitem, das durch das Upgraden von Stonewarden freigeschaltet wird. Er bietet physische Rüstung, Zaubermacht und einen mächtigen Schadensreflexionseffekt, der Feinde für Angriffe auf den Träger bestraft. Wann immer der Besitzer Schaden erleidet, wird ein Teil dieses Schadens als reiner Schaden an den Angreifer zurückgespiegelt.",
+    "whyUse": "Der Titanhelm ist für Helden konzipiert, die damit rechnen, angegriffen zu werden. Anstatt eingehenden Schaden einfach zu reduzieren, bestraft er Feinde aktiv dafür, Schaden zu verursachen — jeder Angriff gegen den Träger hat einen Preis. Der Reflexionseffekt ist besonders mächtig gegen Lebensraub-Builds, da reflektierter reiner Schaden die von Feinden regenerierten Lebenspunkte sofort ausgleicht.",
+    "strengths": [
+      "Reflektiert eingehenden Schaden",
+      "Reflektierter Schaden ignoriert Rüstung",
+      "Bietet starke physische Rüstung",
+      "Gewährt Zaubermacht",
+      "Ausgezeichnet gegen Lebensraub-Builds",
+      "Effektiv bei Tanks und manchen Zauberwirkern",
+      "Bestraft Feinde dafür, den Träger zu fokussieren"
+    ],
+    "weaknesses": [
+      "Weniger effektiv, wenn Feinde den Träger nicht direkt angreifen",
+      "Bietet weniger direkte Lebenspunkte als dedizierte Lebenspunkte-Items",
+      "Reflexionsschaden hängt davon ab, zuerst Schaden zu nehmen",
+      "Normalerweise am stärksten bei widerstandsfähigen Helden"
+    ],
+    "tips": [
+      "Der Titanhelm ist am stärksten bei Helden, die lange Kämpfe überstehen können.",
+      "Helden mit hohen Lebenspunkten erhalten generell den meisten Nutzen.",
+      "Kombiniere den Titanhelm mit lebenspunkteorientierten Items für maximale Haltbarkeit."
+    ],
+    "faq": [
+      {
+        "q": "Wie funktioniert Schadensreflexion?",
+        "a": "Wann immer der Träger Schaden erleidet, wird ein Teil dieses Schadens als reiner Schaden an den Angreifer zurückgespiegelt."
+      },
+      {
+        "q": "Ignoriert reflektierter Schaden Rüstung?",
+        "a": "Ja. Schadensreflexion verursacht reinen Schaden und wird nicht durch physische oder magische Rüstung reduziert."
+      }
+    ]
+  },
+  "BoneCuirass": {
+    "whyUse": "Der Knochenpanzer ist für Helden konzipiert, die sowohl Haltbarkeit als auch Crowd Control benötigen. Der große Lebenspunktebonus macht Helden deutlich schwerer zu eliminieren, während der Verlangsamungseffekt Möglichkeiten schafft, Feinde zu verfolgen, Verbündete zu schützen und Kills zu sichern.",
+    "strengths": [
+      "Bietet viele Lebenspunkte",
+      "Kann feindliche Bewegungsgeschwindigkeit verlangsamen",
+      "Hilft Helden, in der Nähe ihrer Ziele zu bleiben",
+      "Stark in koordiniertem Teamspiel",
+      "Verbessert sowohl Überlebensfähigkeit als auch Utility",
+      "Wirksam in allen Spielphasen"
+    ],
+    "weaknesses": [
+      "Der Verlangsamungseffekt ist zufallsbasiert",
+      "Bietet weniger direkten Schaden als Offensivitems",
+      "Weniger wertvoll gegen Feinde, die nicht auf Bewegung angewiesen sind",
+      "Erhöht nicht Angriffsschaden oder Zaubermacht"
+    ],
+    "tips": [
+      "Der Knochenpanzer ist besonders effektiv, wenn mehrere Verbündete dasselbe Ziel fokussieren.",
+      "Der Verlangsamungseffekt macht es einfacher, Kills zu sichern.",
+      "Helden, die häufig angreifen, haben mehr Möglichkeiten, die Verlangsamung aufzubringen.",
+      "Zusätzliche Lebenspunkte machen das Item nützlich, auch wenn die Verlangsamung nicht auslöst.",
+      "Erwäge den Knochenpanzer, wenn Feinde häufig mit niedrigen Lebenspunkten entkommen.",
+      "Das Item ist besonders stark in teambasierten Modi."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich den Knochenpanzer frei?",
+        "a": "Der Knochenpanzer wird durch das Tägliche-Belohnungs-System freigeschaltet."
+      },
+      {
+        "q": "Was macht der Knochenpanzer?",
+        "a": "Der Knochenpanzer bietet Bonuslebenspunkte und gibt Angriffen eine Chance, Feinde zu verlangsamen."
+      },
+      {
+        "q": "Wann wird der Verlangsamungseffekt verfügbar?",
+        "a": "Der Verlangsamungseffekt wird nach dem Upgraden des Knochenpanzers verfügbar."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Knochenpanzer?",
+        "a": "Druid, Volcarn und Mortifier gehören zu den stärksten Nutzern, da sie stark davon profitieren, Feinde in Angriffsreichweite zu halten."
+      },
+      {
+        "q": "Ist der Knochenpanzer gut im Teamspiel?",
+        "a": "Ja. Der Knochenpanzer ist besonders mächtig, wenn Verbündete dasselbe Ziel fokussieren."
+      },
+      {
+        "q": "Ist der Knochenpanzer ein Defensiv- oder Utility-Item?",
+        "a": "Beides. Er bietet viele Lebenspunkte und Crowd Control durch seinen Verlangsamungseffekt."
+      }
+    ],
+    "description": "Knochenpanzer ist ein defensiver Gegenstand, der durch das tägliche Belohnungssystem freigeschaltet wird. Er bietet eine große Menge an Gesundheit und physischer Rüstung."
+  },
+  "DragonCuirass": {
+    "whyUse": "Der Drachenpanzer ist für Spieler konzipiert, die früh und oft Kills sichern möchten. Das Item bietet Bonuslebenspunkte und einen Kill-Belohnungsbonus, der zusätzliches Gold generiert, wann immer Feinde eliminiert werden. Dies schafft einen mächtigen Schneeballeffekt.",
+    "strengths": [
+      "Bietet Bonuslebenspunkte",
+      "Gewährt zusätzliches Gold für feindliche Kills",
+      "Ausgezeichnetes Schneeballpotenzial",
+      "Starkes Early-Game-Item",
+      "Belohnt aggressive Spielstile",
+      "Von Beginn des Spiels verfügbar"
+    ],
+    "weaknesses": [
+      "Erfordert Kills für vollen Nutzen",
+      "Weniger effektiv in passiven Matches",
+      "Bietet weniger direkte Kampfkraft als manche anderen Items",
+      "Kann eine schlechte Investition sein, wenn du früh zurückfällst"
+    ],
+    "tips": [
+      "Der Drachenpanzer ist am stärksten, wenn er früh gekauft wird.",
+      "Das Item belohnt aggressives Spielen und häufiges Kämpfen.",
+      "Zusätzliches Gold ist am wertvollsten, wenn es schnell in Item-Upgrades umgewandelt wird.",
+      "Koordiniere mit Teammitgliedern, um mehr Eliminierungen zu sichern.",
+      "Der Lebenspunktebonus hilft dir, riskante Gefechte zu überleben.",
+      "Der Drachenpanzer ist oft effektiver in schnellen Matches als in passiven Farm-Spielen."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich den Drachenpanzer frei?",
+        "a": "Der Drachenpanzer ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert er keine Heldenentwicklung."
+      },
+      {
+        "q": "Wie funktioniert der Drachenpanzer?",
+        "a": "Der Drachenpanzer gewährt zusätzliches Gold, wann immer du bei feindlichen Eliminierungen hilfst."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Drachenpanzer?",
+        "a": "Aggressive Helden wie Viverna, Druid und Death Slayer gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Ist der Drachenpanzer gut zum Farmen?",
+        "a": "Nicht primär. Der Drachenpanzer ist dafür konzipiert, Kills zu belohnen, nicht passives Ressourcensammeln."
+      },
+      {
+        "q": "Kontert der Drachenpanzer den Hexmeisterstab?",
+        "a": "In vielen Situationen ja. Der Hexmeisterstab belohnt Spieler fürs Sterben, während der Drachenpanzer Spieler für das Sichern von Kills belohnt."
+      },
+      {
+        "q": "Wann sollte ich den Drachenpanzer kaufen?",
+        "a": "Der Drachenpanzer ist normalerweise am stärksten, wenn er früh gekauft wird, sodass du durch aggressives Spielen und häufige Eliminierungen snowballen kannst."
+      }
+    ],
+    "description": "Drachenpanzer ist ein mystischer Gegenstand für aggressive Spieler. Er bietet Bonusgesundheit und erhöht den verursachten Schaden basierend auf der aktuellen Gesundheit."
+  },
+  "DruidCuirass": {
+    "whyUse": "Der Druidenpanzer ist für Helden konzipiert, die häufig Kills sichern. Im Gegensatz zu traditionellen Defensivitems, die einfach die Überlebensfähigkeit erhöhen, belohnt er aktiv erfolgreiches Farmen und Kämpfen — jeder zerstörte Busch, eliminierte Creep oder besiegte feindliche Held trägt zur Überlebensfähigkeit bei, indem Lebenspunkte wiederhergestellt werden.",
+    "strengths": [
+      "Bietet viele Bonuslebenspunkte",
+      "Stellt Lebenspunkte durch Kills wieder her",
+      "Wirksam beim Farmen und Kämpfen",
+      "Ausgezeichnetes Ausdauer-Item",
+      "Belohnt aggressive Spielstile",
+      "Kann massive Heilung von haltbaren Zielen bieten"
+    ],
+    "weaknesses": [
+      "Erfordert Kills für seinen Effekt",
+      "Bietet weniger Nutzen, wenn du zurückfällst",
+      "Weniger zuverlässig als passive Regeneration",
+      "Bietet keine direkte Schadenserhöhung"
+    ],
+    "tips": [
+      "Der Druidenpanzer belohnt Helden, die konsequent Kills sichern.",
+      "Büsche und Creeps können genauso wie feindliche Helden heilen.",
+      "Das Item wird in Gebieten mit vielen Farm-Möglichkeiten wertvoller.",
+      "Das Eliminieren von Zielen mit hohen Lebenspunkten bietet deutlich größere Heilungsmengen.",
+      "Flächenwirkungsfähigkeiten können häufig Heilung auslösen.",
+      "Der Druidenpanzer ist am stärksten, wenn er aggressiv eingesetzt wird."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich den Druidenpanzer frei?",
+        "a": "Der Druidenpanzer ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert er keine Heldenentwicklung."
+      },
+      {
+        "q": "Funktioniert der Druidenpanzer bei Büschen?",
+        "a": "Ja. Das Zerstören von Büschen kann den Heilungseffekt auslösen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Druidenpanzer?",
+        "a": "Spiritmonger, Viverna und Faerie gehören zu den stärksten Nutzern, da sie mehrere Ziele mit ihren Fähigkeiten häufig eliminieren können."
+      },
+      {
+        "q": "Ist der Druidenpanzer gut zum Farmen?",
+        "a": "Ja. Das Item bietet Heilung aus Büschen und Creeps und ist damit eines der stärksten Ausdauer-Items für farmorientierende Spielstile."
+      },
+      {
+        "q": "Ist der Druidenpanzer besser als ein normales Lebenspunkte-Item?",
+        "a": "Das kommt darauf an. Der Druidenpanzer kann weit mehr Heilung bieten als ein normales Lebenspunkte-Item, wenn du konsequent Kills sicherst, bietet aber weniger Nutzen, wenn du Ziele nicht beenden kannst."
+      }
+    ],
+    "description": "Druidenpanzer ist ein mystischer Gegenstand, der eine große Menge an Bonusgesundheit bietet und Helden für das Bleiben nahe bei Verbündeten belohnt."
+  },
+  "MageCloak": {
+    "whyUse": "Der Magiermantel ist für Helden konzipiert, die zusätzliches Mana benötigen ohne Überlebensfähigkeit zu opfern. Viele Helden erreichen irgendwann einen Punkt, wo ihre Fähigkeiten mächtig, aber teuer werden — in diesen Situationen kann ein größerer Manapool der Unterschied sein zwischen dem Wirken einer wichtigen Fähigkeit oder dem Warten. Gleichzeitig bietet der Magiermantel Bonuslebenspunkte.",
+    "strengths": [
+      "Bietet sowohl Lebenspunkte als auch Mana",
+      "Erhöht die Fähigkeitsnutzung in Kämpfen",
+      "Hilft Helden, länger zu überleben",
+      "Passt in eine Vielzahl von Builds",
+      "Ausgezeichnetes Utility-Item für manaabhängige Helden",
+      "Einfacher und zuverlässiger Nutzen"
+    ],
+    "weaknesses": [
+      "Bietet keine direkte Schadenserhöhung",
+      "Keine Rüstung oder Resistenz",
+      "Weniger nützlich für Helden, die selten Mana verbrauchen",
+      "Kann in bestimmten Builds von spezialisierten Items übertroffen werden"
+    ],
+    "tips": [
+      "Der Magiermantel ist oft stärker als ein reines Lebenspunkte-Item, wenn Mana deine Fähigkeitsnutzung einschränkt.",
+      "Erwäge den Magiermantel, wenn du in Kämpfen häufig kein Mana mehr hast.",
+      "Das Item funktioniert besonders gut in Builds, die bereits mehrere Offensivitems enthalten.",
+      "Zusätzliches Mana kann manchmal wertvoller sein als zusätzlicher Schaden.",
+      "Der Magiermantel ist bei Helden mit teuren Fähigkeiten am effektivsten.",
+      "Die Bonuslebenspunkte helfen, den Mangel an defensiven Werten in vielen offensiven Builds auszugleichen."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich den Magiermantel frei?",
+        "a": "Der Magiermantel ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert er keine Heldenentwicklung."
+      },
+      {
+        "q": "Was macht der Magiermantel?",
+        "a": "Der Magiermantel erhöht dein maximales Lebenspunkte und Mana."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Magiermantel?",
+        "a": "Freezi und Shadow Fury gehören zu den Helden, die häufig davon profitieren, da sie oft zusätzliches Mana und Überlebensfähigkeit benötigen."
+      },
+      {
+        "q": "Ist der Magiermantel nur für Magier?",
+        "a": "Nein. Jeder Held, der einen größeren Manapool benötigt, kann vom Magiermantel profitieren."
+      },
+      {
+        "q": "Wann sollte ich den Magiermantel kaufen?",
+        "a": "Der Magiermantel ist eine starke Wahl, wenn deine Fähigkeiten zu viel Mana verbrauchen oder wenn deinem Build sowohl Lebenspunkte als auch Mana fehlen."
+      },
+      {
+        "q": "Erhöht der Magiermantel den Schaden?",
+        "a": "Nein. Der Magiermantel erhöht nicht direkt den Schaden. Sein Zweck ist es, zusätzliche Ressourcen und Überlebensfähigkeit zu bieten."
+      }
+    ],
+    "description": "Magiermantel ist ein mystischer Gegenstand, der zwei wesentliche Ressourcen bietet: Gesundheit und Mana."
+  },
+  "ManaShield": {
+    "whyUse": "Der Manaschutzschild ist für Helden mit großen Manapools konzipiert. Je mehr Mana ein Held hat, desto mehr Schaden kann der Manaschutzschild absorbieren, bevor die Lebenspunkte signifikant sinken — wodurch Mana effektiv in eine zusätzliche Verteidigungsschicht umgewandelt wird. Für Helden, die von Natur aus manabasierte Items bauen oder von manabasierten Items profitieren, kann der Manaschutzschild weit mehr Überlebensfähigkeit bieten als traditionelle Ausrüstung.",
+    "strengths": [
+      "Wandelt einen Teil des eingehenden Schadens in Mana-Verlust um",
+      "Erhöht die Überlebensfähigkeit bei manabasierten Helden erheblich",
+      "Skaliert mit maximalem Mana",
+      "Funktioniert außergewöhnlich gut mit manaorientierten Builds",
+      "Kann tankige Helden noch schwerer eliminierbar machen",
+      "Bietet Mana-Regeneration zusätzlich zu seinem defensiven Effekt"
+    ],
+    "weaknesses": [
+      "Erfordert einen großen Manapool für volles Potenzial",
+      "Weniger effektiv bei Helden mit niedrigem Mana",
+      "Kann Helden ohne Fähigkeiten lassen, wenn Mana erschöpft ist",
+      "Anfällig für Manaverbrennungseffekte",
+      "Bietet weniger Nutzen bei Feinden, die schnell Mana entleeren können"
+    ],
+    "tips": [
+      "Der Manaschutzschild wird stärker, wenn dein maximales Mana steigt.",
+      "Helden mit großen Manapools erhalten den meisten Nutzen.",
+      "Erwäge, den Manaschutzschild mit anderen manaorientierten Items zu kombinieren.",
+      "Versuche, Mana nicht unnötig vor wichtigen Kämpfen zu verschwenden.",
+      "Der Manaschutzschild ist bei haltbaren Helden oft effektiver als bei zerbrechlichen.",
+      "Überwache dein Mana sorgfältig — das Erschöpfen entfernt auch einen Großteil des Schutzes."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich den Manaschutzschild frei?",
+        "a": "Der Manaschutzschild wird durch das Upgraden von Flameweaver freigeschaltet."
+      },
+      {
+        "q": "Wie funktioniert der Manaschutzschild?",
+        "a": "Der Manaschutzschild absorbiert einen Teil des eingehenden Schadens, indem er Mana verbraucht. Anstatt dass der gesamte Schaden an die Lebenspunkte geht, wird ein Teil davon an den Manapool umgeleitet."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Manaschutzschild?",
+        "a": "Flameweaver ist der stärkste Nutzer, da er von Natur aus manaorientierte Items baut. Stonewarden kann den Manaschutzschild auch in bestimmten defensiven Builds effektiv nutzen."
+      },
+      {
+        "q": "Ist der Manaschutzschild bei jedem Helden gut?",
+        "a": "Nein. Helden mit kleinen Manapools erhalten oft begrenzten Nutzen, da ihr Mana zu schnell erschöpft wird."
+      },
+      {
+        "q": "Was konterkariert den Manaschutzschild?",
+        "a": "Manaverbrennungseffekte sind einer der stärksten Konter gegen den Manaschutzschild. Items wie die Manaaxt können schnell Mana entleeren und gleichzeitig Schaden verursachen."
+      },
+      {
+        "q": "Sollte ich mehr Mana bauen, wenn ich den Manaschutzschild kaufe?",
+        "a": "Ja. Der Manaschutzschild wird deutlich stärker in Kombination mit Items, die maximales Mana erhöhen oder Mana-Ausdauer verbessern."
+      }
+    ],
+    "description": "Manaschildist ein legendärer Gegenstand, der durch das Upgraden von Flameweaver freigeschaltet wird. Er wandelt einen Teil des eingehenden Schadens in Manaverbrauch um."
+  },
+  "Hammer": {
+    "description": "Der Betäubungshammer ist ein Mystik-Item, das Bonuslebenspunkte bietet und Angriffen eine Chance gibt, Feinde zu betäuben. Wenn die Betäubung auslöst, kann das Ziel sich für kurze Zeit weder bewegen, angreifen noch Fähigkeiten wirken. Selbst eine einsekundige Betäubung kann den Ausgang eines Kampfes vollständig verändern.",
+    "whyUse": "Der Betäubungshammer ist für Helden konzipiert, die häufig angreifen. Je mehr Angriffe ein Held macht, desto mehr Möglichkeiten hat er, den Betäubungseffekt auszulösen — was Angriffsgeschwindigkeit zu einem der wichtigsten Werte bei diesem Item macht. Das Item bietet auch Bonuslebenspunkte, was es nützlich macht, auch wenn die Betäubung nicht aktiviert wird. Viele Spieler upgraden den Betäubungshammer früh auf Stufe 2, um den Betäubungseffekt freizuschalten, und konzentrieren sich dann auf andere Items.",
+    "strengths": [
+      "Bietet Bonuslebenspunkte",
+      "Gibt Angriffen eine Chance zu betäuben",
+      "Ausgezeichnete Crowd Control",
+      "Stark bei Helden mit hoher Angriffsgeschwindigkeit",
+      "Wirksam in allen Spielphasen",
+      "Kann feindliche Fähigkeiten und Fluchtversuche unterbrechen"
+    ],
+    "weaknesses": [
+      "Der Betäubungseffekt ist zufallsbasiert",
+      "Weniger effektiv bei Helden mit niedriger Angriffsgeschwindigkeit",
+      "Bietet weniger direkten Schaden als Offensivitems",
+      "Interner Cooldown verhindert kontinuierliche Betäubungen"
+    ],
+    "tips": [
+      "Angriffsgeschwindigkeit steigert den Wert des Betäubungshammers erheblich.",
+      "Eine einzige Betäubung kann ausreichen, um einen Kill zu sichern.",
+      "Das Item ist besonders effektiv gegen Helden, die auf Mobilität angewiesen sind.",
+      "Der Betäubungshammer funktioniert am besten in langen Kämpfen, wo viele Angriffe gemacht werden.",
+      "Erwäge, das Item früh auf Stufe 2 zu upgraden, um den Betäubungseffekt freizuschalten.",
+      "Bonuslebenspunkte machen das Item nützlich, auch wenn keine Betäubungen ausgelöst werden."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich den Betäubungshammer frei?",
+        "a": "Der Betäubungshammer ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert er keine Heldenentwicklung."
+      },
+      {
+        "q": "Wie funktioniert der Betäubungshammer?",
+        "a": "Angriffe haben eine Chance, Feinde zu betäuben und sie daran zu hindern, sich zu bewegen, anzugreifen oder Fähigkeiten zu wirken."
+      },
+      {
+        "q": "Kann der Betäubungshammer Feinde dauerhaft betäuben?",
+        "a": "Nein. Nach einer erfolgreichen Betäubung tritt das Item in einen kurzen internen Cooldown ein."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Betäubungshammer?",
+        "a": "Freezi, Spitfire und Volcarn gehören zu den stärksten Nutzern, da ihre hohe Angriffsgeschwindigkeit mehr Möglichkeiten bietet, die Betäubung auszulösen."
+      },
+      {
+        "q": "Wann sollte ich den Betäubungshammer upgraden?",
+        "a": "Viele Spieler upgraden ihn früh auf Stufe 2, um den Betäubungseffekt freizuschalten, und beenden das Upgrade später."
+      },
+      {
+        "q": "Ist der Betäubungshammer ein Schadensitem?",
+        "a": "Nicht primär. Er ist hauptsächlich ein Utility- und Control-Item, das Lebenspunkte und Crowd Control bietet."
+      }
+    ]
+  },
+  "ReapersEmbrace": {
+    "description": "Sensenangriff ist ein Mystik-Item, das offensive Kraft, Überlebensfähigkeit und Ausdauer kombiniert. Es gewährt physischen Lebensraub, Zauber-Lebensraub, magische Resistenz und eine einzigartige Chance, eine spektrale Sense zu schleudern, die alles auf ihrem Weg schädigt. Im Gegensatz zu den meisten Lebensraub-Items, die nur physischen Angreifern zugutekommen, kann Sensenangriff Lebenspunkte aus sowohl physischem als auch magischem Schaden regenerieren.",
+    "whyUse": "Sensenangriff ist für Helden konzipiert, die sowohl offensive Kraft als auch Überlebensfähigkeit möchten. Das Item bietet Lebensraub aus physischem und magischem Schaden und ermöglicht es Helden, durch fast jede Form des Kampfes Lebenspunkte zu regenerieren. Einer seiner größten Vorteile ist, dass der Lebensraub-Effekt bereits beim ersten Upgrade verfügbar ist. Die spektrale Sense fügt weiteres Ausdauerpotenzial hinzu — sie reist in einer geraden Linie und schädigt jedes Ziel, das sie durchquert.",
+    "strengths": [
+      "Bietet sowohl physischen als auch Zauber-Lebensraub",
+      "Gewährt magische Resistenz",
+      "Ausdauer ab dem ersten Upgrade verfügbar",
+      "Stark gegen Zauberwirker",
+      "Einzigartiges spektrales Sense-Projektil, das mehrere Ziele durchdringt",
+      "Wirksam bei physischen und magischen Helden",
+      "Ausgezeichnetes hybrides Offensiv- und Defensivitem"
+    ],
+    "weaknesses": [
+      "Der Senseneffekt ist zufallsbasiert",
+      "Bietet weniger rohen Schaden als dedizierte Offensivitems",
+      "Weniger effektiv bei Helden, die selten Schaden verursachen",
+      "Erfordert aktiven Kampf für vollen Lebensraub-Nutzen",
+      "Lebensraub funktioniert nicht beim Angreifen von Büschen"
+    ],
+    "tips": [
+      "Das erste Upgrade bietet bereits Lebensraub, was es früh im Spiel wertvoll macht.",
+      "Sensenangriff stellt Lebenspunkte aus physischem und magischem Schaden wieder her.",
+      "Die spektrale Sense kann mehrere Ziele gleichzeitig treffen.",
+      "Magische Resistenz hilft, gegen Zauberwirker zu überleben.",
+      "Das Item ist besonders stark in langen Kämpfen mit mehreren Angreifern."
+    ],
+    "faq": [
+      {
+        "q": "Hält die spektrale Sense nach dem Treffen eines Feindes an?",
+        "a": "Nein. Die spektrale Sense reist in einer geraden Linie und schädigt jedes Ziel, das sie durchquert."
+      }
+    ]
+  },
+  "BootsOfSpeed": {
+    "whyUse": "Vitalstiefel sind für Helden konzipiert, die Mobilität und Überlebensfähigkeit schätzen. Bewegungsgeschwindigkeit ist einer der wichtigsten Werte in Spelltroum — schnellere Helden farmen effizienter, rotieren zwischen Kämpfen schneller und kontrollieren Gefechte effektiver. Die Heiltrank-Mechanik fügt eine weitere Wertschicht hinzu: Selbst ein einzelner Trank kann den Ausgang eines Kampfes vollständig verändern.",
+    "strengths": [
+      "Bietet den höchsten Bewegungsgeschwindigkeitsbonus im Spiel",
+      "Chance, Heiltränke beim Zerstören von Büschen zu finden",
+      "Kann zusätzliche Heiltränke speichern",
+      "Gewährt physische Rüstung",
+      "Ausgezeichnete Ausdauer und Mobilität",
+      "Nützlich in allen Spielphasen"
+    ],
+    "weaknesses": [
+      "Basiert teilweise auf dem Finden von Tränken",
+      "Bietet weniger direkten Schaden als Offensivitems",
+      "Weniger wertvoll bei Helden, die nicht stark von Mobilität profitieren",
+      "Trank-Generierung ist zufallsbasiert"
+    ],
+    "tips": [
+      "Der Trank-Sucheffekt ist ab dem ersten Upgrade verfügbar.",
+      "Spare Heiltränke nach Möglichkeit für wichtige Kämpfe.",
+      "Bewegungsgeschwindigkeit verbessert sowohl Farm- als auch Kampfleistung.",
+      "Helden mit großen Lebenspunktepools erhalten extra Nutzen von Heiltränken.",
+      "Vitalstiefel können in langen Matches überraschende Überlebensfähigkeit bieten.",
+      "Das Tragen eines zusätzlichen Tranks kann manchmal einen knappen Kampf entscheiden."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich Vitalstiefel frei?",
+        "a": "Vitalstiefel sind von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordern sie keine Heldenentwicklung."
+      },
+      {
+        "q": "Was machen Vitalstiefel?",
+        "a": "Vitalstiefel erhöhen Bewegungsgeschwindigkeit, bieten physische Rüstung und ermöglichen Helden, Heiltränke zu finden und zusätzliche zu tragen."
+      },
+      {
+        "q": "Kann ich sofort nach dem Kauf von Vitalstiefeln Heiltränke finden?",
+        "a": "Ja. Der Trank-Sucheffekt ist ab dem ersten Upgrade verfügbar."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Vitalstiefeln?",
+        "a": "Druid, Death Slayer und Grizzly gehören zu den stärksten Nutzern, da sie stark von Mobilität und Überlebensfähigkeit profitieren."
+      },
+      {
+        "q": "Warum gelten Vitalstiefel als starkes Utility-Item?",
+        "a": "Sie kombinieren Bewegungsgeschwindigkeit, physische Rüstung, Heilung und zusätzlichen Trank-Speicher in einem einzigen Item-Slot."
+      },
+      {
+        "q": "Sind Vitalstiefel nur für Nahkampfhelden nützlich?",
+        "a": "Nein. Jeder Held, der Mobilität und Ausdauer schätzt, kann von Vitalstiefeln profitieren."
+      }
+    ],
+    "description": "Vitale Stiefel sind ein mystischer Gegenstand, der den höchsten Bewegungsgeschwindigkeitsbonus im Spiel bietet und dabei auch Gesundheit gewährt."
+  },
+  "BootsOfRegen": {
+    "description": "Regenerationsstiefel sind ein Mystik-Item, das hohe Bewegungsgeschwindigkeit mit mächtigen Lebenspunkte-Regenerationseffekten kombiniert. Was sie einzigartig macht, ist ihre Fähigkeit, nach einem starken Treffer automatisch Lebenspunkte-Regeneration auszulösen — wenn ein einzelner Angriff mehr als einen bestimmten Prozentsatz der maximalen Lebenspunkte des Helden verursacht, aktiviert das Item und beginnt sofort mit der Regeneration.",
+    "whyUse": "Regenerationsstiefel sind für Helden konzipiert, die auf Mobilität und Treffer-und-Lauf-Gameplay angewiesen sind. Die meisten Helden müssen 10 Sekunden nach erlittenem Schaden warten, bevor natürliche Lebenspunkte-Regeneration beginnt — Regenerationsstiefel reduzieren diese Verzögerung und bieten einen Weg, Regeneration sofort nach einem mächtigen Angriff auszulösen.",
+    "strengths": [
+      "Bietet hohe Bewegungsgeschwindigkeit",
+      "Kann Regeneration nach schwerem Schaden auslösen",
+      "Reduziert normale Regenerationsverzögerung",
+      "Ausgezeichnet für mobile Helden",
+      "Stark gegen Burst-Schaden",
+      "Unterstützt Treffer-und-Lauf-Strategien"
+    ],
+    "weaknesses": [
+      "Weniger effektiv bei Helden mit sehr großen Lebenspunktepools (z.B. Grizzly)",
+      "Anfällig für Schaden-über-Zeit-Effekte wie Feueraxt-Brennen oder Viverna-Gift",
+      "Erfordert das Loslösen, um voll von der Regeneration zu profitieren",
+      "Situationsbedingt im Vergleich zu konstanteren Defensivitems"
+    ],
+    "tips": [
+      "Regenerationsstiefel sind am stärksten bei Helden mit kleineren Lebenspunktepools.",
+      "Der Bewegungsgeschwindigkeitsbonus hilft, Möglichkeiten zum Rückzug und zur Erholung zu schaffen.",
+      "Das Item eignet sich hervorragend für Treffer-und-Lauf-Spielstile.",
+      "Vermeide längere Kämpfe gegen Helden, die Schaden über Zeit auftragen.",
+      "Erwäge Regenerationsstiefel gegen Helden mit hohem Burst-Schaden.",
+      "Regeneration ist viel einfacher aufrechtzuerhalten, wenn Feinde dich nicht kontinuierlich schädigen können."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich Regenerationsstiefel frei?",
+        "a": "Regenerationsstiefel sind von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordern sie keine Heldenentwicklung."
+      },
+      {
+        "q": "Was macht Regenerationsstiefel einzigartig?",
+        "a": "Regenerationsstiefel können automatisch Lebenspunkte-Regeneration auslösen, nachdem der Held einen ausreichend großen Treffer erlitten hat."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Regenerationsstiefeln?",
+        "a": "Viverna und Druid gehören zu den stärksten Nutzern, da sie schnell zurückweichen, Lebenspunkte regenerieren und zum Kampf zurückkehren können."
+      }
+    ]
+  },
+  "ManaBoots": {
+    "whyUse": "Manastiefel sind für Helden konzipiert, die häufig kein Mana haben. Das falsche Moment ohne Mana kann den Ausgang eines Kampfes vollständig verändern — Manastiefel helfen dabei, indem sie durch beim Farmen gefundene Manatränke eine stetige Mana-Erholung bieten. Da der Manatrank-Effekt ab dem ersten Upgrade verfügbar ist, kaufen viele Spieler Manastiefel früh.",
+    "strengths": [
+      "Bietet hohe Bewegungsgeschwindigkeit",
+      "Chance, Manatränke beim Zerstören von Büschen zu finden",
+      "Kann zusätzliche Manatränke speichern",
+      "Erhöht maximales Mana auf höheren Leveln",
+      "Ausgezeichnete Mana-Ausdauer",
+      "Starkes Utility-Item für fähigkeitsbasierte Helden"
+    ],
+    "weaknesses": [
+      "Bietet keinen direkten Schaden",
+      "Weniger nützlich für Helden, die selten Mana verwenden",
+      "Basiert teilweise auf dem Finden von Manatränken",
+      "Keine defensiven Werte wie Rüstung oder Lebenspunkte"
+    ],
+    "tips": [
+      "Manatränke können für wichtige Kämpfe gespart werden.",
+      "Der Trank-Sucheffekt ist ab dem ersten Upgrade verfügbar.",
+      "Helden, die viele Büsche zerstören, erhalten generell den meisten Nutzen von Manastiefeln.",
+      "Bewegungsgeschwindigkeit hilft sowohl beim Farmen als auch in Kämpfen.",
+      "Manastiefel sind oft am stärksten bei Helden, die stark auf Fähigkeiten angewiesen sind.",
+      "Das zusätzliche Mana auf Maximallevel kann manchen Helden ermöglichen, im Kampf zusätzliche Fähigkeiten zu wirken."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich Manastiefel frei?",
+        "a": "Manastiefel sind von Beginn des Spiels an als normales Item verfügbar."
+      },
+      {
+        "q": "Was machen Manastiefel?",
+        "a": "Manastiefel erhöhen Bewegungsgeschwindigkeit, ermöglichen Helden, Manatränke beim Zerstören von Büschen zu finden, erhöhen die Trank-Speicherkapazität und bieten zusätzliches maximales Mana auf höheren Leveln."
+      },
+      {
+        "q": "Kann ich sofort nach dem Kauf von Manastiefeln Manatränke finden?",
+        "a": "Ja. Der Manatrank-Effekt ist ab dem ersten Upgrade verfügbar."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Manastiefeln?",
+        "a": "Flameweaver, Shadow Fury, Faerie und Viverna gehören zu den stärksten Nutzern, da sie häufig auf Mana und Fähigkeiten angewiesen sind."
+      },
+      {
+        "q": "Warum sind Manastiefel gut für Magier?",
+        "a": "Magier verbrauchen im Kampf oft große Mana-Mengen. Manastiefel helfen ihnen, ihre Ressourcen aufrechtzuerhalten und bieten gleichzeitig wertvolle Mobilität."
+      },
+      {
+        "q": "Sind Manastiefel nur für Magier nützlich?",
+        "a": "Nein. Jeder Held, der häufig Fähigkeiten einsetzt und zusätzliche Mana-Ausdauer benötigt, kann von Manastiefeln profitieren."
+      }
+    ],
+    "description": "Manastiefel sind ein gewöhnlicher Gegenstand, der Bewegungsgeschwindigkeit und mächtige Mana-Regeneration bietet."
+  },
+  "BlinkBoots": {
+    "whyUse": "Blinkstiefel sind für Helden konzipiert, die auf Positionierung angewiesen sind. Die Fähigkeit, sofort zu blinken, gibt Spielern Zugang zu Möglichkeiten, die sonst unmöglich wären — ein gut getimter Blink kann einen Kill sichern, einem Hinterhalt entkommen, gefährliche Fähigkeiten ausweichen oder schnell im Kampf neu positionieren. Blinkstiefel erhöhen auch die Kritische Trefferchance.",
+    "strengths": [
+      "Bietet hohe Bewegungsgeschwindigkeit",
+      "Chance, Blink-Runen beim Zerstören von Büschen zu finden",
+      "Kann zusätzliche Blink-Runen tragen",
+      "Gewährt kritische Trefferchance",
+      "Ausgezeichnete Mobilität",
+      "Starke offensive Utility",
+      "Wirksam in allen Spielphasen"
+    ],
+    "weaknesses": [
+      "Basiert teilweise auf dem Finden von Blink-Runen",
+      "Bietet weniger Überlebensfähigkeit als defensive Stiefel",
+      "Erfordert gute Positionierung für maximalen Nutzen",
+      "Kritische Trefferchance ist weniger wertvoll für Helden, die nicht auf physischen Schaden setzen"
+    ],
+    "tips": [
+      "Blink-Runen sind ab dem ersten Upgrade verfügbar.",
+      "Spare Blink-Runen nach Möglichkeit für wichtige Kämpfe.",
+      "Blink kann sowohl offensiv als auch defensiv eingesetzt werden.",
+      "Kritische Trefferchance stapelt sich mit anderen kritischen Treffer-Items und Fähigkeiten.",
+      "Schnell farmende Helden erhalten oft zusätzlichen Nutzen, indem sie Blink-Runen zum Bewegen zwischen Zielen einsetzen.",
+      "Positionierung ist oft wertvoller als roher Schaden."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich Blinkstiefel frei?",
+        "a": "Blinkstiefel sind von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordern sie keine Heldenentwicklung."
+      },
+      {
+        "q": "Was machen Blinkstiefel?",
+        "a": "Blinkstiefel erhöhen Bewegungsgeschwindigkeit, ermöglichen das Finden von Blink-Runen beim Zerstören von Büschen, erhöhen die Blink-Runen-Speicherkapazität und bieten kritische Trefferchance."
+      },
+      {
+        "q": "Kann ich sofort nach dem Kauf Blink-Runen finden?",
+        "a": "Ja. Der Blink-Runen-Effekt ist ab dem ersten Upgrade verfügbar."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Blinkstiefel?",
+        "a": "Death Slayer, Volcarn, Mortifier und Shadow Fury gehören zu den stärksten Nutzern, da sie von Mobilität und kritischer Trefferchance profitieren."
+      },
+      {
+        "q": "Funktionieren Blinkstiefel gut mit kritischen Treffer-Builds?",
+        "a": "Ja. Blinkstiefel bieten kritische Trefferchance, die sich mit anderen kritischen Treffer-Items und Heldenfähigkeiten stapelt."
+      },
+      {
+        "q": "Sind Blinkstiefel nur für Assassinen nützlich?",
+        "a": "Nein. Jeder Held, der Mobilität, Positionierung oder kritische Treffer schätzt, kann sie effektiv nutzen."
+      }
+    ],
+    "description": "Blinkstiefel sind ein mystischer Gegenstand für aggressive Helden, Assassinen und Spieler, die Mobilität schätzen."
+  },
+  "FireBook": {
+    "whyUse": "Das Feuergrimoire ist für Spieler konzipiert, die das Potenzial ihrer Fähigkeiten maximieren möchten. Da es den größten Zaubermacht-Bonus im Spiel bietet, liefert es oft eine größere Steigerung der Fähigkeitseffektivität als jedes andere Item. Während viele Spieler Zaubermacht hauptsächlich mit Magiern verbinden, kann das Feuergrimoire auch für Helden wertvoll sein, deren Fähigkeiten Utility, Schilde, Beschwörungen oder andere Spezialeffekte bieten.",
+    "strengths": [
+      "Bietet den höchsten Zaubermacht-Bonus im Spiel",
+      "Verbessert alle Fähigkeiten mit Zaubermacht-Skalierung",
+      "Wirksam bei vielen verschiedenen Helden",
+      "Erhöht sowohl offensive als auch defensive Fähigkeitseffekte",
+      "Stark in allen Spielphasen",
+      "Von Beginn des Spiels verfügbar"
+    ],
+    "weaknesses": [
+      "Bietet keine Lebenspunkte",
+      "Keine Rüstung oder Resistenzen",
+      "Keine Bewegungsgeschwindigkeit",
+      "Weniger effektiv bei Helden, deren Fähigkeiten begrenzte Zaubermacht-Skalierung haben",
+      "Konzentriert sich vollständig auf Fähigkeitsstärke statt Überlebensfähigkeit"
+    ],
+    "tips": [
+      "Das Feuergrimoire bietet den höchsten Zaubermacht-Bonus im Spiel.",
+      "Viele Helden profitieren von Zaubermacht, auch wenn sie keine traditionellen Magier sind.",
+      "Überprüfe immer die Fähigkeitsbeschreibungen, um zu sehen, wie Zaubermacht deinen Helden beeinflusst.",
+      "Helden mit mehreren Zaubermacht-Skalierungsfähigkeiten erhalten den meisten Nutzen.",
+      "Das Feuergrimoire ist oft am stärksten bei Helden, die stark auf Fähigkeiten angewiesen sind.",
+      "Manche defensiven Fähigkeiten skalieren genauso effektiv mit Zaubermacht wie offensive."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich das Feuergrimoire frei?",
+        "a": "Das Feuergrimoire ist von Beginn des Spiels an als normales Item verfügbar."
+      },
+      {
+        "q": "Was macht das Feuergrimoire?",
+        "a": "Das Feuergrimoire bietet den höchsten verfügbaren Zaubermacht-Bonus in Spelltroum."
+      },
+      {
+        "q": "Was ist Zaubermacht?",
+        "a": "Zaubermacht verbessert die Effektivität von Heldenfähigkeiten. Je nach Fähigkeit kann es Schaden, Schilde, Beschwörungen, Heilung oder andere Spezialeffekte erhöhen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Feuergrimoire?",
+        "a": "Spiritmonger, Viverna, Faerie, Shadow Fury und Druid gehören zu den stärksten Nutzern, da mehrere Fähigkeiten in ihren Kits von Zaubermacht profitieren."
+      },
+      {
+        "q": "Ist das Feuergrimoire nur für Magier?",
+        "a": "Nein. Jeder Held, dessen Fähigkeiten gut mit Zaubermacht skalieren, kann vom Feuergrimoire profitieren."
+      }
+    ],
+    "description": "Feuergrimoire ist ein gewöhnlicher Gegenstand, der den höchsten Zauberkraftbonus in Spelltroum bietet."
+  },
+  "WaterBook": {
+    "whyUse": "Das Wassergrimoire ist für Helden konzipiert, die große Mana-Mengen benötigen. Das Item bietet drei wertvolle Boni: erhöhtes maximales Mana, erhöhte Mana-Regeneration und Abklingzeitreduktion. Zusammen ermöglichen diese Boni Helden, Fähigkeiten häufiger zu wirken und in langen Kämpfen effektiv zu bleiben. Das Wassergrimoire funktioniert auch außergewöhnlich gut mit dem Manaschutzschild.",
+    "strengths": [
+      "Bietet einen großen Manapool",
+      "Gewährt starke Mana-Regeneration",
+      "Reduziert Fähigkeitsabklingzeiten auf Maximallevel",
+      "Ausgezeichnete Synergie mit dem Manaschutzschild",
+      "Stark bei manaabhängigen Helden",
+      "Wirksam im gesamten Match"
+    ],
+    "weaknesses": [
+      "Bietet keine Lebenspunkte",
+      "Keine Rüstung oder Resistenzen",
+      "Keine direkten Schadensboni",
+      "Kann riskant sein, früh vollständig zu upgraden",
+      "Weniger nützlich bei Helden, die selten Mana verwenden"
+    ],
+    "tips": [
+      "Das Wassergrimoire funktioniert außergewöhnlich gut mit dem Manaschutzschild.",
+      "Helden, die häufig kein Mana haben, erhalten den meisten Nutzen.",
+      "Abklingzeitreduktion ist auf Maximallevel verfügbar.",
+      "Das Item ist oft am stärksten bei fähigkeitsorientierten Helden.",
+      "Erwäge, das Wassergrimoire mit anderen manabasierten Items zu kombinieren.",
+      "Mehr Mana bedeutet für bestimmte Helden oft sowohl mehr Schaden als auch mehr Überlebensfähigkeit."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich das Wassergrimoire frei?",
+        "a": "Das Wassergrimoire ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert es keine Heldenentwicklung."
+      },
+      {
+        "q": "Was macht das Wassergrimoire?",
+        "a": "Das Wassergrimoire erhöht maximales Mana, verbessert Mana-Regeneration und reduziert Fähigkeitsabklingzeiten auf Maximallevel."
+      },
+      {
+        "q": "Warum funktioniert das Wassergrimoire gut mit dem Manaschutzschild?",
+        "a": "Der Manaschutzschild absorbiert Schaden durch Mana-Verbrauch. Ein größerer Manapool ermöglicht dem Manaschutzschild, mehr Schaden zu absorbieren, bevor deine Lebenspunkte sinken."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Wassergrimoire?",
+        "a": "Flameweaver, Spitfire, Viverna und Faerie gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Erhöht das Wassergrimoire den Schaden?",
+        "a": "Nicht direkt. Jedoch ermöglichen das zusätzliche Mana und die Abklingzeitreduktion Helden, häufiger Fähigkeiten zu wirken, was den Gesamtschadensausstoß erheblich steigern kann."
+      },
+      {
+        "q": "Sollte ich das Wassergrimoire früh vollständig upgraden?",
+        "a": "Normalerweise nicht. Da das Item keine Lebenspunkte oder defensiven Werte bietet, bevorzugen viele Spieler zunächst etwas Überlebensfähigkeit und vervollständigen das Wassergrimoire später."
+      }
+    ],
+    "description": "Wassergrimoire ist ein mystischer Gegenstand, der einen großen Manapool, starke Mana-Regeneration und Abkühlungsreduzierung bietet."
+  },
+  "GeoBook": {
+    "whyUse": "Das Geogrimoire ist für Helden konzipiert, die auf Betäubungen und Crowd Control angewiesen sind. Eine längere Betäubungsdauer bedeutet, dass Feinde mehr Zeit damit verbringen, sich weder zu bewegen, anzugreifen noch Fähigkeiten zu wirken — was deinem Team mehr Möglichkeiten gibt, Schaden zu verursachen, Gefahr zu entgehen oder wichtige Kills zu sichern.",
+    "strengths": [
+      "Erhöht die Betäubungsdauer",
+      "Bietet Bonuslebenspunkte",
+      "Ausgezeichnete Crowd Control Utility",
+      "Kann Teamkämpfe vollständig verändern",
+      "Stark bei mehreren Helden",
+      "Wirksam im gesamten Match"
+    ],
+    "weaknesses": [
+      "Bietet weniger direkten Schaden als Offensivitems",
+      "Weniger wertvoll bei Helden ohne Crowd Control Fähigkeiten",
+      "Beeinflusst keine itembasierten Betäubungen",
+      "Situationsbedingt im Vergleich zu universelleren Items"
+    ],
+    "tips": [
+      "Das Geogrimoire beeinflusst nur Heldenfähigkeiten.",
+      "Betäubungshammer und andere itembasierte Betäubungen profitieren nicht vom Effekt.",
+      "Längere Betäubungen bieten oft mehr Nutzen als zusätzlicher Schaden.",
+      "Das Geogrimoire ist am stärksten bei Helden, die bereits Crowd Control Fähigkeiten haben.",
+      "Bonuslebenspunkte machen das Item nützlich, auch wenn der Control-Effekt nicht benötigt wird.",
+      "Koordiniere mit Verbündeten, um den Nutzen längerer Betäubungen zu maximieren."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich das Geogrimoire frei?",
+        "a": "Das Geogrimoire wird durch das Upgraden von Freezi freigeschaltet."
+      },
+      {
+        "q": "Was macht das Geogrimoire?",
+        "a": "Das Geogrimoire erhöht die Dauer von Betäubungseffekten, die durch Heldenfähigkeiten angewendet werden, und bietet Bonuslebenspunkte."
+      },
+      {
+        "q": "Funktioniert das Geogrimoire mit dem Betäubungshammer?",
+        "a": "Nein. Das Geogrimoire beeinflusst nur Heldenfähigkeiten. Itembasierte Betäubungen wie der Betäubungshammer werden nicht beeinflusst."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Geogrimoire?",
+        "a": "Freezi, Spiritmonger, Death Slayer, Spitfire und Faerie gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Erhöht das Geogrimoire den Schaden?",
+        "a": "Nicht direkt. Sein primärer Zweck ist die Verbesserung von Crowd Control und Überlebensfähigkeit."
+      }
+    ],
+    "description": "Geogrimoire ist ein legendärer Gegenstand, der durch das Upgraden von Freezi freigeschaltet wird. Er bietet Bonusgesundheit und einen einzigartigen Erdmagie-Effekt."
+  },
+  "Scepter": {
+    "whyUse": "Das Zepter ist für Helden konzipiert, die mit magischen Fähigkeiten Schaden anrichten. Das Item erhöht Zaubermacht und verbessert die Fähigkeitsskalierung, bietet gleichzeitig Mana-Regeneration für häufige Zauberbenutzung. Der wertvollste Effekt ist die Magische Kritische Trefferchance — wenn eine magische Fähigkeit kritisch trifft, kann dies den Burst-Schaden dramatisch erhöhen und Kills sichern, die sonst verpasst würden.",
+    "strengths": [
+      "Bietet Zaubermacht",
+      "Gewährt Mana-Regeneration",
+      "Fügt Magische Kritische Trefferchance hinzu",
+      "Ausgezeichnet für magische Schadensverursacher",
+      "Starkes Burst-Schadenspotenzial",
+      "Wirksam in allen Spielphasen"
+    ],
+    "weaknesses": [
+      "Weniger Zaubermacht als das Feuergrimoire",
+      "Magische Kritische Treffer betreffen nur magischen Schaden",
+      "Bietet keine Lebenspunkte",
+      "Keine Rüstung oder Resistenzen",
+      "Schwach bei physischen und reinen Schadenshelden"
+    ],
+    "tips": [
+      "Magische Kritische Treffer erhöhen magischen Schaden um 50%.",
+      "Das Zepter ist am stärksten bei Helden mit mehreren schadensverursachenden magischen Fähigkeiten.",
+      "Zaubermacht und Magische Kritische Treffer arbeiten zusammen, um Fähigkeitsschaden zu maximieren.",
+      "Mana-Regeneration hilft, Druck in langen Kämpfen aufrechtzuerhalten.",
+      "Überlege immer, ob dein Held primär magischen, physischen oder reinen Schaden verursacht, bevor du das Zepter kaufst.",
+      "Neue Spieler überschätzen das Zepter oft bei physischen Schadenshelden."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich das Zepter frei?",
+        "a": "Das Zepter ist von Beginn des Spiels an verfügbar. Wie alle Mystik-Items erfordert es keine Heldenentwicklung."
+      },
+      {
+        "q": "Was macht das Zepter?",
+        "a": "Das Zepter bietet Zaubermacht, Mana-Regeneration und Magische Kritische Trefferchance."
+      },
+      {
+        "q": "Was ist ein Magischer Kritischer Treffer?",
+        "a": "Ein Magischer Kritischer Treffer erhöht magischen Schaden um 50%. Zum Beispiel wird eine Fähigkeit, die normalerweise 100 Schaden verursacht, bei einem kritischen Treffer 150 Schaden verursachen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Zepter?",
+        "a": "Viverna, Faerie und Spiritmonger gehören zu den stärksten Nutzern, da mehrere Fähigkeiten in ihren Kits magischen Schaden verursachen."
+      },
+      {
+        "q": "Funktioniert das Zepter bei Shadow Fury?",
+        "a": "Nicht effektiv. Shadow Fury verursacht primär physischen Schaden, daher erhält sie sehr wenig Nutzen vom Magischen Kritischen Treffereffekt."
+      },
+      {
+        "q": "Ist das Zepter bei jedem Helden nützlich?",
+        "a": "Nein. Das Zepter ist am effektivsten bei Helden, die erheblichen magischen Schaden verursachen."
+      }
+    ],
+    "description": "Zepter ist ein mystischer Gegenstand, der Zauberkraft, Mana-Regeneration und magische kritische Trefferchance kombiniert."
+  },
+  "MageStaff": {
+    "whyUse": "Der Magierstab ist für Helden konzipiert, die im gesamten Match konstant magischen Schaden verursachen. Das Item erhöht Zaubermacht und ermöglicht es Fähigkeiten, mehr Schaden zu verursachen. Es erhöht auch das maximale Mana für häufigere Fähigkeitsnutzung. Sein wichtigster Effekt ist Magischer Lebensraub — wann immer der Held magischen Schaden an feindlichen Helden oder Creeps verursacht, wird ein Teil davon in Lebenspunkte umgewandelt.",
+    "strengths": [
+      "Bietet Zaubermacht",
+      "Gewährt Magischen Lebensraub",
+      "Erhöht maximales Mana",
+      "Ausgezeichnete Ausdauer für Zauberwirker",
+      "Starke Synergie mit Schaden-über-Zeit-Fähigkeiten",
+      "Wirksam beim Farmen und Kämpfen"
+    ],
+    "weaknesses": [
+      "Magischer Lebensraub funktioniert nicht bei Büschen",
+      "Keine Rüstung oder Resistenzen",
+      "Weniger effektiv bei Helden, die physischen Schaden verursachen",
+      "Erfordert magischen Schaden für vollen Nutzen"
+    ],
+    "tips": [
+      "Magischer Lebensraub funktioniert nur gegen feindliche Helden und Creeps.",
+      "Das Angreifen von Büschen stellt keine Lebenspunkte wieder her.",
+      "Der Magierstab wird stärker bei Helden, die wiederholt magischen Schaden verursachen.",
+      "Schaden-über-Zeit-Effekte können kontinuierliche Heilung erzeugen.",
+      "Zaubermacht und Magischer Lebensraub funktionieren extrem gut zusammen.",
+      "Das Item bietet sowohl offensive als auch defensive Vorteile."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich den Magierstab frei?",
+        "a": "Der Magierstab wird durch das Upgraden von Spiritmonger freigeschaltet."
+      },
+      {
+        "q": "Was macht der Magierstab?",
+        "a": "Der Magierstab bietet Zaubermacht, zusätzliches Mana und Magischen Lebensraub."
+      },
+      {
+        "q": "Was ist Magischer Lebensraub?",
+        "a": "Magischer Lebensraub wandelt einen Teil des an feindlichen Helden und Creeps verursachten magischen Schadens in Lebenspunkte um."
+      },
+      {
+        "q": "Funktioniert Magischer Lebensraub bei Büschen?",
+        "a": "Nein. Wie alle Lebensraub-Effekte in Spelltroum funktioniert Magischer Lebensraub nur gegen feindliche Helden und Creeps."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Magierstab?",
+        "a": "Spiritmonger, Viverna und Faerie gehören zu den stärksten Nutzern, da sie konstanten magischen Schaden verursachen."
+      },
+      {
+        "q": "Ist der Magierstab gut bei Shadow Fury?",
+        "a": "Nein. Shadow Fury verursacht primär physischen Schaden, daher funktioniert Magischer Lebensraub nicht mit ihren Fähigkeiten."
+      },
+      {
+        "q": "Ist der Magierstab nützlich bei physischen Schadenshelden?",
+        "a": "Normalerweise nicht. Der Magierstab ist für Helden konzipiert, die magischen Schaden verursachen."
+      }
+    ],
+    "description": "Magierstab ist ein legendärer Gegenstand, der durch das Upgraden von Spiritmonger freigeschaltet wird. Er bietet Zauberkraft und einzigartige magische Effekte."
+  },
+  "WitchBlade": {
+    "description": "Die Hexenklinge ist ein normales Item, das durch Tägliche Belohnungen freigeschaltet wird. Sie ist für Helden konzipiert, die auf magische Fähigkeiten und häufige Zauberbenutzung angewiesen sind, und bietet Mana-Regeneration, Zaubermacht und einen einzigartigen Effekt, der die Magische Resistenz eines Feindes reduziert.",
+    "whyUse": "Die Hexenklinge ist eines der besten Utility-Items für magische Helden. Das erste Upgrade gewährt sofort Mana-Regeneration. Das zweite Upgrade bietet Zaubermacht. Ihr wichtigster Effekt ist Magische Resistenzreduzierung — wenn die Hexenklinge einen Feind trifft, wird ein Debuff aufgebracht, der die Magische Resistenz des Ziels senkt, sodass aller magischer Schaden gegen diesen Feind stärker wird, unabhängig davon, welcher Held ihn verursacht.",
+    "strengths": [
+      "Bietet Mana-Regeneration",
+      "Gewährt Zaubermacht",
+      "Reduziert feindliche Magische Resistenz",
+      "Erhöht den Teamschadensausstoß",
+      "Ausgezeichnet für magische Helden",
+      "Stark in koordiniertem Spielen"
+    ],
+    "weaknesses": [
+      "Bietet keine Lebenspunkte",
+      "Keine Rüstung",
+      "Weniger effektiv für physische Schadenshelden",
+      "Bietet begrenzten Nutzen, wenn dein Team wenig magischen Schaden verursacht"
+    ],
+    "tips": [
+      "Das erste Upgrade gewährt sofort Mana-Regeneration.",
+      "Das zweite Upgrade bietet Zaubermacht.",
+      "Magische Resistenzreduzierung profitiert sowohl dir als auch deinen Verbündeten.",
+      "Die Hexenklinge ist am stärksten gegen Feinde, die von mehreren magischen Helden fokussiert werden.",
+      "Das Item ist früh und spät im Spiel nützlich.",
+      "Priorisiere die Hexenklinge, wenn dein Team hauptsächlich magischen Schaden verursacht."
+    ],
+    "faq": [
+      {
+        "q": "Wie schalte ich die Hexenklinge frei?",
+        "a": "Die Hexenklinge wird durch Tägliche Belohnungen freigeschaltet."
+      },
+      {
+        "q": "Hilft die Hexenklinge meinen Verbündeten?",
+        "a": "Ja. Die Magische Resistenzreduzierung wird auf den Feind angewendet, was bedeutet, dass der gesamte magische Schaden der Verbündeten gegen dieses Ziel stärker wird."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von der Hexenklinge?",
+        "a": "Viverna, Faerie, Spiritmonger und andere magische Schadensverursacher gehören zu den stärksten Nutzern."
+      }
+    ]
+  },
+  "RingOfRegen": {
+    "whyUse": "Der Regenerationsring ist für Helden konzipiert, die Fähigkeiten häufig wirken, Feinde belästigen und sich lösen möchten, bevor sie in den Kampf zurückkehren. Das Item bietet mächtige Mana-Regeneration für häufigere Fähigkeitsnutzung und reduziert auch Fähigkeitsabklingzeiten. Einer seiner stärksten defensiven Effekte ist die Reduzierung der Verzögerung, bevor Lebenspunkte-Regeneration beginnt.",
+    "strengths": [
+      "Erhöht die Angriffsreichweite",
+      "Kann Nahkampfhelden in Fernkämpfer verwandeln",
+      "Bietet starke Mana-Regeneration",
+      "Reduziert Fähigkeitsabklingzeiten",
+      "Reduziert Lebenspunkte-Regenerationsverzögerung",
+      "Gewährt Magische Resistenz",
+      "Unterstützt Treffer-und-Lauf-Spielstile"
+    ],
+    "weaknesses": [
+      "Bietet keinen direkten Schadensbonus",
+      "Bietet weniger rohe Überlebensfähigkeit als dedizierte Defensivitems",
+      "Erfordert gute Positionierung für vollen Nutzen der zusätzlichen Reichweite",
+      "Weniger wertvoll bei Helden, die selten Fähigkeiten einsetzen"
+    ],
+    "tips": [
+      "Nahkampfhelden erhalten den meisten Nutzen vom Angriffsreichweitenbonus.",
+      "Nutze die schnellere Regeneration für kurze Kämpfe und schnelle Erholung.",
+      "Abklingzeitreduktion wird wertvoller bei Helden mit mächtigen Fähigkeiten.",
+      "Das Item ist besonders effektiv bei mobilen Helden, die sich nach dem Angreifen lösen können.",
+      "Das Kombinieren mehrerer regenerationsorientierter Items kann mächtige Ausdauer-Builds schaffen.",
+      "Magische Resistenz hilft, gegen feindliche Zauberwirker zu schützen."
+    ],
+    "bestHeroes": {
+      "spitfire": "Der Regenerationsring ist eines der stärksten legendären Items für Spitfire. Mana-Regeneration und Abklingzeitreduktion ermöglichen ihm, seine Feuerball-Fähigkeiten viel häufiger einzusetzen. Die erhöhte Angriffsreichweite verbessert auch seine Fähigkeit, Feinde aus sicherer Entfernung unter Druck zu setzen.",
+      "mortifier": "Der Regenerationsring schafft einen einzigartigen Spielstil für Mortifier. Als Nahkampfheld erhält er durch das Item Fernkampfangriffe. Mana-Regeneration und Abklingzeitreduktion helfen ihm auch, häufiger Bomben zu platzieren.",
+      "faerie": "Faerie profitiert stark vom Regenerationsring. Das Item ermöglicht ihr, Fähigkeiten häufiger zu wirken, Druck in Kämpfen aufrechtzuerhalten und Lebenspunkte nach dem Lösen schneller zu regenerieren."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Regenerationsring frei?",
+        "a": "Der Regenerationsring wird durch das Upgraden von Spitfire freigeschaltet."
+      },
+      {
+        "q": "Was macht der Regenerationsring?",
+        "a": "Der Regenerationsring erhöht die Angriffsreichweite, bietet Mana-Regeneration, reduziert Abklingzeiten, gewährt Magische Resistenz und reduziert die Verzögerung, bevor Lebenspunkte-Regeneration beginnt."
+      },
+      {
+        "q": "Verwandelt der Regenerationsring Nahkampfhelden in Fernkampfhelden?",
+        "a": "Ja. Der Angriffsreichweitenbonus ermöglicht Nahkampfhelden, aus der Ferne anzugreifen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Regenerationsring?",
+        "a": "Spitfire, Mortifier und Faerie gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Stapelt sich der Regenerationsring mit anderen Regenerations-Items?",
+        "a": "Ja. Er funktioniert besonders gut mit Küraß und Regenerationsstiefeln, da alle drei die Verzögerung vor der Lebenspunkte-Regeneration reduzieren."
+      },
+      {
+        "q": "Ist der Regenerationsring gut gegen Magier?",
+        "a": "Ja. Das Item bietet Magische Resistenz, die eingehenden magischen Schaden reduziert, und ermöglicht schnellere Erholung zwischen Kämpfen."
+      }
+    ],
+    "description": "Regenerationsring ist ein legendärer Gegenstand, der durch das Upgraden von Spitfire freigeschaltet wird. Dieser Gegenstand verändert das Spielgefühl dramatisch durch mächtige Lebensregeneration."
+  },
+  "HiddenFighterStaff": {
+    "whyUse": "Das Shuriken ist eines der flexibelsten Utility-Items in Spelltroum. Das erste Upgrade bietet bereits Mana und Abklingzeitreduktion, was es selbst vor weiteren Upgrades wertvoll macht. Sein Signatureffekt gibt Angriffen eine Chance, zu einem abprallenden Shuriken-Projektil zu werden. Das Projektil verursacht physischen Schaden, prallt einmal ab und kann zusätzliche Büsche oder Feinde treffen.",
+    "strengths": [
+      "Bietet Angriffsgeschwindigkeit",
+      "Gewährt Abklingzeitreduktion",
+      "Bietet Mana",
+      "Enthält Zaubermacht",
+      "Verbessert die Farmgeschwindigkeit",
+      "Abprallende Projektile können mehrere Ziele treffen",
+      "Synergiert mit Physischen Kritischen Treffern",
+      "Nützlich im gesamten Match"
+    ],
+    "weaknesses": [
+      "Basiert teilweise auf zufallsbasierten Effekten",
+      "Bietet keine Lebenspunkte",
+      "Keine Rüstung oder Magische Resistenz",
+      "Weniger wertvoll bei Helden, die selten angreifen",
+      "Erfordert Angriffsgeschwindigkeit für maximale Effektivität"
+    ],
+    "tips": [
+      "Das erste Upgrade bietet bereits Mana und Abklingzeitreduktion.",
+      "Physische Kritische Treffer beeinflussen Shuriken-Projektile.",
+      "Physische Schadensboni erhöhen den Shuriken-Schaden.",
+      "Das Item ist am stärksten bei Helden mit hoher Angriffsgeschwindigkeit.",
+      "Abprallende Angriffe verbessern die Farmeffizienz erheblich.",
+      "Das Kombinieren von Shuriken mit anderen Abklingzeitreduzierungs-Items schafft mächtige fähigkeitsorientierte Builds."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Das Shuriken funktioniert bei Stonewarden extrem gut. Die zusätzliche Angriffsgeschwindigkeit hilft ihm, häufiger anzugreifen, während Abklingzeitreduktion häufigere Fähigkeitsnutzung ermöglicht.",
+      "spitfire": "Spitfire profitiert von fast jedem Wert des Shurikens. Angriffsgeschwindigkeit erhöht die Häufigkeit von Shuriken-Procs, während Mana und Abklingzeitreduktion häufigere Zauberbenutzung ermöglichen.",
+      "freezi": "Freezi ist ein weiterer ausgezeichneter Nutzer des Shurikens. Ihre hohe Angriffsgeschwindigkeit ermöglicht häufiges Auslösen des Effekts.",
+      "death-slayer": "Das Shuriken kann interessante abklingzeitfokussierte Builds für Death Slayer ermöglichen. Die Abklingzeitreduktion stapelt sich gut mit anderen Abklingzeitreduzierungs-Items."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich das Shuriken frei?",
+        "a": "Das Shuriken ist von Beginn des Spiels an als normales Item verfügbar."
+      },
+      {
+        "q": "Was macht das Shuriken?",
+        "a": "Das Shuriken bietet Angriffsgeschwindigkeit, Mana, Zaubermacht, Abklingzeitreduktion und gibt Angriffen eine Chance, zu abprallenden Projektilen mit physischem Schaden zu werden."
+      },
+      {
+        "q": "Verursacht das Shuriken physischen oder magischen Schaden?",
+        "a": "Das Shuriken verursacht physischen Schaden."
+      },
+      {
+        "q": "Kann das Shuriken kritisch treffen?",
+        "a": "Ja. Da das Projektil physischen Schaden verursacht, können Physische Kritische Treffereffekte darauf angewendet werden."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Shuriken?",
+        "a": "Stonewarden, Spitfire, Freezi und bestimmte Death Slayer Builds gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Ist das Shuriken gut zum Farmen?",
+        "a": "Ja. Das abprallende Projektil kann zusätzliche Büsche und Ziele treffen, was das Farmen deutlich effizienter macht."
+      },
+      {
+        "q": "Ist das Shuriken nützlich für Abklingzeitreduzierungs-Builds?",
+        "a": "Ja. Selbst das erste Upgrade bietet Abklingzeitreduktion, was es zu einer effektiven Ergänzung für Helden macht, die Fähigkeiten häufiger wirken möchten."
+      }
+    ],
+    "description": "Shuriken ist ein gewöhnlicher Gegenstand, der von Beginn des Spiels an verfügbar ist. Er bietet Angriffsgeschwindigkeit und einzigartige Kampfmechaniken."
+  },
+  "BladesOfCriticalHit": {
+    "whyUse": "Kritische Klingen sind für Helden konzipiert, die den Schaden ihrer kritischen Treffer maximieren möchten. Das Item bietet eine kleine Menge an Kritischer Trefferchance, aber seine primäre Stärke kommt von der Erhöhung des maximalen Kritischen Schadensbonus. Das Item bietet auch Zaubermacht, was es für Helden nützlich macht, deren Fähigkeiten mit Zaubermacht skalieren, während sie noch auf physischen Schaden angewiesen sind.",
+    "strengths": [
+      "Erhöht maximalen Kritischen Schaden",
+      "Bietet Physische Kritische Trefferchance",
+      "Gewährt Zaubermacht",
+      "Ausgezeichnetes Burst-Schadenspotenzial",
+      "Starke Synergie mit Kritischen Treffer-Builds",
+      "Wirksam bei mehreren physischen Schadenshelden"
+    ],
+    "weaknesses": [
+      "Basiert auf Kritischer Trefferchance für maximalen Nutzen",
+      "Bietet keine Lebenspunkte",
+      "Keine Rüstung oder Magische Resistenz",
+      "Weniger effektiv bei Helden, die selten physischen Schaden verursachen",
+      "Erfordert andere Kritische Treffer-Quellen für volles Potenzial"
+    ],
+    "tips": [
+      "Kritische Klingen sind am stärksten in Kombination mit anderen Quellen von Kritischer Trefferchance.",
+      "Die Erhöhung der Kritischen Trefferchance steigert den Nutzen des Kritischen Schadensbonus des Items.",
+      "Physische Schadenshelden profitieren am meisten.",
+      "Das Item kombiniert sowohl Zaubermacht als auch Kritische Treffer-Skalierung.",
+      "Burst-Schaden-Builds erhalten außergewöhnlichen Nutzen von Kritischen Klingen.",
+      "Das Item ist besonders gefährlich bei Helden, die hochschadende Angriffe landen können."
+    ],
+    "bestHeroes": {
+      "shadow-fury": "Kritische Klingen sind eines der Signatur-Items für Shadow Fury. Zaubermacht verbessert ihre Fähigkeiten einschließlich ihres aufgeladenen Angriffs. Die zusätzliche Kritische Trefferchance erhöht die Wahrscheinlichkeit verheerender kritischer Treffer. Der erhöhte Kritische Schadensmultiplikator ermöglicht deutlich mehr Schaden bei aufgeladenen Angriffen.",
+      "spiritmonger": "Spiritmonger erhält überraschend viel Nutzen von Kritischen Klingen. Ihre Seelen-Sammel-Fähigkeit verursacht physischen Schaden und kann vom erhöhten Kritischen Schadensmultiplikator profitieren.",
+      "death-slayer": "Kritische Klingen können bei Death Slayer effektiv sein, besonders in schadensorientierten Builds. Die zusätzliche Kritische Trefferchance und der erhöhte Kritische Schadensmultiplikator verbessern den Schaden erfolgreicher kritischer Treffer erheblich."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich Kritische Klingen frei?",
+        "a": "Kritische Klingen werden durch das Upgraden von Shadow Fury freigeschaltet."
+      },
+      {
+        "q": "Was machen Kritische Klingen?",
+        "a": "Kritische Klingen bieten Zaubermacht, Physische Kritische Trefferchance und erhöhen den maximalen Kritischen Schadensbonus."
+      },
+      {
+        "q": "Wie viel zusätzlichen Schaden verursachen Kritische Treffer mit Kritischen Klingen?",
+        "a": "Normalerweise verursachen Kritische Treffer 50% zusätzlichen Schaden. Kritische Klingen erhöhen diesen Bonus auf 75%."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Kritischen Klingen?",
+        "a": "Shadow Fury, Spiritmonger und Death Slayer gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Funktionieren Kritische Klingen gut mit anderen Kritischen Treffer-Items?",
+        "a": "Ja. Kritische Klingen werden deutlich stärker in Kombination mit Items, die Kritische Trefferchance erhöhen."
+      }
+    ],
+    "description": "Kritische Klingen ist ein legendärer Gegenstand, der durch das Upgraden von Shadow Fury freigeschaltet wird. Er bietet Zauberkraft und kritische Treffereffekte."
+  },
+  "RefresherStaff": {
+    "whyUse": "Der Auffrischungsstab ist für Helden konzipiert, die stark auf aktive Fähigkeiten angewiesen sind. Das Item selbst bietet nützliche Werte durch zusätzliche Lebenspunkte, Mana und Zaubermacht, aber sein größter Nutzen liegt in der Fähigkeit, Abklingzeiten zurückzusetzen. Eine gut getimte Auffrischungs-Rune kann einen Kampf vollständig verändern, indem sie einem Helden ermöglicht, seine stärksten Fähigkeiten zweimal hintereinander zu wirken.",
+    "strengths": [
+      "Bietet Lebenspunkte",
+      "Gewährt Mana",
+      "Bietet Zaubermacht",
+      "Ermöglicht Abklingzeit-Resets",
+      "Schafft einzigartige Spielmöglichkeiten",
+      "Extrem mächtig in wichtigen Kämpfen",
+      "Nützlich bei vielen verschiedenen Helden"
+    ],
+    "weaknesses": [
+      "Basiert auf dem Finden von Auffrischungs-Runen",
+      "Erfordert gutes Timing für maximalen Nutzen",
+      "Bietet weniger direkten Schaden als dedizierte Offensivitems",
+      "Neue Spieler unterschätzen oft die besten Momente für den Einsatz"
+    ],
+    "tips": [
+      "Spare Auffrischungs-Runen nach Möglichkeit für wichtige Kämpfe.",
+      "Helden mit starken aktiven Fähigkeiten erhalten den meisten Nutzen.",
+      "Auffrischung beeinflusst nicht die Grundangriffs-Fähigkeit.",
+      "Büschreiche Karten erhöhen natürlich den Wert des Items.",
+      "Eine einzige Auffrischungs-Rune kann einen Teamkampf vollständig verändern.",
+      "Erwäge, eine Auffrischungs-Rune vor dem Angriff auf einen wichtigen Feind zu tragen."
+    ],
+    "bestHeroes": {
+      "faerie": "Der Auffrischungsstab ist eines der stärksten Utility-Items für Faerie. Beide aktiven Fähigkeiten profitieren enorm von Abklingzeit-Resets. Eine Auffrischungs-Rune ermöglicht ihr, sofort einen weiteren Flug oder einen weiteren Flächenangriff zu wirken.",
+      "grizzly": "Grizzly hat eine der stärksten Interaktionen mit dem Auffrischungsstab. Seine lebenspunkte-steigernde Fähigkeit kann mit einer Auffrischungs-Rune zweimal gewirkt werden. Dies ermöglicht ihm, eine enorme Menge an Bonuslebenspunkten zu gewinnen.",
+      "mortifier": "Mortifier erhält enormen Nutzen vom Auffrischungsstab. Eine Auffrischungs-Rune ermöglicht ihm, zusätzliche Bomben zu platzieren und seine Tausch-Fähigkeit sofort erneut zu nutzen."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Auffrischungsstab frei?",
+        "a": "Der Auffrischungsstab ist ein Mystik-Item und von Beginn des Spiels an verfügbar."
+      },
+      {
+        "q": "Was macht der Auffrischungsstab?",
+        "a": "Der Auffrischungsstab bietet Lebenspunkte, Mana, Zaubermacht und ermöglicht Helden, Auffrischungs-Runen beim Zerstören von Büschen zu entdecken."
+      },
+      {
+        "q": "Setzt die Auffrischungs-Rune die Grundangriffs-Fähigkeit zurück?",
+        "a": "Nein. Die Grundangriffs-Fähigkeit wird nicht beeinflusst."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Auffrischungsstab?",
+        "a": "Faerie, Grizzly und Mortifier gehören zu den stärksten Nutzern, da sie enormen Nutzen aus dem mehrfachen Wirken ihrer aktiven Fähigkeiten ziehen."
+      },
+      {
+        "q": "Ist der Auffrischungsstab ein Schadensitem?",
+        "a": "Nicht primär. Seine größte Stärke kommt vom Zurücksetzen von Abklingzeiten und dem Ermöglichen mächtiger Fähigkeitskombinationen."
+      }
+    ],
+    "description": "Erneuerungsstab ist ein mystischer Gegenstand, der von Beginn des Spiels an verfügbar ist. Er bietet Gesundheit und Fähigkeits-Erneuerungsmechaniken."
+  },
+  "ArchmagesExecutioner": {
+    "description": "Der Erzmagier-Henker ist ein Mystik-Item, das von Beginn des Spiels an verfügbar ist. Wie alle Äxte gewährt er auf dem letzten Upgrade-Level Bewegungsgeschwindigkeit. Sein primärer Zweck ist jedoch nicht Mobilität, sondern Abklingzeitreduktion. Das Item bietet Lebenspunkte, Zaubermacht, Abklingzeitreduktion und schließlich Bewegungsgeschwindigkeit, was es zu einem der stärksten Utility-Items für fähigkeitsorientierte Builds macht.",
+    "whyUse": "Der Erzmagier-Henker ist einer der einfachsten Wege, früh im Match signifikante Abklingzeitreduktion zu erlangen. Das erste Upgrade bietet zusätzliche Lebenspunkte, was wertvoll ist, da die meisten Helden stark von mindestens einer Quelle für Bonuslebenspunkte früh im Spiel profitieren. Das zweite Upgrade schaltet Abklingzeitreduktion frei, was das Item sofort nützlich für Helden macht, die stark auf Fähigkeiten angewiesen sind.",
+    "strengths": [
+      "Bietet Lebenspunkte",
+      "Gewährt Zaubermacht",
+      "Bietet frühe Abklingzeitreduktion",
+      "Gewährt Bewegungsgeschwindigkeit auf Maximallevel",
+      "Ausgezeichnet für fähigkeitsorientierte Helden",
+      "Starke Synergie mit anderen Abklingzeitreduzierungs-Items",
+      "Kann alternative Spielstile unterstützen"
+    ],
+    "weaknesses": [
+      "Bietet weniger rohen Schaden als dedizierte Offensivitems",
+      "Erfordert fähigkeitsorientierte Helden für vollen Nutzen",
+      "Weniger nützlich für Helden, die hauptsächlich auf Grundangriffe setzen",
+      "Maximaler Bewegungsgeschwindigkeitsbonus erfordert vollständige Upgrades"
+    ],
+    "tips": [
+      "Upgrade das Item früh auf Stufe 2, wenn Abklingzeitreduktion deine Priorität ist.",
+      "Kombiniere es mit dem Shuriken für mächtige abklingzeitfokussierte Builds.",
+      "Das Item ist am stärksten bei Helden, die stark auf aktive Fähigkeiten angewiesen sind.",
+      "Es kann Stiefel für Helden teilweise ersetzen, die nur moderate Bewegungsgeschwindigkeit benötigen.",
+      "Zaubermacht erhöht die Effektivität vieler magischer Fähigkeiten.",
+      "Abklingzeitreduktion bietet in längeren Kämpfen oft mehr Nutzen als roher Schaden."
+    ],
+    "faq": [
+      {
+        "q": "Warum ist Abklingzeitreduktion wichtig?",
+        "a": "Abklingzeitreduktion ermöglicht Helden, Fähigkeiten häufiger zu wirken, was sowohl Schadensausstoß als auch Utility erhöht."
+      }
+    ]
+  },
+  "Glove": {
+    "whyUse": "Azurane Handschuhe erhöhen die Angriffsgeschwindigkeit drastisch. Helden, die bereits hohen Schaden verursachen, erhalten oft enormen Nutzen davon, häufiger anzugreifen. Schnellere Angriffe bedeuten mehr Schaden, mehr Farmgeschwindigkeit, mehr Fähigkeitsinteraktionen und mehr Möglichkeiten, Item-Effekte auszulösen.",
+    "strengths": [
+      "Bietet eine massive Angriffsgeschwindigkeitssteigerung",
+      "Verbessert die Farmgeschwindigkeit",
+      "Skaliert gut ins Late Game",
+      "Starke Synergie mit On-Hit-Effekten",
+      "Ausgezeichnet für Helden mit hohem Grundschaden",
+      "Verbessert Betäubungs- und Kritische Treffer-Builds"
+    ],
+    "weaknesses": [
+      "Bietet keine Lebenspunkte",
+      "Keine Rüstung oder Magische Resistenz",
+      "Kein direkter Schadensbonus",
+      "Weniger effektiv bei Helden, die bereits sehr schnell angreifen",
+      "Erfordert normalerweise andere Offensivitems für maximalen Nutzen"
+    ],
+    "tips": [
+      "Azurane Handschuhe sind am stärksten bei Helden, die bereits hohen Schaden haben.",
+      "Erwäge, das Item ein- oder zweimal früh zu upgraden und es später zu beenden.",
+      "Angriffsgeschwindigkeit verbessert die Farmeffizienz.",
+      "Das Item wird stärker in Kombination mit Schadensitems.",
+      "Mehr Angriffe bedeuten mehr Möglichkeiten, Item-Effekte auszulösen.",
+      "Azurane Handschuhe passen besonders gut zum Betäubungshammer."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Azurane Handschuhe sind eines der stärksten Offensivitems für Stonewarden. Sein Grundangriff verursacht natürlich hohen Schaden, greift aber langsamer an. Azurane Handschuhe helfen, diese Schwäche durch deutliche Erhöhung der Angriffsgeschwindigkeit auszugleichen.",
+      "spiritmonger": "Spiritmonger kann enormen Nutzen von Azuranen Handschuhen erhalten. Wenn sie Seelen sammelt, wird ihr Schaden zunehmend bedrohlich. Zusätzliche Angriffsgeschwindigkeit ermöglicht ihr, diesen Schaden viel häufiger anzuwenden.",
+      "grizzly": "Azurane Handschuhe funktionieren außergewöhnlich gut bei Grizzly. Sein Schaden nimmt zu, wenn er dasselbe Ziel weiter angreift. Mehr Angriffsgeschwindigkeit bedeutet, dass er schneller höhere Schadenslevel erreicht."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich Azurane Handschuhe frei?",
+        "a": "Azurane Handschuhe sind ein Mystik-Item und von Beginn des Spiels an verfügbar."
+      },
+      {
+        "q": "Was machen Azurane Handschuhe?",
+        "a": "Azurane Handschuhe bieten eine große Menge an Angriffsgeschwindigkeit für Helden, die häufiger angreifen möchten."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Azuranen Handschuhen?",
+        "a": "Stonewarden, Spiritmonger und Grizzly gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Sollte ich Azurane Handschuhe sofort auf Maximallevel upgraden?",
+        "a": "Normalerweise nicht. Viele Spieler upgraden das Item ein- oder zweimal früh und beenden das Upgrade später nach dem Erwerb zusätzlicher Schadensitems."
+      }
+    ],
+    "description": "Azurhandschuhe sind ein mystischer Gegenstand, der sich vollständig auf Angriffsgeschwindigkeit konzentriert."
+  },
+  "GloveMidas": {
+    "description": "Goldschnelle Handschuhe sind ein normales Item, das durch Tägliche Belohnungen freigeschaltet wird. Das Item bietet Angriffsgeschwindigkeit, Lebenspunkte und einen der stärksten Wirtschaftseffekte in Spelltroum: Bonusgold für jede gesammelte Münze. Wann immer der Held eine Münze aufhebt, gewähren Goldschnelle Handschuhe zusätzlich 10 Gold über den normalen Münzwert hinaus.",
+    "whyUse": "Goldschnelle Handschuhe drehen sich alles um die Beschleunigung deiner Wirtschaft. Im Gegensatz zu den meisten Items, die direkt die Kampfkraft erhöhen, helfen Goldschnelle Handschuhe Helden, im Laufe des Spiels mehr Gold zu verdienen. Das erste Upgrade schaltet sofort den Bonusgold-Effekt frei, was es vom Moment des Kaufs an nützlich macht.",
+    "strengths": [
+      "Generiert zusätzliches Gold im gesamten Match",
+      "Zahlt sich im Laufe der Zeit aus",
+      "Bietet Lebenspunkte",
+      "Gewährt Angriffsgeschwindigkeit",
+      "Ausgezeichnet für farmorientierende Helden",
+      "Hilft, teure Item-Builds schneller zu erreichen"
+    ],
+    "weaknesses": [
+      "Bietet weniger sofortige Kampfkraft als viele andere Items",
+      "Benötigt Zeit, um Nutzen zu generieren",
+      "Weniger effektiv in hochaggressiven Matches",
+      "Wird schwächer, wenn spät gekauft",
+      "Kann wichtige Kampf-Items verzögern, wenn zum falschen Zeitpunkt gekauft"
+    ],
+    "tips": [
+      "Kaufe das Item früh, um die Goldgenerierung zu maximieren.",
+      "Das erste Upgrade ist normalerweise das wichtigste.",
+      "Helden, die schnell farmen, erhalten den meisten Nutzen.",
+      "Angriffsgeschwindigkeit verbessert die Farmeffizienz.",
+      "Das Item wird schwächer, wenn es spät gekauft wird.",
+      "Überlege dein Matchup, bevor du in einen wirtschaftsorientierten Build investierst."
+    ],
+    "bestHeroes": {
+      "druid": "Goldschnelle Handschuhe sind eines der besten Farm-Items für Druid. Sein Beschwörung hilft, Büsche schnell zu räumen und Münzen effizient zu sammeln.",
+      "volcarn": "Volcarn profitiert stark davon, seine Item-Spitzen so schnell wie möglich zu erreichen. Das zusätzliche Einkommen durch Goldschnelle Handschuhe kann seinen Fortschritt erheblich beschleunigen.",
+      "stonewarden": "Stonewarden profitiert sowohl vom Wirtschaftseffekt als auch von den Angriffsgeschwindigkeitsboni.",
+      "freezi": "Freezi kann Goldschnelle Handschuhe nutzen, um ihr Farmen zu beschleunigen und wichtige Items früher zu erreichen."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich Goldschnelle Handschuhe frei?",
+        "a": "Goldschnelle Handschuhe werden durch Tägliche Belohnungen freigeschaltet."
+      },
+      {
+        "q": "Was machen Goldschnelle Handschuhe?",
+        "a": "Goldschnelle Handschuhe bieten Angriffsgeschwindigkeit, Lebenspunkte und Bonusgold, wenn Münzen gesammelt werden."
+      },
+      {
+        "q": "Wann sollte ich Goldschnelle Handschuhe kaufen?",
+        "a": "Normalerweise so früh wie möglich. Je früher du das Item kaufst, desto mehr Bonusgold kannst du im Match verdienen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Goldschnellen Handschuhen?",
+        "a": "Druid, Volcarn, Stonewarden und Freezi gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Sind Goldschnelle Handschuhe in jedem Match gut?",
+        "a": "Nein. Wenn du ständig kämpfst und keine Münzen farmen kannst, kann das Item zu lange brauchen, um sich zu amortisieren."
+      },
+      {
+        "q": "Werden Goldschnelle Handschuhe später im Spiel schwächer?",
+        "a": "Ja. Da das Item im Laufe der Zeit Nutzen aufbaut, bietet es beim späten Kauf deutlich weniger Vorteile."
+      }
+    ]
+  },
+  "RingOfProtection": {
+    "whyUse": "Der Wächterring ist für Helden konzipiert, die überleben möchten, während sie Feinde ständig unter Druck setzen. Die große Rüstungsmenge macht Helden erheblich schwerer zu töten. Sein wichtigstes Merkmal ist jedoch der Geschwindigkeits-Runen-Effekt. Wann immer der Held eine Fähigkeit einsetzt, gewährt der Wächterring einen temporären Schub an Bewegungsgeschwindigkeit.",
+    "strengths": [
+      "Bietet physische Rüstung",
+      "Bietet Magische Resistenz",
+      "Gewährt temporäre Bewegungsgeschwindigkeit nach dem Wirken von Fähigkeiten",
+      "Ausgezeichnet für aggressive Spielstile",
+      "Stark bei tankigen Helden",
+      "Wirksam gegen sowohl physischen als auch magischen Schaden",
+      "Haupteffekt ab dem ersten Upgrade verfügbar"
+    ],
+    "weaknesses": [
+      "Bietet keinen direkten Schadensbonus",
+      "Weniger wertvoll für Helden mit wenigen aktiven Fähigkeiten",
+      "Erfordert Fähigkeitsnutzung für den Bewegungsgeschwindigkeitsbonus",
+      "Bietet weniger dauerhafte Bewegungsgeschwindigkeit als dedizierte Mobilitäts-Items"
+    ],
+    "tips": [
+      "Der Geschwindigkeits-Runen-Effekt ist ab dem ersten Upgrade verfügbar.",
+      "Viele Spieler kaufen früh das erste Level und upgraden später.",
+      "Helden mit mehreren aktiven Fähigkeiten erhalten den meisten Nutzen.",
+      "Das Item ist besonders effektiv bei Helden, die Hilfe beim Verfolgen von Feinden benötigen.",
+      "Große Lebenspunktepools werden in Kombination mit den Rüstungsboni des Items deutlich stärker.",
+      "Der Wächterring bietet sowohl Überlebensfähigkeit als auch Mobilität in einem einzigen Item-Slot."
+    ],
+    "bestHeroes": {
+      "grizzly": "Der Wächterring funktioniert überraschend gut bei Viverna. Sie hat zwei aktive Fähigkeiten, die den Geschwindigkeits-Runen-Effekt wiederholt auslösen können. Die zusätzliche Rüstung verbessert auch ihre Überlebensfähigkeit.",
+      "mortifier": "Mortifier profitiert stark vom Wächterring. Sowohl seine Bomben- als auch seine Tausch-Fähigkeit aktivieren den Geschwindigkeits-Runen-Effekt. Als Nahkampfheld ist zusätzliche Bewegungsgeschwindigkeit extrem wertvoll."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Wächterring frei?",
+        "a": "Der Wächterring wird durch das Upgraden von Grizzly freigeschaltet."
+      },
+      {
+        "q": "Was macht der Wächterring?",
+        "a": "Der Wächterring bietet physische Rüstung, Magische Resistenz und gewährt eine temporäre Geschwindigkeits-Rune, wenn der Held eine Fähigkeit einsetzt."
+      },
+      {
+        "q": "Funktioniert der Wächterring ab dem ersten Upgrade?",
+        "a": "Ja. Der Geschwindigkeits-Runen-Effekt ist sofort beim ersten Upgrade verfügbar."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Wächterring?",
+        "a": "Grizzly, Viverna und Mortifier gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Ist der Wächterring ein Defensivitem oder ein Mobilitätsitem?",
+        "a": "Beides. Er bietet erhebliche Rüstung und gewährt gleichzeitig temporäre Geschwindigkeitsschübe beim Wirken von Fähigkeiten."
+      },
+      {
+        "q": "Warum ist der Wächterring besonders gut bei Helden mit hohen Lebenspunkten?",
+        "a": "Rüstung und Magische Resistenz werden wertvoller, wenn die Lebenspunkte eines Helden steigen, was den Wächterring besonders effektiv bei natürlich tankigen Helden wie Grizzly macht."
+      }
+    ],
+    "description": "Schutzring ist ein legendärer Gegenstand, der durch das Upgraden von Grizzly freigeschaltet wird. Er bietet eine große Menge an Rüstung und Schutzeffekten."
+  },
+  "InfinityShield": {
+    "whyUse": "Das Unendlichkeitsschild ist für Helden konzipiert, die zusätzliche Haltbarkeit ohne Utility-Verlust möchten. Das erste Upgrade bietet Bonuslebenspunkte. Das zweite Upgrade gewährt Schaden. Das dritte und vierte Upgrade schalten den Schild-Runen-Effekt frei und bieten zusätzliche Abklingzeitreduktion.",
+    "uniqueEffect": "Beim Zerstören von Büschen haben Helden eine Chance, eine Schild-Rune zu entdecken. Bei Aktivierung gewährt die Schild-Rune +200 Physische Rüstung, +200 Magische Resistenz und stark erhöhte Überlebensfähigkeit für 5 Sekunden. Dies ist einer der stärksten defensiven Runen-Effekte im Spiel. Die Schild-Rune schützt jedoch nicht gegen Reinen Schaden.",
+    "strengths": [
+      "Bietet Lebenspunkte",
+      "Gewährt Schaden",
+      "Reduziert Abklingzeiten",
+      "Generiert Schild-Runen",
+      "Verbessert Überlebensfähigkeit gegen physischen und magischen Schaden",
+      "Nützlich im gesamten Match",
+      "Ausgezeichnet bei tankigen Helden",
+      "Einer der stärksten defensiven Runen-Effekte im Spiel"
+    ],
+    "weaknesses": [
+      "Erfordert Busch-Farmen zum Generieren von Schild-Runen",
+      "Bietet weniger direkten Schaden als Offensivitems",
+      "Voller Nutzen hängt vom richtigen Einsatz der Schild-Rune ab",
+      "Reduziert keinen Reinen Schaden",
+      "Nicht so spezialisiert wie reine Defensiv- oder Offensivitems"
+    ],
+    "tips": [
+      "Spare Schild-Runen für wichtige Kämpfe.",
+      "Das Item ist besonders effektiv bei Helden mit großen Lebenspunktepools.",
+      "Abklingzeitreduktion wird wertvoller, wenn Helden stärkere Fähigkeiten erwerben.",
+      "Schild-Runen können Burst-Schaden und Ein-Schuss-Versuche verhindern.",
+      "Das Item bietet eine starke Balance aus Angriff, Verteidigung und Utility.",
+      "Setze die Schild-Rune ein, bevor du gefährliche Feinde angreifst, nicht nachdem deine Lebenspunkte kritisch niedrig sind.",
+      "Die Schild-Rune ist am stärksten gegen physischen und magischen Burst-Schaden."
+    ],
+    "bestHeroes": {
+      "grizzly": "Das Unendlichkeitsschild ist eines der stärksten Defensivitems für Grizzly. Grizzly hat bereits einen der größten Lebenspunktepools im Spiel. Wenn er eine Schild-Rune aktiviert, wird die zusätzliche Rüstung extrem wertvoll.",
+      "druid": "Das Unendlichkeitsschild funktioniert sehr gut bei Mortifier. Er nutzt häufig beide aktiven Fähigkeiten, was Abklingzeitreduktion sehr wertvoll macht. Die Schild-Rune kann ihn retten, wenn Feinde versuchen, ihn zu eliminieren."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich das Unendlichkeitsschild frei?",
+        "a": "Das Unendlichkeitsschild ist ein Mystik-Item und von Beginn des Spiels an verfügbar."
+      },
+      {
+        "q": "Was macht das Unendlichkeitsschild?",
+        "a": "Das Unendlichkeitsschild bietet Lebenspunkte, Schaden, Abklingzeitreduktion und ermöglicht Helden, Schild-Runen beim Zerstören von Büschen zu entdecken."
+      },
+      {
+        "q": "Was macht eine Schild-Rune?",
+        "a": "Eine Schild-Rune gewährt +200 Physische Rüstung und +200 Magische Resistenz für 5 Sekunden."
+      },
+      {
+        "q": "Blockiert die Schild-Rune Reinen Schaden?",
+        "a": "Nein. Die Schild-Rune gewährt nur Physische Rüstung und Magische Resistenz. Reiner Schaden ignoriert den Schild."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Unendlichkeitsschild?",
+        "a": "Grizzly, Druid und Mortifier gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Können Schild-Runen gegen Burst-Schaden helfen?",
+        "a": "Ja. Die Schild-Rune ist eines der stärksten Werkzeuge zum Überleben von Burst-Schaden. Reiner Schaden wird jedoch nicht reduziert."
+      },
+      {
+        "q": "Sollte ich das Unendlichkeitsschild sofort vollständig upgraden?",
+        "a": "Nicht immer. Viele Spieler upgraden es schrittweise und nutzen die frühen Lebenspunkte- und Schadensboni, bevor sie die letzten Level abschließen."
+      }
+    ],
+    "description": "Unendlichkeitsschild ist ein mystischer Gegenstand, der Gesundheit und einzigartige Schutzeffekte kombiniert."
+  },
+  "SilenceBlade": {
+    "whyUse": "Der Helm der Stille ist dafür konzipiert, Helden zu kontern, die stark auf Fähigkeiten, Heilung oder Lebensraub angewiesen sind. Das Item bietet bereits nützliche Kampfwerte: Physische Rüstung, Angriffsgeschwindigkeit und zusätzliches Mana. Der Hauptgrund für den Kauf ist jedoch der Zugang zu Stille-Runen.",
+    "uniqueEffect": "Beim Zerstören von Büschen haben Helden eine Chance, eine Stille-Rune zu entdecken. Bei Aktivierung erzeugt die Rune einen Stille-Effekt um den Helden. Betroffene Feinde können keine Fähigkeiten einsetzen, nur Grundangriffe nutzen, keine Heilen-Fähigkeiten aktivieren, nicht von Lebensraub-Effekten profitieren, keine Heiltränke verwenden und keine Lebenspunkte durch andere Heilungseffekte regenerieren. Die Stille dauert 5 Sekunden. Zusätzlich verursacht die Aktivierung der Rune 1 Schadenspunkt an betroffenen Feinden, was Lebenspunkte-Regenerations-Timer unterbrechen kann.",
+    "strengths": [
+      "Bietet physische Rüstung",
+      "Bietet Angriffsgeschwindigkeit",
+      "Gewährt zusätzliches Mana",
+      "Generiert mächtige Stille-Runen",
+      "Deaktiviert feindliche Fähigkeiten vollständig",
+      "Konteriert Heilung und Lebensraub",
+      "Ausgezeichnet für aggressive Helden"
+    ],
+    "weaknesses": [
+      "Erfordert Busch-Farmen zum Generieren von Runen",
+      "Weniger effektiv gegen Helden, die hauptsächlich auf Grundangriffe setzen",
+      "Bietet weniger direkten Schaden als dedizierte Offensivitems",
+      "Voller Nutzen hängt vom richtigen Einsatz der Stille-Rune ab"
+    ],
+    "tips": [
+      "Spare Stille-Runen für wichtige Kämpfe.",
+      "Setze Stille sofort nach Crowd-Control-Effekten für maximale Wirkung ein.",
+      "Stille ist besonders effektiv gegen Helden, die auf Heilung angewiesen sind.",
+      "Die Rune kann Feinde daran hindern, mit Fähigkeiten zu entkommen.",
+      "Der 1-Schadens-Aktivierung kann Regenerations-Timer unterbrechen.",
+      "Angriffsgeschwindigkeit erhöht den offensiven Gesamtwert des Items."
+    ],
+    "bestHeroes": {
+      "grizzly": "Der Helm der Stille ist ein ausgezeichnetes Item für Grizzly. Er möchte in der Nähe von Feinden bleiben und sie kontinuierlich unter Druck setzen. Nach dem Sprung auf ein Ziel kann Grizzly eine Stille-Rune aktivieren und den Feind daran hindern, mit Fähigkeiten zu entkommen.",
+      "freezi": "Viverna profitiert von der aggressiven Utility des Items. Sie kann einen Feind angreifen, Gift- und Schadenseffekte aufbringen und dann Stille aktivieren, um zu verhindern, dass das Ziel mit Fähigkeiten antwortet."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Helm der Stille frei?",
+        "a": "Der Helm der Stille ist ein Mystik-Item und von Beginn des Spiels an verfügbar."
+      },
+      {
+        "q": "Was macht der Helm der Stille?",
+        "a": "Der Helm der Stille bietet Physische Rüstung, Angriffsgeschwindigkeit, Mana und ermöglicht Helden, Stille-Runen beim Zerstören von Büschen zu entdecken."
+      },
+      {
+        "q": "Was macht Stille?",
+        "a": "Stille verhindert, dass betroffene Feinde für 5 Sekunden Fähigkeiten einsetzen. Sie können nur Grundangriffe nutzen."
+      },
+      {
+        "q": "Stoppt Stille Heilung?",
+        "a": "Ja. Während der Stille können Feinde nicht von Lebensraub, Heilen-Fähigkeiten, Heiltränken oder anderen Lebenspunkte-Wiederherstellungseffekten profitieren."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Helm der Stille?",
+        "a": "Grizzly, Freezi und Viverna gehören zu den stärksten Nutzern."
+      }
+    ],
+    "description": "Stille-Klinge ist ein mystischer Gegenstand, der physischen Schaden bietet und Schweige-Effekte auslösen kann."
+  },
+  "Splash": {
+    "whyUse": "Der Elfenstab ist für Helden konzipiert, die stark auf magischen Schaden angewiesen sind. Das Item erhöht Magischen Kritischen Schaden, sodass kritische Treffer deutlich mehr Schaden als normal verursachen. Normalerweise verursacht ein Magischer Kritischer Treffer 50% Bonusschaden. Der Elfenstab erhöht diesen Bonus auf 75%. Das Item bietet auch eine kleine Menge an Magischer Kritischer Trefferchance und Bonuslebenspunkte.",
+    "uniqueEffect": "Ab Stufe 2 erhält der Elfenstab seinen einzigartigen Unterstützungseffekt. Wann immer der Besitzer einen Heiltrank oder Manatrank verwendet, wird derselbe Effekt automatisch auf einen nahegelegenen Verbündeten angewendet. Dies ermöglicht unterstützungsorientierten Helden, ihren Teammitgliedern bei der Lebenspunkte- und Mana-Regeneration zu helfen, ohne zusätzliche Ressourcen zu verbrauchen.",
+    "strengths": [
+      "Erhöht Magischen Kritischen Schaden",
+      "Bietet Magische Kritische Trefferchance",
+      "Gewährt zusätzliche Lebenspunkte",
+      "Ermöglicht das Teilen von Heiltränken mit Verbündeten",
+      "Ermöglicht das Teilen von Manatränken mit Verbündeten",
+      "Stark für Schaden- und Unterstützungs-Builds",
+      "Ausgezeichnet in teambasierten Modi"
+    ],
+    "weaknesses": [
+      "Bietet allein nur wenig Magische Kritische Trefferchance",
+      "Erfordert andere Magische Kritische Items für maximales Schadenspotenzial",
+      "Bietet weniger rohe Zaubermacht als manche dedizierten Magier-Items",
+      "Geteilter Trank-Effekt ist beim Einzelspielen weniger wertvoll"
+    ],
+    "tips": [
+      "Der Elfenstab wird deutlich stärker in Kombination mit zusätzlicher Magischer Kritischer Trefferchance.",
+      "Der geteilte Trank-Effekt wird automatisch aktiviert.",
+      "Bleibe in der Nähe von Verbündeten, um den Unterstützungswert zu maximieren.",
+      "Das Item bietet sowohl Angriff als auch Überlebensfähigkeit.",
+      "Magische Helden profitieren am meisten von seinen Boni.",
+      "Das Stufe-2-Upgrade ist besonders wichtig, da es den geteilten Trank-Effekt freischaltet."
+    ],
+    "bestHeroes": {
+      "faerie": "Der Elfenstab ist das Signatur-Legendär-Item für Faerie. Er erhöht den Schaden ihrer magischen Fähigkeiten und ermöglicht ihr gleichzeitig, Verbündete durch geteilte Trank-Effekte zu unterstützen.",
+      "viverna": "Viverna profitiert stark vom Elfenstab. Ihre Gift-Effekte und magischen Fähigkeiten können kritisch treffen, was den erhöhten Magischen Kritischen Schaden extrem wertvoll macht.",
+      "spiritmonger": "Spiritmonger ist ein weiterer ausgezeichneter Nutzer des Elfenstabs. Ihr abprallender Orb kann von Magischen Kritischen Treffern profitieren."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Elfenstab frei?",
+        "a": "Der Elfenstab ist ein Legendär-Item, das durch das Upgraden von Faerie freigeschaltet wird."
+      },
+      {
+        "q": "Was macht der Elfenstab?",
+        "a": "Der Elfenstab bietet Lebenspunkte, Magische Kritische Trefferchance, erhöhten Magischen Kritischen Schaden und ermöglicht das Teilen von Trank-Effekten mit nahegelegenen Verbündeten."
+      },
+      {
+        "q": "Wie viel erhöht der Elfenstab den Magischen Kritischen Schaden?",
+        "a": "Normalerweise verursachen Magische Kritische Treffer 50% Bonusschaden. Der Elfenstab erhöht diesen Bonus auf 75%."
+      },
+      {
+        "q": "Funktioniert der Elfenstab mit sowohl Heil- als auch Manatränken?",
+        "a": "Ja. Ab Stufe 2 werden sowohl Heiltränke als auch Manatränke mit einem nahegelegenen Verbündeten geteilt."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Elfenstab?",
+        "a": "Faerie, Viverna und Spiritmonger gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Ist der Elfenstab allein gut?",
+        "a": "Er ist für sich nützlich, wird aber deutlich stärker in Kombination mit Items, die Magische Kritische Trefferchance erhöhen."
+      }
+    ],
+    "description": "Feenenstab ist ein legendärer Gegenstand, der durch das Upgraden von Faerie freigeschaltet wird. Er bietet Gesundheit und magische kritische Treffereffekte."
+  },
+  "DarkSplash": {
+    "whyUse": "Dunkle Welle bietet mehrere mächtige Vorteile für magische Helden. Das erste Upgrade gewährt Magische Kritische Trefferchance. Das zweite Upgrade gewährt Lebenspunkte und wendet Magische Rüstungsreduzierung auf Feinde an. Dieses Debuff erhöht den durch magische Fähigkeiten verursachten Schaden. Das dritte und vierte Upgrade schalten die Signaturmechanik des Items frei: Dunkle-Welle-Schaden durch Heiltränke.",
+    "uniqueEffect": "Ab Stufe 3 erhält Dunkle Welle ihren einzigartigen Hinrichtungseffekt. Wann immer der Besitzer einen Heiltrank verwendet, wird der Besitzer normal geheilt und der nächste Feind in Reichweite erleidet Dunkle-Welle-Schaden. Der Effekt funktioniert nur, wenn das Ziel unter 70% Lebenspunkte hat. Büsche können nicht als Ziel ausgewählt werden. Dies soll Spielern helfen, geschwächte Feinde in Kämpfen zu beenden, statt als primäre Schadensquelle zu dienen.",
+    "strengths": [
+      "Gewährt Magische Kritische Trefferchance",
+      "Bietet Lebenspunkte",
+      "Wendet Magische Rüstungsreduzierung an",
+      "Erhöht den magischen Teamschaden",
+      "Kann Feinde schädigen während man heilt",
+      "Ausgezeichnet für aggressive Magier-Builds",
+      "Stark in Doppel-Magier-Teamzusammensetzungen"
+    ],
+    "weaknesses": [
+      "Erfordert Heiltränke für den einzigartigen Effekt",
+      "Kann keine Feinde über 70% Lebenspunkte angreifen",
+      "Zielauswahl ist automatisch",
+      "Kann versehentlich einen nahegelegenen Creep statt eines Helden treffen",
+      "Bietet weniger rohe Zaubermacht als manche dedizierten Magier-Items"
+    ],
+    "tips": [
+      "Magische Rüstungsreduzierung profitiert deinem gesamten Team.",
+      "Spare Heiltränke für wichtige Kämpfe, wenn möglich.",
+      "Positioniere dich sorgfältig vor der Verwendung eines Tranks.",
+      "Der nächste Feind wird das Ziel.",
+      "Der Effekt funktioniert nur gegen Feinde unter 70% Lebenspunkte.",
+      "Dunkle Welle kann keine Büsche angreifen.",
+      "Mehrere magische Helden profitieren stark vom selben Magische Rüstungsreduzierungs-Debuff."
+    ],
+    "bestHeroes": {
+      "viverna": "Dunkle Welle ist das Signatur-Legendär-Item für Viverna. Die Magische Rüstungsreduzierung erhöht den Schaden ihrer Gift-Effekte und Flächenfähigkeiten.",
+      "faerie": "Faerie ist ein weiterer ausgezeichneter Nutzer von Dunkler Welle. Beide aktiven Fähigkeiten verursachen magischen Schaden und profitieren von Magischer Rüstungsreduzierung.",
+      "spiritmonger": "Spiritmonger profitiert von Dunkler Welle durch erhöhten Schaden ihres abprallenden Orbs.",
+      "spitfire": "Obwohl weniger üblich, kann Dunkle Welle gut bei Spitfire funktionieren. Seine Fähigkeiten verursachen magischen Schaden, und die Magische Rüstungsreduzierung erhöht die Effektivität seiner feuerbasierenden Angriffe."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich Dunkle Welle frei?",
+        "a": "Dunkle Welle ist ein Legendär-Item, das durch das Upgraden von Viverna freigeschaltet wird."
+      },
+      {
+        "q": "Was macht Dunkle Welle?",
+        "a": "Dunkle Welle bietet Magische Kritische Trefferchance, Lebenspunkte, Magische Rüstungsreduzierung und ermöglicht Heiltränken, nahegelegene geschwächte Feinde zu schädigen."
+      },
+      {
+        "q": "Wie funktioniert der Trank-Schaden?",
+        "a": "Wenn der Besitzer einen Heiltrank verwendet, erleidet der nächste Feind in Reichweite Schaden, wenn dieser Feind weniger als 70% Lebenspunkte hat."
+      },
+      {
+        "q": "Kann Dunkle Welle Büsche angreifen?",
+        "a": "Nein. Büsche sind niemals gültige Ziele."
+      },
+      {
+        "q": "Kann Dunkle Welle Creeps treffen?",
+        "a": "Ja. Der Effekt trifft immer den nächsten gültigen Feind, der entweder ein Creep oder ein feindlicher Held sein kann."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von Dunkler Welle?",
+        "a": "Viverna, Faerie, Spiritmonger und magische Spitfire-Builds gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Ist Dunkle Welle gut in Doppel-Magier-Teams?",
+        "a": "Ja. Magische Rüstungsreduzierung profitiert allen magischen Verbündeten, was Dunkle Welle besonders mächtig macht, wenn mehrere magische Helden dasselbe Ziel fokussieren."
+      }
+    ],
+    "description": "Dunkler Spritzer ist ein legendärer Gegenstand, der durch das Upgraden von Viverna freigeschaltet wird. Er ist primär für magische Schadenshelden konzipiert."
+  },
+  "FireSphere": {
+    "whyUse": "Die Feuerkugel ist für Helden konzipiert, die aktiv Fähigkeiten und Angriffe miteinander verweben. Das Item gewährt Bonuslebenspunkte, Physische Rüstung, Magische Resistenz, einen kleinen Bewegungsgeschwindigkeitsbonus und Aufgeladene Angriffe nach dem Wirken von Fähigkeiten.",
+    "uniqueEffect": "Der Signatureffekt der Feuerkugel ist der Aufgeladene Angriff. Wann immer der Besitzer eine seiner zwei aktiven Fähigkeiten einsetzt, wird der nächste Grundangriff verstärkt und verursacht Bonus-Magischen Schaden. Der Effekt wird nicht durch die Grundangriffs-Fähigkeit ausgelöst — nur durch die zwei aktiven Fähigkeiten des Helden. Der Bonus wird verbraucht, wenn der Angriff ein Ziel trifft. Wenn der verstärkte Angriff verfehlt, wird der Bonusschaden vergeudet.",
+    "strengths": [
+      "Bietet Lebenspunkte",
+      "Gewährt Physische Rüstung",
+      "Gewährt Magische Resistenz",
+      "Bietet Bonus-Bewegungsgeschwindigkeit",
+      "Fügt mächtige Aufgeladene Angriffe hinzu",
+      "Belohnt aktiven Kampf und Fähigkeitsnutzung",
+      "Stark im gesamten Match",
+      "Ausgezeichnet bei Helden mit mehreren aktiven Fähigkeiten"
+    ],
+    "weaknesses": [
+      "Erfordert richtiges Timing für maximalen Nutzen",
+      "Ein verfehlter Aufgeladener Angriff verschwendet den Bonusschaden",
+      "Weniger effektiv bei Helden, die selten aktive Fähigkeiten einsetzen",
+      "Bietet weniger rohen Schaden als manche reinen Offensivitems",
+      "Erfordert aggressives Spielen für volles Potenzial"
+    ],
+    "tips": [
+      "Versuche immer, sofort nach dem Wirken einer Fähigkeit anzugreifen.",
+      "Ein verfehlter Aufgeladener Angriff verschwendet den Bonusschaden.",
+      "Das Item ist am stärksten bei Helden mit zwei aktiven Fähigkeiten.",
+      "Nahkampfhelden nutzen die Feuerkugel oft besonders gut, da sie selten verstärkte Angriffe verpassen.",
+      "Der Bewegungsgeschwindigkeitsbonus hilft bei Positionierung und dem Verfolgen von Zielen.",
+      "Die Feuerkugel belohnt einen aggressiven, kombinierten Spielstil."
+    ],
+    "bestHeroes": {
+      "mortifier": "Faerie profitiert stark von der Feuerkugel. Beide aktiven Fähigkeiten lösen Aufgeladene Angriffe aus und ermöglichen ihr, wiederholt Zauber-Schaden mit verstärkten Angriffen zu kombinieren.",
+      "spitfire": "Spitfire ist ein weiterer ausgezeichneter Nutzer der Feuerkugel. Seine aktiven Fähigkeiten ermöglichen konsistentes Auslösen von Aufgeladenen Angriffen in Kämpfen.",
+      "viverna": "Für aggressive Viverna-Builds kann die Feuerkugel eine starke Option sein. Nach dem Einsatz von Blink oder ihrer Flächenfähigkeit kann sie sofort mit einem Aufgeladenen Angriff nachsetzen."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich die Feuerkugel frei?",
+        "a": "Die Feuerkugel ist ein Legendär-Item, das durch das Upgraden von Mortifier freigeschaltet wird."
+      },
+      {
+        "q": "Was macht die Feuerkugel?",
+        "a": "Die Feuerkugel bietet Lebenspunkte, Rüstung, Magische Resistenz, Bewegungsgeschwindigkeit und verstärkt den nächsten Grundangriff nach dem Einsatz einer aktiven Fähigkeit."
+      },
+      {
+        "q": "Wie funktioniert Aufgeladener Angriff?",
+        "a": "Nach dem Einsatz einer deiner zwei aktiven Fähigkeiten verursacht dein nächster Grundangriff zusätzlichen Magischen Schaden."
+      },
+      {
+        "q": "Funktioniert die Feuerkugel mit der Grundangriffs-Fähigkeit?",
+        "a": "Nein. Die Feuerkugel wird nur durch die zwei aktiven Fähigkeiten des Helden ausgelöst."
+      },
+      {
+        "q": "Was passiert, wenn ich den Aufgeladenen Angriff verpasse?",
+        "a": "Der Bonusschaden wird verschwendet und die Aufladung verbraucht."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von der Feuerkugel?",
+        "a": "Mortifier, Faerie, Spitfire und aggressive Viverna-Builds gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Sollte ich die Feuerkugel früh upgraden?",
+        "a": "Oft ja. Helden, die auf Fähigkeitskombinationen aufbauen, können einen großen Vorteil erzielen, indem sie die Feuerkugel früh upgraden."
+      }
+    ],
+    "description": "Feuerkugel ist ein legendärer Gegenstand, der durch das Upgraden von Mortifier freigeschaltet wird. Er bietet Gesundheit, physische Rüstung und Feuerschaden-Effekte."
+  },
+  "DarkSphere": {
+    "whyUse": "Die Dunkle Kugel ist besonders effektiv gegen Helden, die auf hohe Angriffsgeschwindigkeit angewiesen sind. Wann immer der Besitzer einen Feind angreift, wird dessen Angriffsgeschwindigkeit reduziert, dessen Physische Rüstung verringert und verbündete Helden verursachen mehr physischen Schaden an diesem Ziel.",
+    "uniqueEffect": "Die Dunkle Kugel bringt beim Treffer zwei Debuffs auf. Angriffsgeschwindigkeitsreduzierung senkt die Angriffsgeschwindigkeit des Ziels — auf Maximallevel erreicht dies bis zu 25%, was bei Helden, die auf schnelle Angriffe angewiesen sind, sehr spürbar ist. Physische Rüstungsreduzierung wird ebenfalls auf das Ziel angewendet, sodass der Besitzer und alle Verbündeten mehr physischen Schaden an diesem Feind verursachen.",
+    "strengths": [
+      "Bietet eine große Menge an Lebenspunkten",
+      "Reduziert feindliche Angriffsgeschwindigkeit",
+      "Reduziert feindliche Physische Rüstung",
+      "Erhöht den Teamschaden gegen betroffene Ziele",
+      "Stark gegen angriffsgeschwindigkeitsbasierte Helden",
+      "Wirksam im Solo- und Teamspiel",
+      "Kann früh im Match aggressiv upgegraded werden"
+    ],
+    "weaknesses": [
+      "Bietet weniger direkten Schaden als Offensivitems",
+      "Am effektivsten gegen physische Angreifer",
+      "Angriffsgeschwindigkeitsreduzierung hat weniger Auswirkung gegen zauberfokussierte Helden",
+      "Erfordert das Angreifen von Feinden, um Debuffs anzuwenden"
+    ],
+    "tips": [
+      "Fokussiere Angriffe auf ein einzelnes Ziel, um den Wert der Debuffs zu maximieren.",
+      "Die Dunkle Kugel ist am stärksten in Teamkämpfen, wo Verbündete die Rüstungsreduzierung nutzen können.",
+      "Angriffsgeschwindigkeitsreduzierung wird wirkungsvoller gegen Helden, die auf schnelle Angriffe angewiesen sind.",
+      "Die Bonuslebenspunkte machen den Besitzer erheblich schwerer zu töten.",
+      "Kombiniere Dunkle Kugel mit physischen Schadenshelden für maximale Effektivität."
+    ],
+    "bestHeroes": {
+      "spiritmonger": "Die Dunkle Kugel funktioniert sehr gut bei Spiritmonger. Die Bonuslebenspunkte verbessern ihre Überlebensfähigkeit, während die Debuffs ihr helfen, mit Helden umzugehen, die normalerweise durch Angriffsgeschwindigkeit überwältigen.",
+      "druid": "Druid profitiert stark von der Dunklen Kugel. Wenn Druid Physische Rüstungsreduzierung anwendet, verursachen sowohl er als auch sein Begleiter erhöhten Schaden am Ziel.",
+      "volcarn": "Die Dunkle Kugel ist eine ausgezeichnete Wahl für Volcarn. Sowohl Volcarn als auch seine Illusion profitieren davon, dass Feinde reduzierte Physische Rüstung haben."
+    },
+    "counterHeroes": {
+      "freezi": "Freezi verlässt sich stark auf hohe Angriffsgeschwindigkeit für ihren Schadensausstoß. Die Dunkle Kugel reduziert diese direkt und senkt ihre Kampfeffektivität erheblich.",
+      "spitfire": "Spitfire ist auf schnelle Angriffe für konstanten Schaden angewiesen. Die Angriffsgeschwindigkeitsreduzierung der Dunklen Kugel schwächt seinen Angriffsdruck spürbar."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich die Dunkle Kugel frei?",
+        "a": "Die Dunkle Kugel ist ein Mystik-Item und von Beginn des Spiels an verfügbar."
+      },
+      {
+        "q": "Was macht die Dunkle Kugel?",
+        "a": "Die Dunkle Kugel bietet Lebenspunkte, wendet Angriffsgeschwindigkeitsreduzierung an und reduziert feindliche Physische Rüstung."
+      },
+      {
+        "q": "Wie viel Angriffsgeschwindigkeit reduziert die Dunkle Kugel?",
+        "a": "Auf Maximallevel reduziert die Dunkle Kugel die feindliche Angriffsgeschwindigkeit um bis zu 25%."
+      },
+      {
+        "q": "Hilft die Dunkle Kugel Verbündeten?",
+        "a": "Ja. Die Physische Rüstungsreduzierung betrifft das Ziel, was bedeutet, dass Verbündete ebenfalls mehr physischen Schaden an diesem Feind verursachen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von der Dunklen Kugel?",
+        "a": "Spiritmonger, Druid und Volcarn gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Welche Helden konterkariert die Dunkle Kugel?",
+        "a": "Die Dunkle Kugel ist besonders effektiv gegen Freezi, Spitfire und andere Helden, die stark auf Angriffsgeschwindigkeit angewiesen sind."
+      },
+      {
+        "q": "Sollte ich die Dunkle Kugel früh vollständig upgraden?",
+        "a": "Oft ja. Das Item bietet Lebenspunkte, Utility und mächtige Debuffs auf allen Upgrade-Leveln, was es zu einer starken Early-Game-Investition macht."
+      }
+    ],
+    "description": "Dunkle Kugel ist ein mystischer Gegenstand, der Gesundheit und starke dunkle Magie-Effekte bietet."
+  },
+  "WaterSphere": {
+    "whyUse": "Die Wasserkugel ist für Helden konzipiert, die Schutz gegen Betäubungen, Verlangsamungen, Gifte, Rüstungsreduzierungseffekte und andere Debuffs benötigen. Das Item bietet hohe Physische Rüstung, einen erhöhten Manapool, einen kleinen Bewegungsgeschwindigkeitsbonus, Zugang zu Klarheits-Runen und zusätzliche Klarheits-Runen-Speicherkapazität.",
+    "uniqueEffect": "Beim Zerstören von Büschen haben Helden eine Chance, eine Klarheits-Rune zu entdecken. Bei Aufnahme erscheint die Rune als neue Fähigkeit, die jederzeit aktiviert werden kann. Eine Klarheits-Rune entfernt alle negativen Effekte vom Helden, einschließlich Betäubungen, Verlangsamungen, Gifteffekte, Physische Rüstungsreduzierung, Magische Rüstungsreduzierung und andere Debuffs. Eines der wichtigsten Merkmale der Klarheits-Rune ist ihre automatische Betäubungsentfernung — wenn der Held betäubt wird, während er eine Klarheits-Rune trägt, aktiviert sich die Rune automatisch.",
+    "strengths": [
+      "Bietet eine große Menge an Physischer Rüstung",
+      "Erhöht den Manapool",
+      "Gewährt Bewegungsgeschwindigkeit",
+      "Generiert Klarheits-Runen",
+      "Entfernt alle Debuffs",
+      "Entfernt Betäubungen automatisch",
+      "Kann mehrere Klarheits-Runen speichern",
+      "Starker Konter gegen Crowd Control"
+    ],
+    "weaknesses": [
+      "Erfordert Busch-Farmen zum Generieren von Klarheits-Runen",
+      "Bietet keine direkte Schadenserhöhung",
+      "Weniger effektiv gegen Teams mit wenig Crowd Control",
+      "Erhöht keine Mana-Regeneration",
+      "Voller Nutzen hängt vom Erhalten und Verwalten von Klarheits-Runen ab"
+    ],
+    "tips": [
+      "Spare Klarheits-Runen nach Möglichkeit.",
+      "Klarheits-Runen aktivieren sich automatisch, wenn du betäubt wirst.",
+      "Die Wasserkugel ist am stärksten gegen crowd-control-schwere Teams.",
+      "Der zusätzliche Manapool profitiert vielen Zauberwirkern.",
+      "Das Tragen von zwei Klarheits-Runen kann die Überlebensfähigkeit dramatisch verbessern.",
+      "Physische Rüstung hilft, eingehenden physischen Schaden im gesamten Match zu reduzieren."
+    ],
+    "bestHeroes": {
+      "flameweaver": "Flameweaver ist einer der stärksten Nutzer der Wasserkugel. Der zusätzliche Manapool erhöht direkt die Effektivität seiner Fähigkeiten, während Klarheits-Runen ihn vor Betäubungen schützen.",
+      "viverna": "Die Wasserkugel ist ausgezeichnet bei Viverna. Sie verlässt sich auf Mobilität und Positionierung und nutzt oft Blink zum Angreifen oder Entkommen. Klarheits-Runen schützen sie vor Betäubungen.",
+      "faerie": "Faerie profitiert stark von der Wasserkugel. Als mobile Magierin muss sie oft in Kämpfen neu positionieren. Der zusätzliche Manapool, die Bewegungsgeschwindigkeit und die automatische Betäubungsentfernung ergänzen ihren Spielstil.",
+      "mortifier": "Die Wasserkugel kann bei Mortifier überraschend effektiv sein. In Kombination mit der Feuerkugel schafft sie ein ausgewogenes Setup mit zusätzlichem Mana, defensiver Utility, Crowd-Control-Schutz und extra Bewegungsgeschwindigkeit."
+    },
+    "counterHeroes": {
+      "freezi": "Death Slayer verlässt sich auf sowohl physischen Schaden als auch Crowd Control. Die Wasserkugel bietet Physische Rüstung und entfernt automatisch seine Betäubung."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich die Wasserkugel frei?",
+        "a": "Die Wasserkugel ist ein normales Item, das durch das Tägliche-Bonus-System freigeschaltet wird."
+      },
+      {
+        "q": "Was macht die Wasserkugel?",
+        "a": "Die Wasserkugel bietet Physische Rüstung, Mana, Bewegungsgeschwindigkeit und ermöglicht Helden, Klarheits-Runen beim Zerstören von Büschen zu entdecken."
+      },
+      {
+        "q": "Was macht eine Klarheits-Rune?",
+        "a": "Eine Klarheits-Rune entfernt alle negativen Effekte vom Helden, einschließlich Betäubungen, Verlangsamungen, Gifte und Rüstungsreduzierungseffekte."
+      },
+      {
+        "q": "Entfernt die Klarheits-Rune Betäubungen automatisch?",
+        "a": "Ja. Wenn ein Held, der eine Klarheits-Rune trägt, betäubt wird, aktiviert sich die Rune automatisch und entfernt die Betäubung."
+      },
+      {
+        "q": "Kann die Wasserkugel den Betäubungshammer kontern?",
+        "a": "Ja. Die Wasserkugel ist einer der stärksten Konter gegen den Betäubungshammer, da die Klarheits-Rune den Betäubungseffekt automatisch entfernt."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten von der Wasserkugel?",
+        "a": "Flameweaver, Viverna, Faerie und Mortifier gehören zu den stärksten Nutzern."
+      },
+      {
+        "q": "Kann ich mehr als eine Klarheits-Rune tragen?",
+        "a": "Ja. Die Wasserkugel ermöglicht Helden, eine zusätzliche Klarheits-Runen-Aufladung zu speichern, sodass sie bis zu zwei Runen gleichzeitig tragen können."
+      },
+      {
+        "q": "Ist die Wasserkugel gut gegen Death Slayer?",
+        "a": "Ja. Sie bietet Physische Rüstung, um seinen Schaden zu reduzieren, und Klarheits-Runen können seine Betäubung automatisch entfernen."
+      }
+    ],
+    "description": "Wasserkugel ist ein gewöhnlicher Gegenstand, der durch das tägliche Bonus-System freigeschaltet wird. Er bietet eine große Menge an Gesundheit und Wassermagie-Effekten."
+  },
+  "Ring": {
+    "whyUse": "Der Ring ist für Helden konzipiert, die auf physischen Schaden und häufige Angriffe angewiesen sind. Das Item erhöht physischen Schaden, gewährt physische Rüstung und bietet permanenten physischen Lebensraub. Dies ermöglicht es Helden, beim Kämpfen Lebenspunkte zu regenerieren, was sie in ausgedehnten Gefechten deutlich schwerer eliminierbar macht. Der Rüstungsbonus ist besonders wertvoll, weil er die Effektivität jedes Heilungspunktes verbessert.",
+    "strengths": [
+      "Bietet permanenten physischen Lebensraub",
+      "Gewährt sowohl Schaden als auch Rüstung",
+      "Ausgezeichnete Ausdauer in ausgedehnten Kämpfen",
+      "Starke Synergie mit Angriffsgeschwindigkeit",
+      "Skaliert gut mit zunehmendem physischem Schaden",
+      "Verbessert Überlebensfähigkeit ohne offensive Kraft zu opfern"
+    ],
+    "weaknesses": [
+      "Heilt nicht beim Angreifen von Büschen",
+      "Weniger effektiv bei Helden, die hauptsächlich auf magischen Schaden setzen",
+      "Erfordert konstante Angriffe für maximalen Nutzen",
+      "Bietet weniger Burst-Schaden als reine Offensiv-Items"
+    ],
+    "tips": [
+      "Der Ring stellt nur Lebenspunkte durch physischen Schaden an Helden und Creeps wieder her.",
+      "Das Item wird stärker, wenn dein physischer Schaden steigt.",
+      "Angriffsgeschwindigkeit steigert den Wert des Rings erheblich.",
+      "Lebensraub und Rüstung funktionieren außergewöhnlich gut zusammen.",
+      "Der Ring ist in langen Kämpfen oft am stärksten, wo viele Angriffe gelandet werden können.",
+      "Helden mit eingebautem Lebensraub erhalten noch mehr Nutzen vom Ring."
+    ],
+    "bestHeroes": {
+      "death-slayer": "Death Slayer hat bereits durch seine Fähigkeiten Zugang zu Lebensraub. Der Ring stapelt sich mit seiner vorhandenen Ausdauer und ermöglicht es ihm, während des Kampfes noch mehr Lebenspunkte zu regenerieren. Die zusätzliche Rüstung und der Schaden stärken weiter seine Fähigkeit, in Kämpfen zu bleiben."
+    },
+    "faq": [
+      {
+        "q": "Wie schalte ich den Ring frei?",
+        "a": "Der Ring wird durch das Upgraden von Death Slayer freigeschaltet."
+      },
+      {
+        "q": "Heilt der Ring beim Angreifen von Büschen?",
+        "a": "Nein. Der Ring stellt nur Lebenspunkte wieder her, wenn physischer Schaden an Helden und Creeps verursacht wird."
+      },
+      {
+        "q": "Funktioniert der Ring mit physischen Fähigkeiten?",
+        "a": "Ja. Jeder physische Schaden, der von Lebensraub profitiert, kann zur Heilung beitragen."
+      },
+      {
+        "q": "Welche Helden profitieren am meisten vom Ring?",
+        "a": "Death Slayer, Freezi, Grizzly, Volcarn und Spitfire gehören zu den stärksten Nutzern, weil sie entweder schnell angreifen oder hohen physischen Schaden verursachen."
+      },
+      {
+        "q": "Warum ist Rüstung bei einem Lebensraub-Item nützlich?",
+        "a": "Rüstung reduziert eingehenden physischen Schaden, sodass die durch Lebensraub wiederhergestellten Lebenspunkte noch effektiver werden. Die Kombination aus Rüstung und Heilung macht Helden deutlich schwerer zu besiegen."
+      },
+      {
+        "q": "Ist der Ring ein Defensivitem oder ein Schadensitem?",
+        "a": "Der Ring ist beides. Er bietet Schaden, Rüstung und Lebensraub und ist damit eines der ausgewogensten Ausdauer-Items für physische Schadenshelden."
+      }
+    ],
+    "description": "Ring ist ein legendärer Gegenstand, der durch das Upgraden von Death Slayer freigeschaltet wird. Er kombiniert physischen Schaden, physische Rüstung und einzigartige Kampfmechaniken."
+  }
+}

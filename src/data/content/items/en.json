@@ -1,0 +1,2528 @@
+{
+  "Sword": {
+    "description": "Sword is one of the most straightforward damage items in Spelltroum. While many players overlook it because it only provides damage, Sword offers a surprisingly large amount of attack power for its cost. For heroes that simply need more physical damage, it is often one of the most efficient upgrades available.",
+    "whyUse": "Sword is a great choice when your goal is simple: deal more damage. Unlike utility items that provide armor, mana, or movement speed, Sword focuses entirely on increasing attack power. This makes it especially effective for aggressive heroes who rely on basic attacks to farm, pressure opponents, and secure eliminations. Many players underestimate Sword because of its simple design, but the amount of damage it provides for its cost can have a major impact throughout the match.",
+    "strengths": [
+      "High damage for its cost",
+      "Simple and reliable item choice",
+      "Helps heroes farm faster",
+      "Excellent for physical damage builds",
+      "Strong throughout all stages of the game"
+    ],
+    "weaknesses": [
+      "Provides no survivability",
+      "Offers no mobility or utility",
+      "Less valuable for heroes that primarily rely on spell damage"
+    ],
+    "tips": [
+      "If Sword allows your hero to destroy bushes in one hit, you do not always need to upgrade it immediately.",
+      "A single Sword upgrade is often enough to reach important farming breakpoints.",
+      "Consider investing gold into other items first if additional Sword levels do not significantly improve farming speed.",
+      "If the match goes into the late game, fully upgrading Sword can provide a large damage boost.",
+      "Sword is most effective on heroes that already have abilities that strengthen their attacks."
+    ],
+    "bestHeroes": {
+      "freezi": "Her attack speed bonuses make every point of additional damage more valuable. Combined with rapid attacks, Sword significantly increases damage output and farming efficiency.",
+      "shadow-fury": "Her attacks can reduce enemy armor, allowing increased damage to hit even harder. As Sword is upgraded, she becomes capable of dealing devastating burst damage.",
+      "druid": "His abilities already add extra attack damage, making bonus damage more valuable. Sword also helps destroy bushes faster for more efficient farming."
+    },
+    "faq": [
+      {
+        "q": "Is Sword a good early game item?",
+        "a": "Yes. Sword can significantly increase your farming speed and help you reach important damage thresholds early in the match."
+      },
+      {
+        "q": "Should I always upgrade Sword to Level 4?",
+        "a": "Not necessarily. If the first upgrade already allows you to destroy bushes in one hit, it may be more efficient to invest gold into other items first and finish Sword later."
+      },
+      {
+        "q": "Which heroes benefit the most from Sword?",
+        "a": "Heroes that rely on physical attacks, especially Shadow Fury and Furion, gain the most value from Sword."
+      }
+    ]
+  },
+  "BladesOfAttack": {
+    "whyUse": "Lethal Claws is designed for players who want to maximize their damage potential. While the item provides less direct damage than Sword, it compensates by granting critical strike chance. As heroes gain more damage from levels, abilities, and items, every successful critical hit becomes significantly more valuable. The item is especially effective on heroes that already have strong physical attacks or abilities that scale with physical damage. Since critical strike chance stacks additively with other sources, Lethal Claws becomes even stronger when combined with abilities or items that provide additional critical strike chance. The tradeoff is consistency — while the average damage can be very high, critical hits are never guaranteed.",
+    "strengths": [
+      "High burst damage potential",
+      "Critical hits deal 50% additional physical damage",
+      "Scales well with other damage items",
+      "Critical strike chance stacks with other sources",
+      "Effective on both attacks and physical damage abilities",
+      "Strong mid-game and late-game item"
+    ],
+    "weaknesses": [
+      "Less consistent than Sword",
+      "Damage depends on chance",
+      "Can be unreliable when stable damage is required",
+      "Provides no defensive bonuses",
+      "May underperform during short fights if critical hits do not trigger"
+    ],
+    "tips": [
+      "Lethal Claws becomes stronger as your total physical damage increases.",
+      "Critical strike chance stacks with other critical strike bonuses from items and hero abilities.",
+      "Heroes with built-in critical strike effects can reach very high critical strike chances when using Lethal Claws.",
+      "Physical damage abilities can benefit from critical strikes just like basic attacks.",
+      "Consider combining Lethal Claws with other physical damage items to maximize burst damage.",
+      "The item is most effective when you are willing to trade consistency for higher damage potential."
+    ],
+    "bestHeroes": {
+      "shadow-fury": "Her charged shot deals physical damage and can critically strike. When a critical hit occurs on a fully charged attack, the damage can become devastating and may instantly eliminate fragile enemies.",
+      "druid": "Has abilities that increase attack damage. When a critical strike occurs alongside his damage bonus effects, the result can be an enormous burst of damage.",
+      "grizzly": "Naturally builds up damage against single targets. As his attacks become stronger, critical strikes become increasingly dangerous and can quickly swing a fight."
+    },
+    "faq": [
+      {
+        "q": "Do critical hits affect abilities?",
+        "a": "Yes. Physical damage abilities can critically strike and benefit from critical damage bonuses."
+      },
+      {
+        "q": "How much extra damage does a critical hit deal?",
+        "a": "Critical hits deal 50% additional physical damage."
+      },
+      {
+        "q": "Does critical strike chance stack?",
+        "a": "Yes. Critical strike chance from Lethal Claws stacks with critical strike bonuses from other items and hero abilities."
+      },
+      {
+        "q": "Is Lethal Claws better than Sword?",
+        "a": "Not always. Sword provides reliable and consistent damage, while Lethal Claws offers higher damage potential at the cost of consistency."
+      },
+      {
+        "q": "Which heroes benefit most from Lethal Claws?",
+        "a": "Heroes with high physical damage, such as Shadow Fury, Furion, and Grizzly, gain the most value from the item."
+      },
+      {
+        "q": "Is Lethal Claws good in PvE?",
+        "a": "It can be powerful, but some players prefer more consistent damage sources when completing PvE content where predictable damage is important."
+      }
+    ]
+  },
+  "Dagger": {
+    "whyUse": "Dagger is an excellent choice for players who want to maximize physical damage against enemy heroes. The item's armor reduction effect applies a debuff to the target, lowering their physical armor for a short duration — allowing all allies attacking that target to deal more damage. The effect becomes especially powerful against enemies with low armor. If a target's armor is reduced to zero or below, incoming physical damage increases significantly. Because the armor reduction is applied directly to the enemy rather than granted as bonus damage to the attacker, Dagger remains effective for the entire team throughout the fight, making it one of the strongest team-oriented damage items in Spelltroum.",
+    "strengths": [
+      "Provides both damage and utility",
+      "Reduces enemy physical armor",
+      "Increases damage dealt by all allies attacking the target",
+      "Extremely effective in coordinated team fights",
+      "Synergizes well with heroes that already reduce armor",
+      "Strong against low-armor targets",
+      "Excellent item for focused target elimination"
+    ],
+    "weaknesses": [
+      "Provides no defensive bonuses",
+      "Less effective if enemies are not being focused by multiple attackers",
+      "Delivers less direct damage than some pure damage items",
+      "Requires consistent pressure on key targets to gain maximum value"
+    ],
+    "tips": [
+      "Focus attacks on a single target to maximize the value of the armor reduction effect.",
+      "Dagger becomes stronger when multiple allies attack the same enemy.",
+      "The item is particularly effective against enemies with low armor.",
+      "Heroes with existing armor reduction abilities gain exceptional value from Dagger.",
+      "In team fights, apply the debuff to the highest-priority target first.",
+      "Dagger is especially powerful in 2v2 matches where both teammates can focus the same enemy."
+    ],
+    "bestHeroes": {
+      "druid": "Can summon a creature from bushes to fight alongside him. Once Dagger reduces an enemy's armor, both Furion and his summoned companion benefit from the increased damage against that target.",
+      "volcarn": "Already has abilities that reduce enemy armor. Combined with Dagger, enemies become even more vulnerable, allowing Volcarn and teammates to deal significantly higher damage.",
+      "shadow-fury": "Relies heavily on physical damage and already has abilities that reduce enemy armor. Dagger amplifies this strength even further with an additional armor reduction effect."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Dagger?",
+        "a": "Dagger is unlocked by upgrading Druid. As you progress with Druid and improve the hero, you will eventually gain access to this Legendary item."
+      },
+      {
+        "q": "Does Dagger only increase my damage?",
+        "a": "No. Dagger reduces the target's armor, allowing all allies to deal more physical damage to that enemy."
+      },
+      {
+        "q": "Is Dagger good in 2v2?",
+        "a": "Yes. Dagger is particularly strong in 2v2 because both teammates can benefit from the armor reduction effect when focusing the same target."
+      },
+      {
+        "q": "Which heroes benefit most from Dagger?",
+        "a": "Heroes that deal physical damage or already have armor reduction effects, such as Druid, Volcarn, and Shadow Fury, gain the most value from Dagger."
+      },
+      {
+        "q": "Is Dagger better against low-armor enemies?",
+        "a": "Yes. The closer an enemy is to zero armor, the more impactful additional armor reduction becomes."
+      },
+      {
+        "q": "Does Dagger work with summoned units?",
+        "a": "Yes. Summoned units also benefit from attacking enemies whose armor has been reduced by Dagger."
+      }
+    ]
+  },
+  "AssaultSpear": {
+    "whyUse": "Assault Spear is an excellent choice for heroes that rely on frequent attacks. The item increases both attack speed and damage, allowing heroes to farm faster and deal more damage during fights. At the same time, every successful attack restores health, helping the hero stay active on the battlefield longer. Unlike burst-oriented damage items, Assault Spear rewards constant aggression. Heroes that attack quickly can trigger the healing effect repeatedly, turning small amounts of healing into a significant advantage over time. The item is especially effective during extended fights where the healing can accumulate through dozens of attacks.",
+    "strengths": [
+      "Provides attack speed and physical damage",
+      "Restores health on successful attacks",
+      "Excellent sustain during long fights",
+      "Helps reduce downtime between battles",
+      "Strong farming item",
+      "Effective throughout all stages of the game"
+    ],
+    "weaknesses": [
+      "Healing is less noticeable during short fights",
+      "Requires frequent attacks to gain maximum value",
+      "Less effective on heroes that rely primarily on spell damage",
+      "Provides no armor or direct defensive bonuses"
+    ],
+    "tips": [
+      "Assault Spear becomes stronger as your attack speed increases.",
+      "Heroes that attack rapidly gain the most value from the healing effect.",
+      "The item helps maintain health while farming bushes and monsters.",
+      "Assault Spear is often more effective in long fights than in short burst engagements.",
+      "Consider fully upgrading the item if your build relies heavily on basic attacks.",
+      "Sustained damage heroes generally benefit more from Assault Spear than burst damage heroes."
+    ],
+    "bestHeroes": {
+      "spitfire": "Already benefits from attack speed bonuses, allowing him to trigger the healing effect more frequently. The additional attack speed and damage also improve farming speed and make it easier to pressure opponents.",
+      "freezi": "Benefits greatly thanks to her naturally high attack speed. Since the healing effect triggers on every successful attack, Freezi can recover health more frequently than many other heroes."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Assault Spear?",
+        "a": "Assault Spear is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock and can be used by any player."
+      },
+      {
+        "q": "Does Assault Spear heal when attacking bushes?",
+        "a": "Yes. Successful attacks against bushes can trigger the healing effect."
+      },
+      {
+        "q": "Does Assault Spear heal when attacking enemy heroes?",
+        "a": "Yes. Every successful attack can restore health."
+      },
+      {
+        "q": "Which heroes benefit most from Assault Spear?",
+        "a": "Spitfire and Freezi are among the strongest users because they can attack rapidly and trigger the healing effect more often."
+      },
+      {
+        "q": "Is Assault Spear a damage item or a survivability item?",
+        "a": "It is both. Assault Spear increases attack speed and damage while also providing health recovery through its healing effect."
+      }
+    ]
+  },
+  "BoneSword": {
+    "whyUse": "Bone Sword is designed for heroes that can turn its drawback into an advantage. The item provides a large amount of health, bonus damage, critical strike bonuses, and additional damage based on hero level. At higher levels, the scaling damage alone can become a massive source of power. However, every attack consumes health — heroes that lack healing, lifesteal, or some form of health recovery may struggle to use it effectively. The item shines on heroes that can sustain themselves through combat or benefit from having lower health. For those heroes, the self-damage becomes a manageable cost rather than a weakness.",
+    "strengths": [
+      "Grants a large amount of bonus health",
+      "Provides strong damage scaling through hero levels",
+      "Increases maximum critical strike damage",
+      "Excellent late-game damage potential",
+      "Extremely powerful on heroes with sustain",
+      "Cannot kill its owner"
+    ],
+    "weaknesses": [
+      "Every attack consumes health",
+      "Self-damage occurs even if attacks miss",
+      "Requires healing, lifesteal, or sustain to reach full potential",
+      "Can be difficult to use effectively on fragile heroes",
+      "Critical strike chance is relatively low without additional sources"
+    ],
+    "tips": [
+      "Bone Sword cannot kill its owner, making it safer than it may initially appear.",
+      "The item becomes stronger as your hero gains levels.",
+      "Heroes with lifesteal gain significantly more value from Bone Sword.",
+      "Heroes that benefit from low health can turn the self-damage into an advantage.",
+      "The item works best when paired with reliable healing or sustain.",
+      "Do not purchase Bone Sword solely for its critical strike chance — the bonus is relatively small on its own."
+    ],
+    "bestHeroes": {
+      "volcarn": "Gains attack speed as his health decreases. Bone Sword continuously reduces his health while attacking, naturally activating his attack speed bonuses. His natural sustain further helps offset the self-damage effect.",
+      "death-slayer": "His built-in lifesteal allows him to recover health while attacking, helping compensate for the health lost. He also benefits from the critical strike bonuses through his existing critical strike abilities."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Bone Sword?",
+        "a": "Bone Sword is unlocked by upgrading Volcarn."
+      },
+      {
+        "q": "Can Bone Sword kill its owner?",
+        "a": "No. Bone Sword's self-damage effect cannot reduce the owner's health to zero."
+      },
+      {
+        "q": "Does Bone Sword deal self-damage if my attack misses?",
+        "a": "Yes. The self-damage effect activates whenever you attack, regardless of whether the attack hits a target."
+      },
+      {
+        "q": "Is Bone Sword good for Volcarn?",
+        "a": "Yes. Bone Sword is one of Volcarn's strongest items because the self-damage helps activate his attack speed bonuses while providing significant offensive power."
+      },
+      {
+        "q": "Is Bone Sword a critical strike item?",
+        "a": "Not primarily. While Bone Sword provides some critical strike chance and increases maximum critical strike damage, it is usually purchased for its scaling damage, bonus health, and unique self-damage mechanics."
+      },
+      {
+        "q": "Why does Bone Sword become stronger later in the match?",
+        "a": "Bone Sword grants additional damage based on hero level. As your hero levels up, the item's damage bonus continues to increase."
+      }
+    ]
+  },
+  "WarriorAxe": {
+    "whyUse": "Axe of War is ideal for heroes that want a little bit of everything. The item provides bonus damage to improve farming and combat effectiveness, bonus health to increase survivability, and movement speed to help heroes engage, chase enemies, and reposition during fights. One of the biggest advantages of Axe of War is that it can partially replace the need for movement-focused items. Some heroes do not require the large movement speed bonus provided by Boots but still benefit greatly from a moderate speed increase. Axe of War allows those heroes to gain movement speed while also improving their combat stats. Because of this flexibility, Axe of War remains useful throughout every stage of the match.",
+    "strengths": [
+      "Provides damage, health, and movement speed",
+      "Excellent all-around item",
+      "Strong early-game and mid-game power spike",
+      "Helps heroes destroy bushes more efficiently",
+      "Improves both survivability and mobility",
+      "Works well on a wide variety of heroes"
+    ],
+    "weaknesses": [
+      "Does not excel in any single category",
+      "Provides less movement speed than dedicated Boots items",
+      "Provides less damage than pure offensive items",
+      "May be outperformed by specialized items in highly optimized builds"
+    ],
+    "tips": [
+      "The first upgrade often provides enough damage to destroy bushes in a single attack.",
+      "The second upgrade grants a significant health increase, making your hero noticeably harder to eliminate.",
+      "Axe of War is especially valuable for heroes that do not need the full movement speed provided by Boots.",
+      "The item is often strongest when upgraded early in the match.",
+      "Consider Axe of War if your build lacks either survivability or mobility.",
+      "Balanced stat items often provide more consistent value than highly specialized items."
+    ],
+    "bestHeroes": {
+      "mortifier": "The bonus damage increases the effectiveness of his attacks, while the additional health improves survivability. Since Mortifier can trigger additional attacks through his abilities, every point of bonus damage becomes more valuable.",
+      "death-slayer": "A melee hero that often struggles to stay on top of fleeing targets. Axe of War solves several problems at once by providing additional damage, survivability, and movement speed.",
+      "grizzly": "As a melee hero, he values movement speed for chasing enemies, health for surviving fights, and damage for offensive pressure. Axe of War strengthens all of these areas simultaneously."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Axe of War?",
+        "a": "Axe of War is unlocked through the Daily Rewards system. Simply log in to the game and claim your daily rewards to eventually unlock the item."
+      },
+      {
+        "q": "Is Axe of War a damage item or a defensive item?",
+        "a": "Both. Axe of War provides damage, health, and movement speed, making it one of the most balanced items in the game."
+      },
+      {
+        "q": "Is Axe of War a good first item?",
+        "a": "Yes. Many players choose Axe of War as an early upgrade because it immediately improves multiple aspects of their hero."
+      },
+      {
+        "q": "Which heroes benefit most from Axe of War?",
+        "a": "Mortifier, Death Slayer, and Grizzly are among the heroes that gain the most value from Axe of War."
+      },
+      {
+        "q": "Does Axe of War help with farming?",
+        "a": "Yes. The early damage bonus often allows heroes to destroy bushes in a single attack, significantly improving farming efficiency."
+      },
+      {
+        "q": "Should I buy Boots if I already have Axe of War?",
+        "a": "It depends on the hero. Some heroes still benefit from dedicated movement speed items, while others gain enough mobility from Axe of War and can use their remaining item slots for other purposes."
+      }
+    ]
+  },
+  "FireAxe": {
+    "whyUse": "Fire Axe is an excellent choice for heroes that want to pressure enemies over time rather than relying entirely on burst damage. The item's burning effect continues damaging enemies long after the initial attack. While each damage tick may seem small, the total damage can become significant over multiple engagements. One of the most valuable aspects of Fire Axe is its ability to delay enemy health regeneration — since burning damage continues for several seconds, affected enemies cannot begin their natural regeneration until the burn expires. This makes Fire Axe especially effective against heroes that rely on disengaging and recovering between fights.",
+    "strengths": [
+      "Provides damage and movement speed",
+      "Applies pure damage that ignores armor",
+      "Delays enemy health regeneration",
+      "Strong against shield-based heroes",
+      "Excellent harassment tool",
+      "Synergizes well with other damage-over-time effects",
+      "Useful throughout all stages of the game"
+    ],
+    "weaknesses": [
+      "Lower burst damage than some offensive items",
+      "Requires repeated attacks to maintain pressure",
+      "Damage is spread over time instead of delivered instantly",
+      "Less effective if enemies can quickly finish fights before the burn becomes impactful"
+    ],
+    "tips": [
+      "The first upgrade provides enough damage for many heroes to destroy bushes in a single attack.",
+      "The second upgrade grants movement speed comparable to basic boots.",
+      "Fire Damage ignores both Physical Armor and Magic Armor.",
+      "Burning enemies cannot begin natural health regeneration until the burn effect ends.",
+      "Fire Axe is particularly effective against heroes that rely on shields.",
+      "The item excels at harassment and repeated hit-and-run attacks.",
+      "Damage-over-time effects become more valuable during long fights."
+    ],
+    "bestHeroes": {
+      "viverna": "Already specializes in damage over time through poison effects. Fire Axe adds another source of periodic damage, allowing both effects to stack and continuously pressure enemies. The movement speed also helps her reposition and maintain distance.",
+      "faerie": "After casting spells, a single attack can apply the burning effect and continue damaging the target while Faerie repositions and waits for cooldowns. Allows her to maintain pressure even when not actively casting."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Fire Axe?",
+        "a": "Fire Axe is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "Does Fire Damage ignore armor?",
+        "a": "Yes. Fire Damage is pure damage and is not reduced by either Physical Armor or Magic Armor."
+      },
+      {
+        "q": "Does Fire Axe prevent health regeneration?",
+        "a": "Yes. While the burning effect is active, the target continues taking damage and cannot begin natural health regeneration."
+      },
+      {
+        "q": "Which heroes benefit most from Fire Axe?",
+        "a": "Viverna and Faerie are among the strongest users because they can combine its burn effect with their existing damage-over-time and poke abilities."
+      },
+      {
+        "q": "Is Fire Axe a farming item or a fighting item?",
+        "a": "Both. Early upgrades improve farming through bonus damage, while later upgrades provide movement speed and powerful damage-over-time effects for combat."
+      }
+    ]
+  },
+  "ManaAxe": {
+    "whyUse": "Mana Axe is designed to punish mana-dependent heroes. Each attack burns mana from the target and converts the burned mana into pure damage. Unlike Physical or Magic Damage, this damage is not reduced by armor, making it effective against a wide variety of enemies. The item becomes especially powerful against heroes that rely heavily on abilities — by draining their mana, Mana Axe not only damages them but also limits their ability to fight back. At higher levels it can quickly deplete an enemy's mana pool while dealing a surprising amount of additional damage. The final upgrade also grants movement speed, making it a useful alternative to basic boots for some heroes.",
+    "strengths": [
+      "Burns enemy mana on every attack",
+      "Deals pure damage based on mana burned",
+      "Effective against spellcasters and mana-heavy builds",
+      "Strong on fast-attacking heroes",
+      "Provides movement speed at maximum level",
+      "Can significantly reduce an enemy's ability to cast spells"
+    ],
+    "weaknesses": [
+      "Less effective against heroes with low mana pools",
+      "Provides little value once an enemy runs out of mana",
+      "Does not directly increase attack damage",
+      "Requires repeated attacks to maximize effectiveness"
+    ],
+    "tips": [
+      "Mana Axe becomes stronger against heroes with large mana pools.",
+      "Heroes with high attack speed gain more value because they trigger mana burn more frequently.",
+      "If an enemy has no mana remaining, Mana Axe can no longer deal additional mana burn damage.",
+      "The final upgrade provides movement speed, making Mana Axe a potential alternative to basic boots.",
+      "Consider Mana Axe when facing enemies that rely heavily on abilities.",
+      "Mana Axe is one of the strongest counters to Mana Shield builds."
+    ],
+    "bestHeroes": {
+      "flameweaver": "Already has multiple ways to drain enemy mana through his abilities. Combined with Mana Axe, he can rapidly empty an opponent's mana pool and leave them unable to cast important abilities.",
+      "freezi": "Her high attack speed lets her trigger Mana Axe repeatedly, burning large amounts of mana in a short period while continuously applying additional pure damage.",
+      "volcarn": "His illusions inherit the mana burn effect, allowing multiple attacks to drain mana simultaneously and overwhelm mana-dependent enemies very quickly."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Mana Axe?",
+        "a": "Mana Axe is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "Does Mana Axe deal pure damage?",
+        "a": "Yes. The damage caused by Mana Axe ignores both Physical Armor and Magic Armor."
+      },
+      {
+        "q": "Does Mana Axe work if the target has no mana?",
+        "a": "No. Mana Axe deals damage based on mana burned. If the target has no mana remaining, the item cannot burn additional mana."
+      },
+      {
+        "q": "Which heroes benefit most from Mana Axe?",
+        "a": "Flameweaver, Freezi, and Volcarn are among the strongest users because they can repeatedly trigger the mana burn effect."
+      },
+      {
+        "q": "What item does Mana Axe counter?",
+        "a": "Mana Axe is one of the strongest counters to Mana Shield. Mana Shield builds rely on large amounts of mana to increase survivability — Mana Axe directly attacks this strength by burning mana while simultaneously dealing damage."
+      },
+      {
+        "q": "Is Mana Axe a good alternative to Boots?",
+        "a": "For some heroes, yes. The final upgrade grants movement speed, allowing certain builds to gain mobility while also benefiting from mana burn and additional damage."
+      }
+    ]
+  },
+  "AxeOfVampire": {
+    "whyUse": "Axe of Vampire is designed for heroes that want powerful sustain during combat. Unlike traditional lifesteal items that provide a constant effect, Axe of Vampire grants access to temporary bursts of extremely strong healing. A well-timed Vampirism Rune can completely change the outcome of a fight, allowing a hero to recover large amounts of health while continuing to attack. The item also provides useful combat stats including bonus damage, physical armor, and movement speed at maximum level. Many players upgrade it early to gain access to the Vampirism Rune, then finish upgrading later when additional damage and armor become more valuable.",
+    "strengths": [
+      "Provides bonus damage and physical armor",
+      "Provides movement speed at maximum level",
+      "Can generate powerful Vampirism Runes from bushes",
+      "Grants 100% Physical Lifesteal when a rune is activated",
+      "Excellent burst sustain during fights",
+      "Particularly effective on fast-attacking heroes"
+    ],
+    "weaknesses": [
+      "The lifesteal effect depends on finding a Vampirism Rune",
+      "Less effective on heroes that rely primarily on magic damage",
+      "Requires physical attacks to gain value from the rune",
+      "Some of its power comes from randomness"
+    ],
+    "tips": [
+      "The Vampirism Rune only appears after upgrading Axe of Vampire.",
+      "Save the Vampirism Rune for important fights whenever possible.",
+      "Heroes with high attack speed gain the most value from the lifesteal effect.",
+      "The item is often worth upgrading to Level 2 early to gain access to the Vampirism Rune.",
+      "Physical armor makes the item useful even when a Vampirism Rune is not available."
+    ],
+    "bestHeroes": {
+      "druid": "His abilities can create additional bushes during combat, providing more opportunities to discover Vampirism Runes. Since Furion primarily deals physical damage, he can make excellent use of the 100% lifesteal effect.",
+      "freezi": "His additional attack opportunities allow him to trigger multiple healing instances during the Vampirism Rune, helping him recover health extremely quickly during combat.",
+      "grizzly": "Benefits from the offensive stats and uses the Vampirism Rune to offset damage taken during aggressive engagements, allowing him to remain in combat longer."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Axe of Vampire?",
+        "a": "Axe of Vampire is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "How do I get a Vampirism Rune?",
+        "a": "After upgrading Axe of Vampire, destroying bushes gives you a chance to discover a Vampirism Rune."
+      },
+      {
+        "q": "What does the Vampirism Rune do?",
+        "a": "When activated, the rune grants 100% Physical Lifesteal for 5 seconds."
+      },
+      {
+        "q": "Which heroes benefit most from Axe of Vampire?",
+        "a": "Furion, Freezi, Mortifier, Grizzly, and Volcarn are among the strongest users because they can take full advantage of the temporary lifesteal effect."
+      },
+      {
+        "q": "Is Axe of Vampire a reliable source of healing?",
+        "a": "Not completely. The healing depends on finding and activating a Vampirism Rune. However, when available, it can provide some of the strongest healing effects in the game."
+      },
+      {
+        "q": "Should I fully upgrade Axe of Vampire immediately?",
+        "a": "Not always. Many players upgrade it early to unlock the Vampirism Rune and then finish upgrading it later when they need additional damage, armor, and movement speed."
+      }
+    ]
+  },
+  "Ring": {
+    "whyUse": "Ring is designed for heroes that rely on physical damage and frequent attacks. The item increases physical damage, grants physical armor, and provides permanent Physical Lifesteal. This allows heroes to recover health while fighting, making them much harder to eliminate during extended engagements. The armor bonus is particularly valuable because it improves the effectiveness of every point of healing received — taking less damage while simultaneously restoring health creates a powerful combination. Even the first upgrade can be impactful, as the bonus damage is often enough for some heroes to destroy bushes in a single attack.",
+    "strengths": [
+      "Provides permanent Physical Lifesteal.",
+      "Grants both damage and armor.",
+      "Excellent sustain during extended fights.",
+      "Strong synergy with attack speed.",
+      "Scales well with increasing physical damage.",
+      "Improves survivability without sacrificing offensive power."
+    ],
+    "weaknesses": [
+      "Does not provide healing from attacking bushes.",
+      "Less effective on heroes that rely primarily on magic damage.",
+      "Requires consistent attacks to maximize value.",
+      "Provides less burst damage than pure offensive items."
+    ],
+    "tips": [
+      "Ring only restores health from physical damage dealt to heroes and creeps.",
+      "The item becomes stronger as your physical damage increases.",
+      "Attack speed greatly increases the value of Ring.",
+      "Lifesteal and armor work exceptionally well together.",
+      "Ring is often strongest during long fights where multiple attacks can be landed.",
+      "Heroes with built-in sustain gain even more value from Ring."
+    ],
+    "bestHeroes": {
+      "death-slayer": "Death Slayer already has access to lifesteal through his abilities. Ring stacks with his existing sustain, allowing him to recover even more health during combat. The additional armor and damage further strengthen his ability to remain in fights."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Ring?",
+        "a": "Ring is unlocked by upgrading Death Slayer."
+      },
+      {
+        "q": "Does Ring heal when attacking bushes?",
+        "a": "No. Ring only restores health when dealing physical damage to heroes and creeps."
+      },
+      {
+        "q": "Does Ring work with physical abilities?",
+        "a": "Yes. Any physical damage that benefits from lifesteal can contribute to healing."
+      },
+      {
+        "q": "Which heroes benefit most from Ring?",
+        "a": "Death Slayer, Freezi, Grizzly, Volcarn, and Spitfire are among the strongest users because they either attack quickly or deal high physical damage."
+      },
+      {
+        "q": "Why is armor useful on a lifesteal item?",
+        "a": "Armor reduces incoming physical damage, allowing the health restored through lifesteal to become even more effective. The combination of armor and healing makes heroes significantly harder to defeat."
+      },
+      {
+        "q": "Is Ring a defensive item or a damage item?",
+        "a": "Ring is both. It provides damage, armor, and lifesteal, making it one of the most balanced sustain items available for physical damage heroes."
+      }
+    ]
+  },
+  "WarlockStaff": {
+    "whyUse": "Warlock Staff is designed for players who want to maximize their gold income. Most items help heroes become stronger directly — Warlock Staff takes a different approach by helping heroes acquire gold more quickly, allowing them to purchase additional items sooner. The item is especially valuable for heroes that need time and resources to reach their full potential. Even if those heroes die while farming or scaling, Warlock Staff helps soften the economic setback. This creates an unusual risk-versus-reward playstyle: a player can focus heavily on farming and resource collection, knowing that deaths are less punishing than usual. However, dying still means losing crowns and giving opponents opportunities to take control of the match.",
+    "strengths": [
+      "Generates bonus gold after death.",
+      "Creates unique economic strategies.",
+      "Reduces the punishment for dying.",
+      "Provides damage, attack speed, and spell power.",
+      "Can be used effectively by almost any hero.",
+      "Helps heroes reach important item upgrades faster."
+    ],
+    "weaknesses": [
+      "Encourages risky play.",
+      "Does not directly improve survivability.",
+      "Losing crowns can outweigh the bonus gold gained.",
+      "Provides less combat power than specialized offensive items.",
+      "Requires careful decision-making to use effectively."
+    ],
+    "tips": [
+      "Warlock Staff rewards aggressive farming strategies.",
+      "Dying is still a disadvantage, even when bonus gold is awarded.",
+      "Focus on collecting resources and accelerating your item progression.",
+      "The item is often strongest during the early and mid game.",
+      "Do not sacrifice crowns carelessly simply because you gain bonus gold.",
+      "Warlock Staff provides useful combat stats even when its passive effect is not being triggered."
+    ],
+    "bestHeroes": {
+      "druid": "Volcarn is often vulnerable during early stages and typically requires several items before reaching his full potential. Warlock Staff helps accelerate this progression by reducing the economic impact of deaths and allowing him to continue scaling even when under pressure."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Warlock Staff?",
+        "a": "Warlock Staff is unlocked through the Daily Rewards system. Simply log in and claim daily rewards to unlock the item."
+      },
+      {
+        "q": "How does Warlock Staff work?",
+        "a": "Whenever your hero dies, Warlock Staff grants bonus gold. This helps reduce the economic impact of being defeated."
+      },
+      {
+        "q": "Is Warlock Staff a good item for beginners?",
+        "a": "It can be, but players should be careful. The item rewards deaths with gold, but dying too often can still cause you to lose the match."
+      },
+      {
+        "q": "Which heroes benefit most from Warlock Staff?",
+        "a": "Druid and Volcarn are among the most common users because they often benefit from additional farming and scaling opportunities."
+      },
+      {
+        "q": "Does Warlock Staff mean I should intentionally die?",
+        "a": "Not usually. The goal is not to die as often as possible. Instead, the item allows you to take calculated risks and recover more easily when deaths happen."
+      },
+      {
+        "q": "Why do some players consider Warlock Staff underrated?",
+        "a": "Many players focus only on combat power. Warlock Staff provides economic power instead, allowing skilled players to build item advantages that can become extremely valuable later in the match."
+      }
+    ]
+  },
+  "GlaciumReaver": {
+    "whyUse": "Glacium Reaver is one of the best items for heroes that frequently cast spells. Mana is often the most important resource for spellcasters — by restoring mana through farming and combat, Glacium Reaver allows heroes to continue using abilities without running out of resources. The item also provides Spell Power, increasing the effectiveness of magical abilities. Its unique bouncing magical projectile adds additional utility: it can damage multiple targets, clear bushes more efficiently, and create extra pressure during combat. At maximum level, the movement speed bonus can serve as an alternative to basic boots for heroes that want mobility without dedicating an entire item slot to movement.",
+    "strengths": [
+      "Provides Spell Power.",
+      "Restores mana through farming and combat.",
+      "Grants movement speed at maximum level.",
+      "Helps heroes remain active longer.",
+      "Improves farming efficiency.",
+      "Features a unique bouncing magical projectile.",
+      "Strong choice for mana-dependent heroes."
+    ],
+    "weaknesses": [
+      "Less effective on heroes that do not use mana frequently.",
+      "Provides less direct damage than dedicated offensive items.",
+      "The magical projectile effect is chance-based.",
+      "Requires active farming to maximize mana restoration."
+    ],
+    "tips": [
+      "Destroying bushes is an excellent way to restore mana.",
+      "The item becomes more valuable the more frequently your hero casts spells.",
+      "The magical projectile can help clear multiple bushes with a single attack.",
+      "Movement speed at maximum level allows some heroes to skip basic boots.",
+      "Spellcasters generally gain the most value from Glacium Reaver.",
+      "The bouncing projectile can occasionally hit targets you were not directly attacking."
+    ],
+    "bestHeroes": {
+      "viverna": "Viverna relies heavily on mana and spell damage throughout the match. The mana restoration helps her continue casting abilities, while additional Spell Power improves the effectiveness of her poison and magical attacks. The bouncing magical projectile also helps improve farming efficiency.",
+      "faerie": "Faerie benefits from every aspect of Glacium Reaver. Additional mana allows her to cast abilities more frequently, Spell Power increases her damage output, and movement speed improves her mobility during fights."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Glacium Reaver?",
+        "a": "Glacium Reaver is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "How does Glacium Reaver restore mana?",
+        "a": "Mana is restored whenever you destroy bushes, creeps, or enemy heroes."
+      },
+      {
+        "q": "What does the magical axe do?",
+        "a": "The magical axe converts the attack into Magic Damage and bounces to an additional target, allowing it to hit multiple enemies or bushes."
+      },
+      {
+        "q": "Which heroes benefit most from Glacium Reaver?",
+        "a": "Viverna and Faerie are among the strongest users because they heavily rely on mana and spell damage throughout the match."
+      },
+      {
+        "q": "Is Glacium Reaver good for farming?",
+        "a": "Yes. The mana restoration effect and bouncing magical projectile both help improve farming efficiency."
+      },
+      {
+        "q": "Can Glacium Reaver replace Boots?",
+        "a": "For some heroes, yes. The movement speed bonus allows certain builds to gain mobility without dedicating an item slot to traditional boots."
+      }
+    ]
+  },
+  "ClawsOfFerocity": {
+    "whyUse": "Claws of Ferocity is designed for heroes that already have access to critical strike chance. Unlike items that focus on increasing the frequency of critical hits, Claws of Ferocity focuses on increasing their impact — every successful critical strike becomes considerably stronger. The item also provides bonus health, making it surprisingly durable for an offensive item. Many players combine Claws of Ferocity with Lethal Claws, creating one of the strongest critical strike combinations in the game by increasing both critical strike chance and critical strike damage.",
+    "strengths": [
+      "Increases critical strike damage.",
+      "Provides bonus health.",
+      "Grants additional critical strike chance.",
+      "Excellent synergy with other critical strike items.",
+      "Strong on heroes with built-in critical strike effects.",
+      "Improves both offense and survivability."
+    ],
+    "weaknesses": [
+      "Relatively weak without other sources of critical strike chance.",
+      "Provides less direct damage than some offensive items.",
+      "Critical strikes remain chance-based.",
+      "Less effective on heroes that do not rely on physical damage."
+    ],
+    "tips": [
+      "Claws of Ferocity is strongest when combined with additional critical strike chance.",
+      "The item increases the value of every critical strike you land.",
+      "Bonus health makes the item safer than many pure offensive alternatives.",
+      "Critical strike builds generally benefit more from this item than standard damage builds.",
+      "Consider pairing Claws of Ferocity with Lethal Claws for maximum effectiveness.",
+      "Heroes with built-in critical strike effects gain exceptional value from this item."
+    ],
+    "bestHeroes": {
+      "death-slayer": "Death Slayer already has access to critical strike effects through his abilities. Increasing the damage of those critical strikes significantly improves his burst potential, while the additional health helps him survive long enough to fully benefit from his offensive power."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Claws of Ferocity?",
+        "a": "Claws of Ferocity is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "What does Claws of Ferocity do?",
+        "a": "Claws of Ferocity increases critical strike damage, grants bonus health, and provides additional critical strike chance."
+      },
+      {
+        "q": "How much damage do critical strikes deal with Claws of Ferocity?",
+        "a": "Normally, critical strikes deal 50% additional physical damage. Claws of Ferocity increases this bonus to 75%."
+      },
+      {
+        "q": "Does Claws of Ferocity work well with Lethal Claws?",
+        "a": "Yes. Lethal Claws increases critical strike chance, while Claws of Ferocity increases critical strike damage. Together they form one of the strongest critical strike combinations in Spelltroum."
+      },
+      {
+        "q": "Which heroes benefit most from Claws of Ferocity?",
+        "a": "Death Slayer, Volcarn, and Shadow Fury are among the strongest users because they can reliably take advantage of critical strike mechanics."
+      },
+      {
+        "q": "Is Claws of Ferocity a survivability item or a damage item?",
+        "a": "It is primarily a damage item, but the bonus health provides valuable survivability that many critical strike items normally lack."
+      }
+    ]
+  },
+  "Cuirass": {
+    "whyUse": "Cuirass is the go-to item when your hero needs more survivability. Many builds focus heavily on damage, attack speed, spell power, or utility. While these builds can be powerful, they often leave heroes vulnerable during team fights. Cuirass solves this problem by providing a large increase to maximum health. The item is particularly valuable because health benefits every hero regardless of their playstyle. Whether you are a fighter, tank, assassin, or mage, staying alive longer allows you to deal more damage and have a greater impact on battles. In addition to bonus health, higher levels of Cuirass improve health regeneration and reduce the time required before regeneration begins after taking damage.",
+    "strengths": [
+      "Provides a very large amount of health",
+      "Effective on nearly every hero",
+      "Excellent for balancing offensive builds",
+      "Improves survivability throughout the entire match",
+      "Grants additional regeneration benefits at higher levels"
+    ],
+    "weaknesses": [
+      "Does not increase damage output",
+      "Provides no mobility bonuses",
+      "May be less valuable if your build already contains several defensive items"
+    ],
+    "tips": [
+      "Cuirass is often a strong purchase when most of your other items provide little or no health.",
+      "Even the first level can dramatically increase survivability during the early game.",
+      "Heroes with naturally high armor gain exceptional value from bonus health.",
+      "Consider upgrading Cuirass if fights are lasting longer and you are frequently being eliminated before using all of your abilities.",
+      "The regeneration bonuses become more noticeable during extended matches and repeated engagements."
+    ],
+    "bestHeroes": {
+      "stonewarden": "His naturally high armor makes every point of additional health more valuable, allowing him to absorb significantly more damage during fights.",
+      "faerie": "Often invests heavily into spell power and mana-focused items. Cuirass helps compensate for the lack of survivability and makes it easier to stay alive while casting spells.",
+      "viverna": "Since many mage-oriented builds prioritize damage over durability, Cuirass provides an efficient way to become much harder to eliminate."
+    },
+    "faq": [
+      {
+        "q": "Is Cuirass worth buying on damage heroes?",
+        "a": "Yes. Many damage-focused builds become significantly stronger when they include at least one defensive item. Cuirass is one of the easiest ways to improve survivability without changing your overall playstyle."
+      },
+      {
+        "q": "Is Cuirass only for tanks?",
+        "a": "No. While tanks benefit greatly from Cuirass, mages and damage dealers often purchase it to avoid being eliminated too quickly during fights."
+      },
+      {
+        "q": "When should I upgrade Cuirass?",
+        "a": "If you are struggling to survive team fights or frequently get defeated before using your abilities, upgrading Cuirass is often a good investment."
+      }
+    ]
+  },
+  "Helmet": {
+    "whyUse": "Ward Helmet is the go-to item when facing powerful spellcasters. The item dramatically reduces incoming magic damage, allowing heroes to survive abilities that would otherwise be devastating. At the same time, Ward Helmet increases Spell Power, ensuring that the owner continues to benefit offensively. Since Spell Power improves all abilities in Spelltroum — including abilities that deal Physical Damage — Ward Helmet provides value to a surprisingly wide variety of heroes. Most players do not rush Ward Helmet to maximum level immediately; they often purchase one or two upgrades early for survivability and complete the item later if additional Magic Resistance becomes necessary.",
+    "strengths": [
+      "Provides a large amount of Magic Resistance.",
+      "Increases Spell Power.",
+      "Strong against spellcasters.",
+      "Effective on both mages and non-mages.",
+      "Helps survive burst damage.",
+      "Excellent defensive option in mage-heavy matches."
+    ],
+    "weaknesses": [
+      "Provides little value against teams that rely mostly on physical damage.",
+      "Does not increase physical durability.",
+      "Less effective when enemies have limited magic damage.",
+      "Often unnecessary against purely physical team compositions."
+    ],
+    "tips": [
+      "Ward Helmet is most effective against teams with multiple spellcasters.",
+      "Magic Resistance becomes more valuable as enemy spell damage increases.",
+      "Heroes with large health pools gain exceptional value from Magic Resistance.",
+      "One or two upgrades are often enough early in the match.",
+      "The item provides both defensive and offensive benefits.",
+      "Consider Ward Helmet whenever enemy abilities are becoming difficult to survive."
+    ],
+    "bestHeroes": {
+      "volcarn": "Volcarn can be vulnerable to burst damage from spellcasters, and Ward Helmet helps him survive long enough to scale into a powerful late-game threat. The additional Spell Power also improves the effectiveness of his abilities.",
+      "grizzly": "In mage-versus-mage matchups, Ward Helmet is often a strong choice. The item reduces incoming spell damage while simultaneously increasing Spell Power, allowing Viverna to remain competitive in magical duels.",
+      "faerie": "When facing other spellcasters, the additional Magic Resistance can dramatically improve survivability while still enhancing her ability damage."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Ward Helmet?",
+        "a": "Ward Helmet is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "Does Ward Helmet only work on mages?",
+        "a": "No. Any hero can benefit from Magic Resistance. Many physical damage heroes purchase Ward Helmet when facing strong spellcasters."
+      },
+      {
+        "q": "Does Spell Power improve physical abilities?",
+        "a": "Yes. In Spelltroum, Spell Power improves all abilities, including abilities that deal Physical Damage."
+      },
+      {
+        "q": "Which heroes benefit most from Ward Helmet?",
+        "a": "Volcarn, Grizzly, Stonewarden, Viverna, and Faerie are among the strongest users, especially when facing magic-heavy opponents."
+      },
+      {
+        "q": "Is Ward Helmet a counter item?",
+        "a": "Yes. Ward Helmet is primarily a counter item designed to reduce incoming magic damage and improve survivability against spellcasters."
+      },
+      {
+        "q": "Should I fully upgrade Ward Helmet immediately?",
+        "a": "Usually not. Many players purchase one or two upgrades early for protection and complete the item later if additional Magic Resistance becomes necessary."
+      }
+    ]
+  },
+  "TitansHelmet": {
+    "description": "Titan's Helmet is a Legendary defensive item unlocked by upgrading Stonewarden. It provides Physical Armor, Spell Power, and a powerful Damage Reflection effect that punishes enemies for attacking the wearer. Whenever the owner takes damage, a portion of that damage is reflected back to the attacker as Pure Damage — ignoring both Physical and Magic Armor. The item is particularly powerful on durable heroes that can absorb large amounts of damage and continuously punish opponents through reflected damage.",
+    "whyUse": "Titan's Helmet is designed for heroes that expect to be attacked. Instead of simply reducing incoming damage, it actively punishes enemies for dealing damage — every attack against the wearer comes at a cost, forcing opponents to think carefully before committing to extended fights. The reflection effect is especially powerful against lifesteal builds, since reflected Pure Damage immediately offsets the health enemies recover. Because reflected damage scales with incoming damage, Titan's Helmet often becomes more threatening the harder enemies hit. Unlike many defensive items, it also grants Spell Power, ensuring heroes don't completely sacrifice offensive potential.",
+    "strengths": [
+      "Reflects incoming damage.",
+      "Reflected damage ignores armor.",
+      "Provides strong Physical Armor.",
+      "Grants Spell Power.",
+      "Excellent against lifesteal builds.",
+      "Effective on both tanks and some spellcasters.",
+      "Punishes enemies for focusing the wearer."
+    ],
+    "weaknesses": [
+      "Less effective if enemies avoid attacking the wearer.",
+      "Provides less direct health than dedicated health items.",
+      "Reflection damage depends on taking damage first.",
+      "Usually strongest on durable heroes."
+    ],
+    "tips": [
+      "s Helmet is strongest on heroes that can survive long fights.\",\n      ",
+      ",\n      ",
+      ",\n      \"High-health heroes generally gain the most value from Titan",
+      "s Helmet with health-focused items for maximum durability.\",\n      "
+    ],
+    "faq": [
+      {
+        "q": "How does Damage Reflection work?",
+        "a": "Whenever the wearer takes damage, a portion of that damage is reflected back to the attacker as Pure Damage."
+      },
+      {
+        "q": "Does reflected damage ignore armor?",
+        "a": "Yes. Damage Reflection deals Pure Damage and is not reduced by Physical Armor or Magic Armor."
+      }
+    ]
+  },
+  "BoneCuirass": {
+    "whyUse": "Bone Cuirass is designed for heroes that need both durability and crowd control. The large health bonus makes heroes significantly harder to eliminate, while the slowing effect creates opportunities to chase enemies, protect teammates, and secure kills. Unlike pure defensive items that only improve survivability, Bone Cuirass actively helps your team by making enemies easier to catch — even a single slow can be enough to prevent an opponent from escaping. The item becomes especially powerful in coordinated play, where multiple heroes can focus a slowed target before they have a chance to get away.",
+    "strengths": [
+      "Provides a large amount of health.",
+      "Can slow enemy movement speed.",
+      "Helps heroes stay close to their targets.",
+      "Strong in coordinated team play.",
+      "Improves both survivability and utility.",
+      "Effective throughout all stages of the match."
+    ],
+    "weaknesses": [
+      "The slowing effect is chance-based.",
+      "Provides less direct damage than offensive items.",
+      "Less valuable against enemies that do not rely on movement.",
+      "Does not increase attack damage or spell power."
+    ],
+    "tips": [
+      "Bone Cuirass is especially effective when multiple allies focus the same target.",
+      "The slowing effect makes it easier to secure kills.",
+      "Heroes that attack frequently have more opportunities to apply the slow.",
+      "Additional health makes the item useful even when the slow does not trigger.",
+      "Consider Bone Cuirass if enemies frequently escape with low health.",
+      "The item is particularly strong in team-based modes."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Bone Cuirass?",
+        "a": "Bone Cuirass is unlocked through the Daily Rewards system. Simply log in and claim daily rewards to unlock the item."
+      },
+      {
+        "q": "What does Bone Cuirass do?",
+        "a": "Bone Cuirass provides bonus health and gives attacks a chance to slow enemies."
+      },
+      {
+        "q": "When does the slowing effect become available?",
+        "a": "The slowing effect becomes available after upgrading Bone Cuirass."
+      },
+      {
+        "q": "Which heroes benefit most from Bone Cuirass?",
+        "a": "Druid, Volcarn, and Mortifier are among the strongest users because they benefit greatly from keeping enemies within attack range."
+      },
+      {
+        "q": "Is Bone Cuirass good in team play?",
+        "a": "Yes. Bone Cuirass is especially powerful when teammates focus the same target, making it much harder for enemies to escape."
+      },
+      {
+        "q": "Is Bone Cuirass a defensive item or a utility item?",
+        "a": "It is both. The item provides a large amount of health while also offering crowd control through its slowing effect."
+      }
+    ]
+  },
+  "DragonCuirass": {
+    "whyUse": "Dragon Cuirass is designed for players who plan to secure kills early and often. The item provides bonus health to help heroes survive aggressive engagements, while its kill reward bonus generates additional gold whenever enemies are eliminated. This creates a powerful snowball effect — the more kills you secure, the more gold you earn, and the faster you complete your build. However, Dragon Cuirass requires active participation in fights. If you are unable to secure kills, much of the item's value is lost. Players who prefer passive farming may find better results with other items.",
+    "strengths": [
+      "Provides bonus health.",
+      "Grants additional gold for enemy kills.",
+      "Excellent snowball potential.",
+      "Strong early-game item.",
+      "Rewards aggressive playstyles.",
+      "Available from the beginning of the game."
+    ],
+    "weaknesses": [
+      "Requires kills to reach full value.",
+      "Less effective in passive matches.",
+      "Provides less direct combat power than some other items.",
+      "Can be a poor investment if you fall behind early."
+    ],
+    "tips": [
+      "Dragon Cuirass is strongest when purchased early.",
+      "The item rewards aggressive play and frequent fighting.",
+      "Additional gold is most valuable when converted into item upgrades quickly.",
+      "Coordinate with teammates to secure more eliminations.",
+      "The health bonus helps you survive risky engagements.",
+      "Dragon Cuirass is often more effective in fast-paced matches than passive farming games."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Dragon Cuirass?",
+        "a": "Dragon Cuirass is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "How does Dragon Cuirass work?",
+        "a": "Dragon Cuirass grants additional gold whenever you help secure enemy eliminations."
+      },
+      {
+        "q": "Which heroes benefit most from Dragon Cuirass?",
+        "a": "Aggressive heroes such as Viverna, Druid, and Death Slayer are among the strongest users because they can reliably secure kills and take advantage of the bonus gold."
+      },
+      {
+        "q": "Is Dragon Cuirass good for farming?",
+        "a": "Not primarily. Dragon Cuirass is designed to reward kills rather than passive resource collection."
+      },
+      {
+        "q": "Does Dragon Cuirass counter Warlock Staff?",
+        "a": "In many situations, yes. Warlock Staff rewards players for dying, while Dragon Cuirass rewards players for securing kills. When fighting heroes using Warlock Staff, Dragon Cuirass allows you to gain additional gold from eliminating them."
+      },
+      {
+        "q": "When should I buy Dragon Cuirass?",
+        "a": "Dragon Cuirass is usually strongest when purchased early, allowing you to snowball your economic advantage through aggressive play and frequent eliminations."
+      }
+    ]
+  },
+  "DruidCuirass": {
+    "whyUse": "Druid Cuirass is designed for heroes that frequently secure kills. Unlike traditional defensive items that simply increase survivability, it actively rewards successful farming and combat — every bush destroyed, creep eliminated, or enemy hero defeated contributes to your survivability by restoring health. The item is especially powerful during chain fights where multiple enemies are defeated in succession. Because the healing scales with the defeated target's health, eliminating durable enemies can result in massive bursts of healing. However, the item provides little value if you are unable to secure kills — players who struggle to finish targets may find more reliable results from traditional health items.",
+    "strengths": [
+      "Provides a large amount of bonus health.",
+      "Restores health from kills.",
+      "Effective during farming and combat.",
+      "Excellent sustain item.",
+      "Rewards aggressive playstyles.",
+      "Can provide massive healing from durable targets."
+    ],
+    "weaknesses": [
+      "Requires kills to activate its effect.",
+      "Provides less value when falling behind.",
+      "Less reliable than passive regeneration.",
+      "Offers no direct damage increase."
+    ],
+    "tips": [
+      "Druid Cuirass rewards heroes that consistently secure kills.",
+      "Bushes and creeps can provide healing just like enemy heroes.",
+      "The item becomes more valuable in areas with many farming opportunities.",
+      "Eliminating high-health targets provides significantly larger heals.",
+      "Area-of-effect abilities can trigger healing frequently.",
+      "Druid Cuirass is strongest when used aggressively."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Druid Cuirass?",
+        "a": "Druid Cuirass is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "Does Druid Cuirass work on bushes?",
+        "a": "Yes. Destroying bushes can trigger the healing effect."
+      },
+      {
+        "q": "Which heroes benefit most from Druid Cuirass?",
+        "a": "Spiritmonger, Viverna, and Faerie are among the strongest users because they can frequently eliminate multiple targets with their abilities."
+      },
+      {
+        "q": "Is Druid Cuirass good for farming?",
+        "a": "Yes. The item provides healing from bushes and creeps, making it one of the strongest sustain items for farming-focused playstyles."
+      },
+      {
+        "q": "Is Druid Cuirass better than a regular health item?",
+        "a": "It depends. Druid Cuirass can provide far more healing than a normal health item if you are consistently securing kills, but it offers less value when you are unable to finish targets."
+      }
+    ]
+  },
+  "MageCloak": {
+    "whyUse": "Mage Cloak is designed for heroes that need additional mana without sacrificing survivability. Many heroes eventually reach a point where their abilities become powerful but expensive — in these situations, having a larger mana pool can be the difference between casting an important ability or being forced to wait. At the same time, Mage Cloak provides bonus health, making it a practical choice for heroes that already have enough damage but need more durability. The item is especially useful when your build contains several offensive items and lacks both health and mana.",
+    "strengths": [
+      "Provides both Health and Mana.",
+      "Increases ability usage during fights.",
+      "Helps heroes survive longer.",
+      "Fits into a wide variety of builds.",
+      "Excellent utility item for mana-dependent heroes.",
+      "Simple and reliable value."
+    ],
+    "weaknesses": [
+      "Provides no direct damage increase.",
+      "Offers no armor or resistance.",
+      "Less useful for heroes that rarely run out of mana.",
+      "Can be outperformed by specialized items in certain builds."
+    ],
+    "tips": [
+      "Mage Cloak is often stronger than a pure health item when mana is limiting your ability usage.",
+      "Consider Mage Cloak if you frequently run out of mana before fights end.",
+      "The item works especially well in builds that already contain several offensive items.",
+      "Additional mana can sometimes be more valuable than additional damage.",
+      "Mage Cloak is most effective on heroes with expensive abilities.",
+      "The bonus health helps offset the lack of defensive stats in many offensive builds."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Mage Cloak?",
+        "a": "Mage Cloak is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "What does Mage Cloak do?",
+        "a": "Mage Cloak increases your maximum Health and Mana."
+      },
+      {
+        "q": "Which heroes benefit most from Mage Cloak?",
+        "a": "Freezi and Shadow Fury are among the heroes that commonly benefit because they often need both additional mana and survivability."
+      },
+      {
+        "q": "Is Mage Cloak only for mages?",
+        "a": "No. Any hero that needs a larger mana pool can benefit from Mage Cloak, regardless of whether they primarily deal physical or magical damage."
+      },
+      {
+        "q": "When should I buy Mage Cloak?",
+        "a": "Mage Cloak is a strong choice when your abilities are consuming too much mana or when your build lacks both Health and Mana."
+      },
+      {
+        "q": "Does Mage Cloak increase damage?",
+        "a": "No. Mage Cloak does not directly increase damage. Its purpose is to provide additional resources and survivability."
+      }
+    ]
+  },
+  "ManaShield": {
+    "whyUse": "Mana Shield is designed for heroes with large mana pools. The more mana a hero has, the more damage Mana Shield can absorb before health starts dropping significantly — effectively turning mana into an additional layer of defense. For heroes that naturally build mana or benefit from mana-based items, Mana Shield can provide far more survivability than traditional defensive equipment. However, heroes with small mana pools may quickly run out of mana, leaving them unable to cast abilities while also losing the shield's protection. Mana Shield is strongest when supported by additional mana items.",
+    "strengths": [
+      "Converts part of incoming damage into mana loss.",
+      "Greatly increases survivability on mana-based heroes.",
+      "Scales with maximum mana.",
+      "Works exceptionally well with mana-focused builds.",
+      "Can make tanky heroes even harder to eliminate.",
+      "Provides mana regeneration in addition to its defensive effect."
+    ],
+    "weaknesses": [
+      "Requires a large mana pool to reach full potential.",
+      "Less effective on heroes with low mana.",
+      "Can leave heroes unable to cast abilities if mana is depleted.",
+      "Vulnerable to mana burn effects.",
+      "Provides less value when fighting enemies that can quickly drain mana."
+    ],
+    "tips": [
+      "Mana Shield becomes stronger as your maximum mana increases.",
+      "Heroes with large mana pools gain the most value from the item.",
+      "Consider combining Mana Shield with other mana-focused items.",
+      "Try to avoid wasting mana unnecessarily before important fights.",
+      "Mana Shield is often more effective on durable heroes than fragile heroes.",
+      "Monitor your mana carefully — running out also removes much of the protection."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Mana Shield?",
+        "a": "Mana Shield is unlocked by upgrading Flameweaver."
+      },
+      {
+        "q": "How does Mana Shield work?",
+        "a": "Mana Shield absorbs part of the incoming damage by consuming mana. Instead of all damage being dealt to health, some of it is redirected to your mana pool."
+      },
+      {
+        "q": "Which heroes benefit most from Mana Shield?",
+        "a": "Flameweaver is the strongest user because he naturally builds mana-focused items. Stonewarden can also use Mana Shield effectively in certain defensive builds."
+      },
+      {
+        "q": "Is Mana Shield good on every hero?",
+        "a": "No. Heroes with small mana pools often gain limited value because their mana is depleted too quickly."
+      },
+      {
+        "q": "What counters Mana Shield?",
+        "a": "Mana burn effects are one of the strongest counters to Mana Shield. Items such as Mana Axe can rapidly drain mana while simultaneously dealing damage, removing the protection Mana Shield provides."
+      },
+      {
+        "q": "Should I build more mana if I buy Mana Shield?",
+        "a": "Yes. Mana Shield becomes significantly stronger when combined with items that increase maximum mana or improve mana sustain."
+      }
+    ]
+  },
+  "Hammer": {
+    "description": "Stunning Hammer is a Mystic item that provides bonus health and gives attacks a chance to stun enemies. When the stun triggers, the target becomes unable to move, attack, or cast abilities for a short duration. Even a one-second stun can completely change the outcome of a fight. To prevent permanent stun chains, the item has an internal cooldown after a successful stun.",
+    "whyUse": "Stunning Hammer is designed for heroes that attack frequently. The more attacks a hero makes, the more opportunities they have to trigger the stun effect — making attack speed one of the most important stats when using this item. The item also provides bonus health, making it useful even when the stun does not activate. Many players upgrade Stunning Hammer to Level 2 early in a match to unlock the stun effect, then focus on other items before returning to fully upgrade it later. A single stun at the right moment can interrupt abilities, stop an enemy from escaping, or give your team enough time to secure a kill.",
+    "strengths": [
+      "Provides bonus health.",
+      "Gives attacks a chance to stun.",
+      "Excellent crowd control.",
+      "Strong on high attack speed heroes.",
+      "Effective throughout all stages of the game.",
+      "Can interrupt enemy abilities and escape attempts."
+    ],
+    "weaknesses": [
+      "The stun effect is chance-based.",
+      "Less effective on heroes with low attack speed.",
+      "Provides less direct damage than offensive items.",
+      "Internal cooldown prevents continuous stuns."
+    ],
+    "tips": [
+      "Attack speed dramatically increases the value of Stunning Hammer.",
+      "A single stun can be enough to secure a kill.",
+      "The item is especially effective against heroes that rely on mobility.",
+      "Stunning Hammer works best during extended fights where many attacks are made.",
+      "Consider upgrading the item to Level 2 early to unlock the stun effect.",
+      "Bonus health makes the item useful even when stuns are not triggering."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Stunning Hammer?",
+        "a": "Stunning Hammer is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "How does Stunning Hammer work?",
+        "a": "Attacks have a chance to stun enemies, preventing them from moving, attacking, or casting abilities for a short duration."
+      },
+      {
+        "q": "Can Stunning Hammer permanently stun enemies?",
+        "a": "No. After a successful stun, the item enters a short internal cooldown before another stun can occur."
+      },
+      {
+        "q": "Which heroes benefit most from Stunning Hammer?",
+        "a": "Freezi, Spitfire, and Volcarn are among the strongest users because their high attack speed gives them more opportunities to trigger the stun effect."
+      },
+      {
+        "q": "When should I upgrade Stunning Hammer?",
+        "a": "Many players upgrade it to Level 2 early to unlock the stun effect, then finish upgrading it later when they need a higher stun chance."
+      },
+      {
+        "q": "Is Stunning Hammer a damage item?",
+        "a": "Not primarily. Stunning Hammer is mainly a utility and control item that provides health and crowd control rather than direct damage."
+      }
+    ]
+  },
+  "ReapersEmbrace": {
+    "description": "Reaper's Embrace is a Mystic item that combines offensive power, survivability, and sustain. It grants Physical Lifesteal, Spell Lifesteal, Magic Resistance, and a unique chance to launch a spectral scythe that damages everything in its path. Unlike most lifesteal items that only benefit physical attackers, Reaper's Embrace can restore health from both physical and magical damage — making it one of the most versatile sustain items in Spelltroum.",
+    "whyUse": "Reaper's Embrace is designed for heroes that want both offensive power and survivability. The item provides lifesteal from both physical and magical damage, allowing heroes to recover health through almost every form of combat. One of its biggest advantages is that the lifesteal effect becomes available from the very first upgrade, letting players buy it early for sustain and upgrade it later when Magic Resistance becomes more valuable. The spectral scythe adds even more sustain potential — it travels in a straight line and damages every target it passes through, generating significant healing when several enemies or creeps are lined up together. Note that lifesteal only works against heroes and creeps, not bushes.",
+    "strengths": [
+      "Provides both Physical and Spell Lifesteal.",
+      "Grants Magic Resistance.",
+      "Available sustain from the first upgrade.",
+      "Strong against spellcasters.",
+      "Unique spectral scythe projectile that pierces multiple targets.",
+      "Effective on both physical and magical heroes.",
+      "Excellent hybrid offensive and defensive item."
+    ],
+    "weaknesses": [
+      "The scythe effect is chance-based.",
+      "Provides less raw damage than dedicated offensive items.",
+      "Less effective on heroes that rarely deal damage.",
+      "Requires active combat to fully benefit from the lifesteal.",
+      "Lifesteal does not work when attacking bushes."
+    ],
+    "tips": [
+      "The first upgrade already provides lifesteal, making it valuable early in the game.",
+      "s Embrace restores health from both physical and magical damage.\",\n      ",
+      ",\n      ",
+      ",\n      ",
+      ",\n      ",
+      ",\n      ",
+      ",\n      "
+    ],
+    "faq": [
+      {
+        "q": "Does the spectral scythe stop after hitting an enemy?",
+        "a": "No. The spectral scythe travels in a straight line and damages every target it passes through."
+      }
+    ]
+  },
+  "BootsOfSpeed": {
+    "whyUse": "Vital Boots are designed for heroes that value mobility and survivability. Movement speed is one of the most important stats in Spelltroum — faster heroes farm more efficiently, rotate between fights more quickly, and control engagements more effectively. The Healing Potion mechanic adds another layer of value: even a single potion can completely change the outcome of a fight. One of the biggest advantages is that the potion-finding effect becomes available from the first upgrade, letting players start collecting potions early and finish upgrading the item later.",
+    "strengths": [
+      "Provides the highest movement speed bonus in the game.",
+      "Chance to find Healing Potions while destroying bushes.",
+      "Can store additional Healing Potions.",
+      "Grants Physical Armor.",
+      "Excellent sustain and mobility.",
+      "Useful throughout all stages of the match."
+    ],
+    "weaknesses": [
+      "Relies partially on finding potions.",
+      "Provides less direct damage than offensive items.",
+      "Less valuable on heroes that do not benefit heavily from mobility.",
+      "Potion generation is chance-based."
+    ],
+    "tips": [
+      "The potion-finding effect becomes available from the first upgrade.",
+      "Save Healing Potions for important fights whenever possible.",
+      "Movement speed improves both farming and combat performance.",
+      "Heroes with large health pools gain extra value from Healing Potions.",
+      "Vital Boots can provide surprising survivability during long matches.",
+      "Carrying an additional potion can sometimes decide a close fight."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Vital Boots?",
+        "a": "Vital Boots are available from the beginning of the game. Like all Mystic items, they do not require hero progression to unlock."
+      },
+      {
+        "q": "What do Vital Boots do?",
+        "a": "Vital Boots increase movement speed, provide Physical Armor, and allow heroes to find and carry additional Healing Potions."
+      },
+      {
+        "q": "Can I find Healing Potions immediately after buying Vital Boots?",
+        "a": "Yes. The potion-finding effect becomes available from the first upgrade."
+      },
+      {
+        "q": "Which heroes benefit most from Vital Boots?",
+        "a": "Druid, Death Slayer, and Grizzly are among the strongest users because they benefit greatly from both mobility and survivability."
+      },
+      {
+        "q": "Why are Vital Boots considered a strong utility item?",
+        "a": "They combine movement speed, Physical Armor, healing, and additional potion storage in a single item, making them useful in a wide variety of situations."
+      },
+      {
+        "q": "Are Vital Boots only useful for melee heroes?",
+        "a": "No. Any hero that values mobility and sustain can benefit from Vital Boots, although melee heroes often gain the most noticeable advantage."
+      }
+    ]
+  },
+  "BootsOfRegen": {
+    "description": "Regen Boots are a Mystic item that combines high movement speed with powerful health regeneration effects. What makes them unique is their ability to automatically trigger health regeneration after taking a large hit — if a single attack deals more than a certain percentage of the hero's maximum health, the item activates and immediately starts regeneration. Regen Boots also reduce the normal regeneration delay, allowing heroes to recover more quickly after taking damage.",
+    "whyUse": "Regen Boots are designed for heroes that rely on mobility and hit-and-run gameplay. Most heroes must wait 10 seconds after taking damage before natural health regeneration begins — Regen Boots reduce this delay while also providing a way to trigger regeneration instantly after receiving a powerful attack. This creates a unique playstyle where heroes can engage, take damage, retreat, and quickly recover before returning to the fight. The item is particularly effective on heroes with smaller health pools, as they trigger the regeneration effect more consistently. However, Regen Boots are highly situational and their value depends heavily on the enemy team composition.",
+    "strengths": [
+      "Provides high movement speed.",
+      "Can trigger regeneration after taking heavy damage.",
+      "Reduces normal regeneration delay.",
+      "Excellent for mobile heroes.",
+      "Strong against burst damage.",
+      "Supports hit-and-run strategies."
+    ],
+    "weaknesses": [
+      "Less effective on heroes with very large health pools (e.g. Grizzly).",
+      "Vulnerable to damage-over-time effects like Fire Axe burn or Viverna poison.",
+      "Requires disengaging to fully benefit from regeneration.",
+      "Situational compared to more consistent defensive items."
+    ],
+    "tips": [
+      "Regen Boots are strongest on heroes with smaller health pools.",
+      "The movement speed bonus helps create opportunities to retreat and recover.",
+      "The item excels in hit-and-run playstyles.",
+      "Avoid prolonged fights against heroes that apply damage over time.",
+      "Consider Regen Boots when facing high burst damage heroes.",
+      "Regeneration is much easier to maintain when enemies cannot continuously damage you."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Regen Boots?",
+        "a": "Regen Boots are available from the beginning of the game. Like all Mystic items, they do not require hero progression to unlock."
+      },
+      {
+        "q": "What makes Regen Boots unique?",
+        "a": "Regen Boots can automatically trigger health regeneration after the hero takes a sufficiently large hit."
+      },
+      {
+        "q": "Which heroes benefit most from Regen Boots?",
+        "a": "Viverna and Druid are among the strongest users because they can quickly retreat, recover health, and return to the fight."
+      }
+    ]
+  },
+  "ManaBoots": {
+    "whyUse": "Mana Boots are designed for heroes that frequently run out of mana. Running out of mana at the wrong moment can completely change the outcome of a battle — Mana Boots help solve this by providing a steady source of mana recovery through potions found while farming bushes. Unlike pure mana items, Mana Boots also provide excellent mobility, allowing heroes to maintain both their mana reserves and their positioning throughout the match. Because the Mana Potion effect becomes available from the first upgrade, many players purchase Mana Boots early and immediately start collecting additional mana resources.",
+    "strengths": [
+      "Provides high movement speed.",
+      "Chance to find Mana Potions while destroying bushes.",
+      "Can store additional Mana Potions.",
+      "Increases maximum mana at higher levels.",
+      "Excellent mana sustain.",
+      "Strong utility item for ability-based heroes."
+    ],
+    "weaknesses": [
+      "Provides no direct damage.",
+      "Less useful for heroes that rarely use mana.",
+      "Relies partially on finding Mana Potions.",
+      "Offers no defensive stats such as armor or health."
+    ],
+    "tips": [
+      "Mana Potions can be saved for important fights.",
+      "The potion-finding effect becomes available from the first upgrade.",
+      "Heroes that destroy many bushes generally gain the most value from Mana Boots.",
+      "Movement speed helps both farming and combat performance.",
+      "Mana Boots are often strongest on heroes that rely heavily on abilities.",
+      "The additional mana at maximum level can allow some heroes to cast extra abilities during fights."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Mana Boots?",
+        "a": "Mana Boots are available from the beginning of the game as a Common item."
+      },
+      {
+        "q": "What do Mana Boots do?",
+        "a": "Mana Boots increase movement speed, allow heroes to find Mana Potions while destroying bushes, increase potion storage capacity, and provide additional maximum mana at higher levels."
+      },
+      {
+        "q": "Can I find Mana Potions immediately after buying Mana Boots?",
+        "a": "Yes. The Mana Potion effect becomes available from the first upgrade."
+      },
+      {
+        "q": "Which heroes benefit most from Mana Boots?",
+        "a": "Flameweaver, Shadow Fury, Faerie, and Viverna are among the strongest users because they frequently rely on mana and abilities."
+      },
+      {
+        "q": "Why are Mana Boots good for mages?",
+        "a": "Mages often consume large amounts of mana during combat. Mana Boots help them maintain their resources while also providing valuable mobility."
+      },
+      {
+        "q": "Are Mana Boots only useful for mages?",
+        "a": "No. Any hero that frequently uses abilities and needs additional mana sustain can benefit from Mana Boots."
+      }
+    ]
+  },
+  "BlinkBoots": {
+    "whyUse": "Blink Boots are designed for heroes that rely on positioning. The ability to instantly blink gives players access to opportunities that would otherwise be impossible — a well-timed Blink can secure a kill, escape an ambush, dodge dangerous abilities, or quickly reposition during combat. Unlike many utility items, Blink Boots also increase Critical Strike Chance, which stacks with other sources of critical strikes and fits naturally into many offensive builds. The Blink Rune effect becomes available from the first upgrade, and later upgrades increase the number of runes that can be carried.",
+    "strengths": [
+      "Provides high movement speed.",
+      "Chance to find Blink Runes while destroying bushes.",
+      "Can carry additional Blink Runes.",
+      "Grants Critical Strike Chance.",
+      "Excellent mobility.",
+      "Strong offensive utility.",
+      "Effective throughout all stages of the match."
+    ],
+    "weaknesses": [
+      "Relies partially on finding Blink Runes.",
+      "Provides less survivability than defensive boots.",
+      "Requires good positioning to maximize value.",
+      "Critical Strike Chance is less valuable for heroes that do not rely on physical damage."
+    ],
+    "tips": [
+      "Blink Runes become available from the first upgrade.",
+      "Save Blink Runes for important fights whenever possible.",
+      "Blink can be used both offensively and defensively.",
+      "Critical Strike Chance stacks with other critical strike items and abilities.",
+      "Fast farming heroes often gain additional value by using Blink Runes to move between objectives.",
+      "Positioning is often more valuable than raw damage."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Blink Boots?",
+        "a": "Blink Boots are available from the beginning of the game. Like all Mystic items, they do not require hero progression to unlock."
+      },
+      {
+        "q": "What do Blink Boots do?",
+        "a": "Blink Boots increase movement speed, allow heroes to find Blink Runes while destroying bushes, increase Blink Rune storage capacity, and provide Critical Strike Chance."
+      },
+      {
+        "q": "Can I find Blink Runes immediately after buying Blink Boots?",
+        "a": "Yes. The Blink Rune effect becomes available from the first upgrade."
+      },
+      {
+        "q": "Which heroes benefit most from Blink Boots?",
+        "a": "Death Slayer, Volcarn, Mortifier, and Shadow Fury are among the strongest users because they benefit from both mobility and Critical Strike Chance."
+      },
+      {
+        "q": "Do Blink Boots work well with critical strike builds?",
+        "a": "Yes. Blink Boots provide Critical Strike Chance, which stacks with other critical strike items and hero abilities."
+      },
+      {
+        "q": "Are Blink Boots only useful for assassins?",
+        "a": "No. While assassins benefit greatly, any hero that values mobility, positioning, or critical strikes can make effective use of the item."
+      }
+    ]
+  },
+  "FireBook": {
+    "whyUse": "Fire Grimoire is designed for players who want to maximize the power of their abilities. Because it provides the largest Spell Power bonus in the game, it often delivers a larger increase to ability effectiveness than any other item. While many players associate Spell Power primarily with mages, Fire Grimoire can also be valuable on heroes whose abilities provide utility, shields, summons, or other special effects. The item is especially powerful when multiple abilities benefit from Spell Power scaling.",
+    "strengths": [
+      "Provides the highest Spell Power bonus in the game.",
+      "Improves all Spell Power scaling abilities.",
+      "Effective on many different heroes.",
+      "Increases both offensive and defensive ability effects.",
+      "Strong throughout all stages of the match.",
+      "Available from the beginning of the game."
+    ],
+    "weaknesses": [
+      "Provides no health.",
+      "Provides no armor or resistances.",
+      "Provides no movement speed.",
+      "Less effective on heroes whose abilities have limited Spell Power scaling.",
+      "Focuses entirely on ability strength rather than survivability."
+    ],
+    "tips": [
+      "Fire Grimoire provides the highest Spell Power bonus in the game.",
+      "Many heroes benefit from Spell Power even if they are not traditional mages.",
+      "Always check ability descriptions to see how Spell Power affects your hero.",
+      "Heroes with multiple Spell Power scaling abilities gain the most value.",
+      "Fire Grimoire is often strongest when purchased on heroes that rely heavily on abilities.",
+      "Some defensive abilities scale with Spell Power just as effectively as offensive abilities."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Fire Grimoire?",
+        "a": "Fire Grimoire is available from the beginning of the game as a Common item."
+      },
+      {
+        "q": "What does Fire Grimoire do?",
+        "a": "Fire Grimoire provides the highest Spell Power bonus available in Spelltroum."
+      },
+      {
+        "q": "What is Spell Power?",
+        "a": "Spell Power improves the effectiveness of hero abilities. Depending on the ability, it may increase damage, shields, summons, healing, or other special effects."
+      },
+      {
+        "q": "Which heroes benefit most from Fire Grimoire?",
+        "a": "Spiritmonger, Viverna, Faerie, Shadow Fury, and Druid are among the strongest users because multiple abilities in their kits benefit from Spell Power."
+      },
+      {
+        "q": "Is Fire Grimoire only for mages?",
+        "a": "No. Any hero whose abilities scale well with Spell Power can benefit from Fire Grimoire, including heroes that deal physical damage or rely on summons and defensive abilities."
+      }
+    ]
+  },
+  "WaterBook": {
+    "whyUse": "Water Grimoire is designed for heroes that need large amounts of mana. The item provides three valuable benefits: increased maximum mana, increased mana regeneration, and Cooldown Reduction. Together, these bonuses allow heroes to cast abilities more often and remain effective during long fights. Water Grimoire also works exceptionally well with Mana Shield. Since Mana Shield converts part of incoming damage into mana loss, increasing your mana pool effectively increases your survivability — the larger your mana reserve, the more damage Mana Shield can absorb before your health becomes vulnerable. Because Water Grimoire provides no health or defensive stats, fully upgrading it early can sometimes be risky. Many players purchase a few levels first and finish upgrading it later after acquiring additional survivability.",
+    "strengths": [
+      "Provides a large Mana Pool.",
+      "Grants strong Mana Regeneration.",
+      "Reduces ability cooldowns at maximum level.",
+      "Excellent synergy with Mana Shield.",
+      "Strong on mana-dependent heroes.",
+      "Effective throughout the entire match."
+    ],
+    "weaknesses": [
+      "Provides no health.",
+      "Provides no armor or resistances.",
+      "Provides no direct damage bonuses.",
+      "Can be risky to fully upgrade early.",
+      "Less useful on heroes that rarely use mana."
+    ],
+    "tips": [
+      "Water Grimoire works exceptionally well with Mana Shield.",
+      "Heroes that frequently run out of mana gain the most value from this item.",
+      "Cooldown Reduction becomes available at maximum upgrade level.",
+      "The item is often strongest on ability-focused heroes.",
+      "Consider combining Water Grimoire with other mana-based items.",
+      "More mana often means both more damage and more survivability for certain heroes."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Water Grimoire?",
+        "a": "Water Grimoire is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "What does Water Grimoire do?",
+        "a": "Water Grimoire increases maximum mana, improves mana regeneration, and reduces ability cooldowns at maximum level."
+      },
+      {
+        "q": "Why does Water Grimoire work well with Mana Shield?",
+        "a": "Mana Shield absorbs damage using mana. A larger mana pool allows Mana Shield to absorb more damage before your health starts dropping."
+      },
+      {
+        "q": "Which heroes benefit most from Water Grimoire?",
+        "a": "Flameweaver, Spitfire, Viverna, and Faerie are among the strongest users because they rely heavily on mana and frequent ability usage."
+      },
+      {
+        "q": "Does Water Grimoire increase damage?",
+        "a": "Not directly. However, the additional mana and cooldown reduction allow heroes to cast abilities more often, which can significantly increase their overall damage output."
+      },
+      {
+        "q": "Should I fully upgrade Water Grimoire early?",
+        "a": "Usually not. Because the item provides no health or defensive stats, many players prefer to gain some survivability first and complete Water Grimoire later."
+      }
+    ]
+  },
+  "GeoBook": {
+    "whyUse": "Geo Grimoire is designed for heroes that rely on stuns and crowd control. A longer stun duration means enemies spend more time unable to move, attack, or cast abilities — giving your team more opportunities to deal damage, escape danger, or secure important kills. The bonus Health also makes the wielder more durable, helping them survive while applying crowd control. Unlike damage-focused Grimoires, Geo Grimoire rewards strategic gameplay and can have a massive impact even when it contributes little direct damage.",
+    "strengths": [
+      "Increases stun duration.",
+      "Provides bonus Health.",
+      "Excellent crowd control utility.",
+      "Can completely change team fights.",
+      "Strong on multiple heroes.",
+      "Effective throughout the entire match."
+    ],
+    "weaknesses": [
+      "Provides less direct damage than offensive items.",
+      "Less valuable on heroes without crowd control abilities.",
+      "Does not affect item-based stuns.",
+      "Situational compared to more universally useful items."
+    ],
+    "tips": [
+      "Geo Grimoire only affects hero abilities.",
+      "Stunning Hammer and other item-based stuns do not benefit from the effect.",
+      "Longer stuns often provide more value than additional damage.",
+      "Geo Grimoire is strongest on heroes that already have crowd control abilities.",
+      "Bonus Health makes the item useful even when the control effect is not needed.",
+      "Coordinate with teammates to maximize the value of longer stuns."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Geo Grimoire?",
+        "a": "Geo Grimoire is unlocked by upgrading Freezi."
+      },
+      {
+        "q": "What does Geo Grimoire do?",
+        "a": "Geo Grimoire increases the duration of stun effects applied by hero abilities and provides bonus Health."
+      },
+      {
+        "q": "Does Geo Grimoire work with Stunning Hammer?",
+        "a": "No. Geo Grimoire only affects hero abilities. Item-based stuns such as Stunning Hammer are not affected."
+      },
+      {
+        "q": "Which heroes benefit most from Geo Grimoire?",
+        "a": "Freezi, Spiritmonger, Death Slayer, Spitfire, and Faerie are among the strongest users because they can apply additional crowd control through their abilities."
+      },
+      {
+        "q": "Does Geo Grimoire increase damage?",
+        "a": "Not directly. Its primary purpose is to improve crowd control and survivability."
+      }
+    ]
+  },
+  "Scepter": {
+    "whyUse": "Scepter is designed for heroes that rely on magical abilities to deal damage. The item increases Spell Power, improving ability scaling, while also providing Mana Regeneration to support frequent spell usage. Its most valuable effect is Magic Critical Strike Chance — when a magical ability critically strikes, it can dramatically increase burst damage and help secure kills that would otherwise be missed. For heroes with multiple damaging abilities, Scepter can provide a significant increase in overall damage output. However, Scepter is only effective if the hero actually deals magical damage. Heroes that primarily deal physical or pure damage often gain very little value from the item's critical strike effect.",
+    "strengths": [
+      "Provides Spell Power.",
+      "Grants Mana Regeneration.",
+      "Adds Magic Critical Strike Chance.",
+      "Excellent for magical damage dealers.",
+      "Strong burst damage potential.",
+      "Effective throughout all stages of the match."
+    ],
+    "weaknesses": [
+      "Less Spell Power than Fire Grimoire.",
+      "Magic Critical Strikes only affect magical damage.",
+      "Provides no health.",
+      "Provides no armor or resistances.",
+      "Weak on physical and pure damage heroes."
+    ],
+    "tips": [
+      "Magic Critical Strikes increase magical damage by 50%.",
+      "Scepter is strongest on heroes with multiple damaging magical abilities.",
+      "Spell Power and Magic Critical Strikes work together to maximize ability damage.",
+      "Mana Regeneration helps maintain pressure during extended fights.",
+      "Always consider whether your hero primarily deals magical, physical, or pure damage before purchasing Scepter.",
+      "New players often overestimate Scepter on physical-damage heroes."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Scepter?",
+        "a": "Scepter is available from the beginning of the game. Like all Mystic items, it does not require hero progression to unlock."
+      },
+      {
+        "q": "What does Scepter do?",
+        "a": "Scepter provides Spell Power, Mana Regeneration, and Magic Critical Strike Chance."
+      },
+      {
+        "q": "What is a Magic Critical Strike?",
+        "a": "A Magic Critical Strike increases magical damage by 50%. For example, an ability that normally deals 100 damage will deal 150 damage when it critically strikes."
+      },
+      {
+        "q": "Which heroes benefit most from Scepter?",
+        "a": "Viverna, Faerie, and Spiritmonger are among the strongest users because multiple abilities in their kits deal magical damage."
+      },
+      {
+        "q": "Does Scepter work on Shadow Fury?",
+        "a": "Not effectively. Shadow Fury primarily deals physical damage, so she gains very little value from the Magic Critical Strike effect."
+      },
+      {
+        "q": "Is Scepter useful on every hero?",
+        "a": "No. Scepter is most effective on heroes that deal significant magical damage. Heroes that rely on physical or pure damage usually have stronger alternatives."
+      }
+    ]
+  },
+  "MageStaff": {
+    "whyUse": "Mage Staff is designed for heroes that deal magical damage consistently throughout a match. The item increases Spell Power, allowing abilities to deal more damage or gain stronger scaling effects. It also increases maximum Mana, helping heroes cast more abilities during fights. Its most important effect is Magic Lifesteal — whenever the hero deals magical damage to enemy heroes or creeps, a portion of that damage is converted into health. This allows spellcasters to stay healthy while farming, fighting, and clearing objectives without relying entirely on healing items or natural regeneration. However, like all lifesteal effects in Spelltroum, Magic Lifesteal does not work against bushes.",
+    "strengths": [
+      "Provides Spell Power.",
+      "Grants Magic Lifesteal.",
+      "Increases maximum Mana.",
+      "Excellent sustain for spellcasters.",
+      "Strong synergy with damage-over-time abilities.",
+      "Effective during both farming and combat."
+    ],
+    "weaknesses": [
+      "Magic Lifesteal does not work on bushes.",
+      "Provides no armor or resistances.",
+      "Less effective on heroes that deal physical damage.",
+      "Requires magical damage to fully utilize the item's power."
+    ],
+    "tips": [
+      "Magic Lifesteal only works against enemy heroes and creeps.",
+      "Attacking bushes does not restore health.",
+      "Mage Staff becomes stronger on heroes that deal repeated magical damage.",
+      "Damage-over-time effects can generate continuous healing.",
+      "Spell Power and Magic Lifesteal work together extremely well.",
+      "The item provides both offensive and defensive value."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Mage Staff?",
+        "a": "Mage Staff is unlocked by upgrading Spiritmonger."
+      },
+      {
+        "q": "What does Mage Staff do?",
+        "a": "Mage Staff provides Spell Power, additional Mana, and Magic Lifesteal."
+      },
+      {
+        "q": "What is Magic Lifesteal?",
+        "a": "Magic Lifesteal converts a portion of magical damage dealt to enemy heroes and creeps into health."
+      },
+      {
+        "q": "Does Magic Lifesteal work on bushes?",
+        "a": "No. Like all lifesteal effects in Spelltroum, Magic Lifesteal only works against enemy heroes and creeps."
+      },
+      {
+        "q": "Which heroes benefit most from Mage Staff?",
+        "a": "Spiritmonger, Viverna, and Faerie are among the strongest users because they deal consistent magical damage and can trigger Magic Lifesteal frequently."
+      },
+      {
+        "q": "Is Mage Staff good on Shadow Fury?",
+        "a": "No. Shadow Fury primarily deals Physical Damage, so Magic Lifesteal does not work with her abilities. Other physical damage items are generally much more effective."
+      },
+      {
+        "q": "Is Mage Staff useful on physical damage heroes?",
+        "a": "Usually not. Mage Staff is designed for heroes that deal Magical Damage. Physical damage heroes cannot fully utilize the Magic Lifesteal effect, which is the item's primary strength."
+      }
+    ]
+  },
+  "WitchBlade": {
+    "description": "Witch Blade is a Common item unlocked through Daily Rewards. It is designed for heroes that rely on magical abilities and frequent spell usage, providing Mana Regeneration, Spell Power, and a unique effect that reduces an enemy's Magic Resistance. Unlike many offensive items that only increase your own damage, Witch Blade also increases the damage dealt by your teammates, making it especially valuable in team-based strategies and magic-focused compositions.",
+    "whyUse": "Witch Blade is one of the best utility items for magical heroes. The first upgrade immediately grants Mana Regeneration, allowing heroes to use abilities more frequently during the early game. The second upgrade provides Spell Power, increasing the effectiveness of abilities. Its most important effect is Magic Resistance Reduction — when Witch Blade affects an enemy, it applies a debuff that lowers the target's Magic Resistance, causing all magical damage dealt to that enemy to become stronger, regardless of which hero deals the damage. Because of this, Witch Blade becomes especially powerful when multiple heroes on a team deal magical damage.",
+    "strengths": [
+      "Provides Mana Regeneration.",
+      "Grants Spell Power.",
+      "Reduces enemy Magic Resistance.",
+      "Increases team damage output.",
+      "Excellent for magical heroes.",
+      "Strong in coordinated play."
+    ],
+    "weaknesses": [
+      "Provides no Health.",
+      "Provides no Armor.",
+      "Less effective for physical damage heroes.",
+      "Provides limited value if your team deals little magical damage."
+    ],
+    "tips": [
+      "The first upgrade immediately provides Mana Regeneration.",
+      "The second upgrade grants Spell Power.",
+      "Magic Resistance Reduction benefits both you and your teammates.",
+      "Witch Blade is strongest against enemies being focused by multiple magical heroes.",
+      "The item is useful throughout both the early and late game.",
+      "Consider prioritizing Witch Blade when your team deals mostly magical damage."
+    ],
+    "faq": [
+      {
+        "q": "How do I unlock Witch Blade?",
+        "a": "Witch Blade is unlocked through Daily Rewards."
+      },
+      {
+        "q": "Does Witch Blade help my teammates?",
+        "a": "Yes. The Magic Resistance Reduction is applied to the enemy, meaning all allied magical damage becomes stronger against that target."
+      },
+      {
+        "q": "Which heroes benefit most from Witch Blade?",
+        "a": "Viverna, Faerie, Spiritmonger, and other magical damage dealers are among the strongest users of the item."
+      }
+    ]
+  },
+  "RingOfRegen": {
+    "whyUse": "Regeneration Ring is designed for heroes that want to cast abilities frequently, harass enemies, and disengage before returning to the fight. The item provides powerful Mana Regeneration, allowing heroes to use abilities more often without running out of mana. It also reduces ability cooldowns, making spells available more frequently throughout the match. One of its strongest defensive effects is reducing the delay before Health Regeneration begins. Normally, heroes must wait several seconds after taking damage before regeneration starts. Regeneration Ring dramatically shortens this delay, allowing heroes to recover much faster between engagements. The additional Magic Resistance also helps protect against burst damage from enemy spellcasters.",
+    "strengths": [
+      "Increases attack range",
+      "Can transform melee heroes into ranged attackers",
+      "Provides strong Mana Regeneration",
+      "Reduces ability cooldowns",
+      "Reduces Health Regeneration delay",
+      "Grants Magic Resistance",
+      "Supports hit-and-run playstyles"
+    ],
+    "weaknesses": [
+      "Provides no direct damage bonus",
+      "Provides less raw survivability than dedicated defensive items",
+      "Requires good positioning to fully utilize the additional range",
+      "Less valuable on heroes that rarely use abilities"
+    ],
+    "tips": [
+      "Melee heroes gain the most value from the bonus attack range.",
+      "Use the faster regeneration timing to take short trades and recover quickly.",
+      "Cooldown Reduction becomes more valuable on heroes with powerful abilities.",
+      "The item is especially effective on mobile heroes that can disengage after attacking.",
+      "Combining multiple regeneration-focused items can create powerful sustain builds.",
+      "Magic Resistance helps protect against enemy spellcasters."
+    ],
+    "bestHeroes": {
+      "spitfire": "Regeneration Ring is one of the strongest Legendary items for Spitfire. The Mana Regeneration and Cooldown Reduction allow him to use his Fireball abilities much more frequently. The increased attack range also improves his ability to pressure enemies from a safe distance while maintaining constant ability usage.",
+      "mortifier": "Regeneration Ring creates a unique playstyle for Mortifier. As a melee hero, he gains ranged attacks from the item, allowing him to fight in ways that are normally unavailable to him. The Mana Regeneration and Cooldown Reduction also help him place bombs more frequently and make greater use of his abilities throughout a match.",
+      "faerie": "Faerie benefits greatly from Regeneration Ring. The item allows her to cast abilities more often, maintain pressure during fights, and recover health more quickly after disengaging. Because Faerie often relies on mobility and positioning, the faster regeneration cycle can be extremely valuable."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Regeneration Ring?",
+        "a": "Regeneration Ring is unlocked by upgrading Spitfire."
+      },
+      {
+        "q": "What does Regeneration Ring do?",
+        "a": "Regeneration Ring increases attack range, provides Mana Regeneration, reduces cooldowns, grants Magic Resistance, and reduces the delay before Health Regeneration begins."
+      },
+      {
+        "q": "Does Regeneration Ring turn melee heroes into ranged heroes?",
+        "a": "Yes. The bonus attack range allows melee heroes to attack from range, creating a very different playstyle."
+      },
+      {
+        "q": "Which heroes benefit most from Regeneration Ring?",
+        "a": "Spitfire, Mortifier, and Faerie are among the strongest users because they benefit from the Mana Regeneration, Cooldown Reduction, and unique range bonus."
+      },
+      {
+        "q": "Does Regeneration Ring stack with other regeneration items?",
+        "a": "Yes. It works particularly well with Cuirass and Regen Boots because all of them reduce the delay before Health Regeneration begins."
+      },
+      {
+        "q": "Is Regeneration Ring good against mages?",
+        "a": "Yes. The item provides Magic Resistance, helping reduce incoming magical damage while also allowing faster recovery between fights."
+      }
+    ]
+  },
+  "HiddenFighterStaff": {
+    "whyUse": "Shuriken is one of the most flexible utility items in Spelltroum. The first upgrade already provides Mana and Cooldown Reduction, making it valuable even before investing further upgrades. This is particularly useful for heroes that already have cooldown reduction from other items. Even a single level of Shuriken can noticeably improve ability uptime. Its signature effect gives attacks a chance to become a bouncing Shuriken projectile. The projectile deals Physical Damage, bounces once, and can strike additional bushes or enemies. This improves farming speed and occasionally creates unexpected damage opportunities during fights. Since the projectile deals Physical Damage, it benefits from Physical Critical Strikes and physical damage bonuses.",
+    "strengths": [
+      "Provides Attack Speed",
+      "Grants Cooldown Reduction",
+      "Provides Mana",
+      "Includes Spell Power",
+      "Improves farming speed",
+      "Bouncing projectiles can damage multiple targets",
+      "Synergizes with Physical Critical Strikes",
+      "Useful throughout the entire match"
+    ],
+    "weaknesses": [
+      "Relies partially on chance-based effects",
+      "Provides no Health",
+      "Provides no Armor or Magic Resistance",
+      "Less valuable on heroes that rarely attack",
+      "Requires Attack Speed to maximize effectiveness"
+    ],
+    "tips": [
+      "The first upgrade already provides Mana and Cooldown Reduction.",
+      "Physical Critical Strikes affect Shuriken projectiles.",
+      "Physical damage bonuses increase Shuriken damage.",
+      "The item is strongest on heroes with high Attack Speed.",
+      "Bouncing attacks significantly improve farming efficiency.",
+      "Combining Shuriken with other cooldown reduction items creates powerful ability-focused builds."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Shuriken works extremely well on Stonewarden. The additional Attack Speed helps him attack more frequently, while Cooldown Reduction allows him to use abilities more often. His naturally high damage makes every Shuriken bounce more threatening, and the item significantly improves his farming speed.",
+      "spitfire": "Spitfire benefits from nearly every stat provided by Shuriken. Attack Speed increases the frequency of Shuriken procs, while Mana and Cooldown Reduction allow him to cast abilities more often. The bouncing projectiles also help him clear bushes faster and accelerate his farming.",
+      "freezi": "Freezi is another excellent user of Shuriken. Her high Attack Speed allows her to trigger the effect frequently. The bouncing projectiles help her farm more efficiently while also creating additional pressure during fights. The Cooldown Reduction also gives her more opportunities to use her abilities throughout the match.",
+      "death-slayer": "Shuriken can enable interesting cooldown-focused builds for Death Slayer. The Cooldown Reduction stacks well with other cooldown reduction items, allowing him to cast his stun significantly more often. Players focused on maximizing crowd control can use Shuriken as part of a control-oriented build."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Shuriken?",
+        "a": "Shuriken is available from the beginning of the game as a Common item."
+      },
+      {
+        "q": "What does Shuriken do?",
+        "a": "Shuriken provides Attack Speed, Mana, Spell Power, Cooldown Reduction, and grants a chance for attacks to become bouncing Physical Damage projectiles."
+      },
+      {
+        "q": "Does the Shuriken deal Physical or Magical Damage?",
+        "a": "The Shuriken deals Physical Damage."
+      },
+      {
+        "q": "Can Shuriken critically strike?",
+        "a": "Yes. Because the projectile deals Physical Damage, Physical Critical Strike effects can apply to it."
+      },
+      {
+        "q": "Which heroes benefit most from Shuriken?",
+        "a": "Stonewarden, Spitfire, Freezi, and certain Death Slayer builds are among the strongest users because they benefit from Attack Speed and Cooldown Reduction."
+      },
+      {
+        "q": "Is Shuriken good for farming?",
+        "a": "Yes. The bouncing projectile can hit additional bushes and targets, making farming significantly more efficient."
+      },
+      {
+        "q": "Is Shuriken useful for cooldown reduction builds?",
+        "a": "Yes. Even the first upgrade provides Cooldown Reduction, making it an effective addition to heroes that want to cast abilities more frequently."
+      }
+    ]
+  },
+  "BladesOfCriticalHit": {
+    "whyUse": "Critical Blades is designed for heroes that want to maximize the damage of their critical strikes. The item provides a small amount of Critical Strike Chance, but its primary strength comes from increasing the maximum Critical Damage bonus. This means that whenever a critical strike occurs, it deals substantially more damage than a normal critical strike. The item also provides Spell Power, making it useful for heroes whose abilities scale with Spell Power while still relying on physical damage. For some heroes, Critical Blades can dramatically increase burst damage and create opportunities to eliminate enemies before they can react.",
+    "strengths": [
+      "Increases maximum Critical Damage",
+      "Provides Physical Critical Strike Chance",
+      "Grants Spell Power",
+      "Excellent burst damage potential",
+      "Strong synergy with critical strike builds",
+      "Effective on multiple physical damage heroes"
+    ],
+    "weaknesses": [
+      "Relies on Critical Strike Chance to reach maximum value",
+      "Provides no Health",
+      "Provides no Armor or Magic Resistance",
+      "Less effective on heroes that rarely deal physical damage",
+      "Requires other critical strike sources to fully maximize its potential"
+    ],
+    "tips": [
+      "Critical Blades are strongest when combined with other sources of Critical Strike Chance.",
+      "Increasing Critical Strike Chance increases the value of the item's Critical Damage bonus.",
+      "Physical damage heroes benefit the most.",
+      "The item combines both Spell Power and critical strike scaling.",
+      "Burst damage builds gain exceptional value from Critical Blades.",
+      "The item is especially dangerous on heroes capable of landing high-damage attacks."
+    ],
+    "bestHeroes": {
+      "shadow-fury": "Critical Blades is one of the signature items for Shadow Fury. Spell Power improves her abilities, including her charged attack. The additional Critical Strike Chance increases the likelihood of landing devastating critical hits. Most importantly, the increased Critical Damage multiplier allows her charged attacks to deal significantly more damage, making one-shot eliminations much more realistic.",
+      "spiritmonger": "Spiritmonger gains surprising value from Critical Blades. Her Soul Collection ability deals physical damage, allowing it to benefit from the increased Critical Damage multiplier. The Spell Power bonus also improves her abilities, allowing her to collect more souls while increasing her overall damage potential.",
+      "death-slayer": "Critical Blades can be effective on Death Slayer, especially in damage-oriented builds. Death Slayer already has access to Critical Strike mechanics through his abilities. The additional Critical Strike Chance and increased Critical Damage multiplier significantly improve the damage of successful critical hits. The Spell Power bonus also improves several parts of his kit, making the item useful even outside of its critical strike effects."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Critical Blades?",
+        "a": "Critical Blades are unlocked by upgrading Shadow Fury."
+      },
+      {
+        "q": "What do Critical Blades do?",
+        "a": "Critical Blades provide Spell Power, Physical Critical Strike Chance, and increase the maximum Critical Damage bonus."
+      },
+      {
+        "q": "How much extra damage do Critical Strikes deal with Critical Blades?",
+        "a": "Normally, critical strikes deal 50% additional damage. Critical Blades increase that bonus to 75%."
+      },
+      {
+        "q": "Which heroes benefit most from Critical Blades?",
+        "a": "Shadow Fury, Spiritmonger, and Death Slayer are among the strongest users because they benefit from both the increased Critical Damage and Spell Power."
+      },
+      {
+        "q": "Do Critical Blades work well with other critical strike items?",
+        "a": "Yes. Critical Blades become significantly stronger when combined with items that increase Critical Strike Chance."
+      }
+    ]
+  },
+  "RefresherStaff": {
+    "whyUse": "Refresher Staff is designed for heroes that rely heavily on active abilities. The item itself provides useful stats through additional Health, Mana, and Spell Power, but its greatest value comes from the ability to reset cooldowns. A well-timed Refresher Rune can completely change a fight by allowing a hero to cast their strongest abilities twice in succession. Unlike pure damage items, Refresher Staff rewards planning, timing, and ability management. Heroes with powerful active abilities often gain much more value from Refresher Staff than from traditional damage items.",
+    "strengths": [
+      "Provides Health",
+      "Grants Mana",
+      "Provides Spell Power",
+      "Allows cooldown resets",
+      "Creates unique gameplay opportunities",
+      "Extremely powerful during important fights",
+      "Useful on many different heroes"
+    ],
+    "weaknesses": [
+      "Relies on finding Refresher Runes",
+      "Requires good timing to maximize value",
+      "Provides less direct damage than dedicated offensive items",
+      "New players often underestimate the best moments to use it"
+    ],
+    "tips": [
+      "Save Refresher Runes for important fights whenever possible.",
+      "Heroes with strong active abilities gain the most value.",
+      "Refresher does not affect the Basic Attack ability.",
+      "Bush-heavy maps naturally increase the value of the item.",
+      "A single Refresher Rune can completely change a team fight.",
+      "Consider carrying a Refresher Rune before engaging an important enemy."
+    ],
+    "bestHeroes": {
+      "faerie": "Refresher Staff is one of the strongest utility items for Faerie. Both of her active abilities benefit tremendously from cooldown resets. A Refresher Rune allows her to immediately cast another flight or another area attack, dramatically increasing both her damage and mobility.",
+      "grizzly": "Grizzly has one of the strongest interactions with Refresher Staff. His Health-enhancing ability can be cast twice using a Refresher Rune. This allows him to gain an enormous amount of bonus Health and become extremely difficult to eliminate. In some situations, this can transform Grizzly into one of the tankiest heroes in the game.",
+      "mortifier": "Mortifier gains tremendous value from Refresher Staff. A Refresher Rune allows him to place additional bombs and immediately reuse his swap ability. This creates dangerous combinations that can catch opponents off guard and significantly increase his impact during fights."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Refresher Staff?",
+        "a": "Refresher Staff is a Mystic item and is available from the beginning of the game."
+      },
+      {
+        "q": "What does Refresher Staff do?",
+        "a": "Refresher Staff provides Health, Mana, Spell Power, and allows heroes to discover Refresher Runes while destroying bushes."
+      },
+      {
+        "q": "Does Refresher Rune refresh the Basic Attack ability?",
+        "a": "No. The Basic Attack ability is not affected."
+      },
+      {
+        "q": "Which heroes benefit most from Refresher Staff?",
+        "a": "Faerie, Grizzly, and Mortifier are among the strongest users because they gain tremendous value from casting their active abilities multiple times."
+      },
+      {
+        "q": "Is Refresher Staff a damage item?",
+        "a": "Not primarily. While it provides some offensive stats through Spell Power, its greatest strength comes from refreshing cooldowns and enabling powerful ability combinations."
+      }
+    ]
+  },
+  "ArchmagesExecutioner": {
+    "description": "Archmage's Executioner is a Mystic item available from the beginning of the game. Like all axes, it grants Movement Speed at its final upgrade level. However, its primary purpose is not mobility, but Cooldown Reduction. The item is designed for heroes that rely on casting abilities as often as possible. It provides Health, Spell Power, Cooldown Reduction, and eventually Movement Speed, making it one of the strongest utility items for ability-focused builds. For many heroes, Archmage's Executioner can completely change their playstyle by allowing them to use abilities far more frequently than normal.",
+    "whyUse": "Archmage's Executioner is one of the easiest ways to gain significant Cooldown Reduction early in a match. The first upgrade provides additional Health, which is valuable because most heroes benefit greatly from having at least one source of bonus Health early in the game. The second upgrade unlocks Cooldown Reduction, making the item immediately useful for heroes that rely heavily on abilities. Because Cooldown Reduction becomes available so early, players can quickly build around frequent spell usage without needing to fully upgrade the item first. The item also provides Spell Power, making it particularly attractive for magical heroes. Finally, at maximum upgrade level, it grants Movement Speed, allowing heroes to remain mobile without necessarily purchasing Boots.",
+    "strengths": [
+      "Provides Health",
+      "Grants Spell Power",
+      "Provides early Cooldown Reduction",
+      "Grants Movement Speed at maximum level",
+      "Excellent for ability-focused heroes",
+      "Strong synergy with other cooldown reduction items",
+      "Can support alternative playstyles"
+    ],
+    "weaknesses": [
+      "Provides less raw damage than dedicated offensive items",
+      "Requires ability-focused heroes to reach full value",
+      "Less useful for heroes that rely mostly on basic attacks",
+      "Maximum Movement Speed bonus requires full upgrades"
+    ],
+    "tips": [
+      "Upgrade the item to level 2 early if Cooldown Reduction is your priority.",
+      "Combine it with Shuriken for powerful cooldown-focused builds.",
+      "The item is strongest on heroes that rely heavily on active abilities.",
+      "It can partially replace Boots for heroes that only need moderate Movement Speed.",
+      "Spell Power increases the effectiveness of many magical abilities.",
+      "Cooldown Reduction often provides more value than raw damage in longer fights."
+    ],
+    "faq": [
+      {
+        "q": "Why is Cooldown Reduction important?",
+        "a": "Cooldown Reduction allows heroes to cast abilities more frequently, increasing both damage output and utility."
+      }
+    ]
+  },
+  "Glove": {
+    "whyUse": "Azure Gloves dramatically increase Attack Speed. Heroes that already deal high damage often gain enormous value from attacking more frequently. Faster attacks mean more damage, more farming speed, more ability interactions, and more opportunities to trigger item effects. However, Azure Gloves are usually not an item that players rush to level 4 immediately. In many situations, upgrading the item once or twice early provides enough Attack Speed to gain a noticeable advantage. Players often finish upgrading the item later in the match once they have acquired additional damage sources. Because Attack Speed scales with other offensive stats, Azure Gloves become stronger as the game progresses.",
+    "strengths": [
+      "Provides a massive Attack Speed increase",
+      "Improves farming speed",
+      "Scales well into the late game",
+      "Strong synergy with on-hit effects",
+      "Excellent for heroes with high base damage",
+      "Improves stun and critical strike builds"
+    ],
+    "weaknesses": [
+      "Provides no Health",
+      "Provides no Armor or Magic Resistance",
+      "Provides no direct damage bonus",
+      "Less effective on heroes that already attack very quickly",
+      "Usually requires other offensive items to reach maximum value"
+    ],
+    "tips": [
+      "Azure Gloves are strongest on heroes that already have high damage.",
+      "Consider upgrading the item once or twice early and finishing it later.",
+      "Attack Speed improves farming efficiency.",
+      "The item becomes stronger when combined with damage items.",
+      "More attacks mean more opportunities to trigger item effects.",
+      "Azure Gloves pair exceptionally well with Stunning Hammer."
+    ],
+    "bestHeroes": {
+      "stonewarden": "Azure Gloves are one of the strongest offensive items for Stonewarden. His Basic Attack naturally deals high damage but attacks more slowly. Azure Gloves help offset this weakness by significantly increasing Attack Speed. This allows Stonewarden to attack more frequently while maintaining his powerful hits.",
+      "spiritmonger": "Spiritmonger can gain tremendous value from Azure Gloves. As she collects Souls, her damage becomes increasingly threatening. Additional Attack Speed allows her to apply that damage much more frequently. The result is a hero that can attack both quickly and extremely hard.",
+      "grizzly": "Azure Gloves work exceptionally well on Grizzly. His damage increases as he continues attacking the same target. More Attack Speed means he reaches higher damage levels much faster. Against durable enemies, this can dramatically increase his overall damage output."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Azure Gloves?",
+        "a": "Azure Gloves are a Mystic item and are available from the beginning of the game."
+      },
+      {
+        "q": "What do Azure Gloves do?",
+        "a": "Azure Gloves provide a large amount of Attack Speed and are designed for heroes that want to attack more frequently."
+      },
+      {
+        "q": "Which heroes benefit most from Azure Gloves?",
+        "a": "Stonewarden, Spiritmonger, and Grizzly are among the strongest users because they already have strong attacks that benefit greatly from additional Attack Speed."
+      },
+      {
+        "q": "Should I upgrade Azure Gloves to maximum level immediately?",
+        "a": "Usually not. Many players upgrade the item one or two times early and finish upgrading it later after acquiring additional damage items."
+      }
+    ]
+  },
+  "GloveMidas": {
+    "description": "Goldswift Gloves is a Common item unlocked through Daily Rewards. The item provides Attack Speed, Health, and one of the strongest economy effects in Spelltroum: bonus gold from every coin collected. Whenever the hero picks up a coin, Goldswift Gloves grant an additional 10 gold on top of the coin's normal value. Because of this, the item is designed for heroes that want to farm aggressively, reach their core items faster, and build an economic advantage early in the match.",
+    "whyUse": "Goldswift Gloves are all about accelerating your economy. Unlike most items that directly increase combat power, Goldswift Gloves help heroes earn more gold throughout the game. The first upgrade immediately unlocks the bonus gold effect, making it useful from the moment it is purchased. This creates an interesting choice for players. Instead of investing heavily into combat stats early, they can invest into faster farming and potentially earn much more gold over the course of the match. The second upgrade provides additional Health, helping farming-oriented heroes survive while collecting resources. Later upgrades grant Attack Speed, improving farming speed even further by allowing heroes to clear bushes more quickly.",
+    "strengths": [
+      "Generates additional gold throughout the match",
+      "Pays for itself over time",
+      "Provides Health",
+      "Grants Attack Speed",
+      "Excellent for farming-focused heroes",
+      "Helps reach expensive item builds faster"
+    ],
+    "weaknesses": [
+      "Provides less immediate combat power than many other items",
+      "Requires time to generate value",
+      "Less effective in highly aggressive matches",
+      "Becomes weaker when purchased late",
+      "Can delay important combat items if bought at the wrong time"
+    ],
+    "tips": [
+      "Purchase the item early to maximize gold generation.",
+      "The first upgrade is usually the most important.",
+      "Heroes that farm quickly gain the most value.",
+      "Attack Speed helps improve farming efficiency.",
+      "The item becomes weaker when purchased late.",
+      "Consider your matchup before investing in an economy-focused build."
+    ],
+    "bestHeroes": {
+      "druid": "Goldswift Gloves are one of the best farming items for Druid. His summon helps clear bushes quickly, allowing him to collect coins efficiently and fully utilize the bonus gold effect. Players who prefer a farming-focused Druid playstyle often gain tremendous value from purchasing Goldswift Gloves early.",
+      "volcarn": "Vulkarn benefits greatly from reaching his item spikes as quickly as possible. Because he relies heavily on items to reach his full potential, the additional income generated by Goldswift Gloves can accelerate his progression significantly. The extra Health also helps him survive while farming during the early game.",
+      "stonewarden": "Stonewarden gains value from both the economy effect and the Attack Speed bonuses. The additional Attack Speed helps offset his naturally slower attacks, while the bonus gold allows him to reach powerful item combinations earlier.",
+      "freezi": "Freezi can use Goldswift Gloves to accelerate her farming and reach key items more quickly. The additional income often translates into faster power spikes and greater map control throughout the match."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Goldswift Gloves?",
+        "a": "Goldswift Gloves are unlocked through Daily Rewards."
+      },
+      {
+        "q": "What do Goldswift Gloves do?",
+        "a": "Goldswift Gloves provide Attack Speed, Health, and bonus gold whenever coins are collected."
+      },
+      {
+        "q": "When should I buy Goldswift Gloves?",
+        "a": "Usually as early as possible. The earlier you buy the item, the more bonus gold you can earn during the match."
+      },
+      {
+        "q": "Which heroes benefit most from Goldswift Gloves?",
+        "a": "Druid, Vulkarn, Stonewarden, and Freezi are among the strongest users because they can farm efficiently and take advantage of the additional income."
+      },
+      {
+        "q": "Are Goldswift Gloves good in every match?",
+        "a": "No. If you are constantly fighting and unable to farm coins, the item may take too long to pay for itself."
+      },
+      {
+        "q": "Do Goldswift Gloves become weaker later in the game?",
+        "a": "Yes. Since the item earns value over time, buying it late usually provides significantly less benefit than purchasing it early."
+      }
+    ]
+  },
+  "RingOfProtection": {
+    "whyUse": "Guardian Ring is designed for heroes that want to stay alive while constantly pressuring enemies. The large amount of armor makes heroes significantly harder to kill, especially heroes that already have large Health pools. Its most important feature, however, is the Speed Rune effect. Whenever the hero uses an ability, Guardian Ring grants a temporary burst of Movement Speed. This allows players to close the distance to enemies, maintain pressure during fights, or reposition after casting a spell. The Speed Rune effect becomes available from the first upgrade, meaning many players purchase a single level early and finish upgrading the item later when additional armor becomes more valuable.",
+    "strengths": [
+      "Provides Physical Armor",
+      "Provides Magic Resistance",
+      "Grants temporary Movement Speed after casting abilities",
+      "Excellent for aggressive playstyles",
+      "Strong on tanky heroes",
+      "Effective against both physical and magical damage",
+      "The main effect is available from the first upgrade"
+    ],
+    "weaknesses": [
+      "Provides no direct damage increase",
+      "Less valuable for heroes with few active abilities",
+      "Requires ability usage to gain the movement speed bonus",
+      "Provides less permanent movement speed than dedicated mobility items"
+    ],
+    "tips": [
+      "The Speed Rune effect is available from the first upgrade.",
+      "Many players buy the first level early and finish upgrading later.",
+      "Heroes with multiple active abilities gain the most value.",
+      "The item is especially effective on heroes that need help chasing enemies.",
+      "Large Health pools become significantly stronger when combined with the item's armor bonuses.",
+      "Guardian Ring provides both survivability and mobility in a single item slot."
+    ],
+    "bestHeroes": {
+      "grizzly": "Guardian Ring works surprisingly well on Viverna. She has two active abilities that can repeatedly trigger the Speed Rune effect. This allows her to attack, reposition, retreat, and re-engage much more effectively than normal. The additional armor also improves her survivability against both magical and physical damage.",
+      "mortifier": "Mortifier benefits greatly from Guardian Ring. Both his Bomb and Swap abilities activate the Speed Rune effect. As a melee hero, additional Movement Speed is extremely valuable because it helps him stay in range of enemies and create opportunities for his abilities. The defensive stats also make him significantly harder to eliminate during extended fights."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Guardian Ring?",
+        "a": "Guardian Ring is unlocked by upgrading Grizzly."
+      },
+      {
+        "q": "What does Guardian Ring do?",
+        "a": "Guardian Ring provides Physical Armor, Magic Resistance, and grants a temporary Speed Rune whenever the hero uses an ability."
+      },
+      {
+        "q": "Does Guardian Ring work from the first upgrade?",
+        "a": "Yes. The Speed Rune effect becomes available immediately at the first upgrade level."
+      },
+      {
+        "q": "Which heroes benefit most from Guardian Ring?",
+        "a": "Grizzly, Viverna, and Mortifier are among the strongest users because they can trigger the Speed Rune effect frequently and benefit greatly from the defensive stats."
+      },
+      {
+        "q": "Is Guardian Ring a defensive item or a mobility item?",
+        "a": "Both. It provides substantial armor while also granting temporary bursts of speed whenever abilities are used."
+      },
+      {
+        "q": "Why is Guardian Ring especially good on heroes with high Health?",
+        "a": "Armor and Magic Resistance become more valuable as a hero's Health increases, making Guardian Ring particularly effective on naturally tanky heroes such as Grizzly."
+      }
+    ]
+  },
+  "InfinityShield": {
+    "whyUse": "Infinity Shield is designed for heroes that want additional durability without sacrificing utility. The first upgrade provides bonus Health, making heroes noticeably harder to kill during the early game. The second upgrade grants Damage, which helps many heroes destroy bushes in a single attack and farm more efficiently. The third and fourth upgrades unlock the Shield Rune effect and provide additional Cooldown Reduction, allowing heroes to use their abilities more frequently while also gaining access to powerful defensive runes. Unlike pure defensive items, Infinity Shield improves both survivability and ability usage.",
+    "uniqueEffect": "While destroying bushes, heroes have a chance to discover a Shield Rune. When activated, the Shield Rune grants +200 Physical Armor, +200 Magic Resistance, and greatly increased survivability for 5 seconds. This is one of the strongest defensive rune effects in the game. During those 5 seconds, heroes become extremely difficult to kill with physical and magical damage. The effect is powerful enough to completely change the outcome of a fight when activated at the right moment. Because the rune is stored until activated, players can save it for critical moments, such as surviving a burst combo, diving into a fight, or protecting themselves while escaping. However, Shield Rune does not protect against Pure Damage. Heroes that rely on Pure Damage can still deal significant damage even while the shield is active.",
+    "strengths": [
+      "Provides Health",
+      "Grants Damage",
+      "Reduces cooldowns",
+      "Generates Shield Runes",
+      "Improves survivability against both physical and magical damage",
+      "Useful throughout the entire match",
+      "Excellent on tanky heroes",
+      "One of the strongest defensive rune effects in the game"
+    ],
+    "weaknesses": [
+      "Requires bush farming to generate Shield Runes",
+      "Provides less direct damage than offensive items",
+      "Full value depends on proper Shield Rune usage",
+      "Does not reduce Pure Damage",
+      "Not as specialized as pure defensive or pure offensive items"
+    ],
+    "tips": [
+      "Save Shield Runes for important fights.",
+      "The item is especially effective on heroes with large Health pools.",
+      "Cooldown Reduction becomes more valuable as heroes gain stronger abilities.",
+      "Shield Runes can prevent burst damage and one-shot attempts.",
+      "The item provides a strong balance of offense, defense, and utility.",
+      "Use Shield Rune before engaging dangerous enemies rather than after your Health becomes critically low.",
+      "Shield Rune is strongest against physical and magical burst damage."
+    ],
+    "bestHeroes": {
+      "grizzly": "Infinity Shield is one of the strongest defensive items for Grizzly. Grizzly already has one of the largest Health pools in the game. When he activates a Shield Rune, the additional armor becomes extremely valuable because armor scales exceptionally well with large amounts of Health. This combination makes Grizzly incredibly difficult to kill during fights.",
+      "druid": "Infinity Shield works very well on Mortifier. He frequently uses both of his active abilities, making Cooldown Reduction highly valuable. The additional Damage helps him clear bushes more efficiently, while the Shield Rune can save him when enemies attempt to burst him down. A well-timed Shield Rune often allows Mortifier to survive long enough to place bombs or execute a successful swap play."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Infinity Shield?",
+        "a": "Infinity Shield is a Mystic item and is available from the beginning of the game."
+      },
+      {
+        "q": "What does Infinity Shield do?",
+        "a": "Infinity Shield provides Health, Damage, Cooldown Reduction, and allows heroes to discover Shield Runes while destroying bushes."
+      },
+      {
+        "q": "What does a Shield Rune do?",
+        "a": "A Shield Rune grants +200 Physical Armor and +200 Magic Resistance for 5 seconds, making the hero significantly harder to kill."
+      },
+      {
+        "q": "Does Shield Rune block Pure Damage?",
+        "a": "No. Shield Rune only grants Physical Armor and Magic Resistance. Physical and magical damage are heavily reduced while the shield is active, but Pure Damage ignores the shield and deals its normal amount of damage."
+      },
+      {
+        "q": "Which heroes benefit most from Infinity Shield?",
+        "a": "Grizzly, Druid, and Mortifier are among the strongest users because they benefit from both the defensive stats and the cooldown reduction."
+      },
+      {
+        "q": "Can Shield Runes help against burst damage?",
+        "a": "Yes. Shield Rune grants +200 Physical Armor and +200 Magic Resistance for 5 seconds, making it one of the strongest tools for surviving burst damage and all-in engagements. However, Pure Damage is not reduced by the shield."
+      },
+      {
+        "q": "Should I fully upgrade Infinity Shield immediately?",
+        "a": "Not always. Many players upgrade it gradually, taking advantage of the early Health and Damage bonuses before completing the final levels later in the match."
+      }
+    ]
+  },
+  "SilenceBlade": {
+    "whyUse": "Helmet of Silence is designed to counter heroes that rely heavily on abilities, healing, or lifesteal. The item itself already provides useful combat stats: Physical Armor for survivability, Attack Speed for increased damage output, and additional Mana for more frequent ability usage. However, the main reason players buy Helmet of Silence is access to Silence Runes. A well-timed Silence Rune can completely shut down an enemy hero for several seconds, preventing them from escaping, healing, or using powerful abilities.",
+    "uniqueEffect": "While destroying bushes, heroes have a chance to discover a Silence Rune. When activated, the rune creates a silence effect around the hero. Enemies affected by Silence cannot use abilities, can only use Basic Attacks, cannot activate healing abilities, cannot benefit from lifesteal effects, cannot use healing consumables, and cannot restore Health through other healing effects. The silence lasts for 5 seconds, which is often long enough to decide an entire fight. Additionally, activating the rune deals 1 point of damage to affected enemies. Although the damage is insignificant, it can interrupt Health regeneration timers and prevent enemies from immediately starting their natural regeneration.",
+    "strengths": [
+      "Provides Physical Armor",
+      "Provides Attack Speed",
+      "Grants additional Mana",
+      "Generates powerful Silence Runes",
+      "Completely disables enemy abilities",
+      "Counters healing and lifesteal",
+      "Excellent for aggressive heroes"
+    ],
+    "weaknesses": [
+      "Requires bush farming to generate runes",
+      "Less effective against heroes that rely mostly on Basic Attacks",
+      "Provides less direct damage than dedicated offensive items",
+      "Full value depends on proper Silence Rune usage"
+    ],
+    "tips": [
+      "Save Silence Runes for important fights.",
+      "Use Silence immediately after crowd control effects for maximum impact.",
+      "Silence is especially effective against heroes that rely on healing.",
+      "The rune can prevent enemies from escaping with abilities.",
+      "The 1 damage activation can interrupt regeneration timers.",
+      "Attack Speed increases the item's overall offensive value."
+    ],
+    "bestHeroes": {
+      "grizzly": "Helmet of Silence is an excellent item for Grizzly. He wants to stay close to enemies and continuously pressure them. After jumping onto a target, Grizzly can activate a Silence Rune and prevent the enemy from escaping with abilities. Combined with his durability and sustained damage, this creates a very dangerous situation for most opponents.",
+      "freezi": "Viverna benefits from the item's aggressive utility. She can engage an enemy, apply poison and damage effects, then activate Silence to prevent the target from responding with abilities. Against heroes that rely on defensive skills or healing, this can be devastating."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Helmet of Silence?",
+        "a": "Helmet of Silence is a Mystic item and is available from the beginning of the game."
+      },
+      {
+        "q": "What does Helmet of Silence do?",
+        "a": "Helmet of Silence provides Physical Armor, Attack Speed, Mana, and allows heroes to discover Silence Runes while destroying bushes."
+      },
+      {
+        "q": "What does Silence do?",
+        "a": "Silence prevents affected enemies from using abilities for 5 seconds. They can only use Basic Attacks."
+      },
+      {
+        "q": "Does Silence stop healing?",
+        "a": "Yes. While silenced, enemies cannot benefit from lifesteal, healing abilities, healing consumables, or other Health restoration effects."
+      },
+      {
+        "q": "Which heroes benefit most from Helmet of Silence?",
+        "a": "Grizzly, Freezi, and Viverna are among the strongest users because they can take full advantage of the silence effect during combat."
+      }
+    ]
+  },
+  "Splash": {
+    "whyUse": "Fairy Staff is designed for heroes that rely heavily on magical damage. The item increases Magic Critical Damage, allowing critical hits to deal significantly more damage than normal. Normally, a Magic Critical Strike deals 50% bonus damage. Fairy Staff increases this bonus to 75%, making every successful critical hit much more impactful. The item also provides a small amount of Magic Critical Strike Chance. While the chance alone is relatively low, Fairy Staff becomes extremely powerful when combined with other items that increase Magic Critical Strike Chance. Additionally, the bonus Health makes magical heroes noticeably more durable during fights.",
+    "uniqueEffect": "Starting from Level 2, Fairy Staff gains its unique support effect. Whenever the owner uses a Health Potion or a Mana Potion, the same effect is automatically applied to a nearby ally. This allows support-oriented heroes to help their teammates recover Health and Mana without using additional resources. In team-based modes, this effect can create a significant advantage during extended fights and farming sessions.",
+    "strengths": [
+      "Increases Magic Critical Damage",
+      "Provides Magic Critical Strike Chance",
+      "Grants additional Health",
+      "Allows Health Potions to affect allies",
+      "Allows Mana Potions to affect allies",
+      "Strong for both damage and support builds",
+      "Excellent in team-based modes"
+    ],
+    "weaknesses": [
+      "Provides only a small amount of Magic Critical Strike Chance by itself",
+      "Requires other Magic Critical items to reach maximum damage potential",
+      "Provides less raw Spell Power than some dedicated mage items",
+      "Shared potion effect is less valuable when playing alone"
+    ],
+    "tips": [
+      "Fairy Staff becomes much stronger when combined with additional Magic Critical Strike Chance.",
+      "The shared potion effect activates automatically.",
+      "Stay close to allies to maximize the support value.",
+      "The item provides both offense and survivability.",
+      "Magic-based heroes benefit the most from its bonuses.",
+      "The Level 2 upgrade is particularly important because it unlocks the shared potion effect."
+    ],
+    "bestHeroes": {
+      "faerie": "Fairy Staff is the signature Legendary item for Faerie. It increases the damage of her magical abilities while also allowing her to support allies through shared potion effects. Because Faerie often plays close to teammates, she can take full advantage of both the offensive and supportive aspects of the item.",
+      "viverna": "Viverna benefits greatly from Fairy Staff. Her poison effects and magical abilities can critically strike, making the increased Magic Critical Damage extremely valuable. The bonus Health also helps improve her survivability during fights.",
+      "spiritmonger": "Spiritmonger is another excellent user of Fairy Staff. Her bouncing orb can benefit from Magic Critical Strikes, and the increased critical damage can significantly boost her burst potential. The additional Health also helps her survive longer while collecting Souls and scaling into the late game."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Fairy Staff?",
+        "a": "Fairy Staff is a Legendary item unlocked by upgrading Faerie."
+      },
+      {
+        "q": "What does Fairy Staff do?",
+        "a": "Fairy Staff provides Health, Magic Critical Strike Chance, increased Magic Critical Damage, and allows potion effects to be shared with nearby allies."
+      },
+      {
+        "q": "How much does Fairy Staff increase Magic Critical Damage?",
+        "a": "Normally, Magic Critical Strikes deal 50% bonus damage. Fairy Staff increases that bonus to 75%."
+      },
+      {
+        "q": "Does Fairy Staff work with both Health and Mana Potions?",
+        "a": "Yes. Starting at Level 2, both Health Potions and Mana Potions are shared with a nearby ally."
+      },
+      {
+        "q": "Which heroes benefit most from Fairy Staff?",
+        "a": "Faerie, Viverna, and Spiritmonger are among the strongest users because they rely heavily on magical damage."
+      },
+      {
+        "q": "Is Fairy Staff good by itself?",
+        "a": "It is useful on its own, but it becomes much stronger when combined with items that increase Magic Critical Strike Chance."
+      }
+    ]
+  },
+  "DarkSplash": {
+    "whyUse": "Dark Splash provides several powerful benefits for magical heroes. The first upgrade grants Magic Critical Strike Chance, allowing players to gain access to magical critical hits very early in the game. The second upgrade grants Health and applies Magic Armor Reduction to enemies. This debuff increases the damage dealt by magical abilities, making it especially powerful when multiple magic heroes focus the same target. The third and fourth upgrades unlock the item's signature mechanic: Dark Splash damage triggered by Health Potions. This allows heroes to heal themselves while simultaneously damaging weakened enemies nearby.",
+    "uniqueEffect": "Starting from Level 3, Dark Splash gains its unique execution effect. Whenever the owner uses a Health Potion, the owner is healed normally and the nearest enemy within range takes Dark Splash damage. The effect only works if the target is below 70% Health. Bushes cannot be targeted. The nearest target can be either an enemy hero or a creep. This restriction prevents players from repeatedly using potions to deal free damage to healthy targets. The effect is intended to help finish weakened enemies during fights rather than act as a primary source of damage. Because the target is selected automatically, positioning becomes important when using Health Potions.",
+    "strengths": [
+      "Grants Magic Critical Strike Chance",
+      "Provides Health",
+      "Applies Magic Armor Reduction",
+      "Increases team magic damage",
+      "Can damage enemies while healing",
+      "Excellent for aggressive mage builds",
+      "Strong in double-mage team compositions"
+    ],
+    "weaknesses": [
+      "Requires Health Potions to activate its unique effect",
+      "Cannot target enemies above 70% Health",
+      "Target selection is automatic",
+      "Can accidentally hit a nearby creep instead of a hero",
+      "Provides less raw Spell Power than some dedicated mage items"
+    ],
+    "tips": [
+      "Magic Armor Reduction benefits your entire team.",
+      "Save Health Potions for important fights when possible.",
+      "Position yourself carefully before using a potion.",
+      "The nearest enemy becomes the target.",
+      "The effect only works against enemies below 70% Health.",
+      "Dark Splash cannot target bushes.",
+      "Multiple magic heroes benefit greatly from the same Magic Armor Reduction debuff."
+    ],
+    "bestHeroes": {
+      "viverna": "Dark Splash is the signature Legendary item for Viverna. The Magic Armor Reduction increases the damage of her poison effects and area abilities. Because Viverna frequently harasses enemies and keeps them at low Health, she can take excellent advantage of the potion-triggered damage effect. The item naturally complements her aggressive mage playstyle.",
+      "faerie": "Faerie is another excellent user of Dark Splash. Both of her active abilities deal magical damage and benefit from Magic Armor Reduction. She also frequently finds and uses potions while moving around the map, allowing her to trigger Dark Splash during fights. The item supports both her offensive and supportive playstyles.",
+      "spiritmonger": "Spiritmonger benefits from Dark Splash through increased damage on her bouncing orb. The Magic Armor Reduction helps both her and allied magic heroes deal additional damage. While she may not utilize the item as effectively as Viverna or Faerie, it remains a strong option for magic-focused builds.",
+      "spitfire": "Although less common, Dark Splash can work well on Spitfire. His abilities deal magical damage, and the Magic Armor Reduction increases the effectiveness of his fire-based attacks. For ability-focused Spitfire builds, Dark Splash can provide meaningful additional damage."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Dark Splash?",
+        "a": "Dark Splash is a Legendary item unlocked by upgrading Viverna."
+      },
+      {
+        "q": "What does Dark Splash do?",
+        "a": "Dark Splash provides Magic Critical Strike Chance, Health, Magic Armor Reduction, and allows Health Potions to damage nearby weakened enemies."
+      },
+      {
+        "q": "How does the potion damage work?",
+        "a": "When the owner uses a Health Potion, the nearest enemy within range takes damage if that enemy has less than 70% Health."
+      },
+      {
+        "q": "Can Dark Splash target bushes?",
+        "a": "No. Bushes are never valid targets."
+      },
+      {
+        "q": "Can Dark Splash hit creeps?",
+        "a": "Yes. The effect always targets the nearest valid enemy, which can be either a creep or an enemy hero."
+      },
+      {
+        "q": "Which heroes benefit most from Dark Splash?",
+        "a": "Viverna, Faerie, Spiritmonger, and magic-focused Spitfire builds are among the strongest users."
+      },
+      {
+        "q": "Is Dark Splash good in double-mage teams?",
+        "a": "Yes. Magic Armor Reduction benefits all allied magic damage, making Dark Splash particularly powerful when multiple magic heroes focus the same target."
+      }
+    ]
+  },
+  "FireSphere": {
+    "whyUse": "Fire Sphere is designed for heroes that actively weave abilities and attacks together. The item grants bonus Health, Physical Armor, Magic Resistance, a small Movement Speed bonus, and Charged Attacks after casting abilities. Unlike many items that simply increase stats, Fire Sphere changes how a hero is played. Players are encouraged to cast an ability and immediately follow up with a basic attack to maximize damage output. At higher upgrade levels, the bonus Magic Damage becomes significant and can heavily influence fights.",
+    "uniqueEffect": "The signature effect of Fire Sphere is Charged Attack. Whenever the owner uses one of their two active abilities, the next basic attack becomes empowered and deals bonus Magic Damage. The effect does not trigger from the hero's basic attack ability — only from the hero's two active abilities. The bonus is consumed when the attack successfully hits a target. If the empowered attack misses, the bonus damage is wasted. This makes timing and accuracy extremely important. At higher upgrade levels, the empowered attack can deal substantial additional Magic Damage, allowing heroes to burst opponents more effectively.",
+    "strengths": [
+      "Provides Health",
+      "Grants Physical Armor",
+      "Grants Magic Resistance",
+      "Provides bonus Movement Speed",
+      "Adds powerful Charged Attacks",
+      "Rewards active combat and ability usage",
+      "Strong throughout the entire match",
+      "Excellent on heroes with multiple active abilities"
+    ],
+    "weaknesses": [
+      "Requires proper timing to maximize value",
+      "Missing a Charged Attack wastes the bonus damage",
+      "Less effective on heroes that rarely use active abilities",
+      "Provides less raw damage than some pure offensive items",
+      "Requires aggressive play to reach full potential"
+    ],
+    "tips": [
+      "Always try to attack immediately after casting an ability.",
+      "Missing a Charged Attack wastes the bonus damage.",
+      "The item is strongest on heroes with two active abilities.",
+      "Melee heroes often use Fire Sphere particularly well because they rarely miss empowered attacks.",
+      "The Movement Speed bonus helps with positioning and chasing targets.",
+      "Fire Sphere rewards an aggressive, combo-focused playstyle."
+    ],
+    "bestHeroes": {
+      "mortifier": "Faerie benefits greatly from Fire Sphere. Both of her active abilities trigger Charged Attacks, allowing her to repeatedly combine spell damage with empowered attacks. Because she frequently alternates between abilities and attacks, Fire Sphere fits naturally into her playstyle.",
+      "spitfire": "Spitfire is another excellent user of Fire Sphere. His active abilities allow him to trigger Charged Attacks consistently during fights. The additional Magic Damage adds meaningful burst potential and rewards aggressive play.",
+      "viverna": "For aggressive Viverna builds, Fire Sphere can be a strong option. After using Blink or her area ability, she can immediately follow up with a Charged Attack to increase her burst damage. While not always her primary item choice, Fire Sphere works well in offensive playstyles."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Fire Sphere?",
+        "a": "Fire Sphere is a Legendary item unlocked by upgrading Mortifier."
+      },
+      {
+        "q": "What does Fire Sphere do?",
+        "a": "Fire Sphere provides Health, Armor, Magic Resistance, Movement Speed, and empowers the next basic attack after using an active ability."
+      },
+      {
+        "q": "How does Charged Attack work?",
+        "a": "After using one of your two active abilities, your next basic attack deals additional Magic Damage."
+      },
+      {
+        "q": "Does Fire Sphere work with the basic attack ability?",
+        "a": "No. Fire Sphere only triggers from the hero's two active abilities."
+      },
+      {
+        "q": "What happens if I miss the Charged Attack?",
+        "a": "The bonus damage is wasted and the charge is consumed."
+      },
+      {
+        "q": "Which heroes benefit most from Fire Sphere?",
+        "a": "Mortifier, Faerie, Spitfire, and aggressive Viverna builds are among the strongest users."
+      },
+      {
+        "q": "Should I upgrade Fire Sphere early?",
+        "a": "Often yes. Heroes built around ability combos can gain a large advantage by upgrading Fire Sphere early and maximizing Charged Attack damage."
+      }
+    ]
+  },
+  "DarkSphere": {
+    "whyUse": "Dark Sphere is particularly effective against heroes that rely on high Attack Speed. Whenever the owner attacks an enemy, the enemy's Attack Speed is reduced, the enemy's Physical Armor is reduced, and allied heroes deal more physical damage to that target. At maximum level, the Attack Speed Reduction becomes significant enough to noticeably weaken heroes that rely on rapid attacks. This makes Dark Sphere an excellent counter against attack-speed-focused heroes while simultaneously increasing your team's damage output.",
+    "uniqueEffect": "Dark Sphere applies two debuffs on hit. Attack Speed Reduction lowers the target's Attack Speed — at maximum level this reaches up to 25%, which is very noticeable against heroes that rely on attacking rapidly. Physical Armor Reduction also applies to the target, causing the owner and all allies to deal more physical damage to that enemy. This makes Dark Sphere particularly valuable in 2v2 matches and coordinated team fights.",
+    "strengths": [
+      "Provides a large amount of Health",
+      "Reduces enemy Attack Speed",
+      "Reduces enemy Physical Armor",
+      "Increases team damage against affected targets",
+      "Strong against Attack Speed-based heroes",
+      "Effective in both solo and team play",
+      "Can be upgraded aggressively early in the match"
+    ],
+    "weaknesses": [
+      "Provides less direct damage than offensive items",
+      "Most effective against physical attackers",
+      "Attack Speed Reduction has less impact against spell-focused heroes",
+      "Requires attacking enemies to apply its debuffs"
+    ],
+    "tips": [
+      "Focus attacks on a single target to maximize the value of the debuffs.",
+      "Dark Sphere is strongest in team fights where allies can take advantage of the armor reduction.",
+      "Attack Speed Reduction becomes more impactful against heroes that rely on rapid attacks.",
+      "The bonus Health makes the owner significantly harder to kill.",
+      "Combine Dark Sphere with physical-damage heroes for maximum effectiveness."
+    ],
+    "bestHeroes": {
+      "spiritmonger": "Dark Sphere works very well on Spiritmonger. The bonus Health improves her survivability, while the debuffs help her deal with heroes that normally overwhelm opponents through Attack Speed. Against heroes such as Freezy or Spitfire, Dark Sphere can dramatically reduce their combat effectiveness.",
+      "druid": "Druid benefits greatly from Dark Sphere. When Druid applies Physical Armor Reduction, both he and his companion deal increased damage to the target. The additional Health also improves Druid's survivability during extended fights.",
+      "volcarn": "Dark Sphere is an excellent choice for Vulkarn. Both Vulkarn and his illusion benefit from enemies having reduced Physical Armor. The Attack Speed Reduction also weakens opponents while Vulkarn continues dealing damage through both himself and his summoned illusion."
+    },
+    "counterHeroes": {
+      "freezi": "Freezi relies heavily on high Attack Speed to maximize her damage output. Dark Sphere directly reduces this, significantly lowering her effectiveness in combat.",
+      "spitfire": "Spitfire depends on fast attacks to deal consistent damage. The Attack Speed Reduction from Dark Sphere noticeably weakens his offensive pressure."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Dark Sphere?",
+        "a": "Dark Sphere is a Mystic item and is available from the beginning of the game."
+      },
+      {
+        "q": "What does Dark Sphere do?",
+        "a": "Dark Sphere provides Health, applies Attack Speed Reduction, and reduces enemy Physical Armor."
+      },
+      {
+        "q": "How much Attack Speed does Dark Sphere reduce?",
+        "a": "At maximum level, Dark Sphere reduces enemy Attack Speed by up to 25%."
+      },
+      {
+        "q": "Does Dark Sphere help allies?",
+        "a": "Yes. The Physical Armor Reduction affects the target, meaning allies also deal increased physical damage to that enemy."
+      },
+      {
+        "q": "Which heroes benefit most from Dark Sphere?",
+        "a": "Spiritmonger, Druid, and Vulkarn are among the strongest users."
+      },
+      {
+        "q": "Which heroes does Dark Sphere counter?",
+        "a": "Dark Sphere is particularly effective against Freezy, Spitfire, and other heroes that rely heavily on Attack Speed."
+      },
+      {
+        "q": "Should I fully upgrade Dark Sphere early?",
+        "a": "Often yes. The item provides Health, utility, and powerful debuffs throughout all upgrade levels, making it a strong early-game investment."
+      }
+    ]
+  },
+  "WaterSphere": {
+    "whyUse": "Water Sphere is designed for heroes that need protection against stuns, slows, poisons, armor reduction effects, and other debuffs. The item provides high Physical Armor, an increased Mana Pool, a small Movement Speed bonus, access to Clarity Runes, and additional Clarity Rune storage capacity. Unlike pure defensive items, Water Sphere focuses on keeping heroes active and mobile by removing disabling effects.",
+    "uniqueEffect": "While destroying bushes, heroes have a chance to discover a Clarity Rune. When picked up, the rune appears as a new ability that can be activated at any time. A Clarity Rune removes all negative effects from the hero, including stuns, slows, poison effects, Physical Armor Reduction, Magic Armor Reduction, and other debuffs. One of the most important features of Clarity Rune is its automatic stun removal — if the hero becomes stunned while carrying a Clarity Rune, the rune automatically activates, the stun is immediately removed, and the hero can continue moving and fighting. Water Sphere also allows heroes to carry an additional Clarity Rune charge, meaning a hero can store up to two Clarity Runes at the same time.",
+    "strengths": [
+      "Provides a large amount of Physical Armor",
+      "Increases Mana Pool",
+      "Grants Movement Speed",
+      "Generates Clarity Runes",
+      "Removes all debuffs",
+      "Automatically removes stuns",
+      "Can store multiple Clarity Runes",
+      "Strong counter to crowd control"
+    ],
+    "weaknesses": [
+      "Requires bush farming to generate Clarity Runes",
+      "Provides no direct damage increase",
+      "Less effective against teams with little crowd control",
+      "Does not increase Mana Regeneration",
+      "Full value depends on obtaining and managing Clarity Runes"
+    ],
+    "tips": [
+      "Save Clarity Runes whenever possible.",
+      "Clarity Runes activate automatically when stunned.",
+      "Water Sphere is strongest against crowd-control-heavy teams.",
+      "The additional Mana Pool benefits many spellcasters.",
+      "Carrying two Clarity Runes can dramatically improve survivability.",
+      "Physical Armor helps reduce incoming physical damage throughout the match."
+    ],
+    "bestHeroes": {
+      "flameweaver": "Flame Weaver is one of the strongest users of Water Sphere. The additional Mana Pool directly increases the effectiveness of his abilities, while Clarity Runes protect him from being locked down by stuns. Because Flame Weaver relies heavily on positioning and spellcasting, the ability to automatically remove crowd control is extremely valuable.",
+      "viverna": "Water Sphere is excellent on Viverna. She relies on mobility and positioning, often using Blink to engage or escape. Clarity Runes protect her from stuns that would normally prevent her from escaping. The additional Mana Pool also allows her to cast abilities more frequently throughout the match.",
+      "faerie": "Faerie benefits greatly from Water Sphere. As a mobile mage, she often needs to reposition during fights. The additional Mana Pool, Movement Speed, and automatic stun removal all complement her hit-and-run playstyle.",
+      "mortifier": "Water Sphere can be surprisingly effective on Mortifier. Combined with Fire Sphere, it creates a balanced setup that provides additional Mana, defensive utility, crowd control protection, and extra Movement Speed. When both spheres are fully upgraded, their combined Movement Speed bonus becomes comparable to Boots, allowing Mortifier to remain mobile without dedicating an item slot to movement speed."
+    },
+    "counterHeroes": {
+      "freezi": "Death Slayer relies on both physical damage and crowd control. Water Sphere provides Physical Armor to reduce incoming damage while also automatically removing his stun."
+    },
+    "faq": [
+      {
+        "q": "How do I unlock Water Sphere?",
+        "a": "Water Sphere is a Common item unlocked through the Daily Bonus system."
+      },
+      {
+        "q": "What does Water Sphere do?",
+        "a": "Water Sphere provides Physical Armor, Mana, Movement Speed, and allows heroes to discover Clarity Runes while destroying bushes."
+      },
+      {
+        "q": "What does a Clarity Rune do?",
+        "a": "A Clarity Rune removes all negative effects from the hero, including stuns, slows, poisons, and armor reduction effects."
+      },
+      {
+        "q": "Does Clarity Rune remove stuns automatically?",
+        "a": "Yes. If a hero carrying a Clarity Rune becomes stunned, the rune automatically activates and removes the stun."
+      },
+      {
+        "q": "Can Water Sphere counter Stunning Hammer?",
+        "a": "Yes. Water Sphere is one of the strongest counters to Stunning Hammer because Clarity Rune automatically removes the stun effect."
+      },
+      {
+        "q": "Which heroes benefit most from Water Sphere?",
+        "a": "Flame Weaver, Viverna, Faerie, and Mortifier are among the strongest users."
+      },
+      {
+        "q": "Can I carry more than one Clarity Rune?",
+        "a": "Yes. Water Sphere allows heroes to store an additional Clarity Rune charge, letting them carry up to two runes at once."
+      },
+      {
+        "q": "Is Water Sphere good against Death Slayer?",
+        "a": "Yes. It provides Physical Armor to reduce his damage and Clarity Runes can automatically remove his stun."
+      }
+    ]
+  }
+}

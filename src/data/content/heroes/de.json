@@ -1,0 +1,1192 @@
+{
+  "spitfire": {
+    "overview": "Spitfire ist einer der Starthelden, der allen Spielern von Beginn des Spiels an zur Verfügung steht. Obwohl er ein Startheld ist, bleibt Spitfire im gesamten Spielverlauf wettbewerbsfähig und kann auf jedem Fähigkeitsniveau gut abschneiden. Spitfire ist ein Fernkämpfer, der auf verschiedene Arten gespielt werden kann. Spieler können sich auf Physischen Schaden, Magischen Schaden, Angriffsgeschwindigkeit oder Hybrid-Builds konzentrieren, je nach bevorzugtem Spielstil. Seine Vielseitigkeit macht ihn zu einem der einfachsten Helden zum Erlernen, bietet dabei aber dennoch genug Tiefgang für erfahrene Spieler.",
+    "playstyle": "Spitfire ist ein aggressiver Fernkämpfer mit hohem Schadenspotenzial. Da seine Fähigkeiten sowohl seine eigene Kampfleistung als auch die Effektivität seines Teamgefährten verbessern, funktioniert Spitfire sowohl in Solo- als auch in teamorientierten Strategien gut.",
+    "playstyleHighlights": [
+      "Schnelles Farmen",
+      "Flächenschaden",
+      "Angriffsgeschwindigkeit-Builds",
+      "Team-Unterstützung",
+      "Konstanter Druck"
+    ],
+    "strengths": [
+      "Vom Spielbeginn an verfügbar",
+      "Einfach zu erlernen",
+      "Hohe Farmgeschwindigkeit",
+      "Hervorragender Flächenschaden",
+      "Starkes Skalieren mit Angriffsgeschwindigkeit",
+      "Kann Teamgefährten unterstützen",
+      "Effektiv mit Physical- und Magic-Builds",
+      "Stark in Teamkämpfen",
+      "Flexibel und anpassungsfähig an viele Team-Kompositionen"
+    ],
+    "weaknesses": [
+      "Abhängig von Positionierung",
+      "Anfällig wenn von Crowd Control getroffen",
+      "Hat keine natürliche Fluchtfähigkeit",
+      "Kann gegen Helden, die ihn einfangen oder isolieren, Schwierigkeiten haben",
+      "Erfordert richtiges Fähigkeits-Timing für maximalen Schaden"
+    ],
+    "tips": [
+      "Benutze Pfeilsturm vor dem Angriff, um deinen Schaden zu maximieren.",
+      "Feuerball ist hervorragend zum schnellen Farmen großer Buschgruppen.",
+      "Bleibe wann immer möglich auf Distanz.",
+      "Positioniere dich sorgfältig gegen Nahkampfhelden.",
+      "Koordiniere Pfeilsturm mit Teamgefährten, um den Angriffsgeschwindigkeit-Bonus zu maximieren.",
+      "Nutze deinen Distanzvorteil gegen Helden, die auf Nahkampf angewiesen sind.",
+      "Vermeide es, von Steinwächters Mauern eingesperrt zu werden."
+    ],
+    "recommendedBuilds": [
+      {
+        "name": "Physischer Schaden Build",
+        "description": "Fokus auf Angriffsgeschwindigkeit, Kritische Treffer und anhaltenden Schaden. Dieser Build verwandelt Spitfire in einen mächtigen Fernkämpfer-Carry."
+      },
+      {
+        "name": "Magischer Schaden Build",
+        "description": "Fokus auf Zauberkraft, Cooldown-Reduzierung und Feuerball-Upgrades. Dieser Build betont Flächenschaden und Burst-Potenzial."
+      },
+      {
+        "name": "Hybrid Build",
+        "description": "Kombiniere Physischen und Magischen Schaden, um alle Teile von Spitfires Kit zu nutzen. Dies ist oft der flexibelste Ansatz."
+      }
+    ],
+    "synergies": {
+      "freezi": "Freezi ist einer von Spitfires stärksten Partnern. Beide Helden sind Fernkämpfer, die stark von Angriffsgeschwindigkeit profitieren. Wenn Spitfire Pfeilsturm aktiviert, erhalten beide Helden zusätzliche Angriffsgeschwindigkeit, sodass Freezi ihre eigenen Boni viel schneller aufbauen kann. Zusammen können sie konstanten Druck ausüben, während sie sicher auf Distanz bleiben.",
+      "spiritmonger": "Geistbeschwörerin funktioniert hervorragend neben Spitfire. Sie hat von Natur aus hohen Schaden, aber weniger Angriffsgeschwindigkeit in ihrem Kit. Spitfires Pfeilsturm hilft ihr schneller anzugreifen, während ihre Support-Fähigkeiten beide Helden in Teamkämpfen stärken können. Zusammen bilden sie eine mächtige Fernkämpfer-Kombination.",
+      "druid": "Druid profitiert stark von Angriffsgeschwindigkeit-Buffs. Wenn Spitfire Pfeilsturm aktiviert, greift sowohl Druid als auch sein beschworener Begleiter schneller an. Dies erhöht den Gesamtschaden des Teams und hilft, Ziele schneller zu sichern.",
+      "volcarn": "Spitfires Angriffsgeschwindigkeit-Buff ist besonders wertvoll für Volcarn. Nicht nur greift Volcarn schneller an, auch seine Illusionen profitieren von der erhöhten Angriffsgeschwindigkeit. Das kann den Schaden, den Volcarns Armee in Kämpfen anrichtet, dramatisch erhöhen."
+    },
+    "counters": {
+      "stonewarden": "Steinwächter ist einer von Spitfires härtesten Gegnern. Seine Mauern können Spitfire einschließen und seine Fähigkeit zur Neupositionierung einschränken. Anders als manche Helden hat Spitfire keine eingebaute Fluchtfähigkeit, die durch Mauern hindurchgehen kann. Steinwächters Schadensreflektion ist auch sehr effektiv gegen Spitfires schnelle Angriffe, sodass längere Kämpfe gefährlich werden. Spitfire-Spieler müssen daher sorgfältig auf Positionierung achten."
+    },
+    "faq": [
+      {
+        "q": "Ist Spitfire ein guter Held für Anfänger?",
+        "a": "Ja. Spitfire ist einer der einfachsten Helden zum Erlernen und vom Spielbeginn an verfügbar."
+      },
+      {
+        "q": "Ist Spitfire ein Physischer oder Magischer Held?",
+        "a": "Beides. Seine Angriffe verursachen Physischen Schaden und zusätzlichen Magischen Schaden, sodass er mehrere Build-Wege effektiv nutzen kann."
+      },
+      {
+        "q": "Kann Spitfire Teamgefährten unterstützen?",
+        "a": "Ja. Pfeilsturm kann die Angriffsgeschwindigkeit nahegelegener Verbündeter erhöhen, was ihn zu einem wertvollen Teamkämpfer macht."
+      },
+      {
+        "q": "Ist Spitfire im späten Spiel stark?",
+        "a": "Ja. Sein Skalieren mit Angriffsgeschwindigkeit, Zauberkraft und seiner Level-10-Super-Fähigkeit erlaubt es ihm, im gesamten Match gefährlich zu bleiben."
+      },
+      {
+        "q": "Soll ich Physischen oder Magischen Schaden bauen?",
+        "a": "Beide Ansätze sind lebensfähig. Die beste Wahl hängt von deinem Spielstil, deinen Teamgefährten und den Gegnern ab."
+      },
+      {
+        "q": "Ist Spitfire schwach, weil er ein Startheld ist?",
+        "a": "Nein. Starthelden sind so konzipiert, dass sie während des gesamten Spiels wettbewerbsfähig bleiben. Spitfire bleibt auch auf hohem Spielniveau ein mächtiger Held."
+      },
+      {
+        "q": "Was ist Spitfires größter Vorteil?",
+        "a": "Seine Vielseitigkeit. Er kann schnell farmen, starken Schaden anrichten, Teamgefährten mit Angriffsgeschwindigkeit-Buffs unterstützen und sich an viele verschiedene Builds und Strategien anpassen."
+      },
+      {
+        "q": "Was ist Spitfires größte Schwäche?",
+        "a": "Ihm fehlt eine zuverlässige Fluchtfähigkeit. Wenn Feinde es schaffen, ihn einzuschließen oder zu umzingeln, kann das Entkommen ohne Hilfe von Teamgefährten oder richtiger Positionierung schwierig sein."
+      }
+    ],
+    "abilities": {
+      "BonikAutoattackTitle": "Grundangriff",
+      "BonikAutoattackDescription": "Passiv. Spitfire feuert einen Feuerpfeil ab. Zusätzlich zum Physischen Schaden verursacht jeder Angriff auch Bonus Magischen Schaden. Das erlaubt Spitfire, Gegner auch dann unter Druck zu setzen, wenn sie stark in Physische Rüstung investieren. Seine Angriffe skalieren gut mit Angriffsgeschwindigkeit und Zauberkraft.",
+      "BonikAttackSpeedTitle": "Pfeilsturm",
+      "BonikAttackSpeedDescription": "Aktive Fähigkeit. Spitfire schleudert in alle Richtungen um sich herum feurige Projektile. Die Fähigkeit gewährt auch einen starken Angriffsgeschwindigkeit-Bonus. Ab Level 3 gewährt Pfeilsturm zusätzlich nahegelegenen Verbündeten Angriffsgeschwindigkeit. Das macht die Fähigkeit sowohl für persönlichen Schaden als auch zur Unterstützung von Teamgefährten nützlich. Pfeilsturm kann auch helfen, Büsche schneller zu räumen, indem mehrere Ziele gleichzeitig getroffen werden.",
+      "BonikFireballTitle": "Feuerball",
+      "BonikFireballDescription": "Aktive Fähigkeit. Spitfire schleudert einen Feuerball, der beim Aufprall explodiert und Magischen Schaden in einem Bereich verursacht. Hervorragend zum Räumen von Büschen, Farmen von Zielgruppen und zum Schaden mehrerer Feinde. Ab Level 3 wird Feuerball deutlich stärker und schleudert Feuerbälle gleichzeitig in mehrere Richtungen, sodass Spitfire große Teile des Schlachtfelds extrem schnell räumen kann."
+    }
+  },
+  "viverna": {
+    "overview": "Viverna ist eine aggressive Fernkampf-Magierin, die sich auf Belästigung, Mobilität und konstanten Druck spezialisiert. Im Gegensatz zu Helden, die auf lange Kämpfe angewiesen sind, glänzt Viverna darin, schnell anzugreifen, Schaden zu verursachen und zu entkommen, bevor Feinde reagieren können. Ihre Giftangriffe, kurzen Cooldowns und starke Mobilität machen sie zu einem der gefährlichsten Helden zur Kontrolle des Spieltempos. Viverna ist besonders effektiv gegen langsame oder vorhersehbare Gegner.",
+    "playstyle": "Viverna gedeiht mit aggressivem Hit-and-Run-Gameplay. Eine erfahrene Viverna-Spielerin steht selten still — sie greift an, positioniert sich neu und schlägt erneut zu, bevor der Feind reagieren kann.",
+    "playstyleHighlights": [
+      "Feinde mit Gift belästigen",
+      "Effizient mit Kreuzexplosion farmen",
+      "Engagements durch Mobilität kontrollieren",
+      "Längere Direktkämpfe vermeiden",
+      "Gegner konstant unter Druck setzen"
+    ],
+    "strengths": [
+      "Extrem mobil",
+      "Starkes Hit-and-Run-Gameplay",
+      "Hervorragende Belästigung",
+      "Hohe Farmgeschwindigkeit",
+      "Starke kurzCooldown-Fähigkeiten",
+      "Schwer zu fangen",
+      "Stark gegen langsame Helden",
+      "Effektiv in allen Phasen eines Matches"
+    ],
+    "weaknesses": [
+      "Relativ zerbrechlich",
+      "Stark abhängig von Positionierung",
+      "Anfällig für Crowd Control",
+      "Kann bestraft werden, wenn Blink nicht verfügbar ist",
+      "Hat Schwierigkeiten in längeren Nahkämpfen"
+    ],
+    "tips": [
+      "Benutze Gift, um Feinde zu belästigen, bevor du vollständig in einen Kampf einsteigst.",
+      "Blink kann sowohl offensiv als auch defensiv eingesetzt werden.",
+      "Kreuzexplosion ist hervorragend zum Farmen und im Kampf.",
+      "Vermeide längere Kämpfe gegen tankige Helden.",
+      "Halte immer eine Fluchtoption im Kopf.",
+      "Nutze Mobilität, um das Tempo der Engagements zu kontrollieren.",
+      "Lass Gift weiterhin Schaden verursachen, während du dich neu positionierst."
+    ],
+    "synergies": {
+      "faerie": "Elfe und Viverna bilden eine der stärksten Magie-Kombinationen in Spelltroum. Beide Helden glänzen in Mobilität, Fernkampfdruck und dem Vermeiden direkter Konfrontationen. Zusammen können sie Gegner kontinuierlich belästigen, Magischen Schaden anrichten und sich zurückziehen, bevor Feinde reagieren können.",
+      "druid": "Druid ergänzt Viveranas Spielstil sehr gut. Seine Geschwindigkeits-Aura hilft beiden Helden mobil zu bleiben, während sein beschworener Begleiter zusätzlichen Druck ausübt. Diese Kombination glänzt darin, die Karte zu kontrollieren und Feinde in ungünstige Kämpfe zu drängen.",
+      "spiritmonger": "Geistbeschwörerins Bewegungsbuffs erlauben es beiden Helden, noch effektiver anzugreifen und sich zurückzuziehen. Zusammen werden sie extrem schwer zu fangen, während sie konstanten Druck aufrechterhalten.",
+      "grizzly": "Obwohl sich ihre Spielstile sehr unterscheiden, funktionieren Grizzly und Viverna überraschend gut zusammen. Grizzly dient als haltbare Frontlinie, während Viverna aus sicherer Distanz angreift. Feinde konzentrieren sich oft auf Grizzly, was Viverna Gelegenheiten gibt, Gift und Kreuzexplosion-Schaden frei anzuwenden."
+    },
+    "counters": {
+      "grizzly": "Grizzly ist einer von Viveranas härtesten Gegnern. Sein Blink erlaubt ihm, Viverna auch nach ihrer Flucht zu verfolgen. Sobald Grizzly Nahkampfreichweite erreicht und seinen Slow anwendet, kann Viverna sich schnell in einem ungünstigen Kampf wiederfinden. Sein großes Gesundheitspolster macht es auch schwierig, ihn schnell zu besiegen.",
+      "freezi": "Freezis Crowd Control ist extrem gefährlich für Viverna. Ein erfolgreicher Stun kann Viverna lange genug anfällig machen, dass Freezi tödlichen Schaden anrichten kann. Da Viverna stark auf Mobilität angewiesen ist, ist der Verlust der Bewegungskontrolle besonders verheerend.",
+      "death-slayer": "Todesschlächters Stun und aggressive Angriffstools machen ihn zu einer ständigen Bedrohung. Wenn er Viverna erwischt, hat sie oft sehr wenig Zeit zum Reagieren. Viverna-Spieler müssen ihre Positionierung sorgfältig managen."
+    },
+    "faq": [
+      {
+        "q": "Ist Viverna anfängerfreundlich?",
+        "a": "Viverna ist relativ einfach zu erlernen, aber schwer zu meistern. Neue Spieler können ihre Fähigkeiten schnell verstehen, aber ihre Mobilität zu maximieren erfordert Übung."
+      },
+      {
+        "q": "Ist Viverna eine Magierin?",
+        "a": "Ja. Der Großteil von Viveranas Schaden kommt von Magischen Schadensfähigkeiten und Zauberkraft-Skalierung."
+      },
+      {
+        "q": "Was ist Viveranas größte Stärke?",
+        "a": "Ihre Mobilität. Blink erlaubt Viverna, besser anzugreifen, zu entkommen und sich neu zu positionieren als die meisten Helden."
+      },
+      {
+        "q": "Was ist Viveranas größte Schwäche?",
+        "a": "Crowd Control. Wenn Viverna gestunnt oder festgehalten wird, ist sie viel leichter zu eliminieren."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Viverna?",
+        "a": "Elfe, Druid, Geistbeschwörerin und Grizzly bieten starke Synergien mit Viveranas aggressivem und mobilem Spielstil."
+      },
+      {
+        "q": "Welche Helden kontern Viverna?",
+        "a": "Grizzly, Freezi und Todesschlächter gehören zu ihren schwierigsten Matchups, da sie sie fangen oder deaktivieren können."
+      },
+      {
+        "q": "Ist Viverna im späten Spiel stark?",
+        "a": "Ja. Ihre Mobilität, kurzen Cooldowns und mächtige Super-Fähigkeit erlauben es ihr, während des gesamten Matches eine gefährliche Bedrohung zu bleiben."
+      }
+    ],
+    "abilities": {
+      "QuopAutoattackTitle": "Giftdolch",
+      "QuopAutoattackDescription": "Grundangriff. Viveranas Angriffe vergiften Feinde. Gift verursacht über 4 Sekunden hinweg Schaden und erlaubt Viverna, Gegner auch nach dem Rückzug zu schädigen. Das macht jeden erfolgreichen Angriff wertvoll und zwingt Feinde entweder zum Rückzug oder zum Weiterkämpfen unter Schadenswirkung.",
+      "QuopBlinkTitle": "Blink",
+      "QuopBlinkDescription": "Aktive Fähigkeit. Viverna teleportiert sich sofort eine kurze Distanz. Blink kann eingesetzt werden, um Feinde anzugreifen, gefährlichen Situationen zu entkommen, Projektile auszuweichen, sich neu zu positionieren und Hindernisse schnell zu überqueren. Diese Fähigkeit verleiht Viverna außergewöhnliche Mobilität.",
+      "QuopDamageTitle": "Kreuzexplosion",
+      "QuopDamageDescription": "Aktive Fähigkeit. Viverna löst eine magische Explosion um sich herum aus, die Magischen Schaden an nahegelegenen Feinden verursacht. Kreuzexplosion hat einen extrem kurzen Cooldown und dient als Viveranas primäre Schadensfähigkeit. Effektiv zum Farmen von Büschen, Räumen neutraler Creeps, Belästigen von Feinden und Fertigstellen von Zielen mit wenig Gesundheit."
+    }
+  },
+  "death-slayer": {
+    "overview": "Todesschlächter ist ein Nahkämpfer, der als Carry, Support oder Crowd-Control-Spezialist gespielt werden kann. Er kombiniert Kritische Trefferchance, Lebensraub-Aura und Stun-Kontrolle, was ihn in direkten Kämpfen aus nächster Nähe extrem gefährlich macht. Todesschlächter kann sehr stark werden, wenn er gut farmt, ist aber für Anfänger schwieriger, da er ein Nahkämpfer ist.",
+    "playstyle": "Todesschlächter glänzt in langen Nahkampfgefechten. Seine Stärke kommt davon, lange genug zu überleben, um weiterhin anzugreifen und zu heilen. Je nach Spielstil kann Todesschlächter als Lifesteal-Carry, haltbarer Support, Stun-fokussierter Controller oder Nahkampf-Bruiser gespielt werden.",
+    "playstyleHighlights": [
+      "Nah an Feinde heranrücken",
+      "Stuns zur Kampfkontrolle einsetzen",
+      "Durch Lebensraub-Aura heilen",
+      "Teamgefährten mit Lifesteal unterstützen",
+      "Zum starken Late-Game-Kämpfer skalieren"
+    ],
+    "strengths": [
+      "Starker Nahkampf-Duellant",
+      "Zusätzliche Kritische Trefferchance bei Grundangriffen",
+      "Gewährt sich und Verbündeten Lebensraub-Aura",
+      "Starke Durchhaltefähigkeit in langen Kämpfen",
+      "Nützliche Team-Unterstützung",
+      "Mächtige Stun-Kontrolle",
+      "Kann in mehreren Spielstilen gespielt werden",
+      "Sehr stark wenn er gut farmt"
+    ],
+    "weaknesses": [
+      "Nahkämpfer mit begrenzter Reichweite",
+      "Für Anfänger schwieriger als Fernkämpfer",
+      "Kann kämpfen wenn früh unter Druck gesetzt",
+      "Anfällig für Kiting",
+      "Braucht gute Positionierung, um Feinde zu erreichen",
+      "Lebensraub funktioniert nicht an Büschen"
+    ],
+    "tips": [
+      "Benutze Stun, um Feinde vor dem Angriff zu fangen.",
+      "Verfolge Fernkämpfer nicht ohne Plan.",
+      "Farme effizient, bevor du große Kämpfe erzwingst.",
+      "Bleibe bei Verbündeten, damit diese von der Lebensraub-Aura profitieren.",
+      "Lebensraub funktioniert an Helden und Creeps, aber nicht an Büschen.",
+      "Cooldown-Reduzierung kann Stun-fokussierte Builds unterstützen.",
+      "Todesschlächter wird viel stärker, wenn er genug Überlebensfähigkeit hat."
+    ],
+    "synergies": {
+      "freezi": "Freezi ist einer von Todesschlächters stärksten Partnern. Freezi gewährt Bonusschaden durch ihre Aura, während Todesschlächter Lifesteal durch seine Aura gewährt. Zusammen machen sie sich gegenseitig in Kämpfen viel stärker. Freezi kann auch Feinde kontrollieren und Todesschlächter mehr Zeit geben, sie zu erreichen.",
+      "druid": "Druids Geschwindigkeits-Aura hilft Todesschlächter, eine seiner größten Schwächen zu überwinden: Mobilität. Im Gegenzug gibt Todesschlächter Druid und seinem beschworenen Begleiter Lifesteal. Das schafft ein starkes Team, das sich schnell bewegen, länger kämpfen und Gesundheit während des Kampfes regenerieren kann.",
+      "spiritmonger": "Geistbeschwörerin profitiert stark von Todesschlächters Lebensraub-Aura, da sie hohen Schaden anrichten kann. Todesschlächter profitiert ebenfalls von Geistbeschwörerins Bewegungsunterstützung. Zusammen bilden sie ein starkes aggressives Duo.",
+      "spitfire": "Spitfires Angriffsgeschwindigkeit-Buff funktioniert gut mit Todesschlächter. Mehr Angriffsgeschwindigkeit bedeutet mehr Angriffe, mehr Kritische Treffer und mehr Lifesteal. Gleichzeitig profitiert Spitfire von Todesschlächters Lebensraub-Aura in Kämpfen."
+    },
+    "counters": {
+      "volcarn": "Volcarn kann für Todesschlächter unangenehm sein. Seine Illusionen erzeugen mehrere Ziele, was es schwieriger macht, sich auf den echten Feind zu konzentrieren. Todesschlächter bevorzugt direkte Duelle, während Volcarn Kämpfe chaotischer gestaltet.",
+      "viverna": "Viverna kann Todesschlächter stark unter Druck setzen, besonders früh im Match. Ihr Gift, ihre Mobilität und ihr Hit-and-Run-Spielstil machen es schwierig für Todesschlächter, sicher zu farmen oder direkte Kämpfe zu erzwingen.",
+      "grizzly": "Grizzly kann für Todesschlächter schwierig sein, da er ebenfalls Nahkampfgefechte bevorzugt. Wenn Grizzly genug Schaden und Überlebensfähigkeit aufbaut, kann er Todesschlächter manchmal im direkten Kampf überwältigen."
+    },
+    "faq": [
+      {
+        "q": "Ist Todesschlächter gut für Anfänger?",
+        "a": "Er ist für Anfänger spielbar, aber schwieriger als Fernkämpfer. Als Nahkämpfer braucht er bessere Positionierung und Timing."
+      },
+      {
+        "q": "Ist Todesschlächter ein Carry oder ein Support?",
+        "a": "Er kann beides sein. Todesschlächter kann als Lifesteal-Carry gespielt werden, aber seine Lebensraub-Aura macht ihn auch als unterstützenden Frontliner nützlich."
+      },
+      {
+        "q": "Was ist Todesschlächters größte Stärke?",
+        "a": "Seine Ausdauer. Mit Lebensraub-Aura und den richtigen Items kann Todesschlächter lange Kämpfe überleben und dabei viel Gesundheit regenerieren."
+      },
+      {
+        "q": "Was ist Todesschlächters größte Schwäche?",
+        "a": "Seine Nahkampfreichweite. Wenn Feinde Abstand halten, ihn belästigen oder das Farmen verhindern, kann er Schwierigkeiten haben, seine volle Stärke zu erreichen."
+      },
+      {
+        "q": "Funktioniert Lifesteal an Büschen?",
+        "a": "Nein. Lifesteal funktioniert nur gegen feindliche Helden und neutrale Creeps."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Todesschlächter?",
+        "a": "Freezi, Druid, Geistbeschwörerin und Spitfire funktionieren gut mit Todesschlächter."
+      },
+      {
+        "q": "Welche Helden kontern Todesschlächter?",
+        "a": "Viverna, Volcarn und Grizzly können je nach Situation schwierige Matchups sein."
+      },
+      {
+        "q": "Ist Todesschlächter im späten Spiel stark?",
+        "a": "Ja. Wenn Todesschlächter gut farmt, kann er einer der stärksten Nahkämpfer in Spelltroum werden."
+      }
+    ],
+    "abilities": {
+      "SkeletAutoattackTitle": "Grundangriff",
+      "SkeletAutoattackDescription": "Passiv. Todesschlächters Grundangriffe haben zusätzliche Kritische Trefferchance. Das macht seine Angriffe gefährlicher als sie erscheinen mögen, besonders in Kombination mit Kritischen Schaden- oder Lifesteal-Items. Als Nahkämpfer muss er Feinde erst erreichen, bevor er diese Stärke voll nutzen kann.",
+      "SkeletStunTitle": "Betäubung",
+      "SkeletStunDescription": "Aktive Fähigkeit. Todesschlächter schleudert betäubende Projektile in alle Richtungen. Getroffene Feinde erleiden Schaden und werden kurz betäubt. Diese Fähigkeit kann eingesetzt werden, um Feinde zu fangen, Angriffe zu unterbrechen, gefährlichen Situationen zu entkommen, Verbündete zu schützen und Kämpfe zu beginnen.",
+      "SkeletLifestealTitle": "Lebensraub-Aura",
+      "SkeletLifestealDescription": "Passive Aura. Todesschlächter gewährt sich und nahegelegenen Verbündeten Lifesteal. Diese Aura erlaubt betroffenen Helden, Gesundheit zurückzugewinnen, wenn sie feindliche Helden oder neutrale Creeps schädigen. Lifesteal funktioniert nicht an Büschen. Da Lifesteal-Effekte sich stapeln, kann Todesschlächter in Kombination mit Lifesteal-Items extrem schwer zu töten werden."
+    }
+  },
+  "druid": {
+    "overview": "Druid ist ein hochmobiler Beschwörer, der sich auf Farmen, Kartenkontrolle und strategische Positionierung statt auf direkten Kampf konzentriert. Anders als viele Helden will Druid nicht in längere Face-to-Face-Kämpfe eintreten. Stattdessen nutzt er seine Bewegungsgeschwindigkeit, beschworene Creeps und einzigartigen Buschmechanismen, um Gegner beim Farmen zu übertreffen, Kronen zu sammeln und günstige Engagements zu schaffen. Druid ist in erster Linie ein Held mit Physischem Schaden.",
+    "playstyle": "Ein guter Druid-Spieler bewegt sich ständig auf der Karte, anstatt direkte Kämpfe zu suchen. Sein Ziel ist es, schneller als Gegner zu farmen, wichtige Item-Upgrades früh zu erreichen, Feinde in schlechte Positionen zu zwingen und beschworene Creeps zu nutzen, um numerische Vorteile zu schaffen.",
+    "playstyleHighlights": [
+      "Schnelles Farmen",
+      "Effizientes Sammeln von Kronen",
+      "Raum mit Büschen kontrollieren",
+      "Günstige Kämpfe durch Positionierung schaffen",
+      "Verbündete mit Geschwindigkeits-Aura unterstützen",
+      "Feinde durch beschworene Creeps unter Druck setzen"
+    ],
+    "strengths": [
+      "Hervorragende Farmgeschwindigkeit",
+      "Starke Kartenkontrolle",
+      "Hohe Mobilität",
+      "Mächtige Beschwörungsmechaniken",
+      "Starker Frühjahres-Druck",
+      "Gut beim Sammeln von Kronen",
+      "Unterstützt Verbündete durch Geschwindigkeits-Aura",
+      "Kann günstige Kämpfe durch Positionierung schaffen"
+    ],
+    "weaknesses": [
+      "Relativ schwach in direkten Duellen",
+      "Stark abhängig von Positionierung",
+      "Kann Schwierigkeiten haben wenn konstant unter Druck gesetzt",
+      "Beschworene Einheiten können durch Flächenschaden gekontert werden",
+      "Erfordert Planung und Kartenbewusstsein",
+      "Weniger effektiv in direkten Kämpfen"
+    ],
+    "tips": [
+      "Fokussiere dich auf Farmen statt Kämpfe zu erzwingen.",
+      "Nutze Büsche um die Bewegung von Feinden zu kontrollieren.",
+      "Beschwöre Creeps in aggressiven Positionen.",
+      "Geschwindigkeits-Aura ist im gesamten Match wertvoll.",
+      "Schaffe günstige Kämpfe statt fairer Kämpfe.",
+      "Nutze deinen Mobilitätsvorteil um Kronen schnell zu sammeln.",
+      "Deine Creeps sind am stärksten wenn sie neben dir kämpfen."
+    ],
+    "synergies": {
+      "freezi": "Freezi ist einer von Druids stärksten Partnern. Freezi gewährt eine Schadens-Aura, die sowohl Druid als auch seinen beschworenen Creeps zugute kommt. Gleichzeitig hilft Druids Geschwindigkeits-Aura Freezi, sich effizienter neu zu positionieren und zu farmen. Zusammen werden sie extrem effektiv bei der Kartenkontrolle.",
+      "death-slayer": "Todesschlächters Lebensraub-Aura funktioniert sowohl für Druid als auch für seine beschworenen Creeps. Gleichzeitig hilft Druids Geschwindigkeits-Aura Todesschlächter, Feinde leichter zu erreichen. Das schafft eine starke Kombination aus Ausdauer und Mobilität.",
+      "stonewarden": "Steinwächter bietet Rüstungs-Aura, während Druid Geschwindigkeits-Aura bietet. Zusätzlich kann Druid Creeps aus Büschen oder Mauern beschwören, die während Kämpfen entstehen, was interessante Möglichkeiten zur Schlachtfeldkontrolle schafft.",
+      "spiritmonger": "Druids Busch-Erstellung funktioniert extrem gut mit Geistbeschwörerin. Wenn Druid Büsche hinter Feinden erstellt, kann Geistbeschwörerins Orb zwischen dem Feind und dem neu erstellten Busch springen. Das kann zu zusätzlichen Treffern und deutlich erhöhtem Schaden führen.",
+      "volcarn": "In späten Matchphasen können Druid und Volcarn Gegner mit Zahlen überwältigen. Druid beschwört Creeps, während Volcarn Illusionen erschafft. Kombiniert mit Geschwindigkeits-Aura kann das Schlachtfeld schnell mit verbündeten Einheiten gefüllt werden."
+    },
+    "counters": {
+      "spiritmonger": "Geistbeschwörerin ist eines von Druids schwierigsten Matchups. Die Büsche, die Druid erstellt, können Geistbeschwörerin tatsächlich helfen. Ihr Orb kann zwischen Druid und den neu erstellten Büschen springen und ihr ermöglichen, deutlich mehr Schaden als normal zu verursachen.",
+      "viverna": "Viverna ist schwierig für Druid, da sie direkte Engagements vermeidet. Sie kann Druid vergiften, wegblinken und ihn kontinuierlich belästigen, ohne ihn vollständig seine Fallen-Mechaniken nutzen zu lassen.",
+      "faerie": "Elfe kann viele von Druids stärksten Setups entkommen. Selbst wenn Druid sie mit Büschen einfängt und einen Creep hinter ihr beschwört, kann Elfe einfach durch Feinde und Hindernisse fliegen.",
+      "death-slayer": "Ein stark gefarmter Todesschlächter kann problematisch werden. Todesschlächter kann sich durch Lifesteal von Druids beschworenen Creeps heilen und Druids eigene Beschworenen zu einer Heilungsquelle machen."
+    },
+    "faq": [
+      {
+        "q": "Ist Druid ein Schadensverursacher oder ein Support?",
+        "a": "Beides. Druid verursacht respektablen Schaden durch seine Creeps und Angriffe, bietet aber auch wertvolle Unterstützung durch Geschwindigkeits-Aura."
+      },
+      {
+        "q": "Ist Druid schwer zu spielen?",
+        "a": "Er ist einfach zu erlernen aber schwer zu meistern. Erfolg mit Druid hängt stark von Positionierung, Kartenbewusstsein und effizientem Farmen ab."
+      },
+      {
+        "q": "Beeinflusst Geschwindigkeits-Aura Verbündete?",
+        "a": "Ja. Geschwindigkeits-Aura erhöht die Bewegungsgeschwindigkeit von Druid und nahegelegenen Verbündeten."
+      },
+      {
+        "q": "Kann Druid selbst Büsche erstellen?",
+        "a": "Ja. Sein Grundangriff hat eine Chance, Büsche in der Nähe von Feinden zu erstellen, die dann in beschworene Creeps verwandelt werden können."
+      },
+      {
+        "q": "Was ist Druids größte Stärke?",
+        "a": "Seine Fähigkeit, die Karte zu kontrollieren und Vorteile durch Mobilität und beschworene Einheiten zu generieren."
+      },
+      {
+        "q": "Was ist Druids größte Schwäche?",
+        "a": "Direkter Kampf. Druid bevorzugt generell kluge Positionierung und günstige Engagements gegenüber direkten Kämpfen."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Druid?",
+        "a": "Freezi, Todesschlächter, Steinwächter, Geistbeschwörerin und Volcarn haben alle starke Synergien mit Druid."
+      },
+      {
+        "q": "Welche Helden kontern Druid?",
+        "a": "Geistbeschwörerin, Viverna und Elfe sind unter den schwierigsten Helden für Druid."
+      }
+    ],
+    "abilities": {
+      "FutionAutoattackTitle": "Grundangriff",
+      "FutionAutoattackDescription": "Passiv. Druid wirft eine verzauberte Sichel. Jeder Angriff hat eine 50%ige Chance, zusätzlichen Schaden zu verursachen und je nach Projektilrichtung einen Busch hinter dem Ziel zu erstellen. Wenn ein Feind in der Nähe von Mauern kämpft, kann der neu erstellte Busch Fluchtwege blockieren und sie einfangen. Der Busch kann sofort in einen beschworenen Creep verwandelt werden.",
+      "FutionCreepTitle": "Creep beschwören",
+      "FutionCreepDescription": "Aktive Fähigkeit. Druid verwandelt einen Busch in ein verbündetes Monster. Der beschworene Creep kämpft neben Druid und kann helfen, Büsche zu farmen, feindliche Helden unter Druck zu setzen, Bewegung zu blockieren und Kills zu sichern. Da Druid selbst Büsche erstellen kann, kann er Creeps oft genau dort beschwören, wo er sie haben möchte.",
+      "FutionSpeedTitle": "Geschwindigkeits-Aura",
+      "FutionSpeedDescription": "Passive Aura. Druid erhöht konstant die Bewegungsgeschwindigkeit von sich selbst und nahegelegenen Verbündeten, einschließlich beschworener Creeps. Die Aura erlaubt Druid und seinem Team, schneller zu rotieren, gefährlichen Situationen zu entkommen, Feinde effektiver zu verfolgen und die Karte effizienter zu farmen."
+    }
+  },
+  "freezi": {
+    "overview": "Freezi ist ein mächtiger Fernkampf-Carry-Held, der mit fortschreitendem Match immer gefährlicher wird. Sie kombiniert skalierbare Angriffsgeschwindigkeit, Crowd Control und eine mächtige Schadens-Aura, sodass sie enormen Schaden verursachen und gleichzeitig ihr Team stärken kann. Während Freezi in der frühen Phase vernünftig abschneidet, glänzt sie wirklich im späten Spiel, wenn ihre Angriffsgeschwindigkeit zunimmt und Eisschlag maximiert wird.",
+    "playstyle": "Im Gegensatz zu manchen Helden, die auf Mobilität setzen, gewinnt Freezi durch Positionierung, Schadensausstoß und Crowd Control. Ihr Ziel ist es, effizient zu farmen, Eisschlag zu upgraden, genug Überlebensfähigkeit aufzubauen und Feinde zu eliminieren, bevor sie entkommen können.",
+    "playstyleHighlights": [
+      "Einzelziele fokussieren",
+      "Zum Late-Game-Carry skalieren",
+      "Verbündete mit Schadens-Aura unterstützen",
+      "Kämpfe durch Stuns kontrollieren",
+      "Vorsprünge in Siege umwandeln"
+    ],
+    "strengths": [
+      "Extrem starkes Late-Game-Skalieren",
+      "Mächtiger Einzelziel-Schaden",
+      "Hervorragende Crowd Control",
+      "Starke Teamunterstützungs-Aura",
+      "Gute Synergien mit vielen Helden",
+      "Kann schnell einen Vorsprung ausbauen",
+      "Gefährlich in Duellen und Teamkämpfen",
+      "Starker Fernkampf-Schadensverursacher"
+    ],
+    "weaknesses": [
+      "Stark abhängig von Positionierung",
+      "Anfällig wenn von feindlicher Crowd Control getroffen",
+      "Braucht Farmen um volles Potenzial zu erreichen",
+      "Weniger effektiv wenn konstant unter Druck gesetzt",
+      "Kann gegen sehr mobile Helden Schwierigkeiten haben",
+      "Erfordert gute Zielauswahl"
+    ],
+    "tips": [
+      "Versuche, dasselbe Ziel kontinuierlich anzugreifen.",
+      "Benutze Eisschlag bevor du dich in einen Kampf einbringst.",
+      "Positioniere dich wann immer möglich hinter Verbündeten.",
+      "Freezi wird im Spielverlauf deutlich stärker.",
+      "Schütze dich vor feindlicher Crowd Control.",
+      "Deine Schadens-Aura hilft Verbündeten auch wenn du nicht aktiv angreifst.",
+      "Späte Ricochet-Angriffe können deinen Schadensausstoß drastisch erhöhen."
+    ],
+    "synergies": {
+      "death-slayer": "Eine von Freezis stärksten Partnerschaften. Freezi bietet Schadens-Aura, Todesschlächter bietet Lebensraub-Aura. Zusammen schaffen sie eine unglaublich mächtige Kombination aus Schaden und Ausdauer.",
+      "spitfire": "Spitfires Angriffsgeschwindigkeit-Buff kombiniert perfekt mit Freezis skalierender Angriffsgeschwindigkeit. Freezi bietet Bonusschaden, während Spitfire die Angriffsfrequenz erhöht.",
+      "druid": "Druids Geschwindigkeits-Aura hilft Freezi, sich neu zu positionieren und Feinde zu kiten. Gleichzeitig profitieren sowohl Druid als auch seine beschworenen Creeps von Freezis Schadens-Aura.",
+      "spiritmonger": "Geistbeschwörerin profitiert stark von Freezis Schadens-Aura. Zusammen schaffen sie eine gefährliche Fernkampf-Komposition, die Burst-Schaden, Crowd Control und skalierenden Schaden kombiniert."
+    },
+    "counters": {
+      "stonewarden": "Steinwächter ist einer von Freezis schwierigsten Gegnern. Seine Mauern können Bewegung blockieren und ungünstige Positionen für Freezi schaffen. Außerdem bestraft seine Schadensreflektion Freezi für kontinuierliche Angriffe.",
+      "viverna": "Viveranas Mobilität kann es schwer machen, konstant Schaden anzurichten. Wenn Viverna Eisschlag ausweicht und kontinuierlich aus der Distanz belästigt, kann Freezi Schwierigkeiten haben, Schwung aufzubauen.",
+      "grizzly": "Ein gefarmter Grizzly kann eine ernsthafte Bedrohung werden. Wenn Grizzly erfolgreich Nahkampfreichweite erreicht, kann seine Haltbarkeit und sein Schaden Freezi überwältigen."
+    },
+    "faq": [
+      {
+        "q": "Ist Freezi ein Carry-Held?",
+        "a": "Ja. Freezi ist primär als Fernkampf-Carry konzipiert, der im Spielverlauf stärker wird."
+      },
+      {
+        "q": "Ist Freezi anfängerfreundlich?",
+        "a": "Nicht vollständig. Ihre Fähigkeiten sind leicht zu verstehen, aber richtige Positionierung und Zielauswahl erfordern Erfahrung."
+      },
+      {
+        "q": "Was ist Freezis größte Stärke?",
+        "a": "Ihre Fähigkeit, Ziele schnell zu eliminieren, sobald sie ununterbrochen angreift."
+      },
+      {
+        "q": "Was ist Freezis größte Schwäche?",
+        "a": "Gefangen werden, bevor sie Schaden anrichten kann. Freezi ist auf Positionierung und Schutz durch Verbündete angewiesen."
+      },
+      {
+        "q": "Warum ist Eisschlag so mächtig?",
+        "a": "Auf maximaler Stufe kann Eisschlag Feinde für 2 Sekunden betäuben und eine enorme Gelegenheit bieten, Kills zu sichern."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Freezi?",
+        "a": "Todesschlächter, Spitfire, Druid und Geistbeschwörerin haben hervorragende Synergien mit Freezi."
+      },
+      {
+        "q": "Welche Helden kontern Freezi?",
+        "a": "Steinwächter ist einer ihrer stärksten Konter, während sehr mobile Helden wie Viverna ebenfalls Probleme verursachen können."
+      },
+      {
+        "q": "Ist Freezi im späten Spiel stark?",
+        "a": "Absolut. Freezi ist dank ihrer skalierenden Angriffsgeschwindigkeit, Schadens-Aura und ihres Ricochet-Schusses einer der stärksten Late-Game-Carries in Spelltroum."
+      }
+    ],
+    "abilities": {
+      "FriziAutoattackTitle": "Grundangriff",
+      "FriziAutoattackDescription": "Passiv. Freezi feuert einen Eispfeil ab. Jeder erfolgreiche Treffer erhöht ihre Angriffsgeschwindigkeit gegen das Ziel. Je länger sie ununterbrochen angreifen kann, desto schneller wird sie. Das macht Freezi in längeren Engagements extrem gefährlich.",
+      "FriziStunTitle": "Eisschlag",
+      "FriziStunDescription": "Aktive Fähigkeit. Freezi wirft einen Eiskristall, der beim Aufprall explodiert. Getroffene Feinde erleiden Schaden und werden betäubt. Auf Level 3 verlängert sich die Betäubungsdauer auf 2 Sekunden — oft genug, damit Freezi zerbrechliche Ziele vollständig eliminieren kann. Eisschlag ist eine der stärksten Crowd-Control-Fähigkeiten im Spiel.",
+      "FriziDamageTitle": "Stärkungsaura",
+      "FriziDamageDescription": "Passive Aura. Freezi erhöht konstant den Angriffsschaden von sich selbst und nahegelegenen Verbündeten. Freezi profitiert am stärksten von der Aura, aber alle nahegelegenen Teamgefährten erhalten ebenfalls Bonusschaden. Das macht sie nicht nur als Carry, sondern auch als teamorientierten Helden wertvoll."
+    }
+  },
+  "flameweaver": {
+    "overview": "Flammenweberin ist eine einzigartige Fernkampf-Magierin, deren Fähigkeiten Wahren Schaden verursachen. Im Gegensatz zu den meisten magiebasierten Helden wird Flammenweberins Schaden nicht von Magischer Kritischer Trefferchance, Magischer Resistenzreduzierung oder anderen traditionellen Magieschaden-Verstärkern beeinflusst. Stattdessen ignoriert ihr Schaden sowohl Physische Rüstung als auch Magische Resistenz. Flammenweberin ist einer der mechanisch anspruchsvollsten Helden in Spelltroum.",
+    "playstyle": "Im Gegensatz zu vielen Carries kommt Flammenweberins Stärke aus Ressourcenmanagement. Je mehr Mana sie hat, desto stärker wird ihr Grundangriff. Eine erfahrene Flammenweberin-Spielerin balanciert ständig Mana-Nutzung und Schadensausstoß, während sie Portale nutzt, um mobil und unberechenbar zu bleiben.",
+    "playstyleHighlights": [
+      "Wahren Schaden verursachen",
+      "Raum mit Feuer kontrollieren",
+      "Gegner durch Positionierung überlisten",
+      "Mana effizient verwalten",
+      "Stark gepanzerte Ziele bestrafen"
+    ],
+    "strengths": [
+      "Verursacht Wahren Schaden",
+      "Ignoriert Physische Rüstung",
+      "Ignoriert Magische Resistenz",
+      "Stark gegen gepanzerte Ziele",
+      "Hervorragende Gebietsblockade",
+      "Sehr mobil durch Portale",
+      "Einzigartiges Mana-basiertes Schadensskalieren",
+      "Starkes Late-Game-Carry-Potenzial"
+    ],
+    "weaknesses": [
+      "Erfordert sorgfältiges Mana-Management",
+      "Schwer zu meistern",
+      "Stark auf Farmen angewiesen",
+      "Kann schwach werden wenn Mana knapp ist",
+      "Weniger verzeihend als die meisten Helden",
+      "Anfällig wenn im Gold- und Erfahrungsrückstand"
+    ],
+    "tips": [
+      "Vermeide unnötige Mana-Verschwendung.",
+      "Dein Grundangriff wird stärker wenn dein Mana-Vorrat voll ist.",
+      "Benutze Feuerpfad, um feindliche Bewegung zu kontrollieren statt nur Schaden anzurichten.",
+      "Portale können sowohl offensiv als auch defensiv eingesetzt werden.",
+      "Stark gepanzerte Feinde sind ideale Ziele.",
+      "Positionierung ist wichtiger als reiner Schadensausstoß.",
+      "Denke voraus, wenn du Portale platzierst."
+    ],
+    "synergies": {
+      "spitfire": "Spitfires Angriffsgeschwindigkeit-Buff funktioniert außergewöhnlich gut mit Flammenweberin. Mehr Angriffsgeschwindigkeit bedeutet mehr Mana-skalierte Angriffe und höheren Gesamtschaden. Zusammen bilden sie ein mächtiges offensives Duo.",
+      "spiritmonger": "Geistbeschwörerins Bewegungsboni helfen Flammenweberin, sich effektiver neu zu positionieren. Die zusätzliche Mobilität erlaubt es, Portale und Feuerpfad aggressiver einzusetzen.",
+      "druid": "Druids Geschwindigkeits-Aura ergänzt Flammenweberins mobilen Spielstil. Die zusätzliche Bewegungsgeschwindigkeit erlaubt schnelles Neupositionieren.",
+      "freezi": "Freezis Schadens-Aura erhöht die Effektivität von Flammenweberins Angriffen, während ihre Crowd Control es einfacher macht, Feuerpfad in optimalen Positionen zu platzieren."
+    },
+    "counters": {
+      "grizzly": "Grizzly kann für Flammenweberin schwer zu handhaben sein. Sein enormes Gesundheitspolster erlaubt ihm, lange genug zu überleben, um Nahkampfreichweite zu erreichen. Sobald Grizzly die Lücke schließt, kann Flammenweberin Schwierigkeiten haben, anhaltenden Druck zu entkommen.",
+      "viverna": "Viveranas Mobilität und Hit-and-Run-Spielstil machen sie zu einem frustrierenden Gegner. Sie kann Flammenweberin vergiften, schnell entkommen und es vermeiden, im Feuerpfad zu stehen."
+    },
+    "faq": [
+      {
+        "q": "Ist Flammenweberin eine Magierin?",
+        "a": "Ja, aber eine sehr ungewöhnliche. Ihre Fähigkeiten verursachen Wahren Schaden statt traditionellen Magischen Schaden."
+      },
+      {
+        "q": "Beeinflusst Magische Kritische Trefferchance Flammenweberin?",
+        "a": "Nein. Wahrer Schaden kann nicht durch Magische Kritische Trefferchance-Boni kritisch treffen."
+      },
+      {
+        "q": "Erhöht Magische Resistenzreduzierung Flammenweberins Schaden?",
+        "a": "Nein. Wahrer Schaden ignoriert sowohl Magische Resistenz als auch Physische Rüstung."
+      },
+      {
+        "q": "Warum ist Mana für Flammenweberin wichtig?",
+        "a": "Ihr Grundangriff skaliert mit ihrem aktuellen Mana. Je mehr Mana sie hat, desto mehr Schaden verursacht sie."
+      },
+      {
+        "q": "Was ist Flammenweberins größte Stärke?",
+        "a": "Ihre Fähigkeit, zuverlässigen Wahren Schaden unabhängig von feindlichen Verteidigungen zu verursachen."
+      },
+      {
+        "q": "Was ist Flammenweberins größte Schwäche?",
+        "a": "Mana-Abhängigkeit. Schlechtes Mana-Management reduziert ihre Effektivität erheblich."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Flammenweberin?",
+        "a": "Spitfire, Geistbeschwörerin, Druid und Freezi bieten alle starke Synergien."
+      },
+      {
+        "q": "Welche Helden kontern Flammenweberin?",
+        "a": "Grizzly, Viverna und Helden, die sie früh stark unter Druck setzen, können schwierige Matchups schaffen."
+      },
+      {
+        "q": "Ist Flammenweberin gut gegen Tanks?",
+        "a": "Ja. Da ihr Schaden Rüstung und Resistenz ignoriert, bleibt sie effektiv gegen stark defensive Ziele."
+      }
+    ],
+    "abilities": {
+      "WarlockBasicAttackTitle": "Grundangriff",
+      "WarlockBasicAttackDescription": "Passiv. Flammenweberins Grundangriff verursacht zusätzlichen Schaden basierend auf ihrem aktuellen Mana. Je mehr Mana sie verfügbar hat, desto stärker werden ihre Angriffe. Das schafft einen einzigartigen Spielstil, bei dem Mana sowohl als Ressource als auch als Schadensverstärker fungiert.",
+      "WarlockFireLineTitle": "Feuerpfad",
+      "WarlockFireLineDescription": "Aktive Fähigkeit. Flammenweberin erstellt eine Feuerlinie vor sich. Das Feuer bleibt mehrere Sekunden auf dem Schlachtfeld. Feinde, die in den Flammen stehen, erleiden periodisch Wahren Schaden. Feuerpfad kann genutzt werden, um Raum zu kontrollieren, feindliche Bewegung zu blockieren, Ziele zu verteidigen, Verfolger zu entkommen und Feinde in ungünstige Positionen zu zwingen.",
+      "WarlockHideTitle": "Portal",
+      "WarlockHideDescription": "Aktive Fähigkeit. Flammenweberin erstellt ein Paar verbundener Portale. Jede Einheit, die ein Portal betritt, verlässt sofort das andere und bietet außergewöhnliche Mobilität. Feinde, die durch die Portale reisen, verlieren Mana — das gestohlene Mana wird auf Flammenweberin übertragen. Das erlaubt ihr, ihren Mana-Vorrat aufrechtzuerhalten und Mana-abhängige Helden zu bestrafen."
+    }
+  },
+  "shadow-fury": {
+    "overview": "Schattenwut ist eine hochmobile physische Assassinin, die sich auf Burst-Schaden, Hinterhalte und Hit-and-Run-Taktiken spezialisiert. Anders als die meisten Helden in Spelltroum verursachen alle Fähigkeiten von Schattenwut Physischen Schaden. Deshalb profitiert sie stark von Physischer Kritischer Trefferchance, Physischem Kritischen Schaden und Physischer Rüstungsreduzierung. Eine erfahrene Schattenwut-Spielerin kämpft selten frontal gegen Feinde. Stattdessen greift sie aus unerwarteten Winkeln an, verursacht massiven Burst-Schaden und entkommt, bevor Feinde reagieren können.",
+    "playstyle": "Schattenwut ist einer der schwierigsten Helden in Spelltroum, aber auch einer der lohnendsten wenn gemeistert. Ihr Ziel ist es, sicher zu farmen, Physischen Schaden und Kritische Treffer aufzubauen, isolierte Ziele zu finden, zuerst zuzuschlagen und zu entkommen, bevor Feinde antworten können.",
+    "playstyleHighlights": [
+      "Prioritätsziele eliminieren",
+      "Feinde hinterhälteln",
+      "Hit-and-Run-Kampf",
+      "Direkte Engagements vermeiden",
+      "Vorsprünge durch Kills ausbauen"
+    ],
+    "strengths": [
+      "Extrem hoher Burst-Schaden",
+      "Mächtiger Assassinen-Spielstil",
+      "Starke Mobilität",
+      "Hervorragendes Schneeball-Potenzial",
+      "Starkes Skalieren mit Physischen Kritischen Builds",
+      "Kann Ziele sehr schnell eliminieren",
+      "Schwer zu fangen wenn richtig gespielt",
+      "Starker Late-Game-Carry"
+    ],
+    "weaknesses": [
+      "Zerbrechlich wenn Orb-Schild nicht verfügbar",
+      "Stark abhängig von Positionierung",
+      "Anfällig gegen Schaden-über-Zeit-Effekte",
+      "Erfordert gutes Spielwissen",
+      "Hat Schwierigkeiten gegen schwere Rüstung",
+      "Schwierig für Anfänger"
+    ],
+    "tips": [
+      "Vermeide direkte Kämpfe wann immer möglich.",
+      "Suche immer nach isolierten Zielen.",
+      "Physische Kritische Builds sind meistens deine stärkste Option.",
+      "Benutze Orb-Schild bevor du dich in gefährliche Situationen begibst.",
+      "Verschwende Schattenmantel nicht unnötig.",
+      "Priorisiere Feinde mit wenig Rüstung.",
+      "Positionierung ist wichtiger als reiner Schaden."
+    ],
+    "synergies": {
+      "viverna": "Viverna und Schattenwut bilden ein extrem mobiles Team. Beide Helden bevorzugen Hit-and-Run-Kampf statt direkter Kämpfe. Sie setzen Feinde ständig unter Druck, erzwingen Fehler und ziehen sich zurück bevor Gegner reagieren können.",
+      "death-slayer": "Todesschlächters Lebensraub-Aura funktioniert außergewöhnlich gut mit Schattenwuts Physischem Schaden. Die zusätzliche Ausdauer ermöglicht es, Gesundheit beim Angreifen zu regenerieren und länger aktiv auf der Karte zu bleiben.",
+      "spiritmonger": "Geistbeschwörerins Bewegungsunterstützung hilft Schattenwut, effektiver anzugreifen und sich zurückzuziehen. Die zusätzliche Mobilität erleichtert das Finden günstiger Kämpfe.",
+      "druid": "Druids Geschwindigkeits-Aura erlaubt Schattenwut, sich schneller auf der Karte zu bewegen und isolierte Ziele effizienter zu jagen."
+    },
+    "counters": {
+      "viverna": "Obwohl sie gut als Verbündete zusammenarbeiten können, ist Viverna auch einer von Schattenwuts nervigsten Gegnern. Ihr Gift schädigt Schattenwut kontinuierlich. Da Orb-Schild Ladungen verliert, sobald es Schaden erleidet, kann ein einziger Giftangriff den Schild schnell beseitigen.",
+      "stonewarden": "Steinwächter ist einer von Schattenwuts härtesten Kontern. Seine Rüstungs-Aura reduziert Schattenwuts Physischen Schaden. Seine Schadensreflektion kann Orb-Schild-Ladungen entfernen. Seine natürlich hohe Rüstung macht ihn extrem schwer zu burst.",
+      "flameweaver": "Flammenweberins Feuer verursacht kontinuierlich Schaden über Zeit. Der periodische Schaden entfernt schnell Orb-Schild-Ladungen und macht es schwierig für Schattenwut, sicher anzugreifen."
+    },
+    "faq": [
+      {
+        "q": "Ist Schattenwut eine Magierin?",
+        "a": "Nein. Obwohl sie Fähigkeiten einsetzt, ist der gesamte Schaden von Schattenwut Physischer Schaden."
+      },
+      {
+        "q": "Hilft Magische Kritische Trefferchance Schattenwut?",
+        "a": "Nein. Keine von Schattenwuts Fähigkeiten profitiert von Magischer Kritischer Trefferchance."
+      },
+      {
+        "q": "Hilft Magische Rüstungsreduzierung Schattenwut?",
+        "a": "Nein. Schattenwut profitiert primär von Physischer Rüstungsreduzierung."
+      },
+      {
+        "q": "Was ist Schattenwuts größte Stärke?",
+        "a": "Ihre Fähigkeit, feindliche Helden schnell zu eliminieren bevor sie reagieren können."
+      },
+      {
+        "q": "Was ist Schattenwuts größte Schwäche?",
+        "a": "Rüstung und Schaden-über-Zeit-Effekte. Beides reduziert ihre Effektivität erheblich."
+      },
+      {
+        "q": "Ist Schattenwut anfängerfreundlich?",
+        "a": "Nein. Schattenwut ist einer der schwierigeren Helden in Spelltroum und erfordert starke Positionierung und Entscheidungsfindung."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Schattenwut?",
+        "a": "Viverna, Todesschlächter, Geistbeschwörerin und Druid bieten starke Synergien."
+      },
+      {
+        "q": "Welche Helden kontern Schattenwut?",
+        "a": "Steinwächter, Flammenweberin und Viverna sind unter den schwierigsten Matchups."
+      },
+      {
+        "q": "Wie soll ich Schattenwut bauen?",
+        "a": "Fokussiere auf Physischen Schaden, Physische Kritische Trefferchance und Kritischen Schaden. Vermeide Magische Kritische und Magische Schaden-fokussierte Items."
+      }
+    ],
+    "abilities": {
+      "ShadowAutoattackTitle": "Grundangriff",
+      "ShadowAutoattackDescription": "Passiv. Schattenwut feuert verstärkte Bolzen ab, die erhöhten Physischen Schaden verursachen. Jeder Angriff reduziert auch die Physische Rüstung des Ziels, sodass nachfolgende Treffer mehr Schaden anrichten. Ihre Angriffe skalieren außergewöhnlich gut mit Physischem Schaden, Kritischer Trefferchance und Kritischem Schaden.",
+      "ShadowDamageProtectionTitle": "Orb-Schild",
+      "ShadowDamageProtectionDescription": "Aktive Fähigkeit. Schattenwut erstellt ein Schutzschild, das 100% des eingehenden Schadens blockiert. Jeder blockierte Angriff oder schadensverursachende Fähigkeit verbraucht eine Schildladung. Auf Level 3 kann Orb-Schild bis zu drei Treffer blockieren. Nach Aktivierung von Orb-Schild erhält Schattenwut einen temporären Bewegungsgeschwindigkeit-Boost.",
+      "ShadowHiddenAttackTitle": "Schattenmantel",
+      "ShadowHiddenAttackDescription": "Aktive Fähigkeit. Schattenwut wird kurze Zeit unsichtbar. Während sie unsichtbar ist, bereitet sie einen verheerenden verstärkten Angriff vor. Der erste Angriff nach Verlassen der Unsichtbarkeit verursacht zusätzlichen Schaden basierend auf der aktuellen Gesundheit des Ziels — je gesünder das Ziel, desto mehr Bonusschaden erhalten sie. Das macht Schattenwut besonders effektiv gegen Helden mit großen Gesundheitspunkten aber wenig Rüstung."
+    }
+  },
+  "spiritmonger": {
+    "overview": "Geistbeschwörerin ist einer der vielseitigsten Helden in Spelltroum. Sie kombiniert starken Physischen Schaden, mächtigen Magischen Schaden, hervorragende Mobilität und starke Team-Utility. Deshalb kann sie sowohl als Carry als auch als Support-orientierter Schadensverursacher gespielt werden. Geistbeschwörerin belohnt Spieler, die Helden mögen, die sich an verschiedene Situationen anpassen können.",
+    "playstyle": "Ihr Gameplay dreht sich darum, Seelen zu sammeln und sie zu nutzen, um ihren Angriffsschaden zu erhöhen. Je mehr Seelen Geistbeschwörerin sammelt, desto gefährlicher wird ihr Grundangriff. Eine gut gefarmte Geistbeschwörerin kann einer der Schadensverursacher mit dem höchsten Schaden werden.",
+    "playstyleHighlights": [
+      "Effizient farmen",
+      "Zum Late-Game-Carry skalieren",
+      "Feinde aus der Distanz belästigen",
+      "Teamgefährten mit Mobilität unterstützen",
+      "Kämpfe durch Positionierung kontrollieren"
+    ],
+    "strengths": [
+      "Starkes Physisches Schaden-Skalieren",
+      "Mächtiger Magischer Schaden",
+      "Hervorragende Mobilität",
+      "Starke Team-Utility",
+      "Effektiv in allen Matchphasen",
+      "Kann aggressiv oder defensiv gespielt werden",
+      "Einer der besten skalierenden Helden in Spelltroum",
+      "Gute Synergien mit vielen Teamgefährten"
+    ],
+    "weaknesses": [
+      "Verliert Seelen beim Tod vor Level 10",
+      "Erfordert gute Positionierung",
+      "Auf Farmen angewiesen um maximales Potenzial zu erreichen",
+      "Kann gegen gepanzerte Nahkämpfer Schwierigkeiten haben",
+      "Seelen-Orb erfordert Übung zur effektiven Nutzung"
+    ],
+    "tips": [
+      "Farme Seelen wann immer möglich.",
+      "Vermeide unnötige Tode vor Level 10.",
+      "Nutze Büsche um Seelen-Orb-Sprünge zu maximieren.",
+      "Bewahre Geschwindigkeit für wichtige Momente.",
+      "Positioniere dich sorgfältig in Teamkämpfen.",
+      "Nutze deinen Mobilitätsvorteil um Engagements zu kontrollieren.",
+      "Denke daran, dass eine voll gestapelte Geistbeschwörerin ein mächtiger Carry wird."
+    ],
+    "synergies": {
+      "spitfire": "Spitfire gewährt Angriffsgeschwindigkeit durch Pfeilsturm. Das erlaubt Geistbeschwörerin, viel schneller anzugreifen und ihren angesammelten Seelen-Schaden voll zu nutzen. Zusammen schaffen sie eine mächtige Fernkampf-Schadens-Komposition.",
+      "stonewarden": "Steinwächter schafft eine von Geistbeschwörerins stärksten Kombinationen. Wenn Steinwächter einen Feind in der Nähe einer Mauer einfängt, kann Seelen-Orb wiederholt zwischen dem Feind und der Mauer springen. Steinwächters Rüstungs-Aura hilft Geistbeschwörerin auch, länger zu überleben.",
+      "druid": "Druids Büsche schaffen zusätzliche Absprungmöglichkeiten für Seelen-Orb. Wenn Druid einen Busch nahe einem Feind platziert, kann Geistbeschwörerins Orb zwischen dem Feind und dem Busch springen und das Ziel oft mehrmals treffen.",
+      "death-slayer": "Todesschlächters Lebensraub-Aura bietet wertvolle Ausdauer für Geistbeschwörerin. Die zusätzliche Überlebensfähigkeit erlaubt es, aggressiv zu bleiben während man weiterhin Seelen farmt.",
+      "freezi": "Freezis Crowd Control gibt Geistbeschwörerin Zeit, Seelen-Orb zuverlässiger zu platzieren. Gleichzeitig erhöht Freezis Schadens-Aura die Effektivität von Geistbeschwörerins Angriffen."
+    },
+    "counters": {
+      "shadow-fury": "Schattenwut kann frustrierend zu bekämpfen sein. Orb-Schild kann Seelen-Orb-Schaden vollständig blockieren und eines von Geistbeschwörerins stärksten Offensivwerkzeugen zunichte machen. Gleichzeitig kann Schattenwut schnell zuschlagen und sich zurückziehen.",
+      "grizzly": "Grizzlys enormes Gesundheitspolster macht ihn schwer zu burst. Wenn er Geistbeschwörerin im Nahkampf erreicht, kann sie sich schnell überwältigt finden.",
+      "death-slayer": "Todesschlächter ist ein gefährlicher Gegner, sobald er Nahkampfreichweite erreicht. Sein Stun erlaubt ihm, die Lücke zu schließen, und sein Lifesteal macht längere Kämpfe schwierig."
+    },
+    "faq": [
+      {
+        "q": "Wie funktionieren Seelen?",
+        "a": "Jede gesammelte Seele gewährt +10 Angriffsschaden."
+      },
+      {
+        "q": "Kann Geistbeschwörerin Seelen aus Büschen sammeln?",
+        "a": "Ja. Seelen können aus besiegten Büschen, Creeps und feindlichen Helden gesammelt werden."
+      },
+      {
+        "q": "Was passiert wenn Geistbeschwörerin stirbt?",
+        "a": "Normalerweise verliert sie die Hälfte ihrer gesammelten Seelen."
+      },
+      {
+        "q": "Wie höre ich auf, Seelen zu verlieren?",
+        "a": "Schalte die Super-Fähigkeit frei indem du Geistbeschwörerin auf Heldenstärke 9 upgradest und Level 10 im Match erreichst."
+      },
+      {
+        "q": "Ist Geistbeschwörerin ein Carry oder ein Support?",
+        "a": "Beides. Sie kann zu einem mächtigen Carry skalieren und gleichzeitig wertvolle Team-Utility durch Geschwindigkeit bieten."
+      },
+      {
+        "q": "Was ist Geistbeschwörerins stärkste Fähigkeit?",
+        "a": "Seelen-Orb wird generell wegen seiner Sprungmechanik und hohem Burst-Potenzial als ihre wirkungsvollste Schadensfähigkeit betrachtet."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Geistbeschwörerin?",
+        "a": "Spitfire, Steinwächter, Druid, Todesschlächter und Freezi haben hervorragende Synergien."
+      },
+      {
+        "q": "Welche Helden kontern Geistbeschwörerin?",
+        "a": "Schattenwut, Grizzly und Todesschlächter können alle schwierige Matchups schaffen."
+      },
+      {
+        "q": "Ist Geistbeschwörerin anfängerfreundlich?",
+        "a": "Ja. Sie hat ein zugängliches Kit, starke Mobilität und mehrere Möglichkeiten, zum Match beizutragen, bietet dabei aber auch eine hohe Skillobergrenze."
+      }
+    ],
+    "abilities": {
+      "SpiritmongerAutoattackTitle": "Grundangriff",
+      "SpiritmongerAutoattackDescription": "Grundangriff. Geistbeschwörerin wirft einen verzauberten Fächer, der Seelen von besiegten Feinden, Creeps und Büschen sammelt. Jede Seele gewährt +10 Angriffsschaden. Je mehr Seelen sie sammelt, desto stärker wird ihr Grundangriff. Wenn Geistbeschwörerin stirbt, verliert sie normalerweise die Hälfte ihrer gesammelten Seelen.",
+      "SpiritmongerDamageTitle": "Seelen-Orb",
+      "SpiritmongerDamageDescription": "Aktive Fähigkeit. Geistbeschwörerin schleudert einen magischen Orb, der zwischen Zielen springt — feindliche Helden, Büsche und andere gültige Ziele. Feinde in der Nähe von Büschen können vom selben Orb mehrmals getroffen werden. Ein richtig platzierter Seelen-Orb kann massiven Schaden anrichten.",
+      "SpiritmongerSpeedTitle": "Geschwindigkeit",
+      "SpiritmongerSpeedDescription": "Aktive Fähigkeit. Geistbeschwörerin erhält kurzzeitig erhöhte Bewegungsgeschwindigkeit. Auf Level 3 gewährt Geschwindigkeit auch nahegelegenen Verbündeten Bewegungsgeschwindigkeit, was Geistbeschwörerin zu einem der stärksten Mobilitäts-Supports in Spelltroum macht."
+    }
+  },
+  "mortifier": {
+    "overview": "Mortifikator ist einer der einzigartigsten Helden in Spelltroum. Er kombiniert Physischen Schaden, Magischen Schaden, Crowd Control, Positionierungstricks und explosiven Burst-Schaden in einem einzigen Helden. Im Gegensatz zu den meisten Nahkämpfern kann Mortifikator auf verschiedene vollständig unterschiedliche Arten gespielt werden. Einige Spieler bauen ihn als haltbaren Nahkampf-Carry, der auf seine mächtigen Doppelangriffe setzt. Andere konzentrieren sich ganz auf seine Bomben und spielen ihn als Burst-Magier.",
+    "playstyle": "Anders als einfache Helden sucht Mortifikator ständig nach Möglichkeiten, Gegner zu überlisten. Ein erfahrener Mortifikator-Spieler kann einen verlorenen Kampf mit einem einzigen gut getimten Tausch in einen gewinnenden verwandeln. Sein Signature-Combo: Sprengfallen platzieren, auf einen herannahenden Feind warten, dann mit Tausch direkt in die Fallen beamen.",
+    "playstyleHighlights": [
+      "Feinde hinterhälteln",
+      "Raum mit Fallen kontrollieren",
+      "Positionierungsfehler bestrafen",
+      "Verbündete mit Tausch retten",
+      "Als Physischer Schaden-Carry oder Magischer Schaden-Caster spielen"
+    ],
+    "strengths": [
+      "Extrem vielseitiger Held",
+      "Kann als Physischer oder Magischer Schaden gespielt werden",
+      "Mächtiges Burst-Potenzial",
+      "Starke Outplay-Mechaniken",
+      "Hervorragende Gebietsblockade",
+      "Kann Verbündete mit Tausch retten",
+      "Gefährlich auch nach dem Tod",
+      "Starkes Skalieren im gesamten Match"
+    ],
+    "weaknesses": [
+      "Erfordert gute Positionierung",
+      "Fallen-Gameplay erfordert Übung",
+      "Nahkampfreichweite kann riskant sein",
+      "Stark abhängig von Timing",
+      "Kann gegen sehr gepanzerte Helden Schwierigkeiten haben",
+      "Manche Helden können seine Fallen-Combos vollständig negieren"
+    ],
+    "tips": [
+      "Verlasse dich nicht nur auf Fallen.",
+      "Benutze Tausch kreativ.",
+      "Rette Teamgefährten wann immer möglich.",
+      "Verstecke Fallen-Setups an unerwarteten Orten.",
+      "Baue Physischen Schaden wenn du stärkeren Nahkampf möchtest.",
+      "Baue Magischen Schaden wenn du stärkere Fallen-Combos möchtest.",
+      "Denke daran, dass Feinde deine Fallen sehen können.",
+      "Manchmal ist die Drohung einer Falle stärker als die Falle selbst."
+    ],
+    "synergies": {
+      "viverna": "Viverna und Mortifikator bilden ein sehr aggressives Duo. Beide Helden glänzen in Hit-and-Run-Gameplay und können Feinde schnell mit Burst-Schaden überwältigen.",
+      "spiritmonger": "Geistbeschwörerins Geschwindigkeit bietet wertvolle Bewegungsgeschwindigkeit. Das erlaubt Mortifikator, Ziele schneller zu erreichen, sich leichter neu zu positionieren und Fallen-Combos zuverlässiger aufzustellen.",
+      "druid": "Druids Geschwindigkeits-Aura hilft Mortifikator, sich effizienter auf der Karte zu bewegen.",
+      "freezi": "Freezis Stun schafft perfekte Möglichkeiten für Mortifikator. Ein betäubter Feind hat viel weniger Zeit zu reagieren auf herankommende Fallen oder Tausch-Kombinationen."
+    },
+    "counters": {
+      "grizzly": "Grizzly ist einer von Mortifikators härtesten Gegnern. Sein enormes Gesundheitspolster macht es schwierig, ihn mit Fallen-Kombinationen zu eliminieren.",
+      "shadow-fury": "Schattenwut kann Mortifikators Burst-Combos vollständig stören. Wenn sie Orb-Schild vor den Explosionen aktiviert, kann der Schaden vollständig absorbiert werden.",
+      "viverna": "Viveranas Mobilität macht sie schwer zu fangen. Ihr Blink erlaubt ihr, Fallenzonen zu vermeiden und sich schnell neu zu positionieren."
+    },
+    "faq": [
+      {
+        "q": "Ist Mortifikator ein Carry oder ein Magier?",
+        "a": "Beides. Mortifikator kann als Physischer Schaden-Carry gebaut werden oder als Magischer Schaden-Held mit Sprengfallen-Combos."
+      },
+      {
+        "q": "Funktioniert Tausch auf Verbündete?",
+        "a": "Ja. Tausch kann sowohl auf Verbündete als auch auf Feinde angewendet werden."
+      },
+      {
+        "q": "Können Sprengfallen zerstört werden?",
+        "a": "Nein. Sprengfallen bleiben aktiv bis sie explodieren oder natürlich ablaufen."
+      },
+      {
+        "q": "Was ist Mortifikators stärkster Combo?",
+        "a": "Der klassische Sprengfalle + Tausch Combo wird generell als sein stärkster Spielzug betrachtet."
+      },
+      {
+        "q": "Ist Mortifikator anfängerfreundlich?",
+        "a": "Nicht wirklich. Seine Fähigkeiten sind einfach zu verstehen aber schwer zu meistern. Der Großteil seiner Stärke kommt von Positionierung, Timing und kreativem Einsatz von Tausch."
+      },
+      {
+        "q": "Was passiert wenn Mortifikator auf Level 10 stirbt?",
+        "a": "Wenn seine Super-Fähigkeit freigeschaltet ist, hinterlässt er automatisch eine Sprengfalle an der Stelle wo er gestorben ist."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Mortifikator?",
+        "a": "Viverna, Geistbeschwörerin, Druid und Freezi bieten starke Synergien."
+      },
+      {
+        "q": "Welche Helden kontern Mortifikator?",
+        "a": "Grizzly, Schattenwut und sehr mobile Helden sind generell die schwierigsten Gegner."
+      }
+    ],
+    "abilities": {
+      "MortifierAutoattackTitle": "Grundangriff",
+      "MortifierAutoattackDescription": "Grundangriff. Mortifikators Angriffe haben eine Chance, ihren Cooldown sofort zurückzusetzen und erneut zuzuschlagen. Der zweite Angriff verursacht zusätzlichen Physischen Schaden und stellt Mortifikator Gesundheit wieder her. Durch diese Mechanik kann Mortifikator im direkten Nahkampf überraschend gefährlich werden.",
+      "MortifierSwapTitle": "Tausch",
+      "MortifierSwapDescription": "Aktive Fähigkeit. Mortifikator tauscht sofort Positionen mit einem ausgewählten Ziel — feindliche Helden, verbündete Helden oder verschiedene Objekte auf der Karte. Die Fähigkeit verursacht auch Schaden am Ziel. Tausch ist eine der vielseitigsten Fähigkeiten in Spelltroum. Sie kann offensiv eingesetzt werden, um Feinde in Gefahr zu ziehen oder defensiv, um Teamgefährten vor sicherem Tod zu retten.",
+      "MortifierMineTitle": "Sprengfalle",
+      "MortifierMineDescription": "Aktive Fähigkeit. Mortifikator platziert eine Sprengfalle unter sich. Die Falle detoniert wenn ein Feind ihren Auslösebereich betritt oder ihr Timer abläuft. Die Explosion verursacht Magischen Schaden und verlangsamt Feinde. Feinde können die Falle sehen und versuchen, ihr auszuweichen, was ein interessantes psychologisches Spiel schafft."
+    }
+  },
+  "grizzly": {
+    "overview": "Grizzly ist einer der stärksten Nahkämpfer in Spelltroum. Er kombiniert massiv viele Gesundheitspunkte, mächtigen skalierenden Schaden, Selbstheilung, Mobilität und starkes Duellpotenzial in einem einzigen Helden. Grizzly glänzt im direkten Kampf und wird mit länger andauerndem Kampf immer gefährlicher. Anders als Assassinen, die auf Burst-Schaden setzen, oder Magier, die aus der Distanz angreifen, will Grizzly seinem Ziel nahe kommen und dort bleiben. Aufgrund seiner Überlebensfähigkeit und einfachen Fähigkeiten gilt Grizzly oft als einer der einfachsten Helden zum Erlernen.",
+    "playstyle": "Sein Gameplay dreht sich darum, an einem Ziel zu bleiben und kontinuierlich anzugreifen. Je länger Grizzly dasselbe Ziel angreift, desto mehr Schaden verursacht er. Kombiniert mit seiner Bonus-Gesundheit und Heilung durch Bärensprung macht ihn das zu einem der stärksten Helden im direkten Eins-gegen-Eins-Kampf.",
+    "playstyleHighlights": [
+      "Längere Kämpfe gewinnen",
+      "Feinde verfolgen",
+      "Schaden absorbieren",
+      "Frontlinienkampf",
+      "Isolierte Ziele bestrafen"
+    ],
+    "strengths": [
+      "Extrem haltbar",
+      "Mächtiger anhaltender Schaden",
+      "Starke Selbstheilung",
+      "Hervorragendes Duellpotenzial",
+      "Stark gegen Tanks",
+      "Einfach zu erlernen",
+      "Effektiv im gesamten Match",
+      "Starkes Late-Game-Skalieren"
+    ],
+    "weaknesses": [
+      "Nahkämpfer",
+      "Anfällig wenn im Farm-Rückstand",
+      "Abhängig davon, nah an Feinden zu bleiben",
+      "Kann gegen sehr mobile Helden Schwierigkeiten haben",
+      "Erfordert erfolgreiche Engagements um effektiv zu sein"
+    ],
+    "tips": [
+      "Fokussiere dich wann immer möglich auf ein Ziel.",
+      "Wechsle das Ziel nicht unnötig.",
+      "Setze Bärensprung aggressiv ein wenn Feinde versuchen zu entkommen.",
+      "Bewahre Mahlzeit für kritische Momente.",
+      "Lass Feinde deine Überlebensfähigkeit unterschätzen.",
+      "Baue genug Haltbarkeit um länger in Kämpfen zu bleiben.",
+      "Denke daran, dass Grizzly stärker wird je länger der Kampf andauert."
+    ],
+    "synergies": {
+      "viverna": "Viverna und Grizzly ergänzen sich sehr gut. Grizzly dient als Frontlinie während Viverna aus sicherer Distanz angreift. Feinde, die mit Grizzlys Druck umgehen müssen, werden oft zu leichten Zielen für Viveranas Gift und Burst-Schaden.",
+      "freezi": "Freezis Schadens-Aura erhöht Grizzlys Schadensausstoß erheblich. Ihr Stun gibt Grizzly auch zusätzliche Zeit, Ziele zu erreichen und seinen Grundangriff-Schaden zu stapeln. Zusammen schaffen sie eine mächtige Kombination aus Crowd Control und anhaltendem Schaden.",
+      "death-slayer": "Todesschlächters Lebensraub-Aura bietet noch mehr Ausdauer für Grizzly. Die Kombination aus Grizzlys großem Gesundheitspolster und zusätzlichem Lifesteal kann ihn extrem schwer zu besiegen machen.",
+      "spiritmonger": "Geistbeschwörerins Geschwindigkeit hilft Grizzly, eine seiner größten Schwächen zu überwinden: Mobilität. Die zusätzliche Bewegungsgeschwindigkeit erlaubt es, konsistenter an Zielen zu bleiben und Kills zuverlässiger zu sichern."
+    },
+    "counters": {
+      "death-slayer": "Todesschlächter ist einer von Grizzlys härtesten Gegnern. Beide Helden glänzen im direkten Kampf, aber Todesschlächters Lifesteal und Stun können längere Kämpfe extrem schwierig machen.",
+      "stonewarden": "Steinwächters Haltbarkeit schafft größere Probleme für Grizzly. Seine Rüstung, defensiven Fähigkeiten und Schadensreflektion machen es schwierig für Grizzly, Trades effizient zu gewinnen."
+    },
+    "faq": [
+      {
+        "q": "Ist Grizzly ein Tank oder ein Carry?",
+        "a": "Beides. Grizzly ist von Natur aus tankig, kann aber in längeren Kämpfen auch enormen Schaden anrichten."
+      },
+      {
+        "q": "Wie funktioniert Grizzlys Grundangriff?",
+        "a": "Jeder aufeinanderfolgende Treffer gegen dasselbe Ziel erhöht den Schaden zukünftiger Angriffe."
+      },
+      {
+        "q": "Kann Bärensprung Grizzly heilen?",
+        "a": "Ja. Bärensprung verursacht Schaden und stellt gleichzeitig Gesundheit wieder her."
+      },
+      {
+        "q": "Ist Grizzly anfängerfreundlich?",
+        "a": "Ja. Seine Fähigkeiten sind einfach, leicht zu verstehen und in den meisten Situationen effektiv."
+      },
+      {
+        "q": "Was ist Grizzlys größte Schwäche?",
+        "a": "Helden, die ihn kontinuierlich kiten, verlangsamen oder vermeiden können, sind normalerweise seine härtesten Gegner."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Grizzly?",
+        "a": "Viverna, Freezi, Todesschlächter und Geistbeschwörerin bieten starke Synergien."
+      },
+      {
+        "q": "Welche Helden kontern Grizzly?",
+        "a": "Todesschlächter, Steinwächter und sehr mobile Fernkämpfer sind generell die schwierigsten Matchups."
+      },
+      {
+        "q": "Ist Grizzly im späten Spiel stark?",
+        "a": "Absolut. Sobald Grizzly genug Items hat und an einem Ziel bleiben kann, wird sein Schaden extrem bedrohlich."
+      }
+    ],
+    "abilities": {
+      "UrsaAutoattackTitle": "Grundangriff",
+      "UrsaAutoattackDescription": "Grundangriff. Grizzlys Angriffe wenden einen stapelnden Debuff auf das Ziel an. Jeder aufeinanderfolgende Angriff gegen denselben Feind verursacht erhöhten Schaden. Je länger Grizzly an einem Ziel bleibt, desto gefährlicher wird er. Das macht ihn außergewöhnlich stark gegen Tanks, Bosse, Helden mit viel Gesundheit und Feinde, die in längere Kämpfe gezwungen werden.",
+      "UrsaPowerTitle": "Mahlzeit",
+      "UrsaPowerDescription": "Aktive Fähigkeit. Grizzly gewinnt vorübergehend eine große Menge Bonus-Gesundheit. Diese Fähigkeit erhöht seine Überlebensfähigkeit drastisch und erlaubt ihm, viel länger in Kämpfen zu bleiben als die meisten Helden. Kann vor dem Angreifen, während des Kampfes oder als Notfall-Überlebenswerkzeug eingesetzt werden.",
+      "UrsaBlinkTitle": "Bärensprung",
+      "UrsaBlinkDescription": "Aktive Fähigkeit. Grizzly springt sofort auf ein nahegelegenes Ziel zu. Wenn Bärensprung trifft, erleidet das Ziel Schaden und wird verlangsamt, während Grizzly Gesundheit regeneriert. Diese Fähigkeit erlaubt es, fliehende Feinde zu verfolgen, Kämpfe zu initiieren, während des Kampfes zu heilen und Fernkämpfer zu jagen."
+    }
+  },
+  "faerie": {
+    "overview": "Elfe ist ein hochmobiler Magier-Held, der entweder als aggressiver Zauberspruch-Carry oder als unterstützender Heiler gespielt werden kann. Anders als die meisten Magier kann Elfe sowohl erheblichen Magischen Schaden verursachen als auch Verbündeten Gesundheit zurückgeben. Diese Flexibilität erlaubt ihr, sich an viele verschiedene Team-Kompositionen und Spielstile anzupassen. Sie glänzt in Hit-and-Run-Kampf, taucht schnell in Kämpfe ein, verursacht Burst-Schaden und entkommt, bevor Feinde reagieren können.",
+    "playstyle": "Elfe dreht sich alles um Bewegung, Positionierung und Timing. Im Gegensatz zu Frontlinienhelden bewegt sie sich ständig auf dem Schlachtfeld und sucht nach Möglichkeiten zuzuschlagen, bevor sie sich neu positioniert. Sie kann als Magier-Carry oder als Support-Magier gespielt werden.",
+    "playstyleHighlights": [
+      "Mächtigen Magischen Burst-Schaden verursachen",
+      "Verbündete mit ihren Angriffen heilen",
+      "Gefährlichen Situationen entkommen",
+      "Effizient mit Flächenschaden farmen",
+      "Feinde während des Matches belästigen"
+    ],
+    "strengths": [
+      "Extrem mobil",
+      "Mächtiger Magischer Burst-Schaden",
+      "Kann Verbündete heilen",
+      "Hervorragendes Farming-Potenzial",
+      "Starkes Hit-and-Run-Gameplay",
+      "Schwer zu fangen",
+      "Kann sowohl als Carry als auch als Support funktionieren",
+      "Starke Late-Game-Utility mit Stille"
+    ],
+    "weaknesses": [
+      "Relativ zerbrechlich",
+      "Anfällig wenn von Crowd Control getroffen",
+      "Erfordert gute Positionierung",
+      "Stark auf Fähigkeiten angewiesen",
+      "Kann gegen Helden mit starken Anti-Magie-Verteidigungen Schwierigkeiten haben"
+    ],
+    "tips": [
+      "Benutze Fliegende Kugel aggressiv, aber plane immer deinen Fluchtweg.",
+      "Heile Frontlinienhelden wann immer möglich.",
+      "Kombiniere Fliegende Kugel und Feenexplosion für maximalen Burst-Schaden.",
+      "Bleibe nicht zu lange im direkten Kampf.",
+      "Fokussiere auf Mobilität und Positionierung.",
+      "Bewahre Stille für wichtige feindliche Helden in späten Kämpfen.",
+      "Nutze deinen Bewegungsvorteil um Engagements zu kontrollieren."
+    ],
+    "synergies": {
+      "grizzly": "Grizzly und Elfe bilden eine hervorragende Frontlinie-Backline-Kombination. Grizzly absorbiert Schaden und zwingt Feinde in Kämpfe, während Elfe ihn aus sicherer Distanz unterstützt. Ihre Heilung erlaubt Grizzly, noch länger zu überleben.",
+      "viverna": "Viverna und Elfe sind eine der stärksten magiebasierten Kombinationen im Spiel. Beide Helden verursachen primär Magischen Schaden, haben hervorragende Mobilität und bevorzugen Hit-and-Run-Engagements.",
+      "spiritmonger": "Geistbeschwörerins Geschwindigkeit bietet zusätzliche Mobilität, sodass sich beide Helden schnell auf dem Schlachtfeld bewegen können."
+    },
+    "counters": {
+      "grizzly": "Grizzly ist einer der gefährlichsten Gegner für Elfe. Sein großes Gesundheitspolster macht ihn schwer zu burst. Noch schlimmer: Bärensprung erlaubt ihm, schnell die Distanz zu schließen. Wenn Grizzly sie erreicht, wird das Überleben viel schwieriger.",
+      "freezi": "Freezis Eisschlag kann Elfe bis zu 2 Sekunden betäuben. Da Elfe von Natur aus zerbrechlich ist, kann ein vollständig upgegradeter Stun oft zur schnellen Niederlage führen.",
+      "shadow-fury": "Schattenwuts Orb-Schild ist ein großes Problem für Elfe. Das Schild kann Elfes Burst-Combo vollständig absorbieren und einen Großteil ihres Schadens verschwenden lassen."
+    },
+    "faq": [
+      {
+        "q": "Ist Elfe ein Support oder ein Carry?",
+        "a": "Beides. Sie kann als Burst-Schaden-Magier oder als unterstützender Heiler gespielt werden je nach Build und Team-Komposition."
+      },
+      {
+        "q": "Kann Elfe Verbündete heilen?",
+        "a": "Ja. Ihr Grundangriff stellt Gesundheit wieder her wenn er freundliche Ziele trifft."
+      },
+      {
+        "q": "Ist Fliegende Kugel eine Fluchtfähigkeit?",
+        "a": "Ja. Fliegende Kugel ist eines der stärksten Mobilitätswerkzeuge in Spelltroum und kann sowohl offensiv als auch defensiv eingesetzt werden."
+      },
+      {
+        "q": "Verursacht Elfe Magischen Schaden?",
+        "a": "Ja. Ihre Fähigkeiten und primärer Schadensausstoß sind magiebasiert."
+      },
+      {
+        "q": "Ist Elfe schwer zu spielen?",
+        "a": "Sie hat eine moderate Skillobergrenze. Neue Spieler können sie schnell erlernen, aber ihre Mobilität und Positionierung zu meistern erfordert Übung."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Elfe?",
+        "a": "Grizzly, Viverna und Geistbeschwörerin haben starke Synergien mit ihrem Spielstil."
+      },
+      {
+        "q": "Welche Helden kontern Elfe?",
+        "a": "Grizzly, Freezi und Schattenwut gehören zu ihren schwierigsten Matchups."
+      },
+      {
+        "q": "Was macht Elfe einzigartig?",
+        "a": "Sie ist einer der wenigen Helden, die gleichzeitig erheblichen Magischen Schaden anrichten, Verbündete heilen und außergewöhnliche Mobilität aufrechterhalten können."
+      }
+    ],
+    "abilities": {
+      "FairyAutoattackTitle": "Grundangriff",
+      "FairyAutoattackDescription": "Grundangriff. Elfe wirft magische Kugeln, die Magischen Schaden an Feinden verursachen. Anders als bei den meisten Helden können ihre Angriffe auch Verbündete heilen — wenn das Projektil ein freundliches Ziel trifft, stellt es stattdessen Gesundheit wieder her. Mit genug Angriffsgeschwindigkeit kann Elfe zu einer überraschend effektiven Heilerin werden.",
+      "FairyBlinkBallTitle": "Fliegende Kugel",
+      "FairyBlinkBallDescription": "Aktive Fähigkeit. Elfe verwandelt sich in eine schnell bewegende magische Kugel. Während der Transformation wird sie unverwundbar, bewegt sich schnell über das Schlachtfeld und verursacht Schaden an Feinden, die sie passiert. Fliegende Kugel kann eingesetzt werden um Gefahr zu entkommen, Kämpfe zu initiieren, Feinde zu verfolgen, Hindernisse zu überqueren oder sich während des Kampfes neu zu positionieren.",
+      "FairySecondSpellTitle": "Feenexplosion",
+      "FairySecondSpellDescription": "Aktive Fähigkeit. Elfe löst eine magische Explosion um sich herum aus, die alle nahegelegenen Feinde und Objekte schädigt. Die Fähigkeit hat hervorragende Synergie mit Fliegende Kugel: fliege in eine Gruppe von Feinden, beende Fliegende Kugel, wirf sofort Feenexplosion und positioniere dich neu, bevor Feinde reagieren können."
+    }
+  },
+  "volcarn": {
+    "overview": "Volcarn ist einer der stärksten Late-Game-Carries in Spelltroum. Er startet relativ schwach und braucht Zeit zum Farmen, Gold sammeln und Items bauen. Wenn er jedoch zu lange in Ruhe gelassen wird, kann Volcarn zu einer überwältigenden Bedrohung werden, die in der Lage ist, ganze Matches zu tragen. Sein Gameplay dreht sich um mächtiges Skalieren, beschworene Illusionen und anhaltenden Kampf. Spieler, die Farmen, Late-Game-Skalieren und das Überwältigen von Feinden durch rohen Schaden mögen, werden sich mit Volcarn sehr wohl fühlen.",
+    "playstyle": "Volcarn ist ein Fernkampf-Carry, der Geduld und effizientes Farmen belohnt. Während viele Helden auf schnelle Engagements setzen, wird Volcarn stärker je länger er überlebt. Wenn Feinde ihm erlauben, frei zu farmen, kann er schnell zu einem der gefährlichsten Helden werden.",
+    "playstyleHighlights": [
+      "Gold effizient farmen",
+      "Mächtige Late-Game-Items bauen",
+      "Illusionen erschaffen",
+      "Feindliche Helden überskalieren",
+      "Längere Kämpfe durch überwältigenden Schaden gewinnen"
+    ],
+    "strengths": [
+      "Außergewöhnliches Late-Game-Skalieren",
+      "Extrem hoher anhaltender Schaden",
+      "Mächtige Illusionen",
+      "Stark in längeren Kämpfen",
+      "Kann während des Kämpfens heilen",
+      "Hervorragendes Carry-Potenzial",
+      "Profitiert stark von Item-Progression",
+      "Kann Feinde durch Zahlen überwältigen"
+    ],
+    "weaknesses": [
+      "Schwaches frühes Spiel",
+      "Braucht Zeit zum Farmen",
+      "Anfällig wenn im Rückstand",
+      "Kann Schwierigkeiten haben wenn konstant unter Druck gesetzt",
+      "Stark von Items abhängig",
+      "Schwierig zu erholen wenn Farm früh verweigert wird"
+    ],
+    "tips": [
+      "Fokussiere dich auf Farmen in der frühen Spielphase.",
+      "Benutze Illusion häufig um Kartendruck zu maximieren.",
+      "Kämpfe wann immer möglich nahe deinem Portal.",
+      "Panic nicht wenn deine Gesundheit sinkt — deine Angriffsgeschwindigkeit steigt.",
+      "Baue auf Late-Game-Carry-Items hin.",
+      "Benutze Illusionen um Feinde in schwierige Entscheidungen zu zwingen.",
+      "Vermeide unnötige frühe Kämpfe.",
+      "Sobald vollständig gefarmt, setze aggressiv Druck auf Ziele und feindliche Helden."
+    ],
+    "synergies": {
+      "druid": "Druid ist einer von Volcarns besten Partnern. Druid bietet Bewegungsgeschwindigkeit durch seine passive Aura, sodass Volcarn effizienter auf der Karte farmen kann. Später können Druids beschworene Kreaturen und Volcarns Illusionen Gegner durch schiere Zahlen überwältigen.",
+      "spiritmonger": "Geistbeschwörerins Geschwindigkeit gewährt zusätzliche Bewegungsgeschwindigkeit. Das erlaubt Volcarn, schneller zu rotieren, effizienter zu farmen und sich während Kämpfen neu zu positionieren.",
+      "death-slayer": "Todesschlächter bietet Lebensraub-Aura, was unglaublich wertvoll für Volcarn ist. Volcarn glänzt bereits in längeren Kämpfen, und zusätzlicher Lifesteal macht ihn noch schwerer zu besiegen."
+    },
+    "faq": [
+      {
+        "q": "Ist Volcarn ein Carry-Held?",
+        "a": "Ja. Volcarn ist einer der stärksten Late-Game-Carry-Helden in Spelltroum."
+      },
+      {
+        "q": "Kopiert Illusion meine Items?",
+        "a": "Ja. Illusionen erben Volcarns Items und die meisten Kampfboni."
+      },
+      {
+        "q": "Wie viel Schaden verursacht die Illusion?",
+        "a": "Die Illusion verursacht 50% von Volcarns normalem Schaden."
+      },
+      {
+        "q": "Warum greift Volcarn schneller an wenn er verletzt ist?",
+        "a": "Sein Grundangriff erhöht passiv die Angriffsgeschwindigkeit basierend auf fehlender Gesundheit."
+      },
+      {
+        "q": "Ist Volcarn früh im Spiel stark?",
+        "a": "Normalerweise nicht. Volcarn wird deutlich stärker nachdem er Items und Level erworben hat."
+      },
+      {
+        "q": "Was passiert auf Level 10?",
+        "a": "Wenn Volcarn seine Super-Fähigkeit freigeschaltet hat, erhalten seine Illusionen zusätzlichen Schaden und kopieren Dämons-Mahlzeit-Effekte."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Volcarn?",
+        "a": "Druid, Geistbeschwörerin und Todesschlächter gehören zu seinen stärksten Teamgefährten."
+      },
+      {
+        "q": "Was macht Volcarn einzigartig?",
+        "a": "Volcarn kombiniert mächtiges Skalieren, Selbstheilung, Illusions-Gameplay und steigende Angriffsgeschwindigkeit wenn seine Gesundheit sinkt, was ihn zu einem der gefährlichsten Late-Game-Helden macht."
+      }
+    ],
+    "abilities": {
+      "VolcarnBasicAttackTitle": "Grundangriff",
+      "VolcarnBasicAttackDescription": "Grundangriff. Volcarn erhält erhöhte Angriffsgeschwindigkeit basierend auf seiner fehlenden Gesundheit. Je niedriger seine Gesundheit wird, desto schneller greift er an. Das schafft einen einzigartigen Risiko-Belohnungs-Spielstil — in intensiven Kämpfen wird Volcarn oft gefährlicher je niedriger seine Gesundheit sinkt.",
+      "VolcarnPowerUpTitle": "Dämons-Mahlzeit",
+      "VolcarnPowerUpDescription": "Aktive Fähigkeit. Dämons-Mahlzeit bewirkt, dass Volcarns Angriffe spezielle Effekte durchlaufen. Jeder aufeinanderfolgende Angriff wendet einen anderen Bonus an: Physische Rüstungsreduzierung, Chance zu betäuben und Selbstheilung. Mit steigendem Level werden diese Effekte deutlich stärker.",
+      "VolcarnIllusionTitle": "Illusion",
+      "VolcarnIllusionDescription": "Aktive Fähigkeit. Volcarn erstellt ein Portal unter sich. Während er auf dem Portal steht, wird er kontinuierlich geheilt. Wenn er das Portal vor dem Ablauf verlässt, verwandelt es sich in eine Illusion von Volcarn. Die Illusion erbt Items, Kritischen Treffer-Boni, Rüstungsreduzierungseffekte, Angriffsgeschwindigkeit-Boni und die meisten Kampfstatistiken — verursacht aber nur 50% von Volcarns Schaden."
+    }
+  },
+  "stonewarden": {
+    "overview": "Steinwächter ist einer der zähesten Helden in Spelltroum. Er spezialisiert sich auf Haltbarkeit, Schlachtfeldkontrolle und Team-Unterstützung. Anders als die meisten Helden, die sich auf Schaden oder Mobilität konzentrieren, glänzt Steinwächter darin, Raum zu kontrollieren, Verbündete zu schützen und Feinde in ungünstige Kämpfe zu zwingen. Seine mächtige Rüstungs-Aura macht sowohl ihn selbst als auch nahegelegene Verbündete deutlich schwerer zu töten, während seine Steinmauer Wege blockieren, Feinde einfangen und Möglichkeiten für sein Team schaffen kann.",
+    "playstyle": "Steinwächter ist kein Held, der sich auf ausgefallene Combos oder Mobilität verlässt. Er funktioniert am besten wenn er zwischen Feinden und seinen Verbündeten steht und Gegner dazu zwingt, unter seinen Bedingungen zu kämpfen. Aufgrund seines natürlich hohen Schadens und defensiver Werkzeuge kann Steinwächter in jeder Phase des Matches relevant bleiben.",
+    "playstyleHighlights": [
+      "Überlegene Haltbarkeit",
+      "Schlachtfeldkontrolle",
+      "Team-Unterstützung",
+      "Schadensreflektion",
+      "Kluge Positionierung"
+    ],
+    "strengths": [
+      "Extrem haltbar",
+      "Mächtige Rüstungs-Aura",
+      "Hervorragende Team-Unterstützung",
+      "Starke Schlachtfeldkontrolle",
+      "Hoher Basisschaden",
+      "Schadensreflektion bestraft Angreifer",
+      "Effektiv im gesamten Match",
+      "Schwer zu töten in längeren Kämpfen"
+    ],
+    "weaknesses": [
+      "Geringe Mobilität",
+      "Langsamere Angriffsgeschwindigkeit",
+      "Kann gegen sehr mobile Helden Schwierigkeiten haben",
+      "Abhängig von Positionierung",
+      "Mauern können zerstört werden",
+      "Weniger explosiver Schaden als dedizierte Carries"
+    ],
+    "tips": [
+      "Benutze Steinmauer um Fluchtwege zu blockieren, nicht nur Schaden zu verursachen.",
+      "Positioniere dich zwischen Feinden und deinen Verbündeten.",
+      "Nutze den Vorteil von Rüstungs-Aura in Teamkämpfen.",
+      "Denke daran, dass reflektierter Schaden Trades über Zeit gewinnen kann.",
+      "Angriffsgeschwindigkeit-Items funktionieren außergewöhnlich gut mit Steinwächters hohem Basisschaden.",
+      "Farme Büsche wann immer möglich um deine Late-Game-Super-Fähigkeit zu maximieren.",
+      "Benutze Mauern um Möglichkeiten für Teamgefährten zu schaffen, nicht nur für dich."
+    ],
+    "synergies": {
+      "spiritmonger": "Geistbeschwörerin hat eine der stärksten Kombinationen mit Steinwächter. Steinwächter kann Feinde mit Steinmauer einfangen, sodass Geistbeschwörerins Seelen-Orb wiederholt zwischen dem gefangenen Feind und nahegelegenen Mauersegmenten springen kann. Diese Kombination kann enormen Schaden verursachen.",
+      "druid": "Steinwächter funktioniert sehr gut mit Druid. Druid kann Creeps aus Steinwächters Mauern beschwören und zusätzlichen Druck und unerwartete taktische Möglichkeiten schaffen.",
+      "grizzly": "Steinwächter und Grizzly bilden eine unglaublich haltbare Frontlinie. Grizzly gewinnt natürlich massiv viele Gesundheitspunkte durch Mahlzeit, während Steinwächter zusätzliche Rüstung durch Rüstungs-Aura bietet."
+    },
+    "faq": [
+      {
+        "q": "Ist Steinwächter ein Tank oder ein Support?",
+        "a": "Beides. Er kann als Frontlinien-Tank, defensiver Support oder eine Mischung aus beidem je nach Team-Bedarf funktionieren."
+      },
+      {
+        "q": "Beeinflusst Rüstungs-Aura Verbündete?",
+        "a": "Ja. Rüstungs-Aura gewährt Bonus-Rüstung sowohl Steinwächter als auch nahegelegenen Verbündeten."
+      },
+      {
+        "q": "Kann Steinmauer Feinde einfangen?",
+        "a": "Ja. Steinmauer kann Bewegung blockieren, Fluchtwege abschneiden und Gegner vorübergehend einfangen."
+      },
+      {
+        "q": "Verursacht Steinmauer Schaden?",
+        "a": "Ja. Feinde, die von der Mauer getroffen werden wenn sie erscheint, erleiden sofort Schaden."
+      },
+      {
+        "q": "Was macht Schadensreflektion?",
+        "a": "Auf höheren Stufen reflektiert Rüstungs-Aura 20% des eingehenden Schadens zurück an Angreifer."
+      },
+      {
+        "q": "Ist Steinwächter schwer zu töten?",
+        "a": "Sehr. Zwischen Rüstungs-Aura, Bonus-Gesundheit und Schadensreflektion ist Steinwächter einer der zähesten Helden in Spelltroum."
+      },
+      {
+        "q": "Welche Helden funktionieren am besten mit Steinwächter?",
+        "a": "Geistbeschwörerin, Druid und Grizzly haben hervorragende Synergien mit Steinwächter."
+      },
+      {
+        "q": "Was macht Steinwächter einzigartig?",
+        "a": "Seine Kombination aus Rüstungs-Aura, Schadensreflektion, Mauerkontrolle und außergewöhnlicher Haltbarkeit erlaubt es ihm, Kämpfe zu beeinflussen auch wenn er nicht den meisten Schaden anrichtet."
+      }
+    ],
+    "abilities": {
+      "GolemBasicAttackTitle": "Grundangriff",
+      "GolemBasicAttackDescription": "Grundangriff. Steinwächter erhält Bonusschaden bei seinen Angriffen leidet aber unter reduzierter Angriffsgeschwindigkeit. Er greift langsamer an als die meisten Helden, aber jeder Treffer verursacht deutlich mehr Schaden. Viele Steinwächter-Spieler kompensieren dies mit Angriffsgeschwindigkeit-Items.",
+      "GolemWallTitle": "Steinmauer",
+      "GolemWallDescription": "Aktive Fähigkeit. Steinwächter erstellt direkt vor ihm eine Steinmauer. Die Mauer kann feindliche Bewegung blockieren, Fluchtwege abschneiden, Verbündete schützen, Engpässe schaffen und Feinde einfangen. Wenn die Mauer auf einem Feind erscheint, verursacht sie sofort Schaden. Steinmauern können durch feindliche Angriffe zerstört werden, aber das kostet oft wertvolle Zeit und Positionierung.",
+      "GolemThirdSpellTitle": "Rüstungs-Aura",
+      "GolemThirdSpellDescription": "Passive Fähigkeit. Steinwächter gewährt kontinuierlich Bonus-Rüstung an sich selbst und nahegelegene Verbündete, sodass sein gesamtes Team deutlich haltbarer gegen Physischen Schaden wird. Auf höheren Stufen erhält Rüstungs-Aura einen zusätzlichen Effekt: 20% Schadensreflektion. Wann immer Steinwächter Schaden erleidet, wird ein Teil automatisch an den Angreifer zurückreflektiert."
+    }
+  }
+}

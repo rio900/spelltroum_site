@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Lilita_One } from "next/font/google";
 import "./globals.css";
-import SolanaProviders from "./providers";
 import { Toaster } from "react-hot-toast";
 
 const geistSans = Geist({
@@ -22,7 +21,7 @@ export const lilita = Lilita_One({
 
 export const metadata: Metadata = {
   title: "Spelltroum",
-  description: "Multiplayer battle arena game on Solana blockchain.",
+  description: "Spelltroum — fast-paced multiplayer battle arena game.",
 };
 
 export default function RootLayout({
@@ -31,11 +30,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${lilita.variable} antialiased`}
+        suppressHydrationWarning
       >
-        <SolanaProviders>{children}</SolanaProviders>
+        {children}
         <Toaster
           position="top-center"
           toastOptions={{

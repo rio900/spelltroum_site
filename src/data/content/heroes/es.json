@@ -1,0 +1,1192 @@
+{
+  "spitfire": {
+    "overview": "Spitfire es uno de los héroes iniciales disponibles para todos los jugadores desde el primer momento en que empiezan a jugar Spelltroum. A pesar de ser un héroe inicial, Spitfire sigue siendo competitivo durante todo el juego y puede rendir bien en cualquier nivel de habilidad. Spitfire es un héroe de rango que puede jugarse de múltiples formas. Los jugadores pueden enfocarse en Physical Damage, Magic Damage, Attack Speed, o builds híbridos según su estilo de juego preferido. Su versatilidad lo hace uno de los héroes más fáciles de aprender, aunque sigue ofreciendo mucha profundidad para los jugadores experimentados.",
+    "playstyle": "Spitfire es un dealer de daño a distancia muy agresivo. Como sus habilidades mejoran tanto su propio rendimiento en combate como la efectividad de sus compañeros, Spitfire funciona bien tanto en estrategias en solitario como orientadas al equipo.",
+    "playstyleHighlights": [
+      "Farmeo rápido",
+      "Daño en área",
+      "Builds de Attack Speed",
+      "Apoyo al equipo",
+      "Presión constante"
+    ],
+    "strengths": [
+      "Disponible desde el inicio del juego",
+      "Fácil de aprender",
+      "Velocidad de farmeo alta",
+      "Excelente daño en área",
+      "Escalado poderoso con Attack Speed",
+      "Puede apoyar a sus compañeros",
+      "Efectivo tanto con builds Physical como Magic",
+      "Fuerte en peleas de equipo",
+      "Flexible y adaptable a muchas composiciones de equipo"
+    ],
+    "weaknesses": [
+      "Depende del posicionamiento",
+      "Puede ser vulnerable si lo atrapa crowd control",
+      "No tiene habilidad de escape natural",
+      "Puede tener problemas contra héroes que lo atrapen o aíslen",
+      "Requiere buen timing de habilidades para maximizar el daño"
+    ],
+    "tips": [
+      "Usa Arrowstorm antes de entrar en combate para maximizar tu daño.",
+      "Fireball es excelente para farmear grupos grandes de arbustos rápidamente.",
+      "Mantente a distancia siempre que puedas.",
+      "Posiciónate con cuidado frente a héroes cuerpo a cuerpo.",
+      "Coordina Arrowstorm con tus compañeros para aprovechar al máximo el bono de Attack Speed.",
+      "Guarda tu ventaja de distancia frente a héroes que dependen del combate cercano.",
+      "Evita que las paredes de Stonewarden te atrapen."
+    ],
+    "recommendedBuilds": [
+      {
+        "name": "Build de Physical Damage",
+        "description": "Enfócate en Attack Speed, Critical Hits y daño sostenido. Este build convierte a Spitfire en un carry a distancia poderoso capaz de abrumar a los rivales con ataques rápidos."
+      },
+      {
+        "name": "Build de Magic Damage",
+        "description": "Enfócate en Spell Power, Cooldown Reduction y mejoras de Fireball. Este build prioriza el daño en área y el potencial de burst."
+      },
+      {
+        "name": "Build Híbrido",
+        "description": "Combina Physical Damage y Magic Damage para aprovechar todas las partes del kit de Spitfire. Suele ser el enfoque más flexible."
+      }
+    ],
+    "synergies": {
+      "freezi": "Freezi es una de las compañeras más fuertes de Spitfire. Ambos héroes son dealers de daño a distancia que se benefician mucho del Attack Speed. Cuando Spitfire activa Arrowstorm, ambos héroes ganan Attack Speed adicional, lo que permite a Freezi acumular sus propios bonos de Attack Speed mucho más rápido. Juntos pueden ejercer presión constante manteniéndose a una distancia segura de los enemigos.",
+      "spiritmonger": "Spiritmonger funciona extremadamente bien junto a Spitfire. Spiritmonger naturalmente hace mucho daño pero tiene menos bonos de Attack Speed en su kit. Arrowstorm de Spitfire ayuda a Spiritmonger a atacar más rápido, mientras que las habilidades de apoyo de Spiritmonger pueden fortalecer aún más a ambos héroes en peleas de equipo. Juntos crean una poderosa combinación de daño a distancia.",
+      "druid": "Druid se beneficia muchísimo de los buffs de Attack Speed. Cuando Spitfire activa Arrowstorm, tanto Druid como su compañero invocado atacan más rápido. Esto aumenta el daño total del equipo y ayuda a asegurar objetivos más rápidamente.",
+      "volcarn": "El buff de Attack Speed de Spitfire es especialmente valioso para Volcarn. No solo Volcarn ataca más rápido, sino que sus ilusiones también se benefician del Attack Speed aumentado. Esto puede incrementar dramáticamente el daño que el ejército de Volcarn hace durante las peleas."
+    },
+    "counters": {
+      "stonewarden": "Stonewarden es uno de los rivales más difíciles de Spitfire. Sus paredes pueden atrapar a Spitfire y limitar su capacidad de reposicionarse. A diferencia de algunos héroes, Spitfire no tiene ninguna habilidad de escape que pueda atravesar paredes. La reflexión de daño de Stonewarden también es muy efectiva contra los ataques rápidos de Spitfire, haciendo que los combates prolongados sean peligrosos. Por eso, los jugadores de Spitfire deben tener cuidado con el posicionamiento y evitar quedar atrapados."
+    },
+    "faq": [
+      {
+        "q": "¿Spitfire es un buen héroe para principiantes?",
+        "a": "Sí. Spitfire es uno de los héroes más fáciles de aprender y está disponible desde el inicio del juego."
+      },
+      {
+        "q": "¿Spitfire es un héroe Physical o Magic?",
+        "a": "Los dos. Sus ataques hacen Physical Damage y Magic Damage adicional, lo que le permite usar múltiples caminos de build de forma efectiva."
+      },
+      {
+        "q": "¿Spitfire puede apoyar a sus compañeros?",
+        "a": "Sí. Arrowstorm puede aumentar el Attack Speed de los aliados cercanos, haciéndolo un héroe valioso en peleas de equipo."
+      },
+      {
+        "q": "¿Spitfire es fuerte en late game?",
+        "a": "Sí. Su escalado con Attack Speed, Spell Power y su Super Ability de Nivel 10 le permite seguir siendo una amenaza durante toda la partida."
+      },
+      {
+        "q": "¿Debo buildear Physical Damage o Magic Damage?",
+        "a": "Ambas opciones son viables. La mejor elección depende de tu estilo de juego preferido, tus compañeros y los rivales que enfrentes."
+      },
+      {
+        "q": "¿Spitfire es débil por ser un héroe inicial?",
+        "a": "No. Los héroes iniciales están diseñados para ser competitivos durante todo el juego. Spitfire sigue siendo un héroe poderoso incluso en niveles altos de juego."
+      },
+      {
+        "q": "¿Cuál es la mayor ventaja de Spitfire?",
+        "a": "Su versatilidad. Puede farmear rápido, hacer daño fuerte, apoyar a sus compañeros con buffs de Attack Speed, y adaptarse a muchos builds y estrategias distintas."
+      },
+      {
+        "q": "¿Cuál es la mayor debilidad de Spitfire?",
+        "a": "No tiene una habilidad de escape confiable. Si los enemigos logran atraparlo o rodearlo, escapar puede ser difícil sin ayuda de compañeros o un buen posicionamiento."
+      }
+    ],
+    "abilities": {
+      "BonikAutoattackTitle": "Ataque Básico",
+      "BonikAutoattackDescription": "Pasivo. Spitfire dispara una flecha en llamas. Además de hacer Physical Damage, cada ataque también hace Magic Damage adicional. Esto le permite a Spitfire presionar a los enemigos incluso cuando invierten mucho en Physical Armor. Sus ataques escalan bien de forma natural tanto con builds de Attack Speed como de Spell Power.",
+      "BonikAttackSpeedTitle": "Arrowstorm",
+      "BonikAttackSpeedDescription": "Habilidad Activa. Spitfire lanza un proyectil en llamas en todas las direcciones a su alrededor. La habilidad también otorga un poderoso bono de Attack Speed. En Nivel 3, Arrowstorm además otorga Attack Speed a los aliados cercanos. Esto hace que la habilidad sea útil tanto para el daño personal como para apoyar a los compañeros durante las peleas. Arrowstorm también puede ayudar a limpiar arbustos más rápido al golpear múltiples objetivos al mismo tiempo.",
+      "BonikFireballTitle": "Fireball",
+      "BonikFireballDescription": "Habilidad Activa. Spitfire lanza un Fireball que explota al impactar, haciendo Magic Damage en un área. Excelente para limpiar arbustos, farmear grupos de objetivos y dañar a múltiples enemigos. En Nivel 3, Fireball se vuelve significativamente más fuerte y lanza Fireballs en múltiples direcciones a la vez, permitiendo a Spitfire limpiar grandes porciones del campo de batalla extremadamente rápido."
+    }
+  },
+  "viverna": {
+    "overview": "Viverna es una maga agresiva de rango que se especializa en hostigamiento, movilidad y presión constante. A diferencia de los héroes que dependen de peleas largas, Viverna destaca por entrar rápido, hacer daño y escapar antes de que los enemigos puedan responder. Sus ataques de veneno, cooldowns cortos y poderosa movilidad la hacen una de las heroínas más peligrosas para controlar el ritmo de una partida. Viverna es especialmente efectiva contra rivales lentos o predecibles, obligándolos constantemente a reaccionar mientras ella permanece difícil de atrapar.",
+    "playstyle": "Viverna prospera con un gameplay agresivo de golpear y huir. Un jugador hábil de Viverna rara vez se queda quieto — ataca, se reposiciona y ataca de nuevo antes de que el enemigo tenga oportunidad de responder.",
+    "playstyleHighlights": [
+      "Hostigar enemigos con Poison",
+      "Farmear eficientemente usando Cross Blast",
+      "Controlar los combates gracias a la movilidad",
+      "Evitar peleas directas prolongadas",
+      "Presionar constantemente a los rivales"
+    ],
+    "strengths": [
+      "Extremadamente móvil",
+      "Excelente gameplay de golpear y huir",
+      "Gran hostigamiento",
+      "Velocidad de farmeo alta",
+      "Habilidades poderosas con cooldown corto",
+      "Difícil de atrapar",
+      "Fuerte contra héroes lentos",
+      "Efectiva durante todas las etapas de la partida"
+    ],
+    "weaknesses": [
+      "Relativamente frágil",
+      "Depende mucho del posicionamiento",
+      "Vulnerable al crowd control",
+      "Puede ser castigada si Blink no está disponible",
+      "Tiene dificultades cuando la fuerzan a peleas cercanas prolongadas"
+    ],
+    "tips": [
+      "Usa Poison para hostigar a los enemigos antes de comprometerte completamente en un combate.",
+      "Blink puede usarse tanto ofensiva como defensivamente.",
+      "Cross Blast es excelente para farmear y en combate.",
+      "Evita peleas prolongadas contra héroes tanky.",
+      "Ten siempre una ruta de escape en mente.",
+      "Usa la movilidad para controlar el ritmo de los combates.",
+      "Deja que Poison siga haciendo daño mientras te reposicionas."
+    ],
+    "synergies": {
+      "faerie": "Faerie y Viverna forman una de las combinaciones de maga más fuertes en Spelltroum. Ambas heroínas destacan en movilidad, presión a distancia y evitar confrontaciones directas. Juntas pueden hostigar continuamente a los rivales, hacer Magic Damage y retirarse antes de que los enemigos puedan responder.",
+      "druid": "Druid complementa perfectamente el estilo de juego de Viverna. Su Speed Aura ayuda a ambos héroes a mantenerse móviles mientras su compañero invocado aplica presión adicional. Esta combinación destaca en controlar el mapa y forzar a los enemigos a peleas desfavorables.",
+      "spiritmonger": "Los buffs de movimiento de Spiritmonger permiten a ambas heroínas entrar y salir del combate con aún más efectividad. Juntas se vuelven extremadamente difíciles de atrapar mientras mantienen presión constante sobre los rivales.",
+      "grizzly": "Aunque sus estilos de juego son muy diferentes, Grizzly y Viverna funcionan sorprendentemente bien juntos. Grizzly sirve de línea frontal duradera mientras Viverna ataca desde una distancia segura. Los enemigos a menudo se enfocan en Grizzly, dando a Viverna la oportunidad de aplicar libremente Poison y daño de Cross Blast."
+    },
+    "counters": {
+      "grizzly": "Grizzly es uno de los rivales más difíciles de Viverna. Su Blink le permite seguir a Viverna incluso después de que escapa. Una vez que Grizzly llega al rango cuerpo a cuerpo y aplica su slow, Viverna puede encontrarse rápidamente atrapada en una pelea desfavorable. Su gran reserva de Health también dificulta que Viverna lo elimine rápido.",
+      "freezi": "El crowd control de Freezi es extremadamente peligroso para Viverna. Un stun exitoso puede dejar a Viverna vulnerable el tiempo suficiente para que Freezi le haga daño letal. Como Viverna depende mucho de la movilidad, perder el control de su movimiento es especialmente costoso.",
+      "death-slayer": "El stun y las herramientas agresivas de engage de Death Slayer lo hacen una amenaza constante. Si logra atrapar a Viverna, ella suele tener muy poco tiempo para reaccionar. Los jugadores de Viverna deben gestionar cuidadosamente su posicionamiento y mantener siempre opciones de escape disponibles."
+    },
+    "faq": [
+      {
+        "q": "¿Viverna es un héroe amigable para principiantes?",
+        "a": "Viverna es relativamente fácil de aprender pero difícil de dominar. Los jugadores nuevos pueden entender rápidamente sus habilidades, pero maximizar su movilidad requiere práctica."
+      },
+      {
+        "q": "¿Viverna es una maga?",
+        "a": "Sí. La mayor parte del daño de Viverna proviene de habilidades de Magic Damage y escalado de Spell Power."
+      },
+      {
+        "q": "¿Cuál es la mayor fortaleza de Viverna?",
+        "a": "Su movilidad. Blink permite a Viverna entrar en combate, escapar y reposicionarse mejor que la mayoría de los héroes."
+      },
+      {
+        "q": "¿Cuál es la mayor debilidad de Viverna?",
+        "a": "El crowd control. Si Viverna recibe un stun o queda inmovilizada, se vuelve mucho más fácil de eliminar."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Viverna?",
+        "a": "Faerie, Druid, Spiritmonger y Grizzly tienen buenas sinergias con el estilo de juego agresivo y móvil de Viverna."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Viverna?",
+        "a": "Grizzly, Freezi y Death Slayer están entre sus matchups más difíciles por su capacidad de atraparla o desactivarla."
+      },
+      {
+        "q": "¿Viverna es fuerte en late game?",
+        "a": "Sí. Su movilidad, cooldowns cortos y poderosa Super Ability le permiten seguir siendo una amenaza peligrosa durante toda la partida."
+      }
+    ],
+    "abilities": {
+      "QuopAutoattackTitle": "Daga Venenosa",
+      "QuopAutoattackDescription": "Ataque Básico. Los ataques de Viverna envenenan a los enemigos. Poison hace daño a lo largo del tiempo durante 4 segundos, permitiéndole hacer daño a los rivales incluso después de desengancharse. Esto hace que cada ataque exitoso sea valioso y fuerza a los enemigos a retirarse o seguir peleando mientras reciben daño. Poison también impide que los enemigos regeneren Health cómodamente entre intercambios.",
+      "QuopBlinkTitle": "Blink",
+      "QuopBlinkDescription": "Habilidad Activa. Viverna se teletransporta instantáneamente una corta distancia. Blink puede usarse para entrar al combate, escapar de situaciones peligrosas, esquivar proyectiles, reposicionarse durante peleas y cruzar obstáculos rápidamente. Esta habilidad le da a Viverna una movilidad excepcional y la convierte en uno de los héroes más difíciles de atrapar en Spelltroum.",
+      "QuopDamageTitle": "Cross Blast",
+      "QuopDamageDescription": "Habilidad Activa. Viverna desata una explosión mágica alrededor de sí misma que hace Magic Damage a los enemigos cercanos. Cross Blast tiene un cooldown extremadamente corto y sirve como la habilidad de daño principal de Viverna. Efectivo para farmear arbustos, limpiar criaturas neutras, hostigar enemigos y rematar objetivos con poca vida. En Nivel 3, llega a solo 3 segundos de cooldown, permitiendo a Viverna presionar continuamente a los rivales."
+    }
+  },
+  "death-slayer": {
+    "overview": "Death Slayer es un peleador cuerpo a cuerpo que puede jugarse como carry, support o especialista en control. Combina Critical Chance, Lifesteal Aura y control mediante stun, haciéndolo extremadamente peligroso en peleas directas cuando se acerca a los enemigos. Death Slayer puede volverse muy fuerte si farmea bien, pero es más difícil para principiantes porque es un héroe cuerpo a cuerpo. Necesita buen posicionamiento, suficiente supervivencia y el timing correcto para entrar en combate.",
+    "playstyle": "Death Slayer destaca en peleas prolongadas de corto alcance. Su fuerza proviene de sobrevivir el tiempo suficiente para seguir atacando y curándose. Según cómo se juegue, Death Slayer puede convertirse en un carry de Lifesteal, un support durable, un controlador enfocado en stuns o un bruiser cuerpo a cuerpo.",
+    "playstyleHighlights": [
+      "Acercarse a los enemigos",
+      "Usar stuns para controlar las peleas",
+      "Curarse mediante Lifesteal Aura",
+      "Apoyar a los compañeros con lifesteal",
+      "Escalar hasta ser un peleador poderoso en late game"
+    ],
+    "strengths": [
+      "Fuerte duelista cuerpo a cuerpo",
+      "Critical Chance adicional en ataques básicos",
+      "Proporciona Lifesteal Aura a sí mismo y a aliados",
+      "Gran sustain en peleas largas",
+      "Apoyo útil al equipo",
+      "Poderoso control mediante stun",
+      "Puede jugarse de múltiples formas",
+      "Muy fuerte si farmea bien"
+    ],
+    "weaknesses": [
+      "Héroe cuerpo a cuerpo con alcance limitado",
+      "Más difícil para principiantes que los héroes a distancia",
+      "Puede tener dificultades bajo presión temprana",
+      "Vulnerable al kiting",
+      "Necesita buen posicionamiento para alcanzar a los enemigos",
+      "Lifesteal no funciona en arbustos"
+    ],
+    "tips": [
+      "Usa Stun para atrapar enemigos antes de entrar en combate.",
+      "No persigas héroes a distancia sin un plan.",
+      "Farmea eficientemente antes de forzar peleas importantes.",
+      "Mantente cerca de los aliados para que se beneficien de Lifesteal Aura.",
+      "Lifesteal funciona con héroes y criaturas, pero no con arbustos.",
+      "Cooldown Reduction puede apoyar builds enfocados en stuns.",
+      "Death Slayer se vuelve mucho más fuerte cuando obtiene suficiente supervivencia."
+    ],
+    "synergies": {
+      "freezi": "Freezi es una de las compañeras más fuertes de Death Slayer. Freezi proporciona daño adicional mediante su aura, mientras que Death Slayer aporta Lifesteal a través de su aura. Juntos se hacen mucho más fuertes en combate. Freezi también puede ayudar a controlar enemigos, dándole a Death Slayer más tiempo para alcanzarlos y atacarlos.",
+      "druid": "Speed Aura de Druid ayuda a Death Slayer a superar una de sus mayores debilidades: la movilidad. A cambio, Death Slayer da a Druid y a su compañero invocado Lifesteal. Esto crea un equipo fuerte que puede moverse rápido, pelear más tiempo y recuperar Health durante el combate.",
+      "spiritmonger": "Spiritmonger se beneficia mucho de Lifesteal Aura de Death Slayer porque puede hacer mucho daño. Death Slayer también se beneficia del apoyo de movimiento de Spiritmonger, facilitándole entrar o escapar del combate. Juntos crean un dúo agresivo y fuerte.",
+      "spitfire": "El buff de Attack Speed de Spitfire funciona bien con Death Slayer. Más Attack Speed significa más ataques, más Critical Hits y más Lifesteal. Al mismo tiempo, Spitfire se beneficia de Lifesteal Aura de Death Slayer durante las peleas."
+    },
+    "counters": {
+      "volcarn": "Volcarn puede ser incómodo para Death Slayer. Sus ilusiones crean múltiples objetivos, dificultando que Death Slayer se enfoque en el enemigo real. Death Slayer prefiere duelos directos, mientras que Volcarn hace las peleas caóticas y más difíciles de controlar.",
+      "viverna": "Viverna puede presionar mucho a Death Slayer, especialmente al inicio de la partida. Su veneno, movilidad y estilo de golpear y huir dificultan que Death Slayer farmee con seguridad o fuerce peleas directas. Si Viverna le impide farmear, Death Slayer puede tener problemas para llegar a su punto más fuerte.",
+      "grizzly": "Grizzly puede ser difícil para Death Slayer porque también quiere peleas de corto alcance. Si Grizzly construye suficiente daño y supervivencia, a veces puede superar a Death Slayer en combate directo. Este matchup depende mucho de los items, los niveles y el timing."
+    },
+    "faq": [
+      {
+        "q": "¿Death Slayer es bueno para principiantes?",
+        "a": "Es jugable para principiantes, pero más difícil que los héroes a distancia. Al ser cuerpo a cuerpo, necesita mejor posicionamiento y timing para evitar ser kiteado o castigado temprano."
+      },
+      {
+        "q": "¿Death Slayer es carry o support?",
+        "a": "Puede ser los dos. Death Slayer puede jugarse como carry de Lifesteal, pero su Lifesteal Aura también lo hace útil como frontline de apoyo."
+      },
+      {
+        "q": "¿Cuál es la mayor fortaleza de Death Slayer?",
+        "a": "Su sustain. Con Lifesteal Aura y los items correctos, Death Slayer puede sobrevivir peleas largas y recuperar una gran cantidad de Health mientras ataca."
+      },
+      {
+        "q": "¿Cuál es la mayor debilidad de Death Slayer?",
+        "a": "Su alcance cuerpo a cuerpo. Si los enemigos mantienen distancia, lo hostigan o le impiden farmear, puede tener problemas para alcanzar su máxima fuerza."
+      },
+      {
+        "q": "¿Lifesteal funciona en arbustos?",
+        "a": "No. Lifesteal solo funciona contra héroes enemigos y criaturas neutras."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Death Slayer?",
+        "a": "Freezi, Druid, Spiritmonger y Spitfire funcionan bien con Death Slayer porque se benefician de su Lifesteal Aura o le ayudan a alcanzar enemigos."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Death Slayer?",
+        "a": "Viverna, Volcarn y Grizzly pueden ser matchups difíciles dependiendo de la situación."
+      },
+      {
+        "q": "¿Death Slayer es fuerte en late game?",
+        "a": "Sí. Si Death Slayer farmea bien, puede convertirse en uno de los peleadores de corto alcance más fuertes en Spelltroum."
+      }
+    ],
+    "abilities": {
+      "SkeletAutoattackTitle": "Ataque Básico",
+      "SkeletAutoattackDescription": "Pasivo. Los ataques básicos de Death Slayer tienen Critical Chance adicional. Esto hace sus ataques más peligrosos de lo que parecen, especialmente combinado con items de daño crítico o lifesteal. Al ser un héroe cuerpo a cuerpo, necesita llegar a los enemigos antes de poder usar esta fortaleza al máximo.",
+      "SkeletStunTitle": "Stun",
+      "SkeletStunDescription": "Habilidad Activa. Death Slayer lanza proyectiles aturdidores en todas las direcciones. Los enemigos golpeados por estos proyectiles reciben daño y quedan aturdidos por un corto tiempo. Esta habilidad puede usarse para atrapar enemigos, interrumpir ataques, escapar de situaciones peligrosas, proteger aliados e iniciar peleas. Un Stun bien colocado puede cambiar completamente el resultado de un combate.",
+      "SkeletLifestealTitle": "Lifesteal Aura",
+      "SkeletLifestealDescription": "Aura Pasiva. Death Slayer proporciona Lifesteal a sí mismo y a los aliados cercanos. Esta aura permite a los héroes afectados restaurar Health al dañar a héroes enemigos o criaturas neutras. Lifesteal no funciona en arbustos. Como los efectos de Lifesteal se acumulan, Death Slayer puede volverse extremadamente difícil de matar cuando se combina con items de Lifesteal o héroes que se benefician del combate sostenido."
+    }
+  },
+  "druid": {
+    "overview": "Druid es un invocador de alta movilidad enfocado en farmeo, control del mapa y posicionamiento estratégico en lugar de combate directo. A diferencia de muchos héroes, Druid no quiere entrar en peleas cara a cara prolongadas. En cambio, usa su velocidad de movimiento, criaturas invocadas y mecánicas únicas de arbustos para farmear más que los rivales, recolectar Crowns y crear combates favorables. Su estilo de juego gira en torno a controlar el campo de batalla, crear presión mediante unidades invocadas y moverse constantemente por el mapa. Druid es principalmente un héroe de Physical Damage.",
+    "playstyle": "Un buen jugador de Druid se mueve constantemente por el mapa en lugar de buscar peleas directas. Su objetivo es farmear más rápido que los rivales, alcanzar mejoras de items importantes temprano, forzar a los enemigos a malas posiciones y usar criaturas invocadas para crear ventajas numéricas.",
+    "playstyleHighlights": [
+      "Farmeo rápido",
+      "Recolectar Crowns eficientemente",
+      "Controlar el espacio con arbustos",
+      "Crear peleas favorables mediante posicionamiento",
+      "Apoyar aliados con Speed Aura",
+      "Presionar enemigos usando criaturas invocadas"
+    ],
+    "strengths": [
+      "Excelente velocidad de farmeo",
+      "Fuerte control del mapa",
+      "Alta movilidad",
+      "Mecánicas de invocación poderosas",
+      "Fuerte presión en early game",
+      "Muy bueno recolectando Crowns",
+      "Apoya a los aliados con Speed Aura",
+      "Puede crear peleas favorables mediante posicionamiento"
+    ],
+    "weaknesses": [
+      "Relativamente débil en duelos directos",
+      "Depende mucho del posicionamiento",
+      "Puede tener dificultades si está constantemente bajo presión",
+      "Las invocaciones pueden ser contrarrestadas por daño en área",
+      "Requiere planificación y consciencia del mapa",
+      "Menos efectivo cuando lo fuerzan a peleas directas"
+    ],
+    "tips": [
+      "Enfócate en farmear en lugar de forzar peleas.",
+      "Usa los arbustos para controlar el movimiento de los enemigos.",
+      "Invoca criaturas en posiciones agresivas.",
+      "Speed Aura es valiosa durante toda la partida.",
+      "Crea peleas favorables en lugar de peleas justas.",
+      "Usa tu ventaja de movilidad para recolectar Crowns rápidamente.",
+      "Tus criaturas son más fuertes cuando pelean junto a ti."
+    ],
+    "synergies": {
+      "freezi": "Freezi es una de las compañeras más fuertes de Druid. Freezi proporciona un Damage Aura que beneficia tanto a Druid como a sus criaturas invocadas. Mientras tanto, Speed Aura de Druid ayuda a Freezi a reposicionarse y farmear más eficientemente. Juntos se vuelven extremadamente efectivos controlando el mapa.",
+      "death-slayer": "Lifesteal Aura de Death Slayer funciona con Druid y sus criaturas invocadas. Al mismo tiempo, Speed Aura de Druid ayuda a Death Slayer a alcanzar enemigos más fácilmente. Esto crea una combinación fuerte de sustain y movilidad.",
+      "stonewarden": "Stonewarden proporciona Armor Aura mientras Druid proporciona Speed Aura. Además, Druid puede invocar criaturas desde arbustos o paredes creadas durante las peleas, creando oportunidades interesantes para el control del campo de batalla. Juntos forman un equipo durable y difícil de atacar.",
+      "spiritmonger": "La creación de arbustos de Druid funciona extremadamente bien con Spiritmonger. Cuando Druid crea arbustos detrás de los enemigos, el Orb de Spiritmonger puede rebotar entre el enemigo y el arbusto recién creado. Esto puede resultar en impactos adicionales del orbe y un daño significativamente mayor.",
+      "volcarn": "En partidas de late game, Druid y Volcarn pueden abrumar a los rivales en número. Druid invoca criaturas mientras Volcarn crea ilusiones. Combinado con Speed Aura, el campo de batalla puede llenarse rápidamente de unidades aliadas que presionan a los enemigos desde múltiples direcciones."
+    },
+    "counters": {
+      "spiritmonger": "Spiritmonger es uno de los matchups más difíciles de Druid. Los arbustos que Druid crea pueden en realidad ayudar a Spiritmonger. Su Orb puede rebotar entre Druid y los arbustos recién creados, permitiéndole hacer significativamente más daño de lo normal. Esto a menudo vuelve la propia mecánica de Druid en su contra.",
+      "viverna": "Viverna es difícil para Druid porque evita los combates directos. Puede envenenar a Druid, usar Blink para escapar y hostigarlo continuamente sin permitirle aprovechar plenamente sus mecánicas de trampa. Su movilidad dificulta que Druid la inmovilice.",
+      "faerie": "Faerie puede escapar de muchas de las configuraciones más fuertes de Druid. Aunque Druid la atrape con arbustos e invoque una criatura detrás de ella, Faerie simplemente puede volar a través de enemigos y obstáculos. Esto hace que muchas de las ventajas de posicionamiento de Druid sean menos efectivas.",
+      "death-slayer": "Aunque no es un counter directo, un Death Slayer muy farmeado puede volverse problemático. Death Slayer puede curarse de las criaturas invocadas de Druid mediante Lifesteal, convirtiendo las propias invocaciones de Druid en una fuente de curación. Esto puede volverse peligroso durante peleas más largas."
+    },
+    "faq": [
+      {
+        "q": "¿Druid es un dealer de daño o un support?",
+        "a": "Los dos. Druid hace daño respetable mediante sus criaturas y ataques, pero también proporciona utilidad valiosa a través de Speed Aura."
+      },
+      {
+        "q": "¿Druid es difícil de jugar?",
+        "a": "Es fácil de aprender pero difícil de dominar. El éxito con Druid depende mucho del posicionamiento, la consciencia del mapa y el farmeo eficiente."
+      },
+      {
+        "q": "¿Speed Aura afecta a los aliados?",
+        "a": "Sí. Speed Aura aumenta la velocidad de movimiento de Druid y los aliados cercanos."
+      },
+      {
+        "q": "¿Druid puede crear arbustos por sí mismo?",
+        "a": "Sí. Su Ataque Básico tiene probabilidad de crear arbustos cerca de los enemigos, que luego pueden transformarse en criaturas invocadas."
+      },
+      {
+        "q": "¿Cuál es la mayor fortaleza de Druid?",
+        "a": "Su capacidad de controlar el mapa y generar ventajas mediante movilidad y unidades invocadas."
+      },
+      {
+        "q": "¿Cuál es la mayor debilidad de Druid?",
+        "a": "El combate directo. Druid generalmente prefiere un posicionamiento inteligente y combates favorables en lugar de peleas directas."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Druid?",
+        "a": "Freezi, Death Slayer, Stonewarden, Spiritmonger y Volcarn tienen buena sinergia con Druid."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Druid?",
+        "a": "Spiritmonger, Viverna y Faerie son algunos de los héroes más difíciles que Druid puede enfrentar."
+      }
+    ],
+    "abilities": {
+      "FutionAutoattackTitle": "Ataque Básico",
+      "FutionAutoattackDescription": "Pasivo. Druid lanza una hoz encantada. Cada ataque tiene un 50% de probabilidad de hacer daño adicional y crear un arbusto detrás del objetivo según la dirección del proyectil. Si un enemigo está peleando cerca de paredes u obstáculos, el arbusto recién creado puede bloquear las rutas de escape y atraparlo. El arbusto también puede transformarse inmediatamente en una criatura invocada, permitiendo a Druid crear repentinamente una pelea de 2 contra 1.",
+      "FutionCreepTitle": "Invocar Criatura",
+      "FutionCreepDescription": "Habilidad Activa. Druid transforma un arbusto en un monstruo aliado. La criatura invocada pelea junto a Druid y puede ayudar a farmear arbustos, presionar héroes enemigos, bloquear el movimiento y asegurar kills. Como Druid puede crear arbustos por sí mismo, a menudo puede invocar criaturas exactamente donde quiere. Una criatura bien posicionada puede cambiar completamente el resultado de un combate.",
+      "FutionSpeedTitle": "Speed Aura",
+      "FutionSpeedDescription": "Aura Pasiva. Druid aumenta constantemente la velocidad de movimiento de sí mismo y los aliados cercanos, incluyendo las criaturas invocadas. El aura permite a Druid y a su equipo rotar más rápido, escapar de situaciones peligrosas, perseguir enemigos con más efectividad y farmear el mapa más eficientemente. Speed Aura es una de las habilidades de utilidad más fuertes en Spelltroum porque la velocidad de movimiento es útil durante cada etapa de la partida."
+    }
+  },
+  "freezi": {
+    "overview": "Freezi es un poderoso carry a distancia que se vuelve cada vez más peligrosa conforme avanza la partida. Combina Attack Speed escalable, control de masas y un poderoso Damage Aura, permitiéndole hacer un daño tremendo mientras también fortalece a su equipo. Aunque Freezi rinde razonablemente bien en early game, brilla de verdad en late game cuando su Attack Speed se dispara y Frost Strike llega al nivel máximo. Una Freezi bien farmeada puede eliminar enemigos rápidamente antes de que tengan oportunidad de reaccionar.",
+    "playstyle": "A diferencia de algunos héroes que dependen de la movilidad, Freezi gana mediante posicionamiento, daño y control de masas. Su objetivo es farmear eficientemente, mejorar Frost Strike, construir suficiente supervivencia para evitar ser reventada y eliminar enemigos antes de que puedan escapar.",
+    "playstyleHighlights": [
+      "Enfocarse en objetivos individuales",
+      "Escalar hasta ser carry de late game",
+      "Apoyar aliados con Damage Aura",
+      "Controlar peleas mediante stuns",
+      "Convertir ventajas en victorias"
+    ],
+    "strengths": [
+      "Escalado de late game extremadamente fuerte",
+      "Daño de objetivo único poderoso",
+      "Excelente control de masas",
+      "Fuerte aura de apoyo al equipo",
+      "Buena sinergia con muchos héroes",
+      "Puede escalar una ventaja rápidamente",
+      "Peligrosa tanto en duelos como en peleas de equipo",
+      "Fuerte dealer de daño a distancia"
+    ],
+    "weaknesses": [
+      "Depende mucho del posicionamiento",
+      "Vulnerable si la atrapa crowd control enemigo",
+      "Necesita farmear para alcanzar su máximo potencial",
+      "Menos efectiva cuando está constantemente bajo presión",
+      "Puede tener dificultades contra héroes muy móviles",
+      "Requiere buena selección de objetivos"
+    ],
+    "tips": [
+      "Trata de mantener ataques continuos sobre el mismo objetivo.",
+      "Usa Frost Strike antes de comprometerte en una pelea.",
+      "Posiciónate cuidadosamente detrás de tus aliados siempre que puedas.",
+      "Freezi se vuelve significativamente más fuerte conforme avanza la partida.",
+      "Protégete del crowd control enemigo.",
+      "Tu Damage Aura ayuda a los aliados aunque no estés atacando activamente.",
+      "Los ataques de Ricochet en late game pueden aumentar dramáticamente tu daño."
+    ],
+    "synergies": {
+      "death-slayer": "Una de las alianzas más fuertes de Freezi. Freezi proporciona Damage Aura, Death Slayer proporciona Lifesteal Aura. Juntos crean una combinación increíblemente poderosa de daño y sustain. Freezi golpea más fuerte mientras Death Slayer ayuda a ambos héroes a sobrevivir más tiempo.",
+      "spitfire": "El buff de Attack Speed de Spitfire se combina perfectamente con el Attack Speed escalable de Freezi. Freezi proporciona daño adicional mientras Spitfire aumenta la frecuencia de ataque. Juntos pueden abrumar a los rivales con daño a distancia.",
+      "druid": "Speed Aura de Druid ayuda a Freezi a reposicionarse y kitear enemigos. Mientras tanto, Damage Aura de Freezi beneficia tanto a Druid como a sus criaturas invocadas. Esta combinación crea un equipo muy móvil capaz de controlar grandes áreas del mapa.",
+      "spiritmonger": "Spiritmonger se beneficia mucho de Damage Aura de Freezi. Juntas crean una composición a distancia peligrosa que combina daño de burst, control de masas y daño escalable."
+    },
+    "counters": {
+      "stonewarden": "Stonewarden es uno de los rivales más difíciles de Freezi. Sus paredes pueden bloquear el movimiento y crear posiciones desfavorables. Además, su reflexión de daño castiga a Freezi por atacar continuamente. Como Freezi depende mucho de ataques repetidos, Stonewarden puede ser muy frustrante de enfrentar.",
+      "viverna": "La movilidad de Viverna puede dificultar que Freezi haga daño consistentemente. Si Viverna evita Frost Strike y la hostiga continuamente desde lejos, Freezi puede tener dificultades para generar impulso.",
+      "grizzly": "Un Grizzly farmeado puede volverse una amenaza seria. Si Grizzly llega exitosamente al rango cuerpo a cuerpo, su durabilidad y daño pueden superar a Freezi antes de que tenga tiempo suficiente para eliminarlo."
+    },
+    "faq": [
+      {
+        "q": "¿Freezi es un héroe carry?",
+        "a": "Sí. Freezi está diseñada principalmente como carry a distancia que se vuelve más fuerte durante la partida."
+      },
+      {
+        "q": "¿Freezi es amigable para principiantes?",
+        "a": "No del todo. Sus habilidades son fáciles de entender, pero el posicionamiento correcto y la selección de objetivos requieren experiencia."
+      },
+      {
+        "q": "¿Cuál es la mayor fortaleza de Freezi?",
+        "a": "Su capacidad de eliminar objetivos rápidamente una vez que comienza a atacar sin interrupciones."
+      },
+      {
+        "q": "¿Cuál es la mayor debilidad de Freezi?",
+        "a": "Ser atrapada antes de poder hacer daño. Freezi depende del posicionamiento y de la protección de sus aliados."
+      },
+      {
+        "q": "¿Por qué Frost Strike es tan poderoso?",
+        "a": "En nivel máximo, Frost Strike puede aturdir a los enemigos durante 2 segundos, creando una gran oportunidad para asegurar kills."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Freezi?",
+        "a": "Death Slayer, Spitfire, Druid y Spiritmonger tienen excelente sinergia con Freezi."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Freezi?",
+        "a": "Stonewarden es uno de sus counters más fuertes, mientras que héroes muy móviles como Viverna también pueden crear problemas."
+      },
+      {
+        "q": "¿Freezi es fuerte en late game?",
+        "a": "Absolutamente. Freezi es uno de los carries de late game más fuertes en Spelltroum gracias a su Attack Speed escalable, Damage Aura y Ricochet Shot."
+      }
+    ],
+    "abilities": {
+      "FriziAutoattackTitle": "Ataque Básico",
+      "FriziAutoattackDescription": "Pasivo. Freezi dispara una Ice Arrow. Cada ataque exitoso aumenta su Attack Speed contra ese objetivo. Cuanto más tiempo se le permita atacar continuamente, más rápida se vuelve. Esto hace a Freezi extremadamente peligrosa durante combates prolongados y una de las dealers de daño de objetivo único más fuertes en Spelltroum.",
+      "FriziStunTitle": "Frost Strike",
+      "FriziStunDescription": "Habilidad Activa. Freezi lanza un Ice Crystal que explota al impactar. Los enemigos golpeados por la explosión reciben daño y quedan aturdidos. En Nivel 1, Frost Strike proporciona un stun corto. En Nivel 3, la duración del stun aumenta a 2 segundos — a menudo suficiente para que Freezi elimine completamente objetivos frágiles antes de que puedan reaccionar. Frost Strike es una de las habilidades de control de masas más fuertes del juego.",
+      "FriziDamageTitle": "Aura de Empoderamiento",
+      "FriziDamageDescription": "Aura Pasiva. Freezi aumenta constantemente el Attack Damage de sí misma y los aliados cercanos. Freezi recibe el mayor beneficio del aura, pero todos los compañeros cercanos también ganan daño adicional. Esto la hace valiosa no solo como carry sino también como heroína orientada al equipo. El aura escala especialmente bien con héroes que atacan rápido o dependen mucho del Physical Damage."
+    }
+  },
+  "flameweaver": {
+    "overview": "Flameweaver es un mago a distancia único cuyas habilidades hacen True Damage. A diferencia de la mayoría de los héroes mágicos, las habilidades de Flameweaver no se ven afectadas por Magic Critical Chance, reducción de Magic Resistance u otros amplificadores tradicionales de daño mágico. En cambio, su daño ignora tanto Physical Armor como Magic Resistance, haciéndolo extremadamente efectivo contra objetivos muy armados. Flameweaver es uno de los héroes mecánicamente más desafiantes en Spelltroum. Los jugadores que dominen sus portales, gestión de maná y posicionamiento pueden volverse increíblemente difíciles de tratar.",
+    "playstyle": "A diferencia de muchos carries, el poder de Flameweaver proviene de la gestión de recursos. Cuanto más maná tiene, más fuerte se vuelve su Ataque Básico. Un Flameweaver hábil equilibra constantemente el uso de maná y el daño mientras usa Portals para mantenerse móvil e impredecible.",
+    "playstyleHighlights": [
+      "Hacer True Damage",
+      "Controlar el espacio con fuego",
+      "Superar a los rivales mediante posicionamiento",
+      "Gestionar el maná eficientemente",
+      "Castigar objetivos muy armados"
+    ],
+    "strengths": [
+      "Hace True Damage",
+      "Ignora Physical Armor",
+      "Ignora Magic Resistance",
+      "Fuerte contra objetivos tanky",
+      "Excelente control de área",
+      "Alta movilidad mediante Portals",
+      "Escalado único de daño basado en Maná",
+      "Fuerte potencial como carry de late game"
+    ],
+    "weaknesses": [
+      "Requiere gestión cuidadosa del Maná",
+      "Difícil de dominar",
+      "Depende de farmear",
+      "Puede volverse débil si le falta Maná",
+      "Menos indulgente que la mayoría de los héroes",
+      "Vulnerable cuando va atrás en oro y experiencia"
+    ],
+    "tips": [
+      "Evita desperdiciar Maná innecesariamente.",
+      "Tu Ataque Básico se vuelve más fuerte cuando tu reserva de Maná está llena.",
+      "Usa Path of Fire para controlar el movimiento enemigo en lugar de simplemente hacer daño.",
+      "Los Portals pueden usarse tanto ofensiva como defensivamente.",
+      "Los enemigos muy armados son los objetivos ideales.",
+      "El posicionamiento es más importante que el daño bruto.",
+      "Piensa con anticipación cuando coloques portales."
+    ],
+    "synergies": {
+      "spitfire": "El buff de Attack Speed de Spitfire funciona excepcionalmente bien con Flameweaver. Más Attack Speed significa más ataques escalados por Maná y mayor daño total. Juntos crean un poderoso dúo ofensivo.",
+      "spiritmonger": "Los bonos de movimiento de Spiritmonger ayudan a Flameweaver a reposicionarse más efectivamente. La movilidad adicional le permite colocar Portals y Path of Fire de forma más agresiva. Juntos se vuelven extremadamente difíciles de atrapar.",
+      "druid": "Speed Aura de Druid complementa el estilo de juego móvil de Flameweaver. La velocidad de movimiento adicional le permite reposicionarse rápidamente y aprovechar mejor sus habilidades de control de área.",
+      "freezi": "Damage Aura de Freezi aumenta la efectividad de los ataques de Flameweaver mientras su control de masas facilita que coloque Path of Fire en posiciones óptimas."
+    },
+    "counters": {
+      "grizzly": "Grizzly puede ser difícil para Flameweaver. Su enorme reserva de Health le permite sobrevivir el tiempo suficiente para llegar al rango cuerpo a cuerpo. Una vez que Grizzly cierra la distancia, Flameweaver puede tener dificultades para escapar de la presión sostenida.",
+      "viverna": "La movilidad y el estilo de golpear y huir de Viverna la hacen una rival frustrante. Puede envenenar a Flameweaver, desengancharse rápidamente y evitar quedarse en Path of Fire. Esto a menudo pone a Flameweaver en situaciones desfavorables."
+    },
+    "faq": [
+      {
+        "q": "¿Flameweaver es un mago?",
+        "a": "Sí, pero es un mago muy inusual. Sus habilidades hacen True Damage en lugar de Magic Damage tradicional."
+      },
+      {
+        "q": "¿Magic Critical Chance afecta a Flameweaver?",
+        "a": "No. True Damage no puede tener críticos mediante bonos de Magic Critical Chance."
+      },
+      {
+        "q": "¿La reducción de Magic Resistance aumenta el daño de Flameweaver?",
+        "a": "No. True Damage ignora tanto Magic Resistance como Physical Armor."
+      },
+      {
+        "q": "¿Por qué el Maná es importante para Flameweaver?",
+        "a": "Su Ataque Básico escala con su Maná actual. Cuanto más Maná tiene, más daño hace."
+      },
+      {
+        "q": "¿Cuál es la mayor fortaleza de Flameweaver?",
+        "a": "Su capacidad de hacer True Damage confiable independientemente de las defensas enemigas."
+      },
+      {
+        "q": "¿Cuál es la mayor debilidad de Flameweaver?",
+        "a": "La dependencia del Maná. Una mala gestión del Maná reduce significativamente su efectividad."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Flameweaver?",
+        "a": "Spitfire, Spiritmonger, Druid y Freezi tienen buena sinergia con Flameweaver."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Flameweaver?",
+        "a": "Grizzly, Viverna y héroes que lo presionan mucho en early game pueden crear matchups difíciles."
+      },
+      {
+        "q": "¿Flameweaver es bueno contra tanks?",
+        "a": "Sí. Como su daño ignora armadura y resistencia, sigue siendo efectivo contra objetivos muy defensivos y jefes de PvE con altas defensas."
+      }
+    ],
+    "abilities": {
+      "WarlockBasicAttackTitle": "Ataque Básico",
+      "WarlockBasicAttackDescription": "Pasivo. El Ataque Básico de Flameweaver hace daño adicional basado en su Maná actual. Cuanto más Maná tenga disponible, más fuertes se vuelven sus ataques. Esto crea un estilo de juego único donde el Maná actúa tanto como recurso como amplificador de daño. Como el daño adicional se basa en el Maná actual, Flameweaver se vuelve significativamente más débil si gasta demasiado Maná descuidadamente. La gestión correcta del Maná es una de las claves para dominar al héroe.",
+      "WarlockFireLineTitle": "Path of Fire",
+      "WarlockFireLineDescription": "Habilidad Activa. Flameweaver crea una línea de fuego frente a él. El fuego permanece en el campo de batalla durante varios segundos. Los enemigos parados en las llamas reciben True Damage periódico. Path of Fire puede usarse para controlar el espacio, bloquear el movimiento enemigo, defender objetivos, escapar de perseguidores y forzar a los enemigos a posiciones desfavorables. Los héroes que dependen de combates cuerpo a cuerpo directos a menudo tienen dificultades para atravesar el fuego.",
+      "WarlockHideTitle": "Portal",
+      "WarlockHideDescription": "Habilidad Activa. Flameweaver crea un par de portales conectados. Cualquier unidad que entre por un portal sale instantáneamente por el otro, proporcionando una movilidad increíble y permitiendo jugadas inesperadas. Los enemigos que viajan por los portales pierden Maná — el Maná robado se transfiere a Flameweaver. Esto le permite sostener su reserva de Maná, aumentar el daño de su Ataque Básico y castigar a los héroes dependientes del Maná. La gestión de Portals es una de las mecánicas más intensas en habilidad de Spelltroum."
+    }
+  },
+  "shadow-fury": {
+    "overview": "Shadow Fury es una asesina física altamente móvil que se especializa en daño de burst, emboscadas y tácticas de golpear y huir. A diferencia de la mayoría de los héroes en Spelltroum, todas las habilidades de Shadow Fury hacen Physical Damage. Por eso, Shadow Fury se beneficia mucho de Physical Critical Chance, Physical Critical Damage y Physical Armor Reduction — mientras que los stats mágicos le aportan muy poco. Un jugador hábil de Shadow Fury rara vez pelea de frente. En cambio, ataca desde ángulos inesperados, hace un daño de burst masivo y escapa antes de que los enemigos puedan responder.",
+    "playstyle": "Shadow Fury es uno de los héroes más difíciles en Spelltroum, pero también uno de los más gratificantes cuando se domina. Su objetivo es farmear con seguridad, construir Physical Damage y Critical Strike, encontrar objetivos aislados, golpear primero y escapar antes de que los enemigos puedan responder.",
+    "playstyleHighlights": [
+      "Eliminar objetivos prioritarios",
+      "Emboscar enemigos",
+      "Combate de golpear y huir",
+      "Evitar combates directos",
+      "Crecer mediante kills"
+    ],
+    "strengths": [
+      "Daño de burst extremadamente alto",
+      "Estilo de juego de asesina poderoso",
+      "Fuerte movilidad",
+      "Excelente potencial de snowball",
+      "Fuerte escalado con builds Physical Critical",
+      "Puede eliminar objetivos muy rápidamente",
+      "Difícil de atrapar cuando se juega correctamente",
+      "Fuerte carry de late game"
+    ],
+    "weaknesses": [
+      "Frágil cuando Orb Shield no está disponible",
+      "Depende mucho del posicionamiento",
+      "Vulnerable a efectos de daño a lo largo del tiempo",
+      "Requiere buen conocimiento del juego",
+      "Tiene dificultades contra armadura alta",
+      "Difícil para principiantes"
+    ],
+    "tips": [
+      "Evita las peleas directas siempre que puedas.",
+      "Busca siempre objetivos aislados.",
+      "Los builds de Physical Critical suelen ser tu opción más fuerte.",
+      "Usa Orb Shield antes de entrar en situaciones peligrosas.",
+      "No desperdicies Shadow Cloak innecesariamente.",
+      "Prioriza enemigos con poca armadura.",
+      "El posicionamiento es más importante que el daño bruto."
+    ],
+    "synergies": {
+      "viverna": "Viverna y Shadow Fury crean un equipo extremadamente móvil. Ambas heroínas prefieren el combate de golpear y huir en lugar de peleas directas. Presionan constantemente a los enemigos, fuerzan errores y se desenganchen antes de que los rivales puedan responder. Ambas son difíciles de atrapar y pueden abrumar rápidamente objetivos aislados.",
+      "death-slayer": "Lifesteal Aura de Death Slayer funciona excepcionalmente bien con el Physical Damage de Shadow Fury. El sustain adicional permite a Shadow Fury recuperar Health mientras ataca y permanecer activa en el mapa más tiempo. El stun de Death Slayer también crea oportunidades para que Shadow Fury aterrice ataques empoderados con seguridad.",
+      "spiritmonger": "El apoyo de movimiento de Spiritmonger ayuda a Shadow Fury a entrar y salir del combate más efectivamente. La movilidad adicional facilita encontrar peleas favorables y evitar situaciones peligrosas.",
+      "druid": "Speed Aura de Druid permite a Shadow Fury moverse por el mapa más rápido y cazar objetivos aislados más eficientemente. Juntos crean una composición de equipo altamente móvil."
+    },
+    "counters": {
+      "viverna": "Aunque pueden trabajar bien juntas como aliadas, Viverna también es una de las rivales más molestas para Shadow Fury. Su Poison daña continuamente a Shadow Fury. Como Orb Shield pierde cargas cada vez que recibe daño, un solo ataque de veneno puede eliminar rápidamente la protección del escudo.",
+      "stonewarden": "Stonewarden es uno de los counters más duros de Shadow Fury. Su Armor Aura reduce el Physical Damage de Shadow Fury. Su reflexión de daño puede eliminar cargas de Orb Shield. Su armadura naturalmente alta lo hace extremadamente difícil de eliminar con burst.",
+      "flameweaver": "El fuego de Flameweaver hace daño a lo largo del tiempo continuamente. El daño periódico elimina rápidamente las cargas de Orb Shield y dificulta que Shadow Fury entre en combate con seguridad. Muchos builds de Flameweaver también usan Mana Shield, haciéndolo sorprendentemente durable contra daño de burst."
+    },
+    "faq": [
+      {
+        "q": "¿Shadow Fury es una maga?",
+        "a": "No. A pesar de usar habilidades, todo el daño de Shadow Fury es Physical Damage."
+      },
+      {
+        "q": "¿Magic Critical Chance ayuda a Shadow Fury?",
+        "a": "No. Ninguna de las habilidades de Shadow Fury se beneficia de Magic Critical Chance."
+      },
+      {
+        "q": "¿Magic Armor Reduction ayuda a Shadow Fury?",
+        "a": "No. Shadow Fury se beneficia principalmente de Physical Armor Reduction."
+      },
+      {
+        "q": "¿Cuál es la mayor fortaleza de Shadow Fury?",
+        "a": "Su capacidad de eliminar rápidamente héroes enemigos antes de que puedan reaccionar."
+      },
+      {
+        "q": "¿Cuál es la mayor debilidad de Shadow Fury?",
+        "a": "La armadura y los efectos de daño a lo largo del tiempo. Ambos reducen significativamente su efectividad."
+      },
+      {
+        "q": "¿Shadow Fury es amigable para principiantes?",
+        "a": "No. Shadow Fury es uno de los héroes más difíciles en Spelltroum y requiere buen posicionamiento y toma de decisiones."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Shadow Fury?",
+        "a": "Viverna, Death Slayer, Spiritmonger y Druid tienen buena sinergia con el estilo de juego móvil de Shadow Fury."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Shadow Fury?",
+        "a": "Stonewarden, Flameweaver y Viverna están entre los matchups más desafiantes."
+      },
+      {
+        "q": "¿Cómo debo buildear a Shadow Fury?",
+        "a": "Enfócate en Physical Damage, Physical Critical Chance y Critical Damage. Evita items de Magic Critical y Magic Damage."
+      }
+    ],
+    "abilities": {
+      "ShadowAutoattackTitle": "Ataque Básico",
+      "ShadowAutoattackDescription": "Pasivo. Shadow Fury dispara proyectiles empoderados que hacen Physical Damage aumentado. Cada ataque también reduce el Physical Armor del objetivo, haciendo que los golpes posteriores hagan más daño. Sus ataques escalan excepcionalmente bien con Physical Damage, Critical Chance y bonos de Critical Damage. Como todo su daño es físico, la selección de items es extremadamente importante.",
+      "ShadowDamageProtectionTitle": "Orb Shield",
+      "ShadowDamageProtectionDescription": "Habilidad Activa. Shadow Fury crea un escudo protector que bloquea el 100% del daño entrante. Cada ataque bloqueado o habilidad que hace daño consume una carga del escudo. En Nivel 1, Orb Shield bloquea un solo golpe. En Nivel 3, Orb Shield puede bloquear hasta tres golpes. Después de que Orb Shield se activa, Shadow Fury gana un aumento temporal de velocidad de movimiento, permitiéndole reposicionarse o escapar del peligro.",
+      "ShadowHiddenAttackTitle": "Shadow Cloak",
+      "ShadowHiddenAttackDescription": "Habilidad Activa. Shadow Fury se vuelve invisible por un corto tiempo. Mientras está invisible, prepara un devastador ataque empoderado. El primer ataque después de salir de la invisibilidad hace daño adicional basado en la Health actual del objetivo — cuanto más sano esté el objetivo, más daño adicional recibe. Esto hace a Shadow Fury especialmente efectiva contra héroes con grandes reservas de Health pero poca armadura. Shadow Cloak es la base del estilo de juego de asesina de Shadow Fury."
+    }
+  },
+  "spiritmonger": {
+    "overview": "Spiritmonger es uno de los héroes más versátiles en Spelltroum. Combina Physical Damage fuerte, Magic Damage poderoso, excelente movilidad y gran utilidad de equipo. Por eso puede jugarse tanto como carry como dealer de daño orientado al apoyo. Spiritmonger recompensa a los jugadores que disfrutan de héroes que se adaptan a diferentes situaciones. A diferencia de muchos héroes que se enfocan en Physical o Magical Damage, Spiritmonger combina exitosamente los dos.",
+    "playstyle": "Su gameplay gira en torno a recolectar Souls y usarlos para aumentar su daño de ataque. Conforme Spiritmonger acumula Souls, su Ataque Básico se vuelve cada vez más peligroso. Una Spiritmonger bien farmeada puede convertirse en uno de los dealers de daño más altos del juego. Al mismo tiempo, su Soul Orb le da poderoso daño mágico de burst, mientras que Velocity proporciona movilidad excepcional tanto para ella como para sus aliados.",
+    "playstyleHighlights": [
+      "Farmear eficientemente",
+      "Escalar hasta ser carry de late game",
+      "Hostigar enemigos desde lejos",
+      "Apoyar compañeros con movilidad",
+      "Controlar peleas mediante posicionamiento"
+    ],
+    "strengths": [
+      "Fuerte escalado de Physical Damage",
+      "Poderoso Magical Damage",
+      "Excelente movilidad",
+      "Fuerte utilidad de equipo",
+      "Efectiva durante todas las etapas de la partida",
+      "Puede jugarse agresiva o defensivamente",
+      "Uno de los mejores héroes escalables en Spelltroum",
+      "Excelente sinergia con muchos compañeros"
+    ],
+    "weaknesses": [
+      "Pierde Souls al morir antes de Nivel 10",
+      "Requiere buen posicionamiento",
+      "Depende de farmear para alcanzar su máximo potencial",
+      "Puede tener dificultades contra héroes cuerpo a cuerpo muy tanky",
+      "Soul Orb requiere práctica para usarlo efectivamente"
+    ],
+    "tips": [
+      "Farmea Souls siempre que puedas.",
+      "Evita muertes innecesarias antes de llegar al Nivel 10.",
+      "Usa arbustos para maximizar los rebotes de Soul Orb.",
+      "Guarda Velocity para los momentos importantes.",
+      "Posiciónate con cuidado durante las peleas de equipo.",
+      "Usa tu ventaja de movilidad para controlar los combates.",
+      "Recuerda que una Spiritmonger con todas sus cargas se convierte en un carry poderoso."
+    ],
+    "synergies": {
+      "spitfire": "Spitfire proporciona Attack Speed mediante Arrowstorm. Esto permite a Spiritmonger atacar mucho más rápido y aprovechar al máximo su Soul Damage acumulado. Juntos crean una poderosa composición de daño a distancia.",
+      "stonewarden": "Stonewarden crea una de las combinaciones más fuertes de Spiritmonger. Cuando Stonewarden atrapa a un enemigo cerca de una pared, Soul Orb puede rebotar repetidamente entre el enemigo y la pared. Armor Aura de Stonewarden también ayuda a Spiritmonger a sobrevivir más tiempo durante las peleas.",
+      "druid": "Los arbustos de Druid crean oportunidades adicionales de rebote para Soul Orb. Cuando Druid coloca un arbusto cerca de un enemigo, el orbe de Spiritmonger puede rebotar entre el enemigo y el arbusto, golpeando al objetivo varias veces. Esta es una de las combinaciones de sinergia más fuertes del juego.",
+      "death-slayer": "Lifesteal Aura de Death Slayer proporciona sustain valioso para Spiritmonger. La supervivencia adicional le permite mantenerse agresiva mientras sigue farmeando Souls y presionando enemigos.",
+      "freezi": "El control de masas de Freezi le da a Spiritmonger tiempo para aterrizar Soul Orb con más fiabilidad. Mientras tanto, Damage Aura de Freezi aumenta la efectividad de los ataques de Spiritmonger."
+    },
+    "counters": {
+      "shadow-fury": "Shadow Fury puede ser frustrante de enfrentar. Orb Shield puede bloquear completamente el daño de Soul Orb, eliminando una de las herramientas ofensivas más fuertes de Spiritmonger. Al mismo tiempo, Shadow Fury puede golpear y retirarse antes de que Spiritmonger tenga tiempo de responder.",
+      "grizzly": "La enorme reserva de Health de Grizzly lo hace difícil de eliminar con burst. Si llega a Spiritmonger en combate cercano, ella puede verse rápidamente superada. Spiritmonger generalmente prefiere pelear desde lejos en lugar de estar frente a frente con héroes muy tanky.",
+      "death-slayer": "Death Slayer es un rival peligroso una vez que llega al rango cuerpo a cuerpo. Su stun le permite cerrar la distancia, y su Lifesteal hace difíciles las peleas prolongadas. Si Spiritmonger no puede mantener distancia entre ellos, Death Slayer puede volverse una amenaza seria."
+    },
+    "faq": [
+      {
+        "q": "¿Cómo funcionan los Souls?",
+        "a": "Cada Soul recolectado otorga +10 de Attack Damage."
+      },
+      {
+        "q": "¿Spiritmonger puede recolectar Souls de arbustos?",
+        "a": "Sí. Los Souls pueden recolectarse de arbustos derrotados, criaturas y héroes enemigos."
+      },
+      {
+        "q": "¿Qué pasa cuando Spiritmonger muere?",
+        "a": "Normalmente, pierde la mitad de sus Souls recolectados."
+      },
+      {
+        "q": "¿Cómo dejo de perder Souls?",
+        "a": "Desbloquea la Super Ability mejorando a Spiritmonger al Hero Power 9 y alcanza el Nivel 10 durante una partida."
+      },
+      {
+        "q": "¿Spiritmonger es carry o support?",
+        "a": "Los dos. Puede escalar hasta ser un carry poderoso mientras también proporciona utilidad valiosa al equipo mediante Velocity."
+      },
+      {
+        "q": "¿Cuál es la habilidad más fuerte de Spiritmonger?",
+        "a": "Soul Orb generalmente se considera su habilidad de daño más impactante por su mecánica de rebote y alto potencial de burst."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Spiritmonger?",
+        "a": "Spitfire, Stonewarden, Druid, Death Slayer y Freezi tienen excelente sinergia con Spiritmonger."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Spiritmonger?",
+        "a": "Shadow Fury, Grizzly y Death Slayer pueden crear matchups difíciles dependiendo de la situación."
+      },
+      {
+        "q": "¿Spiritmonger es amigable para principiantes?",
+        "a": "Sí. Tiene un kit accesible, fuerte movilidad y múltiples formas de contribuir en una partida, aunque sigue ofreciendo un techo de habilidad alto para jugadores experimentados."
+      }
+    ],
+    "abilities": {
+      "SpiritmongerAutoattackTitle": "Ataque Básico",
+      "SpiritmongerAutoattackDescription": "Ataque Básico. Spiritmonger lanza un abanico encantado que recolecta Souls de enemigos, criaturas y arbustos derrotados. Cada Soul otorga +10 de Attack Damage. Cuantos más Souls recolecta, más fuerte se vuelve su Ataque Básico. Cuando Spiritmonger muere, normalmente pierde la mitad de sus Souls recolectados — creando un equilibrio entre farmear agresivamente y mantenerse viva.",
+      "SpiritmongerDamageTitle": "Soul Orb",
+      "SpiritmongerDamageDescription": "Habilidad Activa. Spiritmonger lanza un orbe mágico que rebota entre objetivos — héroes enemigos, arbustos y otros objetivos válidos. Los enemigos posicionados cerca de arbustos pueden ser golpeados varias veces por el mismo orbe. Un Soul Orb bien colocado puede hacer daño masivo y es una de las habilidades más fuertes de Spiritmonger. El orbe es especialmente peligroso en áreas cerradas donde los enemigos pueden quedar atrapados entre obstáculos.",
+      "SpiritmongerSpeedTitle": "Velocity",
+      "SpiritmongerSpeedDescription": "Habilidad Activa. Spiritmonger gana velocidad de movimiento aumentada por un corto tiempo. En Nivel 3, Velocity también otorga velocidad de movimiento a los aliados cercanos, haciendo a Spiritmonger uno de los supports de movilidad más fuertes en Spelltroum. Puede usarse para perseguir enemigos, escapar de situaciones peligrosas, reposicionarse durante peleas o ayudar a los compañeros a entrar y salir del combate."
+    }
+  },
+  "mortifier": {
+    "overview": "Mortifier es uno de los héroes más únicos en Spelltroum. Combina Physical Damage, Magical Damage, control de masas, trucos de posicionamiento y daño de burst explosivo en un solo héroe. A diferencia de la mayoría de los héroes cuerpo a cuerpo, Mortifier puede jugarse de varias formas completamente diferentes. Algunos jugadores lo construyen como carry cuerpo a cuerpo durable que depende de sus poderosos ataques dobles. Otros se enfocan completamente en sus bombas y lo juegan como mago de burst capaz de eliminar instantáneamente a los enemigos con configuraciones de trampa inteligentes. Por su versatilidad, Mortifier recompensa la creatividad y el conocimiento del juego más que casi cualquier otro héroe.",
+    "playstyle": "A diferencia de los héroes directos, Mortifier siempre está buscando oportunidades para superar a los rivales. Un jugador hábil de Mortifier puede convertir una pelea perdida en una ganada con un solo Swap bien ejecutado. Su combo típico: colocar Blast Traps, esperar a que un enemigo se acerque, luego hacer Swap directamente sobre las trampas — múltiples explosiones al mismo tiempo.",
+    "playstyleHighlights": [
+      "Emboscar enemigos",
+      "Controlar el espacio con trampas",
+      "Castigar errores de posicionamiento",
+      "Salvar aliados con Swap",
+      "Jugar como carry de Physical Damage o como mago de Magical Damage"
+    ],
+    "strengths": [
+      "Héroe extremadamente versátil",
+      "Puede jugarse como Physical Damage o Magical Damage",
+      "Poderoso potencial de burst",
+      "Fuertes mecánicas de outplay",
+      "Excelente control de área",
+      "Puede salvar aliados con Swap",
+      "Peligroso incluso después de morir",
+      "Fuerte escalado durante la partida"
+    ],
+    "weaknesses": [
+      "Requiere buen posicionamiento",
+      "El gameplay de trampas requiere práctica",
+      "El rango cuerpo a cuerpo puede ser arriesgado",
+      "Depende mucho del timing",
+      "Puede tener dificultades contra héroes muy tanky",
+      "Algunos héroes pueden anular completamente sus combos de trampa"
+    ],
+    "tips": [
+      "No dependas solo de las trampas.",
+      "Usa Swap de forma creativa.",
+      "Salva a tus compañeros cuando sea posible.",
+      "Esconde configuraciones de trampas en lugares inesperados.",
+      "Construye Physical Damage si quieres un combate cuerpo a cuerpo más fuerte.",
+      "Construye Magical Damage si quieres combos de trampa más fuertes.",
+      "Recuerda que los enemigos pueden ver tus trampas.",
+      "A veces la amenaza de una trampa es más fuerte que la trampa misma."
+    ],
+    "synergies": {
+      "viverna": "Viverna y Mortifier crean un dúo muy agresivo. Ambos héroes destacan en el combate de golpear y huir y pueden abrumar rápidamente a los enemigos con daño de burst. Viverna presiona a los rivales desde lejos mientras Mortifier busca oportunidades para ejecutar un devastador combo de Swap.",
+      "spiritmonger": "Velocity de Spiritmonger proporciona valiosa velocidad de movimiento. Esto permite a Mortifier alcanzar objetivos más rápido, reposicionarse más fácilmente, configurar combos de trampa con más fiabilidad y escapar de situaciones peligrosas. La mayor movilidad mejora mucho la efectividad de Mortifier.",
+      "druid": "Speed Aura de Druid ayuda a Mortifier a moverse por el mapa más eficientemente. La velocidad de movimiento adicional facilita perseguir enemigos y ejecutar jugadas de Swap.",
+      "freezi": "El stun de Freezi crea oportunidades perfectas para Mortifier. Un enemigo aturdido tiene mucho menos tiempo para reaccionar a las trampas entrantes o combinaciones de Swap. Juntos pueden crear devastadoras cadenas de control de masas."
+    },
+    "counters": {
+      "grizzly": "Grizzly es uno de los rivales más difíciles de Mortifier. Su enorme reserva de Health dificulta eliminarlo con combinaciones de trampas. Incluso cuando es golpeado por múltiples bombas, Grizzly a menudo sobrevive el tiempo suficiente para seguir peleando.",
+      "shadow-fury": "Shadow Fury puede interrumpir completamente los combos de burst de Mortifier. Si activa Orb Shield antes de que conecten las explosiones, el daño puede ser absorbido por completo. Un combo fallido a menudo deja a Mortifier vulnerable a un contraataque.",
+      "viverna": "La movilidad de Viverna la hace difícil de atrapar. Su Blink le permite evitar zonas de trampas y reposicionarse rápidamente. Mortifier a menudo tiene dificultades para forzar combates favorables contra jugadores hábiles de Viverna."
+    },
+    "faq": [
+      {
+        "q": "¿Mortifier es carry o mago?",
+        "a": "Los dos. Mortifier puede buildearse como carry de Physical Damage enfocado en ataques dobles o como héroe de Magical Damage enfocado en combos de Blast Trap."
+      },
+      {
+        "q": "¿Swap funciona en aliados?",
+        "a": "Sí. Swap puede usarse tanto en aliados como en enemigos."
+      },
+      {
+        "q": "¿Las Blast Traps pueden ser destruidas?",
+        "a": "No. Las Blast Traps permanecen activas hasta que explotan o expiran naturalmente."
+      },
+      {
+        "q": "¿Cuál es el combo más fuerte de Mortifier?",
+        "a": "El combo clásico de Blast Trap + Swap generalmente se considera su jugada más fuerte."
+      },
+      {
+        "q": "¿Mortifier es amigable para principiantes?",
+        "a": "No realmente. Sus habilidades son simples de entender pero difíciles de dominar. La mayor parte de su poder proviene del posicionamiento, el timing y el uso creativo de Swap."
+      },
+      {
+        "q": "¿Qué pasa cuando Mortifier muere en Nivel 10?",
+        "a": "Si su Super Ability está desbloqueada, automáticamente deja una Blast Trap en el lugar donde murió."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Mortifier?",
+        "a": "Viverna, Spiritmonger, Druid y Freezi tienen buena sinergia con Mortifier."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Mortifier?",
+        "a": "Grizzly, Shadow Fury y los héroes muy móviles son generalmente los rivales más difíciles para Mortifier."
+      }
+    ],
+    "abilities": {
+      "MortifierAutoattackTitle": "Ataque Básico",
+      "MortifierAutoattackDescription": "Ataque Básico. Los ataques de Mortifier tienen probabilidad de reiniciar instantáneamente su cooldown y golpear de nuevo. El segundo ataque hace Physical Damage adicional y restaura Health a Mortifier. Por esta mecánica, Mortifier puede volverse sorprendentemente peligroso en combate cuerpo a cuerpo directo. Cuando se buildea como héroe de Physical Damage, los ataques dobles repetidos le permiten hacer un daño sostenido masivo mientras se cura al mismo tiempo.",
+      "MortifierSwapTitle": "Swap",
+      "MortifierSwapDescription": "Habilidad Activa. Mortifier intercambia instantáneamente posiciones con un objetivo seleccionado — héroes enemigos, héroes aliados u objetos varios en el mapa. La habilidad también hace daño al objetivo. Swap es una de las habilidades más versátiles en Spelltroum. Puede usarse ofensivamente para arrastrar enemigos al peligro o defensivamente para salvar compañeros de una muerte segura.",
+      "MortifierMineTitle": "Blast Trap",
+      "MortifierMineDescription": "Habilidad Activa. Mortifier coloca una trampa explosiva debajo de sí mismo. La trampa detona cuando un enemigo entra en su rango de activación o cuando expira su temporizador. La explosión hace Magical Damage y ralentiza a los enemigos. Los enemigos pueden ver la trampa e intentar evitarla, creando un interesante juego mental. Blast Trap es la habilidad característica de Mortifier y la base de su estilo de juego como mago. El combo clásico: colocar trampas, esperar, luego hacer Swap a un enemigo directamente sobre ellas."
+    }
+  },
+  "grizzly": {
+    "overview": "Grizzly es uno de los peleadores cuerpo a cuerpo más fuertes en Spelltroum. Combina Health masiva, poderoso daño escalable, curación propia, movilidad y fuerte potencial de duelo en un solo héroe. Grizzly destaca en el combate directo y se vuelve cada vez más peligroso cuanto más tiempo permanece en una pelea. A diferencia de los asesinos que dependen del daño de burst o los magos que atacan desde lejos, Grizzly quiere acercarse a su objetivo y quedarse ahí. Por su supervivencia y habilidades directas, Grizzly a menudo se considera uno de los héroes más fáciles de aprender, aunque sigue siendo extremadamente efectivo en niveles más altos de juego.",
+    "playstyle": "Su gameplay gira en torno a pegarse a un objetivo y atacar continuamente. Cuanto más tiempo Grizzly ataca al mismo enemigo, más daño hace. Combinado con su Health adicional y curación de Bear Leap, esto lo convierte en uno de los héroes más fuertes en combate directo uno a uno. A diferencia de muchos héroes cuerpo a cuerpo, Grizzly también tiene fuerte movilidad gracias a Bear Leap, permitiéndole cerrar la brecha rápidamente contra rivales a distancia.",
+    "playstyleHighlights": [
+      "Ganar peleas prolongadas",
+      "Perseguir enemigos",
+      "Absorber daño",
+      "Combate de primera línea",
+      "Castigar objetivos aislados"
+    ],
+    "strengths": [
+      "Extremadamente durable",
+      "Poderoso daño sostenido",
+      "Fuerte curación propia",
+      "Excelente potencial de duelo",
+      "Fuerte contra tanks",
+      "Fácil de aprender",
+      "Efectivo durante toda la partida",
+      "Fuerte escalado de late game"
+    ],
+    "weaknesses": [
+      "Héroe cuerpo a cuerpo",
+      "Vulnerable cuando va atrás en farmeo",
+      "Depende de mantenerse cerca de los enemigos",
+      "Puede tener dificultades contra héroes muy móviles",
+      "Necesita combates exitosos para ser efectivo"
+    ],
+    "tips": [
+      "Enfócate en un objetivo siempre que puedas.",
+      "No cambies de objetivo innecesariamente.",
+      "Usa Bear Leap agresivamente cuando los enemigos intenten escapar.",
+      "Guarda Snack Time para momentos críticos.",
+      "Deja que los enemigos subestimen tu supervivencia.",
+      "Construye suficiente durabilidad para quedarte en las peleas más tiempo.",
+      "Recuerda que Grizzly se vuelve más fuerte cuanto más dura el combate."
+    ],
+    "synergies": {
+      "viverna": "Viverna y Grizzly se complementan muy bien. Grizzly sirve como primera línea mientras Viverna ataca desde una distancia segura. Los enemigos obligados a lidiar con la presión de Grizzly a menudo se convierten en objetivos fáciles para el veneno y el daño de burst de Viverna.",
+      "freezi": "Damage Aura de Freezi aumenta mucho el daño de Grizzly. Su stun también le da tiempo adicional para alcanzar objetivos y comenzar a acumular su daño de Ataque Básico. Juntos crean una poderosa combinación de control de masas y daño sostenido.",
+      "death-slayer": "Lifesteal Aura de Death Slayer proporciona aún más sustain para Grizzly. La combinación de la gran reserva de Health de Grizzly y Lifesteal adicional puede hacerlo extremadamente difícil de derribar.",
+      "spiritmonger": "Velocity de Spiritmonger ayuda a Grizzly a superar una de sus mayores debilidades: la movilidad. La velocidad de movimiento extra le permite mantenerse en los objetivos con más consistencia y asegurar kills con más fiabilidad."
+    },
+    "counters": {
+      "death-slayer": "Death Slayer es uno de los rivales más difíciles de Grizzly. Ambos héroes destacan en combate directo, pero Lifesteal y el stun de Death Slayer pueden hacer extremadamente difíciles las peleas prolongadas. En muchas situaciones, Death Slayer puede superar a Grizzly en sustain durante combates prolongados.",
+      "stonewarden": "La durabilidad de Stonewarden crea grandes problemas para Grizzly. Su armadura, habilidades defensivas y reflexión de daño dificultan que Grizzly gane intercambios eficientemente. Stonewarden también puede usar su pared para interrumpir el movimiento y posicionamiento de Grizzly."
+    },
+    "faq": [
+      {
+        "q": "¿Grizzly es tank o carry?",
+        "a": "Los dos. Grizzly es naturalmente tanky pero también puede hacer un daño enorme durante peleas prolongadas."
+      },
+      {
+        "q": "¿Cómo funciona el Ataque Básico de Grizzly?",
+        "a": "Cada golpe consecutivo contra el mismo objetivo aumenta el daño de los ataques futuros."
+      },
+      {
+        "q": "¿Bear Leap puede curar a Grizzly?",
+        "a": "Sí. Bear Leap hace daño y restaura Health al mismo tiempo."
+      },
+      {
+        "q": "¿Grizzly es amigable para principiantes?",
+        "a": "Sí. Sus habilidades son directas, fáciles de entender y efectivas en la mayoría de las situaciones."
+      },
+      {
+        "q": "¿Cuál es la mayor debilidad de Grizzly?",
+        "a": "Los héroes que pueden kitearle, ralentizarle o evitarle continuamente suelen ser sus rivales más difíciles."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Grizzly?",
+        "a": "Viverna, Freezi, Death Slayer y Spiritmonger tienen buena sinergia con Grizzly."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Grizzly?",
+        "a": "Death Slayer, Stonewarden y los héroes a distancia muy móviles son generalmente los matchups más difíciles."
+      },
+      {
+        "q": "¿Grizzly es fuerte en late game?",
+        "a": "Absolutamente. Una vez que Grizzly tiene suficientes items y puede mantenerse en un objetivo, su daño se vuelve extremadamente amenazante."
+      }
+    ],
+    "abilities": {
+      "UrsaAutoattackTitle": "Ataque Básico",
+      "UrsaAutoattackDescription": "Ataque Básico. Los ataques de Grizzly aplican un debuff acumulativo al objetivo. Cada ataque consecutivo contra el mismo enemigo hace daño aumentado. Cuanto más tiempo Grizzly permanece en un objetivo, más peligroso se vuelve. Esto lo hace excepcionalmente fuerte contra tanks, jefes, héroes con mucha vida y enemigos forzados a peleas prolongadas. Si un rival no puede escapar, el daño de Grizzly rápidamente se vuelve abrumador.",
+      "UrsaPowerTitle": "Snack Time",
+      "UrsaPowerDescription": "Habilidad Activa. Grizzly gana temporalmente una gran cantidad de Health adicional. Esta habilidad aumenta dramáticamente su supervivencia y le permite quedarse en las peleas mucho más tiempo que la mayoría de los héroes. Puede usarse antes de entrar en combate, durante una pelea o como herramienta de supervivencia de emergencia. Muchos jugadores de Grizzly la activan cuando su Health baja, haciendo creer a los enemigos que están a punto de asegurar un kill antes de enfrentarse repentinamente a una reserva de Health mucho mayor.",
+      "UrsaBlinkTitle": "Bear Leap",
+      "UrsaBlinkDescription": "Habilidad Activa. Grizzly salta instantáneamente hacia un objetivo cercano. Cuando Bear Leap conecta, el objetivo recibe daño y queda ralentizado, mientras Grizzly restaura Health. Esta habilidad le permite perseguir enemigos que huyen, iniciar peleas, curarse durante el combate y mantenerse encima de héroes a distancia. Un Bear Leap bien ejecutado a menudo determina si Grizzly asegura un kill o permite a un enemigo escapar."
+    }
+  },
+  "faerie": {
+    "overview": "Faerie es un héroe mágico altamente móvil que puede jugarse tanto como carry agresivo de hechizos o como sanador de apoyo. A diferencia de la mayoría de los magos, Faerie puede hacer daño mágico significativo y restaurar Health a los aliados. Esta flexibilidad le permite adaptarse a muchas composiciones de equipo y estilos de juego. Destaca en el combate de golpear y huir, entrar rápido en las peleas, hacer daño de burst y escapar antes de que los enemigos puedan responder. Los jugadores que disfrutan de la movilidad, combos de hechizos y apoyar a sus compañeros encontrarán a Faerie uno de los héroes más gratificantes en Spelltroum.",
+    "playstyle": "Faerie se trata de movimiento, posicionamiento y timing. A diferencia de los héroes de primera línea, se mueve constantemente por el campo de batalla, buscando oportunidades para atacar antes de reposicionarse. Puede jugarse como Maga Carry (Spell Power + Magical Critical Chance para daño de burst) o como Maga de Apoyo (supervivencia y utilidad para mantener vivos a los compañeros).",
+    "playstyleHighlights": [
+      "Hacer un poderoso daño mágico de burst",
+      "Curar aliados con sus ataques",
+      "Escapar de situaciones peligrosas",
+      "Farmear eficientemente con daño en área",
+      "Hostigar enemigos durante toda la partida"
+    ],
+    "strengths": [
+      "Extremadamente móvil",
+      "Poderoso daño mágico de burst",
+      "Puede curar aliados",
+      "Excelente potencial de farmeo",
+      "Fuerte gameplay de golpear y huir",
+      "Difícil de atrapar",
+      "Puede funcionar como carry y como support",
+      "Fuerte utilidad de late game con Silence"
+    ],
+    "weaknesses": [
+      "Relativamente frágil",
+      "Vulnerable cuando la atrapa crowd control",
+      "Requiere buen posicionamiento",
+      "Depende mucho de las habilidades",
+      "Puede tener dificultades contra héroes con fuertes defensas antimagia"
+    ],
+    "tips": [
+      "Usa Flying Sphere agresivamente, pero planea siempre tu ruta de escape.",
+      "Cura a los aliados de primera línea siempre que puedas.",
+      "Combina Flying Sphere y Feyburst para el máximo daño de burst.",
+      "No te quedes en combate directo demasiado tiempo.",
+      "Enfócate en la movilidad y el posicionamiento.",
+      "Guarda Silence para los héroes enemigos clave en las peleas de late game.",
+      "Usa tu ventaja de movimiento para controlar los combates."
+    ],
+    "synergies": {
+      "grizzly": "Grizzly y Faerie forman una excelente combinación de primera línea y retaguardia. Grizzly absorbe daño y fuerza a los enemigos a pelear mientras Faerie lo apoya desde una distancia segura. Su curación permite a Grizzly sobrevivir aún más tiempo, mientras que Grizzly crea espacio para que Faerie lance hechizos con seguridad. Juntos crean un equipo muy durable y difícil de matar.",
+      "viverna": "Viverna y Faerie son una de las combinaciones más fuertes de magia en el juego. Ambas heroínas hacen principalmente daño mágico, tienen excelente movilidad y prefieren combates de golpear y huir. Cuando se combinan con items que reducen la Magic Resistance enemiga, pueden abrumar rápidamente a los rivales con presión mágica continua.",
+      "spiritmonger": "Velocity de Spiritmonger proporciona movilidad adicional, permitiendo a ambas heroínas moverse rápidamente por el campo de batalla. Juntas crean una composición muy móvil que puede entrar, salir y reposicionarse mejor que la mayoría de los equipos."
+    },
+    "counters": {
+      "grizzly": "Grizzly es uno de los rivales más peligrosos para Faerie. Su gran reserva de Health lo hace difícil de eliminar con hechizos. Peor aún, Bear Leap le permite cerrar rápidamente la distancia después de que Faerie intenta escapar. Si Grizzly la alcanza, sobrevivir se vuelve mucho más difícil.",
+      "freezi": "Frost Strike de Freezi puede aturdir a Faerie hasta 2 segundos. Como Faerie es naturalmente frágil, recibir un stun completamente mejorado a menudo puede llevar a una derrota rápida. Contra Freezi, el posicionamiento y el movimiento se vuelven extremadamente importantes.",
+      "shadow-fury": "Orb Shield de Shadow Fury es un gran problema para Faerie. El escudo puede absorber completamente el combo de burst de Faerie, desperdiciando gran parte de su daño. Después de sobrevivir el combo, Shadow Fury puede contraatacar con devastadores ataques físicos. Este matchup a menudo requiere paciencia y un timing cuidadoso."
+    },
+    "faq": [
+      {
+        "q": "¿Faerie es support o carry?",
+        "a": "Los dos. Puede jugarse como maga de daño de burst o como sanadora de apoyo dependiendo de tu build y composición de equipo."
+      },
+      {
+        "q": "¿Faerie puede curar aliados?",
+        "a": "Sí. Su Ataque Básico restaura Health cuando golpea a objetivos aliados."
+      },
+      {
+        "q": "¿Flying Sphere es una habilidad de escape?",
+        "a": "Sí. Flying Sphere es una de las herramientas de movilidad más fuertes en Spelltroum y puede usarse tanto ofensiva como defensivamente."
+      },
+      {
+        "q": "¿Faerie hace daño mágico?",
+        "a": "Sí. Sus habilidades y daño principal son de tipo mágico."
+      },
+      {
+        "q": "¿Faerie es difícil de jugar?",
+        "a": "Tiene un techo de habilidad moderado. Los jugadores nuevos pueden aprenderla rápido, pero dominar su movilidad y posicionamiento requiere práctica."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Faerie?",
+        "a": "Grizzly, Viverna y Spiritmonger tienen buena sinergia con su estilo de juego."
+      },
+      {
+        "q": "¿Qué héroes contrarrestan a Faerie?",
+        "a": "Grizzly, Freezi y Shadow Fury están entre sus matchups más difíciles."
+      },
+      {
+        "q": "¿Qué hace única a Faerie?",
+        "a": "Es uno de los pocos héroes que puede simultáneamente hacer daño mágico significativo, curar aliados y mantener una movilidad excepcional."
+      }
+    ],
+    "abilities": {
+      "FairyAutoattackTitle": "Ataque Básico",
+      "FairyAutoattackDescription": "Ataque Básico. Faerie lanza esferas mágicas que hacen daño mágico a los enemigos. A diferencia de la mayoría de los héroes, sus ataques también pueden curar aliados — si el proyectil golpea a un objetivo aliado, restaura Health en lugar de hacer daño. Con suficiente Attack Speed, Faerie puede convertirse en una sanadora sorprendentemente efectiva, restaurando constantemente Health a los aliados de primera línea mientras se mantiene a una distancia segura.",
+      "FairyBlinkBallTitle": "Flying Sphere",
+      "FairyBlinkBallDescription": "Habilidad Activa. Faerie se transforma en una esfera mágica de movimiento rápido. Mientras está transformada, se vuelve invulnerable, se mueve rápidamente por el campo de batalla y hace daño a los enemigos que atraviesa. Flying Sphere puede usarse para escapar del peligro, entrar en peleas, perseguir enemigos, cruzar obstáculos o reposicionarse durante el combate. Faerie también puede cancelar Flying Sphere antes usando su Ataque Básico, permitiendo a los jugadores hábiles crear patrones de movimiento impredecibles.",
+      "FairySecondSpellTitle": "Feyburst",
+      "FairySecondSpellDescription": "Habilidad Activa. Faerie desata una explosión mágica alrededor de sí misma que daña a todos los enemigos y objetos cercanos. La habilidad tiene excelente sinergia con Flying Sphere: vuela hacia un grupo de enemigos, sal de Flying Sphere, lanza Feyburst instantáneamente y reposiciónate antes de que los enemigos puedan reaccionar. También es extremadamente útil para farmear arbustos y limpiar objetivos rápidamente cuando se combina con items de Spell Power."
+    }
+  },
+  "volcarn": {
+    "overview": "Volcarn es uno de los carries de late game más fuertes en Spelltroum. Empieza relativamente débil y a menudo necesita tiempo para farmear, reunir oro y construir sus items. Sin embargo, si se le deja solo demasiado tiempo, Volcarn puede convertirse en una amenaza abrumadora capaz de cargar partidas enteras. Su gameplay gira en torno a un poderoso escalado, ilusiones invocadas y combate sostenido. A diferencia de los héroes orientados al burst, Volcarn se vuelve más fuerte cuanto más dura una pelea. Los jugadores que disfrutan de farmear, escalar al late game y abrumar a los enemigos con daño bruto se sentirán como en casa con Volcarn.",
+    "playstyle": "Volcarn es un carry a distancia que recompensa la paciencia y el farmeo eficiente. Mientras muchos héroes dependen de combates rápidos, Volcarn se vuelve más fuerte cuanto más sobrevive. Si los enemigos le permiten farmear libremente, puede convertirse rápidamente en uno de los héroes más peligrosos del juego.",
+    "playstyleHighlights": [
+      "Farmear oro eficientemente",
+      "Construir items poderosos de late game",
+      "Crear ilusiones",
+      "Superar en escalado a los héroes enemigos",
+      "Ganar peleas prolongadas mediante daño abrumador"
+    ],
+    "strengths": [
+      "Escalado de late game excepcional",
+      "Daño sostenido extremadamente alto",
+      "Ilusiones poderosas",
+      "Fuerte en peleas prolongadas",
+      "Puede curarse mientras pelea",
+      "Excelente potencial como carry",
+      "Se beneficia mucho de la progresión de items",
+      "Puede abrumar a los enemigos en número"
+    ],
+    "weaknesses": [
+      "Débil en early game",
+      "Requiere tiempo para farmear",
+      "Vulnerable cuando va atrás",
+      "Puede tener dificultades si está constantemente bajo presión",
+      "Depende mucho de los items",
+      "Difícil de recuperarse si los enemigos le niegan el farmeo temprano"
+    ],
+    "tips": [
+      "Enfócate en farmear durante el early game.",
+      "Usa Illusion frecuentemente para maximizar la presión en el mapa.",
+      "Pelea cerca de tu portal siempre que puedas.",
+      "No entres en pánico cuando tu Health baje — tu Attack Speed aumenta.",
+      "Construye hacia items de carry de late game.",
+      "Usa las ilusiones para forzar a los enemigos a tomar decisiones difíciles.",
+      "Evita peleas innecesarias en early game.",
+      "Una vez totalmente farmeado, presiona agresivamente los objetivos y los héroes enemigos."
+    ],
+    "synergies": {
+      "druid": "Druid es uno de los mejores compañeros de Volcarn. Druid proporciona velocidad de movimiento a través de su aura pasiva, permitiendo a Volcarn moverse por el mapa más eficientemente y farmear más rápido. Más adelante en la partida, las criaturas invocadas de Druid y las ilusiones de Volcarn pueden abrumar a los rivales por pura cantidad. Juntos crean una poderosa composición basada en invocaciones.",
+      "spiritmonger": "Velocity de Spiritmonger otorga velocidad de movimiento adicional. Esto permite a Volcarn rotar más rápido, farmear más eficientemente y reposicionarse durante las peleas. La movilidad extra ayuda a Volcarn a alcanzar sus picos de poder de late game más pronto.",
+      "death-slayer": "Death Slayer proporciona Lifesteal Aura, que es increíblemente valiosa para Volcarn. Volcarn ya destaca en peleas prolongadas, y el Lifesteal adicional lo hace aún más difícil de derribar. Death Slayer también puede proteger a Volcarn con control de masas mientras Volcarn se enfoca en farmear y escalar."
+    },
+    "faq": [
+      {
+        "q": "¿Volcarn es un héroe carry?",
+        "a": "Sí. Volcarn es uno de los carries de late game más fuertes en Spelltroum."
+      },
+      {
+        "q": "¿Illusion copia mis items?",
+        "a": "Sí. Las ilusiones heredan los items de Volcarn y la mayoría de los bonos de combate."
+      },
+      {
+        "q": "¿Cuánto daño hace la Illusion?",
+        "a": "La Illusion hace el 50% del daño normal de Volcarn."
+      },
+      {
+        "q": "¿Por qué Volcarn ataca más rápido cuando está herido?",
+        "a": "Su Ataque Básico aumenta pasivamente el Attack Speed basado en la Health faltante."
+      },
+      {
+        "q": "¿Volcarn es fuerte en early game?",
+        "a": "No normalmente. Volcarn se vuelve significativamente más fuerte después de conseguir items y niveles."
+      },
+      {
+        "q": "¿Qué pasa en Nivel 10?",
+        "a": "Si Volcarn tiene desbloqueada su Super Ability, sus Illusions ganan daño adicional y copian los efectos de Demon's Snack Time."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Volcarn?",
+        "a": "Druid, Spiritmonger y Death Slayer están entre sus compañeros más fuertes."
+      },
+      {
+        "q": "¿Qué hace único a Volcarn?",
+        "a": "Volcarn combina un potente escalado, curación propia, gameplay de ilusiones y Attack Speed creciente conforme baja su Health, haciéndolo uno de los héroes de late game más peligrosos del juego."
+      }
+    ],
+    "abilities": {
+      "VolcarnBasicAttackTitle": "Ataque Básico",
+      "VolcarnBasicAttackDescription": "Ataque Básico. Volcarn gana Attack Speed aumentado basado en su Health faltante. Cuanto más baja su Health, más rápido ataca. Esto crea un estilo de juego único de riesgo versus recompensa — durante peleas intensas, Volcarn a menudo se vuelve más peligroso conforme su Health disminuye. Combinado con sus otras habilidades, esto le permite generar un daño sostenido increíble durante batallas prolongadas.",
+      "VolcarnPowerUpTitle": "Demon's Snack Time",
+      "VolcarnPowerUpDescription": "Habilidad Activa. Demon's Snack Time hace que los ataques de Volcarn ciclen a través de efectos especiales. Cada ataque consecutivo aplica un bono diferente: reducción de Physical Armor, probabilidad de stun y curación propia. Conforme la habilidad sube de nivel, estos efectos se vuelven significativamente más fuertes. En nivel máximo, Volcarn puede aplicar una reducción sustancial de Armor, tener una alta probabilidad de stun y restaurar Health significativa durante el combate. Una vez completamente mejorada, cada ataque contribuye utilidad y daño adicional.",
+      "VolcarnIllusionTitle": "Illusion",
+      "VolcarnIllusionDescription": "Habilidad Activa. Volcarn crea un portal debajo de sí mismo. Mientras está parado en el portal, Volcarn se cura continuamente. Si sale del portal antes de que expire, el portal se transforma en una Illusion de Volcarn. La ilusión hereda items, bonos de Critical Strike, efectos de reducción de armadura, bonos de Attack Speed y la mayoría de las estadísticas de combate — pero hace solo el 50% del daño de Volcarn. Cuando Volcarn está completamente buildeado, incluso el 50% de su daño puede ser extremadamente amenazante."
+    }
+  },
+  "stonewarden": {
+    "overview": "Stonewarden es uno de los héroes más resistentes en Spelltroum. Se especializa en durabilidad, control del campo de batalla y apoyo al equipo. A diferencia de la mayoría de los héroes que se enfocan en daño o movilidad, Stonewarden destaca en controlar el espacio, proteger aliados y forzar a los enemigos a peleas desfavorables. Su poderosa Armor Aura hace tanto a sí mismo como a los aliados cercanos significativamente más difíciles de matar, mientras que su Stone Wall puede bloquear caminos, atrapar enemigos y crear oportunidades para su equipo. Stonewarden puede jugarse como tank de primera línea, support o bruiser defensivo que abruma lentamente a los rivales mediante supervivencia y reflexión de daño.",
+    "playstyle": "Stonewarden no es un héroe que depende de combos llamativos o movilidad. Se desempeña mejor cuando se coloca entre los enemigos y sus aliados, forzando a los rivales a pelear según sus condiciones. Por su daño naturalmente alto y herramientas defensivas, Stonewarden puede permanecer relevante durante cada etapa de la partida.",
+    "playstyleHighlights": [
+      "Durabilidad superior",
+      "Control del campo de batalla",
+      "Apoyo al equipo",
+      "Reflexión de daño",
+      "Posicionamiento inteligente"
+    ],
+    "strengths": [
+      "Extremadamente durable",
+      "Poderosa Armor Aura",
+      "Excelente apoyo al equipo",
+      "Fuerte control del campo de batalla",
+      "Alto daño base",
+      "La reflexión de daño castiga a los atacantes",
+      "Efectivo durante toda la partida",
+      "Difícil de matar en peleas prolongadas"
+    ],
+    "weaknesses": [
+      "Baja movilidad",
+      "Attack Speed más lento",
+      "Puede tener dificultades contra héroes muy móviles",
+      "Depende del posicionamiento",
+      "Las paredes pueden ser destruidas",
+      "Menos daño explosivo que los carries dedicados"
+    ],
+    "tips": [
+      "Usa Stone Wall para bloquear rutas de escape, no solo para hacer daño.",
+      "Posiciónate entre los enemigos y tus aliados.",
+      "Aprovecha Armor Aura durante las peleas de equipo.",
+      "Recuerda que el daño reflejado puede ganar intercambios a lo largo del tiempo.",
+      "Los items de Attack Speed funcionan excepcionalmente bien con el alto daño base de Stonewarden.",
+      "Farmea arbustos siempre que puedas para maximizar tu Super Ability de late game.",
+      "Usa las paredes para crear oportunidades para tus compañeros, no solo para ti mismo."
+    ],
+    "synergies": {
+      "spiritmonger": "Spiritmonger tiene una de las combinaciones más fuertes con Stonewarden. Stonewarden puede atrapar enemigos usando Stone Wall, permitiendo que Soul Orb de Spiritmonger rebote repetidamente entre el enemigo atrapado y los segmentos de pared cercanos. Esta combinación puede hacer cantidades enormes de daño y es uno de los combos de control y burst más peligrosos del juego.",
+      "druid": "Stonewarden funciona muy bien con Druid. Druid puede invocar criaturas desde las paredes de Stonewarden, creando presión adicional y oportunidades tácticas inesperadas. La combinación de paredes, invocaciones y control del campo de batalla dificulta que los enemigos se muevan libremente.",
+      "grizzly": "Stonewarden y Grizzly forman una primera línea increíblemente durable. Grizzly gana naturalmente una Health masiva mediante Snack Time, mientras que Stonewarden proporciona Armor adicional mediante Armor Aura. El resultado es un par de héroes que se vuelven extremadamente difíciles de derribar, destacando en peleas de equipo directas y control de objetivos."
+    },
+    "faq": [
+      {
+        "q": "¿Stonewarden es tank o support?",
+        "a": "Los dos. Puede funcionar como tank de primera línea, support defensivo o una combinación de los dos según las necesidades del equipo."
+      },
+      {
+        "q": "¿Armor Aura afecta a los aliados?",
+        "a": "Sí. Armor Aura otorga Armor adicional tanto a Stonewarden como a los aliados cercanos."
+      },
+      {
+        "q": "¿Stone Wall puede atrapar enemigos?",
+        "a": "Sí. Stone Wall puede bloquear el movimiento, cortar rutas de escape y atrapar temporalmente a los rivales."
+      },
+      {
+        "q": "¿Stone Wall hace daño?",
+        "a": "Sí. Los enemigos golpeados por la pared cuando aparece reciben daño inmediatamente."
+      },
+      {
+        "q": "¿Qué hace Damage Reflection?",
+        "a": "En niveles más altos, Armor Aura refleja el 20% del daño entrante de vuelta a los atacantes."
+      },
+      {
+        "q": "¿Stonewarden es difícil de matar?",
+        "a": "Mucho. Entre Armor Aura, Health adicional y reflexión de daño, Stonewarden es uno de los héroes más resistentes en Spelltroum."
+      },
+      {
+        "q": "¿Qué héroes funcionan mejor con Stonewarden?",
+        "a": "Spiritmonger, Druid y Grizzly tienen excelente sinergia con Stonewarden."
+      },
+      {
+        "q": "¿Qué hace único a Stonewarden?",
+        "a": "Su combinación de Armor Aura, reflexión de daño, control de paredes y durabilidad excepcional le permite influir en las peleas incluso cuando no es quien hace más daño."
+      }
+    ],
+    "abilities": {
+      "GolemBasicAttackTitle": "Ataque Básico",
+      "GolemBasicAttackDescription": "Ataque Básico. Stonewarden gana daño adicional en sus ataques pero sufre Attack Speed reducido. Ataca más lento que la mayoría de los héroes pero cada golpe hace significativamente más daño. Muchos jugadores de Stonewarden compensan con items de Attack Speed, permitiéndole beneficiarse tanto del alto daño como de una mayor frecuencia de ataque. Esto hace que su Ataque Básico escale muy bien en late game.",
+      "GolemWallTitle": "Stone Wall",
+      "GolemWallDescription": "Habilidad Activa. Stonewarden crea una pared de piedra directamente frente a él. La pared puede bloquear el movimiento enemigo, cortar rutas de escape, proteger aliados, crear puntos de embudo y atrapar enemigos. Si la pared aparece encima de un enemigo, hace daño inmediatamente. Las Stone Walls pueden ser destruidas por los ataques enemigos, pero hacerlo a menudo desperdicia tiempo valioso y posicionamiento. Un Stonewarden hábil puede cambiar completamente el flujo de un combate con una pared bien colocada.",
+      "GolemThirdSpellTitle": "Armor Aura",
+      "GolemThirdSpellDescription": "Habilidad Pasiva. Stonewarden otorga continuamente Armor adicional a sí mismo y a los aliados cercanos, haciendo a todo su equipo significativamente más durable contra el daño físico. En niveles más altos, Armor Aura gana un efecto adicional: 20% de Damage Reflection. Cada vez que Stonewarden recibe daño, una parte se refleja automáticamente de vuelta al atacante. Ataca a Stonewarden y recibe daño tú mismo — o ignóralo y permite que controle la pelea. Cualquiera de las dos opciones beneficia al equipo de Stonewarden."
+    }
+  }
+}
