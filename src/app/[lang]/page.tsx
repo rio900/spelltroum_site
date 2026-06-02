@@ -97,7 +97,7 @@ export default async function HomePage({ params }: HomePageProps) {
       {/* Hero Section */}
       <section
         className="relative w-full min-h-screen flex items-center justify-center text-white bg-cover bg-center overflow-x-hidden"
-        style={{ backgroundImage: "url('/Map2.png')" }}
+        style={{ backgroundImage: "url('/Map2.webp')" }}
       >
         {/* Fireflies */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -190,7 +190,7 @@ export default async function HomePage({ params }: HomePageProps) {
       {/* Feature 1 — Team Up */}
       <section
         className="relative w-full min-h-screen flex items-center justify-center text-white bg-cover bg-center overflow-x-hidden"
-        style={{ backgroundImage: "url('/Map0.png')" }}
+        style={{ backgroundImage: "url('/Map0.webp')" }}
       >
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           {[0,1,2,3,4].map(i => <div key={i} className="firefly" />)}
@@ -229,7 +229,7 @@ export default async function HomePage({ params }: HomePageProps) {
       {/* Feature 2 — Items */}
       <section
         className="relative w-full min-h-screen flex items-center justify-center text-white bg-cover bg-center overflow-x-hidden"
-        style={{ backgroundImage: "url('/Map3.png')" }}
+        style={{ backgroundImage: "url('/Map3.webp')" }}
       >
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           {[0,1,2,3,4].map(i => <div key={i} className="firefly" />)}
@@ -268,7 +268,7 @@ export default async function HomePage({ params }: HomePageProps) {
       {/* Feature 3 — Master the Arena */}
       <section
         className="relative w-full min-h-[60vh] flex items-center justify-center text-white bg-cover bg-center overflow-x-hidden"
-        style={{ backgroundImage: "url('/Map2.png')" }}
+        style={{ backgroundImage: "url('/Map2.webp')" }}
       >
         <div className="absolute inset-0 bg-black/60" />
         <div className="relative z-10 w-full px-4 sm:px-6 md:px-10 py-20">
