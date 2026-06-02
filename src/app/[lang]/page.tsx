@@ -175,7 +175,7 @@ export default async function HomePage({ params }: HomePageProps) {
               <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
                 <iframe
                   className="absolute inset-0 w-full h-full rounded-xl"
-                  src="https://www.youtube.com/embed/qypwzIG4Hsg"
+                  src={`https://www.youtube.com/embed/${h.youtubeId}`}
                   title="Spelltroum gameplay"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
