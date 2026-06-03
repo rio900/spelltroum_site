@@ -196,11 +196,14 @@ export default async function HeroPage({ params }: HeroPageProps) {
   const recommendedBuilds = content.recommendedBuilds ?? hero.recommendedBuilds;
   const faq = content.faq ?? hero.faq;
 
+  const metaGuide = (t.heroes as Record<string, string>).metaGuide ?? 'Hero Guide';
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: `${hero.name} — Spelltroum Hero Guide`,
+    headline: `${hero.name} — Spelltroum ${metaGuide}`,
     description: overview?.slice(0, 160) ?? `Guide for ${hero.name} in Spelltroum.`,
+    url: `https://spelltroum.com/${lang}/wiki/heroes/${hero.id}`,
+    ...(hero.avatar ? { image: `https://spelltroum.com${hero.avatar}` } : {}),
     author: { '@type': 'Organization', name: 'Spelltroum' },
     publisher: { '@type': 'Organization', name: 'Spelltroum' },
     ...(faq && faq.length > 0
@@ -214,12 +217,21 @@ export default async function HeroPage({ params }: HeroPageProps) {
       : {}),
   };
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Spelltroum', item: `https://spelltroum.com/${lang}` },
+      { '@type': 'ListItem', position: 2, name: 'Wiki', item: `https://spelltroum.com/${lang}/wiki` },
+      { '@type': 'ListItem', position: 3, name: 'Heroes', item: `https://spelltroum.com/${lang}/wiki/heroes` },
+      { '@type': 'ListItem', position: 4, name: hero.name, item: `https://spelltroum.com/${lang}/wiki/heroes/${hero.id}` },
+    ],
+  };
+
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
 
       <div className="min-h-screen px-4 sm:px-6 py-16">
         <div className="max-w-4xl mx-auto">

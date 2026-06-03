@@ -51,7 +51,11 @@
     "legendaryItem": "Legendärer Gegenstand",
     "metaTitle": "{name} — Helden-Guide",
     "metaDescription": "Alles über {name} in Spelltroum — Fähigkeiten, beste Builds, Stärken, Schwächen und Tipps.",
-    "metaGuide": "Helden-Guide"
+    "metaGuide": "Helden-Guide",
+    "listMetaTitle": "Spelltroum Helden — Alle 13 Helden, Fähigkeiten & Builds | Spelltroum Wiki",
+    "listMetaDescription": "Entdecke alle 13 Spelltroum-Helden — Fernkämpfer, Nahkämpfer, Assassinen, Unterstützer und Beschwörer. Fähigkeiten, Builds, Synergien und Konter für jeden Helden.",
+    "listMetaOgTitle": "Spelltroum Helden — Alle Charaktere, Fähigkeiten & Builds",
+    "listMetaOgDescription": "Alle 13 Spelltroum-Helden mit Fähigkeiten, Builds, Synergien und Kontern. Kostenlos durch Spielen freischaltbar."
   },
   "faq": {
     "title": "FAQ",
@@ -91,7 +95,13 @@
     "categoryBoots": "Stiefel",
     "categorySpell": "Zauber",
     "categoryArtifact": "Artefakt",
-    "rune": "Rune"
+    "rune": "Rune",
+    "metaTitle": "Spelltroum Items — Alle Waffen, Rüstungen & Artefakte | Spelltroum Wiki",
+    "metaDescription": "Entdecke alle Spelltroum-Items — Waffen, Stiefel, Rüstungen und Artefakte. Finde die besten Builds für jeden Helden, Level-Stats und Tipps.",
+    "metaOgTitle": "Spelltroum Items — Alle Waffen, Rüstungen & Artefakte",
+    "metaOgDescription": "Alle Spelltroum-Items mit Stats, besten Helden, einzigartigen Effekten und Build-Tipps.",
+    "metaDetailTitle": "{name} — Spelltroum Item-Guide | Stats, Beste Helden & Tipps",
+    "metaDetailOgTitle": "{name} — Spelltroum Item-Guide"
   },
   "home": {
     "metaTitle": "Spelltroum — Schnelle Mobile Multiplayer-Arena",

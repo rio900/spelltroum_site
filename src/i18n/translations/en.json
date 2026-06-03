@@ -51,7 +51,11 @@
     "legendaryItem": "Legendary Item",
     "metaTitle": "{name} — Hero Guide",
     "metaDescription": "Learn about {name} in Spelltroum — abilities, best builds, strengths, weaknesses, and tips.",
-    "metaGuide": "Hero Guide"
+    "metaGuide": "Hero Guide",
+    "listMetaTitle": "Spelltroum Heroes — All 13 Heroes, Abilities & Builds | Spelltroum Wiki",
+    "listMetaDescription": "Browse all 13 Spelltroum heroes — ranged, melee, assassins, supports and summoners. Find abilities, best item builds, synergies, counters and tips for every hero.",
+    "listMetaOgTitle": "Spelltroum Heroes — All Characters, Abilities & Builds",
+    "listMetaOgDescription": "All 13 Spelltroum heroes with abilities, builds, synergies and counters. Free to unlock by playing."
   },
   "faq": {
     "title": "FAQ",
@@ -125,6 +129,12 @@
     "categoryBoots": "Boots",
     "categorySpell": "Spell",
     "categoryArtifact": "Artifact",
-    "rune": "Rune"
+    "rune": "Rune",
+    "metaTitle": "Spelltroum Items List — All Weapons, Armor & Artifacts | Spelltroum Wiki",
+    "metaDescription": "Browse all Spelltroum items — weapons, boots, armor, and artifacts. Find the best item builds for every hero, stats by level, unique effects, and tips.",
+    "metaOgTitle": "Spelltroum Items — All Weapons, Armor & Artifacts",
+    "metaOgDescription": "Browse all Spelltroum items with stats, best heroes, unique effects and build tips.",
+    "metaDetailTitle": "{name} — Spelltroum Item Guide | Stats, Best Heroes & Tips",
+    "metaDetailOgTitle": "{name} — Spelltroum Item Guide"
   }
 }

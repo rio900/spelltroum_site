@@ -14,18 +14,17 @@ export async function generateMetadata({ params }: HeroesPageProps): Promise<Met
   const { lang } = await params;
   if (!isValidLocale(lang)) return {};
   const t = await getTranslations(lang as Locale);
-  const th = t.heroes;
+  const th = t.heroes as Record<string, string>;
   return {
-    title: `${th.title} — ${th.subtitle} | Spelltroum`,
-    description: `${th.subtitle}. Spelltroum features 13 unique heroes across different roles. Browse all heroes, their abilities, builds and strategies.`,
-    keywords: ['Spelltroum heroes', 'Spelltroum hero list', 'Spelltroum hero guide', 'mobile MOBA heroes', 'Spelltroum characters'],
+    title: th.listMetaTitle,
+    description: th.listMetaDescription,
     alternates: {
       canonical: `https://spelltroum.com/${lang}/wiki/heroes`,
       languages: Object.fromEntries(locales.map((l) => [l, `https://spelltroum.com/${l}/wiki/heroes`])),
     },
     openGraph: {
-      title: `${th.title} | Spelltroum`,
-      description: `${th.subtitle}. Browse all 13 Spelltroum heroes.`,
+      title: th.listMetaOgTitle,
+      description: th.listMetaOgDescription,
       url: `https://spelltroum.com/${lang}/wiki/heroes`,
       siteName: 'Spelltroum',
       type: 'website',
@@ -39,7 +38,35 @@ export default async function HeroesPage({ params }: HeroesPageProps) {
 
   const t = await getTranslations(lang as Locale);
 
+  const heroListJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'Spelltroum Heroes',
+    description: 'All heroes in Spelltroum — ranged, melee, assassins, supports and summoners.',
+    url: `https://spelltroum.com/${lang}/wiki/heroes`,
+    numberOfItems: heroes.length,
+    itemListElement: heroes.map((hero, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: hero.name,
+      url: `https://spelltroum.com/${lang}/wiki/heroes/${hero.id}`,
+    })),
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Spelltroum', item: `https://spelltroum.com/${lang}` },
+      { '@type': 'ListItem', position: 2, name: 'Wiki', item: `https://spelltroum.com/${lang}/wiki` },
+      { '@type': 'ListItem', position: 3, name: 'Heroes', item: `https://spelltroum.com/${lang}/wiki/heroes` },
+    ],
+  };
+
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(heroListJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
     <div className="min-h-screen px-4 sm:px-6 py-16">
       <div className="max-w-6xl mx-auto">
 
@@ -127,5 +154,6 @@ export default async function HeroesPage({ params }: HeroesPageProps) {
 
       </div>
     </div>
+    </>
   );
 }

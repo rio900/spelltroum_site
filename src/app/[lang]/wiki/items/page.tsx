@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { isValidLocale, locales, type Locale } from '@/i18n/config';
 import { getTranslations } from '@/i18n';
 import ItemsGrid from '@/components/wiki/ItemsGrid';
+import { items } from '@/data/items';
 import type { Metadata } from 'next';
 
 interface ItemsPageProps {
@@ -13,18 +14,17 @@ export async function generateMetadata({ params }: ItemsPageProps): Promise<Meta
   const { lang } = await params;
   if (!isValidLocale(lang)) return {};
   const t = await getTranslations(lang as Locale);
-  const ti = t.items;
+  const ti = t.items as Record<string, string>;
   return {
-    title: `${ti.title} — ${ti.subtitle} | Spelltroum`,
-    description: `${ti.subtitle}. Spelltroum features 48 items including weapons, boots, and artifacts. Browse all items with stats, best heroes and tips.`,
-    keywords: ['Spelltroum items', 'Spelltroum item list', 'Spelltroum item guide', 'Spelltroum builds', 'mobile arena items'],
+    title: ti.metaTitle,
+    description: ti.metaDescription,
     alternates: {
       canonical: `https://spelltroum.com/${lang}/wiki/items`,
       languages: Object.fromEntries(locales.map((l) => [l, `https://spelltroum.com/${l}/wiki/items`])),
     },
     openGraph: {
-      title: `${ti.title} | Spelltroum`,
-      description: `${ti.subtitle}. Browse all 48 Spelltroum items.`,
+      title: ti.metaOgTitle,
+      description: ti.metaOgDescription,
       url: `https://spelltroum.com/${lang}/wiki/items`,
       siteName: 'Spelltroum',
       type: 'website',
@@ -39,8 +39,35 @@ export default async function ItemsPage({ params }: ItemsPageProps) {
   const t = await getTranslations(lang);
   const tItems = t.items as Record<string, string>;
 
+  const itemListJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'Spelltroum Items',
+    description: 'All items in Spelltroum — weapons, armor, boots, and artifacts.',
+    url: `https://spelltroum.com/${lang}/wiki/items`,
+    numberOfItems: items.length,
+    itemListElement: items.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      url: `https://spelltroum.com/${lang}/wiki/items/${item.id}`,
+    })),
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Spelltroum', item: `https://spelltroum.com/${lang}` },
+      { '@type': 'ListItem', position: 2, name: 'Wiki', item: `https://spelltroum.com/${lang}/wiki` },
+      { '@type': 'ListItem', position: 3, name: 'Items', item: `https://spelltroum.com/${lang}/wiki/items` },
+    ],
+  };
+
   return (
     <div className="min-h-screen px-4 sm:px-6 py-16">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
       <div className="max-w-6xl mx-auto">
 
         {/* Breadcrumb */}

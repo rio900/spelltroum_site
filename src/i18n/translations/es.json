@@ -51,7 +51,11 @@
     "legendaryItem": "Objeto legendario",
     "metaTitle": "{name} — Guía del Héroe",
     "metaDescription": "Aprende sobre {name} en Spelltroum — habilidades, mejores builds, fortalezas, debilidades y consejos.",
-    "metaGuide": "Guía del Héroe"
+    "metaGuide": "Guía del Héroe",
+    "listMetaTitle": "Héroes de Spelltroum — Los 13 Héroes, Habilidades y Builds | Wiki",
+    "listMetaDescription": "Explora los 13 héroes de Spelltroum — a distancia, cuerpo a cuerpo, asesinos, apoyos e invocadores. Habilidades, builds, sinergias y contadores para cada héroe.",
+    "listMetaOgTitle": "Héroes de Spelltroum — Todos los Personajes, Habilidades y Builds",
+    "listMetaOgDescription": "Los 13 héroes de Spelltroum con habilidades, builds, sinergias y contadores. Desbloqueables gratis jugando."
   },
   "faq": {
     "title": "FAQ",
@@ -91,7 +95,13 @@
     "categoryBoots": "Botas",
     "categorySpell": "Hechizo",
     "categoryArtifact": "Artefacto",
-    "rune": "Runa"
+    "rune": "Runa",
+    "metaTitle": "Objetos de Spelltroum — Todas las Armas, Armaduras y Artefactos | Wiki",
+    "metaDescription": "Explora todos los objetos de Spelltroum — armas, botas, armaduras y artefactos. Encuentra los mejores builds para cada héroe, stats por nivel y consejos.",
+    "metaOgTitle": "Objetos de Spelltroum — Todas las Armas, Armaduras y Artefactos",
+    "metaOgDescription": "Todos los objetos de Spelltroum con stats, mejores héroes, efectos únicos y consejos de build.",
+    "metaDetailTitle": "{name} — Guía de Objeto Spelltroum | Stats, Mejores Héroes y Consejos",
+    "metaDetailOgTitle": "{name} — Guía de Objeto Spelltroum"
   },
   "home": {
     "metaTitle": "Spelltroum — Arena Multijugador Móvil de Acción Rápida",

@@ -21,19 +21,25 @@ export async function generateMetadata({ params }: ItemPageProps): Promise<Metad
   const { lang, item: itemId } = await params;
   const item = getItemById(itemId);
   if (!item) return {};
+  const t = await getTranslations(lang as Locale);
+  const tItems = t.items as Record<string, string>;
   const content = await getItemContent(itemId, lang as Locale);
   const description = content.description ?? item.description;
+  const bestHeroNames = item.bestHeroes.slice(0, 3).map((h) => h.name).join(', ');
+  const metaDescription = description?.slice(0, 155)
+    ?? `${item.name} — ${item.frame} ${item.category.toLowerCase()}. Best for: ${bestHeroNames}. Stats by level, build tips and strategies.`;
+  const metaTitle = (tItems.metaDetailTitle ?? '{name} — Spelltroum Item Guide | Stats, Best Heroes & Tips').replace('{name}', item.name);
+  const metaOgTitle = (tItems.metaDetailOgTitle ?? '{name} — Spelltroum Item Guide').replace('{name}', item.name);
   return {
-    title: `${item.name} — Item Guide | Spelltroum`,
-    description: description?.slice(0, 160) ?? `Learn about ${item.name} in Spelltroum — stats, best heroes, tips and strategies.`,
-    keywords: [`Spelltroum ${item.name}`, `${item.name} build`, `${item.name} guide`, 'Spelltroum items'],
+    title: metaTitle,
+    description: metaDescription,
     alternates: {
       canonical: `https://spelltroum.com/${lang}/wiki/items/${item.id}`,
       languages: Object.fromEntries(locales.map((l) => [l, `https://spelltroum.com/${l}/wiki/items/${item.id}`])),
     },
     openGraph: {
-      title: `${item.name} — Spelltroum Item Guide`,
-      description: description?.slice(0, 160),
+      title: metaOgTitle,
+      description: metaDescription,
       url: `https://spelltroum.com/${lang}/wiki/items/${item.id}`,
       type: 'article',
     },
@@ -72,27 +78,38 @@ export default async function ItemPage({ params }: ItemPageProps) {
   const frameColor = frameColors[item.frame];
   const related = items.filter((i) => i.category === item.category && i.id !== item.id).slice(0, 8);
 
+  const bestHeroNames = item.bestHeroes.slice(0, 3).map((h) => h.name).join(', ');
   const itemJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'Thing',
+    '@type': 'SoftwareApplication',
     name: item.name,
-    description: description?.slice(0, 300),
+    description: description?.slice(0, 300) ?? `${item.name} is a ${item.frame} ${item.category.toLowerCase()} item in Spelltroum. Best for: ${bestHeroNames}.`,
     url: `https://spelltroum.com/${lang}/wiki/items/${item.id}`,
     image: item.image ? `https://spelltroum.com/items/${item.image}` : undefined,
+    applicationCategory: 'Game',
     isPartOf: {
-      '@type': 'WebSite',
+      '@type': 'VideoGame',
       name: 'Spelltroum',
       url: 'https://spelltroum.com',
     },
   };
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Spelltroum', item: `https://spelltroum.com/${lang}` },
+      { '@type': 'ListItem', position: 2, name: 'Wiki', item: `https://spelltroum.com/${lang}/wiki` },
+      { '@type': 'ListItem', position: 3, name: 'Items', item: `https://spelltroum.com/${lang}/wiki/items` },
+      { '@type': 'ListItem', position: 4, name: item.name, item: `https://spelltroum.com/${lang}/wiki/items/${item.id}` },
+    ],
+  };
+
   return (
     <div className="min-h-screen px-4 sm:px-6 py-16">
       <div className="max-w-3xl mx-auto">
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(itemJsonLd) }}
-        />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
 
         {/* Breadcrumb */}
         <div className="flex items-center gap-2 text-sm text-white/40 mb-8">
