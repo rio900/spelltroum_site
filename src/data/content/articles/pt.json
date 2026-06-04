@@ -4,44 +4,540 @@
     "description": "Aprenda como o Spelltroum funciona: fluxo de partidas, coroas, ouro, itens, melhorias de habilidades, criaturas neutras, combates contra chefes e estratégias vencedoras neste rápido jogo mobile multijogador.",
     "category": "Guias",
     "sections": [
-      { "type": "h2", "content": "Como funciona uma partida no Spelltroum" },
-      { "type": "p", "content": "Spelltroum é um rápido jogo mobile multijogador onde cada partida dura cerca de 2 a 3 minutos. O modo de jogo principal é o 2v2, onde você forma equipe com um amigo ou outro jogador para competir contra uma equipe adversária. O jogo também inclui um modo Free-for-All solo e conteúdo PvE para jogadores que apreciam desafios cooperativos." },
-      { "type": "p", "content": "Cada partida acontece em uma arena de batalha em grade cheia de arbustos destrutíveis, paredes de pedra indestrutíveis, criaturas neutras, tesouros e objetivos. O objetivo é simples: coletar mais Coroas do que a equipe adversária e atingir o alvo de vitória antes deles. Embora o objetivo seja fácil de entender, há muitas maneiras diferentes de alcançá-lo — alguns jogadores se concentram em lutar contra heróis inimigos e roubar suas Coroas, enquanto outros evitam o combate, farmam eficientemente e vencem através de controle de mapa superior." },
-      { "type": "image", "src": "/articles/game-mechanics/roundpreviw.jpg", "alt": "Prévia do mapa da arena Spelltroum antes do início da partida", "caption": "A tela de visão geral do mapa permite que você planeje sua estratégia antes que a batalha comece." },
-      { "type": "h2", "content": "Antes da partida" },
-      { "type": "p", "content": "Antes de entrar na batalha, os jogadores preparam seus builds de herói. Cada build contém 4 slots de itens — os três primeiros podem conter qualquer item disponível, e o quarto slot pode conter um item regular ou um item Lendário. Itens Lendários são opcionais e são projetados para desbloquear mecânicas únicas e estilos de jogo alternativos, em vez de fornecer vantagens de poder diretas." },
-      { "type": "p", "content": "Antes do início da partida, os jogadores podem criar múltiplos builds para o mesmo herói. Uma vez que os oponentes são revelados, os jogadores podem selecionar o build que melhor se adapta ao confronto — permitindo adaptação estratégica completa antes que a batalha comece." },
-      { "type": "image", "src": "/articles/game-mechanics/beginingmatchselectitembuild.jpg", "alt": "Tela de seleção de build de itens do Spelltroum no início da partida", "caption": "Selecione ou troque seu build de itens assim que ver a equipe adversária — o counter-building é uma parte central da estratégia do Spelltroum." },
-      { "type": "h2", "content": "O campo de batalha" },
-      { "type": "p", "content": "Cada arena contém arbustos destrutíveis, paredes de pedra indestrutíveis, criaturas neutras, moedas, coroas e runas. Os arbustos são um dos elementos mais importantes do jogo — destruí-los pode revelar moedas, coroas, poções, runas e bônus especiais. Como os arbustos contêm recursos valiosos, o farm eficiente é uma grande parte de vencer." },
-      { "type": "h2", "content": "Moedas e ouro" },
-      { "type": "p", "content": "O ouro é o recurso primário durante uma partida. Os jogadores ganham ouro coletando moedas, destruindo arbustos, derrotando inimigos e usando certos efeitos de itens. O ouro é usado para comprar e melhorar itens durante a partida. À medida que o jogo avança, os jogadores decidem continuamente se investem em dano, saúde, mobilidade, eficiência de farm, utilidade ou efeitos de suporte." },
-      { "type": "image", "src": "/articles/game-mechanics/gameplay1.jpg", "alt": "Loja do Spelltroum aberta durante uma partida — comprando o primeiro item", "caption": "Assim que você coleta ouro suficiente, a loja abre automaticamente para que você possa comprar seu primeiro item sem sair da ação." },
-      { "type": "h2", "content": "Criaturas neutras e melhorias de habilidades" },
-      { "type": "p", "content": "Criaturas neutras aparecem periodicamente no mapa. Derrotá-las solta Pergaminhos, que fornecem experiência usada para melhorar habilidades. Cada herói tem três habilidades: Ataque Básico, Habilidade de Utilidade e Habilidade de Combate. Até o Ataque Básico é uma habilidade que pode ser melhorada. Os jogadores devem decidir quais habilidades priorizar — algumas melhorias aprimoram o farm, algumas a mobilidade e outras a eficácia em combate." },
-      { "type": "h2", "content": "Coroas: o objetivo principal" },
-      { "type": "p", "content": "Coroas são o recurso mais importante no Spelltroum. A primeira equipe a atingir o alvo de Coroas vence imediatamente. Coroas podem ser obtidas destruindo arbustos, derrotando heróis inimigos, completando objetivos e derrotando chefes. Quando um herói é derrotado, aproximadamente 30% de suas Coroas carregadas são largadas — criando uma tensão estratégica chave: focar em coletar Coroas, ou caçar jogadores carregando grandes quantidades?" },
-      { "type": "image", "src": "/articles/game-mechanics/gameplay2.jpg", "alt": "Gameplay do Spelltroum — coroas e moedas no mapa da arena", "caption": "Coroas e moedas estão espalhadas pelo mapa. Farmar eficientemente enquanto permanece vivo é a chave para a vitória." },
-      { "type": "h2", "content": "Rodadas e fluxo da partida" },
-      { "type": "p", "content": "Uma partida é dividida em rodadas curtas, cada uma com duração de aproximadamente um minuto. No início de cada rodada, os arbustos reaparecem, os recursos são redistribuídos e novas oportunidades aparecem no mapa. Isso mantém as partidas dinâmicas e evita que os jogos sejam previsíveis — os jogadores devem se adaptar constantemente a situações em mudança." },
-      { "type": "h2", "content": "Encontros com chefes" },
-      { "type": "p", "content": "Muitos mapas classificados apresentam um poderoso Chefe durante a rodada final. Derrotar o Chefe recompensa com um grande bônus de Coroas. Como o Chefe vale tantas Coroas, muitas vezes se torna o centro das atenções no final do jogo. No entanto, derrotar o Chefe nem sempre é a estratégia correta — às vezes é mais eficaz deixar outra equipe engajar o Chefe e então roubar o objetivo, ou derrotar a equipe inimiga enfraquecida depois que ela já comprometeu recursos." },
-      { "type": "h2", "content": "Heróis e sinergia de equipe" },
-      { "type": "p", "content": "Spelltroum apresenta um elenco crescente de heróis únicos, cada um com seus próprios pontos fortes, pontos fracos e estilos de jogo. A maioria dos heróis é projetada em torno de uma ferramenta de mobilidade, uma habilidade ofensiva e uma mecânica de herói única. Como o modo principal é 2v2, as combinações de heróis importam — uma equipe bem coordenada pode criar sinergias poderosas impossíveis de alcançar sozinho." },
-      { "type": "h2", "content": "Filosofia de equilíbrio" },
-      { "type": "p", "content": "Spelltroum é projetado em torno de escolhas significativas em vez de obrigatórias. Diferentes itens suportam diferentes estratégias, estilos de jogo e situações. Um build focado em dano ajuda um herói a farmar mais rápido e eliminar oponentes mais rapidamente. Um build defensivo torna esse mesmo herói significativamente mais difícil de matar. Nenhuma escolha é automaticamente melhor." },
-      { "type": "p", "content": "O Time-to-Kill é um dos princípios fundamentais usados no balanceamento do jogo. O objetivo não é criar lutas de eliminação instantânea — é criar um combate onde posicionamento, movimento, timing, tomada de decisão e trabalho em equipe importem. Itens Lendários não são destinados a ser mais fortes do que itens regulares. Eles desbloqueiam novas mecânicas, estratégias alternativas e estilos de jogo únicos específicos do herói." },
-      { "type": "h2", "content": "Perguntas frequentes" },
-      { "type": "faq", "faqItems": [
-        { "q": "Quanto tempo dura uma partida do Spelltroum?", "a": "A maioria das partidas dura entre 2 e 3 minutos." },
-        { "q": "Qual é o modo de jogo principal?", "a": "O modo de jogo principal é o multijogador 2v2, embora os modos Free-for-All solo e PvE também estejam disponíveis." },
-        { "q": "Qual é o objetivo de uma partida?", "a": "Coletar Coroas suficientes para atingir o alvo de vitória antes da equipe adversária." },
-        { "q": "O que acontece quando um herói morre?", "a": "Aproximadamente 30% de suas Coroas coletadas são largadas e podem ser recolhidas por outros jogadores." },
-        { "q": "Por que os arbustos são importantes?", "a": "Os arbustos contêm recursos valiosos como Moedas, Coroas, Poções, Runas e outros bônus." },
-        { "q": "Preciso lutar contra jogadores inimigos para vencer?", "a": "Nem sempre. Alguns jogadores vencem através de combate agressivo, enquanto outros se concentram em farm eficiente e controle de objetivos." },
-        { "q": "Itens Lendários são mais fortes do que itens regulares?", "a": "Não. Itens Lendários desbloqueiam mecânicas únicas e estilos de jogo alternativos em vez de fornecer vantagens de poder diretas." },
-        { "q": "Existe um único melhor build no Spelltroum?", "a": "Não. Diferentes situações, companheiros de equipe, inimigos e mapas requerem diferentes estratégias e combinações de itens." }
-      ]}
+      {
+        "type": "h2",
+        "content": "Como funciona uma partida no Spelltroum"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum é um rápido jogo mobile multijogador onde cada partida dura cerca de 2 a 3 minutos. O modo de jogo principal é o 2v2, onde você forma equipe com um amigo ou outro jogador para competir contra uma equipe adversária. O jogo também inclui um modo Free-for-All solo e conteúdo PvE para jogadores que apreciam desafios cooperativos."
+      },
+      {
+        "type": "p",
+        "content": "Cada partida acontece em uma arena de batalha em grade cheia de arbustos destrutíveis, paredes de pedra indestrutíveis, criaturas neutras, tesouros e objetivos. O objetivo é simples: coletar mais Coroas do que a equipe adversária e atingir o alvo de vitória antes deles. Embora o objetivo seja fácil de entender, há muitas maneiras diferentes de alcançá-lo — alguns jogadores se concentram em lutar contra heróis inimigos e roubar suas Coroas, enquanto outros evitam o combate, farmam eficientemente e vencem através de controle de mapa superior."
+      },
+      {
+        "type": "image",
+        "src": "/articles/game-mechanics/roundpreviw.jpg",
+        "alt": "Prévia do mapa da arena Spelltroum antes do início da partida",
+        "caption": "A tela de visão geral do mapa permite que você planeje sua estratégia antes que a batalha comece."
+      },
+      {
+        "type": "h2",
+        "content": "Antes da partida"
+      },
+      {
+        "type": "p",
+        "content": "Antes de entrar na batalha, os jogadores preparam seus builds de herói. Cada build contém 4 slots de itens — os três primeiros podem conter qualquer item disponível, e o quarto slot pode conter um item regular ou um item Lendário. Itens Lendários são opcionais e são projetados para desbloquear mecânicas únicas e estilos de jogo alternativos, em vez de fornecer vantagens de poder diretas."
+      },
+      {
+        "type": "p",
+        "content": "Antes do início da partida, os jogadores podem criar múltiplos builds para o mesmo herói. Uma vez que os oponentes são revelados, os jogadores podem selecionar o build que melhor se adapta ao confronto — permitindo adaptação estratégica completa antes que a batalha comece."
+      },
+      {
+        "type": "image",
+        "src": "/articles/game-mechanics/beginingmatchselectitembuild.jpg",
+        "alt": "Tela de seleção de build de itens do Spelltroum no início da partida",
+        "caption": "Selecione ou troque seu build de itens assim que ver a equipe adversária — o counter-building é uma parte central da estratégia do Spelltroum."
+      },
+      {
+        "type": "h2",
+        "content": "O campo de batalha"
+      },
+      {
+        "type": "p",
+        "content": "Cada arena contém arbustos destrutíveis, paredes de pedra indestrutíveis, criaturas neutras, moedas, coroas e runas. Os arbustos são um dos elementos mais importantes do jogo — destruí-los pode revelar moedas, coroas, poções, runas e bônus especiais. Como os arbustos contêm recursos valiosos, o farm eficiente é uma grande parte de vencer."
+      },
+      {
+        "type": "h2",
+        "content": "Moedas e ouro"
+      },
+      {
+        "type": "p",
+        "content": "O ouro é o recurso primário durante uma partida. Os jogadores ganham ouro coletando moedas, destruindo arbustos, derrotando inimigos e usando certos efeitos de itens. O ouro é usado para comprar e melhorar itens durante a partida. À medida que o jogo avança, os jogadores decidem continuamente se investem em dano, saúde, mobilidade, eficiência de farm, utilidade ou efeitos de suporte."
+      },
+      {
+        "type": "image",
+        "src": "/articles/game-mechanics/gameplay1.jpg",
+        "alt": "Loja do Spelltroum aberta durante uma partida — comprando o primeiro item",
+        "caption": "Assim que você coleta ouro suficiente, a loja abre automaticamente para que você possa comprar seu primeiro item sem sair da ação."
+      },
+      {
+        "type": "h2",
+        "content": "Criaturas neutras e melhorias de habilidades"
+      },
+      {
+        "type": "p",
+        "content": "Criaturas neutras aparecem periodicamente no mapa. Derrotá-las solta Pergaminhos, que fornecem experiência usada para melhorar habilidades. Cada herói tem três habilidades: Ataque Básico, Habilidade de Utilidade e Habilidade de Combate. Até o Ataque Básico é uma habilidade que pode ser melhorada. Os jogadores devem decidir quais habilidades priorizar — algumas melhorias aprimoram o farm, algumas a mobilidade e outras a eficácia em combate."
+      },
+      {
+        "type": "h2",
+        "content": "Coroas: o objetivo principal"
+      },
+      {
+        "type": "p",
+        "content": "Coroas são o recurso mais importante no Spelltroum. A primeira equipe a atingir o alvo de Coroas vence imediatamente. Coroas podem ser obtidas destruindo arbustos, derrotando heróis inimigos, completando objetivos e derrotando chefes. Quando um herói é derrotado, aproximadamente 30% de suas Coroas carregadas são largadas — criando uma tensão estratégica chave: focar em coletar Coroas, ou caçar jogadores carregando grandes quantidades?"
+      },
+      {
+        "type": "image",
+        "src": "/articles/game-mechanics/gameplay2.jpg",
+        "alt": "Gameplay do Spelltroum — coroas e moedas no mapa da arena",
+        "caption": "Coroas e moedas estão espalhadas pelo mapa. Farmar eficientemente enquanto permanece vivo é a chave para a vitória."
+      },
+      {
+        "type": "h2",
+        "content": "Rodadas e fluxo da partida"
+      },
+      {
+        "type": "p",
+        "content": "Uma partida é dividida em rodadas curtas, cada uma com duração de aproximadamente um minuto. No início de cada rodada, os arbustos reaparecem, os recursos são redistribuídos e novas oportunidades aparecem no mapa. Isso mantém as partidas dinâmicas e evita que os jogos sejam previsíveis — os jogadores devem se adaptar constantemente a situações em mudança."
+      },
+      {
+        "type": "h2",
+        "content": "Encontros com chefes"
+      },
+      {
+        "type": "p",
+        "content": "Muitos mapas classificados apresentam um poderoso Chefe durante a rodada final. Derrotar o Chefe recompensa com um grande bônus de Coroas. Como o Chefe vale tantas Coroas, muitas vezes se torna o centro das atenções no final do jogo. No entanto, derrotar o Chefe nem sempre é a estratégia correta — às vezes é mais eficaz deixar outra equipe engajar o Chefe e então roubar o objetivo, ou derrotar a equipe inimiga enfraquecida depois que ela já comprometeu recursos."
+      },
+      {
+        "type": "h2",
+        "content": "Heróis e sinergia de equipe"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum apresenta um elenco crescente de heróis únicos, cada um com seus próprios pontos fortes, pontos fracos e estilos de jogo. A maioria dos heróis é projetada em torno de uma ferramenta de mobilidade, uma habilidade ofensiva e uma mecânica de herói única. Como o modo principal é 2v2, as combinações de heróis importam — uma equipe bem coordenada pode criar sinergias poderosas impossíveis de alcançar sozinho."
+      },
+      {
+        "type": "h2",
+        "content": "Filosofia de equilíbrio"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum é projetado em torno de escolhas significativas em vez de obrigatórias. Diferentes itens suportam diferentes estratégias, estilos de jogo e situações. Um build focado em dano ajuda um herói a farmar mais rápido e eliminar oponentes mais rapidamente. Um build defensivo torna esse mesmo herói significativamente mais difícil de matar. Nenhuma escolha é automaticamente melhor."
+      },
+      {
+        "type": "p",
+        "content": "O Time-to-Kill é um dos princípios fundamentais usados no balanceamento do jogo. O objetivo não é criar lutas de eliminação instantânea — é criar um combate onde posicionamento, movimento, timing, tomada de decisão e trabalho em equipe importem. Itens Lendários não são destinados a ser mais fortes do que itens regulares. Eles desbloqueiam novas mecânicas, estratégias alternativas e estilos de jogo únicos específicos do herói."
+      },
+      {
+        "type": "h2",
+        "content": "Perguntas frequentes"
+      },
+      {
+        "type": "faq",
+        "faqItems": [
+          {
+            "q": "Quanto tempo dura uma partida do Spelltroum?",
+            "a": "A maioria das partidas dura entre 2 e 3 minutos."
+          },
+          {
+            "q": "Qual é o modo de jogo principal?",
+            "a": "O modo de jogo principal é o multijogador 2v2, embora os modos Free-for-All solo e PvE também estejam disponíveis."
+          },
+          {
+            "q": "Qual é o objetivo de uma partida?",
+            "a": "Coletar Coroas suficientes para atingir o alvo de vitória antes da equipe adversária."
+          },
+          {
+            "q": "O que acontece quando um herói morre?",
+            "a": "Aproximadamente 30% de suas Coroas coletadas são largadas e podem ser recolhidas por outros jogadores."
+          },
+          {
+            "q": "Por que os arbustos são importantes?",
+            "a": "Os arbustos contêm recursos valiosos como Moedas, Coroas, Poções, Runas e outros bônus."
+          },
+          {
+            "q": "Preciso lutar contra jogadores inimigos para vencer?",
+            "a": "Nem sempre. Alguns jogadores vencem através de combate agressivo, enquanto outros se concentram em farm eficiente e controle de objetivos."
+          },
+          {
+            "q": "Itens Lendários são mais fortes do que itens regulares?",
+            "a": "Não. Itens Lendários desbloqueiam mecânicas únicas e estilos de jogo alternativos em vez de fornecer vantagens de poder diretas."
+          },
+          {
+            "q": "Existe um único melhor build no Spelltroum?",
+            "a": "Não. Diferentes situações, companheiros de equipe, inimigos e mapas requerem diferentes estratégias e combinações de itens."
+          }
+        ]
+      }
+    ]
+  },
+  "spelltroum-vs-brawl-stars": {
+    "title": "Spelltroum vs Brawl Stars: Qual Jogo é Certo para Você?",
+    "description": "Spelltroum e Brawl Stars parecem similares à primeira vista, mas oferecem experiências completamente diferentes. Compare gameplay, estratégia, builds de heróis, progressão e monetização.",
+    "category": "vs",
+    "sections": [
+      {
+        "type": "p",
+        "content": "À primeira vista, muitos jogadores assumem que Spelltroum é similar ao Brawl Stars."
+      },
+      {
+        "type": "p",
+        "content": "A comparação é compreensível. Ambos são jogos de arena multiplayer coloridos com heróis, habilidades e partidas curtas. Alguns jogadores veem o menu principal e imediatamente pensam: \"Isso parece Brawl Stars.\""
+      },
+      {
+        "type": "p",
+        "content": "No entanto, assim que você entra em uma partida, as semelhanças terminam."
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum e Brawl Stars são construídos em torno de filosofias de gameplay completamente diferentes e oferecem experiências muito distintas."
+      },
+      {
+        "type": "h2",
+        "content": "A Maior Diferença: Estratégia vs. Mira"
+      },
+      {
+        "type": "p",
+        "content": "O foco principal do Brawl Stars é a habilidade mecânica."
+      },
+      {
+        "type": "p",
+        "content": "O sucesso frequentemente depende de:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Mira precisa",
+          "Acertar skill shots",
+          "Desviar de ataques inimigos",
+          "Reações rápidas"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/articles/spelltroum-vs-brawlstars/brawlstars-match.webp",
+        "alt": "Gameplay de partida no Brawl Stars",
+        "caption": "Brawl Stars foca em mira e habilidade mecânica"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum adota uma abordagem diferente."
+      },
+      {
+        "type": "p",
+        "content": "Embora movimento e posicionamento ainda sejam importantes, o jogo foca muito mais em:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Farmar eficientemente",
+          "Escolher o build certo",
+          "Tomar decisões inteligentes",
+          "Ler os oponentes",
+          "Controlar o mapa",
+          "Trabalhar com seu parceiro"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/articles/spelltroum-vs-brawlstars/spelltroum-match.webp",
+        "alt": "Gameplay de partida no Spelltroum",
+        "caption": "Spelltroum foca em estratégia, farming e builds de itens"
+      },
+      {
+        "type": "p",
+        "content": "No Spelltroum, as vitórias frequentemente são decididas pela estratégia em vez de precisão mecânica pura."
+      },
+      {
+        "type": "p",
+        "content": "Jogadores vencem porque escolheram a rota correta, coletaram recursos eficientemente, construíram os itens certos e tomaram melhores decisões durante a partida."
+      },
+      {
+        "type": "h2",
+        "content": "Farming e Builds de Itens"
+      },
+      {
+        "type": "p",
+        "content": "Uma das maiores diferenças é que Spelltroum inclui farming e progressão de itens dentro de cada partida."
+      },
+      {
+        "type": "p",
+        "content": "Antes de uma partida começar, os jogadores criam múltiplos builds de itens para seu herói."
+      },
+      {
+        "type": "p",
+        "content": "Assim que a partida começa, eles podem escolher o build que melhor contra o time inimigo."
+      },
+      {
+        "type": "p",
+        "content": "Durante a partida, os jogadores:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Destroem arbustos",
+          "Coletam ouro",
+          "Recolhem coroas",
+          "Derrotam monstros neutros",
+          "Melhoram habilidades",
+          "Compram e melhoram itens"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Isso cria uma camada de estratégia que simplesmente não existe na maioria dos shooters de arena."
+      },
+      {
+        "type": "p",
+        "content": "Cada partida se torna um puzzle único. Devo farmar? Lutar cedo? Rushear dano? Construir survivability? Focar em coroas e evitar combate? Essas decisões importam tanto quanto as lutas em si."
+      },
+      {
+        "type": "h2",
+        "content": "Os Papéis dos Heróis Se Sentem Diferentes"
+      },
+      {
+        "type": "p",
+        "content": "Outra diferença importante é como os heróis são desenhados."
+      },
+      {
+        "type": "p",
+        "content": "No Brawl Stars, cada personagem geralmente tem um papel claramente definido."
+      },
+      {
+        "type": "p",
+        "content": "No Spelltroum, o mesmo herói pode frequentemente ser jogado de múltiplas formas dependendo do seu build."
+      },
+      {
+        "type": "p",
+        "content": "Por exemplo:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Um herói pode ser construído como carry.",
+          "O mesmo herói pode ser jogado como support.",
+          "Alguns heróis podem focar em farming.",
+          "Outros em crowd control ou mobilidade."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Itens mudam significativamente como os heróis jogam. Um item Lendário não torna um herói mais forte que todos os outros. Em vez disso, desbloqueia um estilo de jogo diferente e cria novas possibilidades estratégicas."
+      },
+      {
+        "type": "p",
+        "content": "Essa flexibilidade permite que os jogadores experimentem e descubram combinações únicas."
+      },
+      {
+        "type": "h2",
+        "content": "Tamanho da Equipe e Estrutura das Partidas"
+      },
+      {
+        "type": "p",
+        "content": "Brawl Stars tipicamente foca em gameplay 3v3."
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum é primariamente projetado para batalhas 2v2."
+      },
+      {
+        "type": "p",
+        "content": "O menor tamanho da equipe cria uma dinâmica diferente. Cada decisão feita por você e seu parceiro tem um impacto maior no resultado da partida."
+      },
+      {
+        "type": "p",
+        "content": "O jogo é projetado para ser jogado com um amigo:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Entrar em uma partida juntos.",
+          "Construir heróis complementares.",
+          "Coordenar sua estratégia.",
+          "Lutar por coroas.",
+          "Subir nos rankings."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "As partidas permanecem curtas, geralmente durando 2–3 minutos, enquanto ainda oferecem profundidade estratégica significativa."
+      },
+      {
+        "type": "h2",
+        "content": "Funcionalidades Compartilhadas, Propósito Diferente"
+      },
+      {
+        "type": "p",
+        "content": "Ambos os jogos contêm elementos de arena familiares:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Arbustos",
+          "Emboscadas",
+          "Habilidades dos heróis",
+          "Batalhas em equipe",
+          "Partidas rápidas"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Mas esses sistemas servem a propósitos diferentes."
+      },
+      {
+        "type": "p",
+        "content": "No Spelltroum, arbustos não são apenas esconderijos. São recursos. Destruir arbustos pode revelar:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ouro",
+          "Coroas",
+          "Runas",
+          "Outras recompensas úteis"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Arbustos se tornam parte do sistema econômico e de progressão do jogo, não apenas decoração do mapa."
+      },
+      {
+        "type": "h2",
+        "content": "Desbloqueio de Heróis e Progressão"
+      },
+      {
+        "type": "p",
+        "content": "Outra diferença importante é como a progressão funciona."
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum é projetado para dar aos jogadores acesso a novos heróis relativamente rápido. A maioria dos heróis pode ser desbloqueada simplesmente jogando, e jogadores ativos podem frequentemente desbloquear um novo herói em poucos dias."
+      },
+      {
+        "type": "p",
+        "content": "O objetivo não é manter heróis bloqueados atrás de longas barreiras de progressão. Em vez disso, novos heróis são destinados a introduzir novos estilos de jogo, estratégias e combinações de equipe."
+      },
+      {
+        "type": "p",
+        "content": "Desbloquear um herói não te torna mais forte que outros jogadores. Simplesmente te dá mais formas de jogar."
+      },
+      {
+        "type": "p",
+        "content": "Seja preferindo assassinos agressivos, tanques duráveis, magos móveis, supports ou carries focados em farming, Spelltroum encoraja jogadores a experimentar com diferentes heróis em vez de passar semanas tentando desbloqueá-los."
+      },
+      {
+        "type": "h2",
+        "content": "Progressão Justa e Monetização"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum foi projetado em torno de uma filosofia simples: ganhar deve vir de habilidade e tomada de decisões, não de gastar dinheiro."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Heróis podem ser desbloqueados através do gameplay normal.",
+          "Itens desbloqueiam novas estratégias em vez de poder bruto.",
+          "Um herói totalmente melhorado tem vantagens no jogo competitivo de alto nível, mas um jogador mais novo ainda pode derrotá-lo com melhores decisões e gameplay."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "A monetização do jogo foca principalmente em cosméticos e skins em vez de vender poder. O objetivo é deixar os jogadores aproveitarem o jogo sem se sentir pressionados a gastar dinheiro para competir."
+      },
+      {
+        "type": "h2",
+        "content": "Inspiração e Filosofia de Design"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum toma inspiração de vários gêneros. Combina:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Partidas móveis rápidas",
+          "Combate em equipe",
+          "Progressão de heróis",
+          "Builds de itens",
+          "Tomada de decisões estratégicas"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "O resultado é um jogo que captura parte do sentimento estratégico encontrado em grandes jogos multijogador de PC enquanto permanece acessível em dispositivos móveis. Em vez de passar 30–40 minutos em uma única partida, os jogadores podem desfrutar de momentos estratégicos similares em apenas alguns minutos."
+      },
+      {
+        "type": "h2",
+        "content": "Qual Jogo Você Deveria Escolher?"
+      },
+      {
+        "type": "p",
+        "content": "Escolha Brawl Stars se você gosta de:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ação rápida",
+          "Habilidade mecânica",
+          "Mira precisa",
+          "Gameplay baseado em reflexos",
+          "Progressão simples durante as partidas"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Escolha Spelltroum se você gosta de:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Tomada de decisões estratégicas",
+          "Farming e progressão",
+          "Builds de heróis",
+          "Combinações de itens",
+          "Sinergia de equipe",
+          "Superar oponentes com inteligência",
+          "Partidas curtas com gameplay mais profundo"
+        ]
+      },
+      {
+        "type": "h2",
+        "content": "Considerações Finais"
+      },
+      {
+        "type": "p",
+        "content": "Embora Spelltroum e Brawl Stars possam parecer similares à primeira vista, são jogos fundamentalmente diferentes."
+      },
+      {
+        "type": "p",
+        "content": "Brawl Stars foca principalmente em execução mecânica, mira e ação rápida."
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum foca em estratégia, farming, builds de itens, progressão durante a partida e sinergia de equipe."
+      },
+      {
+        "type": "p",
+        "content": "Se você gosta de experimentar com builds, descobrir combinações de heróis, superar oponentes e tomar decisões significativas ao longo de cada partida, Spelltroum oferece uma experiência estratégica mais profunda mantendo as partidas curtas e mobile-friendly."
+      },
+      {
+        "type": "p",
+        "content": "Para jogadores procurando uma experiência multiplayer fresca para aproveitar com amigos, Spelltroum é uma alternativa única que combina partidas móveis rápidas com a profundidade estratégica tipicamente encontrada nos grandes jogos multijogador de PC."
+      },
+      {
+        "type": "faq",
+        "faqItems": [
+          {
+            "q": "Spelltroum é similar ao Brawl Stars?",
+            "a": "Ambos são jogos de arena mobile com heróis e partidas curtas, mas focam em coisas muito diferentes. Brawl Stars enfatiza mira e habilidade mecânica, enquanto Spelltroum foca em estratégia, farming, builds de itens e tomada de decisões."
+          },
+          {
+            "q": "Spelltroum é gratuito como Brawl Stars?",
+            "a": "Sim. Spelltroum é free to play. Todos os heróis podem ser desbloqueados através do gameplay normal sem gastar dinheiro."
+          },
+          {
+            "q": "Qual jogo é melhor para jogar com um amigo?",
+            "a": "Ambos suportam multiplayer, mas Spelltroum é especificamente projetado para jogo em equipe 2v2, sendo uma escolha sólida para jogadores que querem fazer equipe com um amigo e coordenar estratégias."
+          },
+          {
+            "q": "Spelltroum tem mecânicas pay-to-win?",
+            "a": "Não. Spelltroum é projetado para que ganhar venha de habilidade e tomada de decisões. A monetização foca em cosméticos em vez de vantagens de poder."
+          }
+        ]
+      }
     ]
   }
 }

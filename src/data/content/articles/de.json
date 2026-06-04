@@ -4,44 +4,540 @@
     "description": "Erfahre, wie Spelltroum funktioniert: Matchablauf, Kronen, Gold, Gegenstände, Fähigkeits-Upgrades, neutrale Kreaturen, Bosskämpfe und Siegstrategien in diesem schnellen mobilen Multiplayer-Spiel.",
     "category": "Guides",
     "sections": [
-      { "type": "h2", "content": "Wie ein Match in Spelltroum abläuft" },
-      { "type": "p", "content": "Spelltroum ist ein rasantes mobiles Multiplayer-Spiel, bei dem jedes Match rund 2–3 Minuten dauert. Der Hauptspieldmodus ist 2v2, bei dem du dich mit einem Freund oder einem anderen Spieler zusammenschließt, um gegen ein gegnerisches Team anzutreten. Das Spiel umfasst außerdem einen Solo-Free-for-All-Modus und PvE-Inhalte für Spieler, die kooperative Herausforderungen mögen." },
-      { "type": "p", "content": "Jedes Match findet in einer rasterförmigen Kampfarena statt, die mit zerstörbaren Büschen, unzerstörbaren Steinmauern, neutralen Kreaturen, Schätzen und Zielen gefüllt ist. Das Ziel ist einfach: Sammle mehr Kronen als das gegnerische Team und erreiche das Siegesziel zuerst. Obwohl das Ziel leicht zu verstehen ist, gibt es viele verschiedene Wege, es zu erreichen — manche Spieler konzentrieren sich auf Kämpfe gegen feindliche Helden und das Stehlen ihrer Kronen, während andere Kämpfe vermeiden, effizient farmen und durch überlegene Kartenkontrolle gewinnen." },
-      { "type": "image", "src": "/articles/game-mechanics/roundpreviw.jpg", "alt": "Spelltroum Arena-Kartenvorschau vor Matchbeginn", "caption": "Der Kartenübersichtsbildschirm ermöglicht es dir, deine Strategie vor Beginn der Schlacht zu planen." },
-      { "type": "h2", "content": "Vor dem Match" },
-      { "type": "p", "content": "Vor dem Betreten der Schlacht bereiten die Spieler ihre Helden-Builds vor. Jeder Build enthält 4 Gegenstandsplätze — die ersten drei können beliebige verfügbare Gegenstände aufnehmen, und der vierte Platz kann entweder einen normalen Gegenstand oder einen Legendären Gegenstand enthalten. Legendäre Gegenstände sind optional und sollen einzigartige Mechaniken und alternative Spielstile freischalten, anstatt direkte Stärkevorteile zu bieten." },
-      { "type": "p", "content": "Vor Matchbeginn können Spieler mehrere Builds für denselben Helden erstellen. Sobald die Gegner bekannt sind, können Spieler den Build auswählen, der am besten zum Matchup passt — was eine vollständige strategische Anpassung vor Kampfbeginn ermöglicht." },
-      { "type": "image", "src": "/articles/game-mechanics/beginingmatchselectitembuild.jpg", "alt": "Spelltroum Gegenstand-Build-Auswahl zu Matchbeginn", "caption": "Wähle oder tausche deinen Gegenstand-Build aus, sobald du das gegnerische Team siehst — Counter-Building ist ein wesentlicher Teil der Spelltroum-Strategie." },
-      { "type": "h2", "content": "Das Schlachtfeld" },
-      { "type": "p", "content": "Jede Arena enthält zerstörbare Büsche, unzerstörbare Steinmauern, neutrale Kreaturen, Münzen, Kronen und Runen. Büsche sind eines der wichtigsten Elemente des Spiels — ihre Zerstörung kann Münzen, Kronen, Tränke, Runen und Sonderboni enthüllen. Da Büsche wertvolle Ressourcen enthalten, ist effizientes Farmen ein wesentlicher Teil des Gewinnens." },
-      { "type": "h2", "content": "Münzen und Gold" },
-      { "type": "p", "content": "Gold ist die primäre Ressource während eines Matches. Spieler verdienen Gold durch das Sammeln von Münzen, das Zerstören von Büschen, das Besiegen von Gegnern und die Nutzung bestimmter Gegenstandseffekte. Gold wird verwendet, um während des Matches Gegenstände zu kaufen und zu verbessern. Mit zunehmendem Spielverlauf entscheiden Spieler kontinuierlich, ob sie in Schaden, Gesundheit, Mobilität, Farm-Effizienz, Nützlichkeit oder Unterstützungseffekte investieren." },
-      { "type": "image", "src": "/articles/game-mechanics/gameplay1.jpg", "alt": "Spelltroum Shop während eines Matches geöffnet — ersten Gegenstand kaufen", "caption": "Sobald du genug Gold gesammelt hast, öffnet sich der Shop automatisch, damit du deinen ersten Gegenstand kaufen kannst, ohne das Geschehen zu verlassen." },
-      { "type": "h2", "content": "Neutrale Kreaturen und Fähigkeits-Upgrades" },
-      { "type": "p", "content": "Neutrale Kreaturen erscheinen periodisch auf der Karte. Ihre Besiegung hinterlässt Schriftrollen, die Erfahrung für Fähigkeits-Upgrades bieten. Jeder Held hat drei Fähigkeiten: Basisangriff, Nützlichkeitsfähigkeit und Kampffähigkeit. Sogar der Basisangriff ist eine Fähigkeit, die verbessert werden kann. Spieler müssen entscheiden, welche Fähigkeiten sie priorisieren — manche Upgrades verbessern das Farmen, manche die Mobilität und andere die Kampfeffektivität." },
-      { "type": "h2", "content": "Kronen: Das Hauptziel" },
-      { "type": "p", "content": "Kronen sind die wichtigste Ressource in Spelltroum. Das erste Team, das das Kronenziel erreicht, gewinnt sofort. Kronen können durch das Zerstören von Büschen, das Besiegen feindlicher Helden, das Abschließen von Zielen und das Besiegen von Bossen erhalten werden. Wenn ein Held besiegt wird, werden etwa 30% der getragenen Kronen fallen gelassen — was eine wichtige strategische Spannung erzeugt: Konzentriere dich auf das Sammeln von Kronen oder jage Spieler, die große Mengen tragen?" },
-      { "type": "image", "src": "/articles/game-mechanics/gameplay2.jpg", "alt": "Spelltroum Gameplay — Kronen und Münzen auf der Arena-Karte", "caption": "Kronen und Münzen sind über die Karte verteilt. Effizientes Farmen bei gleichzeitigem Überleben ist der Schlüssel zum Sieg." },
-      { "type": "h2", "content": "Runden und Matchverlauf" },
-      { "type": "p", "content": "Ein Match ist in kurze Runden unterteilt, die jeweils etwa eine Minute dauern. Zu Beginn jeder Runde respawnen Büsche, Ressourcen werden neu verteilt und neue Möglichkeiten erscheinen auf der Karte. Dies hält Matches dynamisch und verhindert, dass Spiele vorhersehbar werden — Spieler müssen sich ständig an veränderte Situationen anpassen." },
-      { "type": "h2", "content": "Boss-Begegnungen" },
-      { "type": "p", "content": "Viele Ranked-Karten haben in der letzten Runde einen mächtigen Boss. Das Besiegen des Bosses belohnt mit einem großen Kronenbonus. Da der Boss so viele Kronen wert ist, wird er oft zum Mittelpunkt des Geschehens im späten Spielverlauf. Das Besiegen des Bosses ist jedoch nicht immer die richtige Strategie — manchmal ist es effektiver, ein anderes Team den Boss angreifen zu lassen und dann das Ziel zu stehlen oder das geschwächte feindliche Team zu besiegen, nachdem es bereits Ressourcen eingesetzt hat." },
-      { "type": "h2", "content": "Helden und Team-Synergie" },
-      { "type": "p", "content": "Spelltroum bietet ein wachsendes Aufgebot einzigartiger Helden, jeder mit eigenen Stärken, Schwächen und Spielstilen. Die meisten Helden sind um ein Mobilitätswerkzeug, eine offensive Fähigkeit und eine einzigartige Heldenmechanik aufgebaut. Da der Hauptmodus 2v2 ist, sind Heldenkombinationen wichtig — ein gut koordiniertes Team kann mächtige Synergien schaffen, die alleine unmöglich sind." },
-      { "type": "h2", "content": "Balance-Philosophie" },
-      { "type": "p", "content": "Spelltroum ist auf bedeutungsvolle Entscheidungen statt verpflichtende ausgelegt. Verschiedene Gegenstände unterstützen unterschiedliche Strategien, Spielstile und Situationen. Ein schadensfokussierter Build hilft einem Helden, schneller zu farmen und Gegner rascher zu eliminieren. Ein defensiver Build macht denselben Helden deutlich schwerer zu töten. Keine Wahl ist automatisch besser." },
-      { "type": "p", "content": "Zeit-bis-Tod ist eines der Kernprinzipien bei der Balance des Spiels. Das Ziel ist nicht, sofortige Ein-Treffer-Kämpfe zu schaffen — es geht darum, Kampf zu erzeugen, bei dem Positionierung, Bewegung, Timing, Entscheidungsfindung und Teamwork zählen. Legendäre Gegenstände sollen nicht stärker als normale Gegenstände sein. Sie schalten neue Mechaniken, alternative Strategien und einzigartige helden-spezifische Spielstile frei." },
-      { "type": "h2", "content": "Häufig gestellte Fragen" },
-      { "type": "faq", "faqItems": [
-        { "q": "Wie lange dauert ein Spelltroum-Match?", "a": "Die meisten Matches dauern zwischen 2 und 3 Minuten." },
-        { "q": "Was ist der Hauptspielmodus?", "a": "Der primäre Spielmodus ist 2v2 Multiplayer, obwohl auch Solo-Free-for-All- und PvE-Modi verfügbar sind." },
-        { "q": "Was ist das Ziel eines Matches?", "a": "Sammle genug Kronen, um das Siegesziel vor dem gegnerischen Team zu erreichen." },
-        { "q": "Was passiert, wenn ein Held stirbt?", "a": "Etwa 30% der gesammelten Kronen werden fallen gelassen und können von anderen Spielern aufgesammelt werden." },
-        { "q": "Warum sind Büsche wichtig?", "a": "Büsche enthalten wertvolle Ressourcen wie Münzen, Kronen, Tränke, Runen und andere Boni." },
-        { "q": "Muss ich feindliche Spieler bekämpfen, um zu gewinnen?", "a": "Nicht unbedingt. Manche Spieler gewinnen durch aggressiven Kampf, während andere sich auf effizientes Farmen und Zielkontrolle konzentrieren." },
-        { "q": "Sind Legendäre Gegenstände stärker als normale Gegenstände?", "a": "Nein. Legendäre Gegenstände schalten einzigartige Mechaniken und alternative Spielstile frei, anstatt direkte Stärkevorteile zu bieten." },
-        { "q": "Gibt es einen einzigen besten Build in Spelltroum?", "a": "Nein. Verschiedene Situationen, Teammitglieder, Gegner und Karten erfordern unterschiedliche Strategien und Gegenstandskombinationen." }
-      ]}
+      {
+        "type": "h2",
+        "content": "Wie ein Match in Spelltroum abläuft"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum ist ein rasantes mobiles Multiplayer-Spiel, bei dem jedes Match rund 2–3 Minuten dauert. Der Hauptspieldmodus ist 2v2, bei dem du dich mit einem Freund oder einem anderen Spieler zusammenschließt, um gegen ein gegnerisches Team anzutreten. Das Spiel umfasst außerdem einen Solo-Free-for-All-Modus und PvE-Inhalte für Spieler, die kooperative Herausforderungen mögen."
+      },
+      {
+        "type": "p",
+        "content": "Jedes Match findet in einer rasterförmigen Kampfarena statt, die mit zerstörbaren Büschen, unzerstörbaren Steinmauern, neutralen Kreaturen, Schätzen und Zielen gefüllt ist. Das Ziel ist einfach: Sammle mehr Kronen als das gegnerische Team und erreiche das Siegesziel zuerst. Obwohl das Ziel leicht zu verstehen ist, gibt es viele verschiedene Wege, es zu erreichen — manche Spieler konzentrieren sich auf Kämpfe gegen feindliche Helden und das Stehlen ihrer Kronen, während andere Kämpfe vermeiden, effizient farmen und durch überlegene Kartenkontrolle gewinnen."
+      },
+      {
+        "type": "image",
+        "src": "/articles/game-mechanics/roundpreviw.jpg",
+        "alt": "Spelltroum Arena-Kartenvorschau vor Matchbeginn",
+        "caption": "Der Kartenübersichtsbildschirm ermöglicht es dir, deine Strategie vor Beginn der Schlacht zu planen."
+      },
+      {
+        "type": "h2",
+        "content": "Vor dem Match"
+      },
+      {
+        "type": "p",
+        "content": "Vor dem Betreten der Schlacht bereiten die Spieler ihre Helden-Builds vor. Jeder Build enthält 4 Gegenstandsplätze — die ersten drei können beliebige verfügbare Gegenstände aufnehmen, und der vierte Platz kann entweder einen normalen Gegenstand oder einen Legendären Gegenstand enthalten. Legendäre Gegenstände sind optional und sollen einzigartige Mechaniken und alternative Spielstile freischalten, anstatt direkte Stärkevorteile zu bieten."
+      },
+      {
+        "type": "p",
+        "content": "Vor Matchbeginn können Spieler mehrere Builds für denselben Helden erstellen. Sobald die Gegner bekannt sind, können Spieler den Build auswählen, der am besten zum Matchup passt — was eine vollständige strategische Anpassung vor Kampfbeginn ermöglicht."
+      },
+      {
+        "type": "image",
+        "src": "/articles/game-mechanics/beginingmatchselectitembuild.jpg",
+        "alt": "Spelltroum Gegenstand-Build-Auswahl zu Matchbeginn",
+        "caption": "Wähle oder tausche deinen Gegenstand-Build aus, sobald du das gegnerische Team siehst — Counter-Building ist ein wesentlicher Teil der Spelltroum-Strategie."
+      },
+      {
+        "type": "h2",
+        "content": "Das Schlachtfeld"
+      },
+      {
+        "type": "p",
+        "content": "Jede Arena enthält zerstörbare Büsche, unzerstörbare Steinmauern, neutrale Kreaturen, Münzen, Kronen und Runen. Büsche sind eines der wichtigsten Elemente des Spiels — ihre Zerstörung kann Münzen, Kronen, Tränke, Runen und Sonderboni enthüllen. Da Büsche wertvolle Ressourcen enthalten, ist effizientes Farmen ein wesentlicher Teil des Gewinnens."
+      },
+      {
+        "type": "h2",
+        "content": "Münzen und Gold"
+      },
+      {
+        "type": "p",
+        "content": "Gold ist die primäre Ressource während eines Matches. Spieler verdienen Gold durch das Sammeln von Münzen, das Zerstören von Büschen, das Besiegen von Gegnern und die Nutzung bestimmter Gegenstandseffekte. Gold wird verwendet, um während des Matches Gegenstände zu kaufen und zu verbessern. Mit zunehmendem Spielverlauf entscheiden Spieler kontinuierlich, ob sie in Schaden, Gesundheit, Mobilität, Farm-Effizienz, Nützlichkeit oder Unterstützungseffekte investieren."
+      },
+      {
+        "type": "image",
+        "src": "/articles/game-mechanics/gameplay1.jpg",
+        "alt": "Spelltroum Shop während eines Matches geöffnet — ersten Gegenstand kaufen",
+        "caption": "Sobald du genug Gold gesammelt hast, öffnet sich der Shop automatisch, damit du deinen ersten Gegenstand kaufen kannst, ohne das Geschehen zu verlassen."
+      },
+      {
+        "type": "h2",
+        "content": "Neutrale Kreaturen und Fähigkeits-Upgrades"
+      },
+      {
+        "type": "p",
+        "content": "Neutrale Kreaturen erscheinen periodisch auf der Karte. Ihre Besiegung hinterlässt Schriftrollen, die Erfahrung für Fähigkeits-Upgrades bieten. Jeder Held hat drei Fähigkeiten: Basisangriff, Nützlichkeitsfähigkeit und Kampffähigkeit. Sogar der Basisangriff ist eine Fähigkeit, die verbessert werden kann. Spieler müssen entscheiden, welche Fähigkeiten sie priorisieren — manche Upgrades verbessern das Farmen, manche die Mobilität und andere die Kampfeffektivität."
+      },
+      {
+        "type": "h2",
+        "content": "Kronen: Das Hauptziel"
+      },
+      {
+        "type": "p",
+        "content": "Kronen sind die wichtigste Ressource in Spelltroum. Das erste Team, das das Kronenziel erreicht, gewinnt sofort. Kronen können durch das Zerstören von Büschen, das Besiegen feindlicher Helden, das Abschließen von Zielen und das Besiegen von Bossen erhalten werden. Wenn ein Held besiegt wird, werden etwa 30% der getragenen Kronen fallen gelassen — was eine wichtige strategische Spannung erzeugt: Konzentriere dich auf das Sammeln von Kronen oder jage Spieler, die große Mengen tragen?"
+      },
+      {
+        "type": "image",
+        "src": "/articles/game-mechanics/gameplay2.jpg",
+        "alt": "Spelltroum Gameplay — Kronen und Münzen auf der Arena-Karte",
+        "caption": "Kronen und Münzen sind über die Karte verteilt. Effizientes Farmen bei gleichzeitigem Überleben ist der Schlüssel zum Sieg."
+      },
+      {
+        "type": "h2",
+        "content": "Runden und Matchverlauf"
+      },
+      {
+        "type": "p",
+        "content": "Ein Match ist in kurze Runden unterteilt, die jeweils etwa eine Minute dauern. Zu Beginn jeder Runde respawnen Büsche, Ressourcen werden neu verteilt und neue Möglichkeiten erscheinen auf der Karte. Dies hält Matches dynamisch und verhindert, dass Spiele vorhersehbar werden — Spieler müssen sich ständig an veränderte Situationen anpassen."
+      },
+      {
+        "type": "h2",
+        "content": "Boss-Begegnungen"
+      },
+      {
+        "type": "p",
+        "content": "Viele Ranked-Karten haben in der letzten Runde einen mächtigen Boss. Das Besiegen des Bosses belohnt mit einem großen Kronenbonus. Da der Boss so viele Kronen wert ist, wird er oft zum Mittelpunkt des Geschehens im späten Spielverlauf. Das Besiegen des Bosses ist jedoch nicht immer die richtige Strategie — manchmal ist es effektiver, ein anderes Team den Boss angreifen zu lassen und dann das Ziel zu stehlen oder das geschwächte feindliche Team zu besiegen, nachdem es bereits Ressourcen eingesetzt hat."
+      },
+      {
+        "type": "h2",
+        "content": "Helden und Team-Synergie"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum bietet ein wachsendes Aufgebot einzigartiger Helden, jeder mit eigenen Stärken, Schwächen und Spielstilen. Die meisten Helden sind um ein Mobilitätswerkzeug, eine offensive Fähigkeit und eine einzigartige Heldenmechanik aufgebaut. Da der Hauptmodus 2v2 ist, sind Heldenkombinationen wichtig — ein gut koordiniertes Team kann mächtige Synergien schaffen, die alleine unmöglich sind."
+      },
+      {
+        "type": "h2",
+        "content": "Balance-Philosophie"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum ist auf bedeutungsvolle Entscheidungen statt verpflichtende ausgelegt. Verschiedene Gegenstände unterstützen unterschiedliche Strategien, Spielstile und Situationen. Ein schadensfokussierter Build hilft einem Helden, schneller zu farmen und Gegner rascher zu eliminieren. Ein defensiver Build macht denselben Helden deutlich schwerer zu töten. Keine Wahl ist automatisch besser."
+      },
+      {
+        "type": "p",
+        "content": "Zeit-bis-Tod ist eines der Kernprinzipien bei der Balance des Spiels. Das Ziel ist nicht, sofortige Ein-Treffer-Kämpfe zu schaffen — es geht darum, Kampf zu erzeugen, bei dem Positionierung, Bewegung, Timing, Entscheidungsfindung und Teamwork zählen. Legendäre Gegenstände sollen nicht stärker als normale Gegenstände sein. Sie schalten neue Mechaniken, alternative Strategien und einzigartige helden-spezifische Spielstile frei."
+      },
+      {
+        "type": "h2",
+        "content": "Häufig gestellte Fragen"
+      },
+      {
+        "type": "faq",
+        "faqItems": [
+          {
+            "q": "Wie lange dauert ein Spelltroum-Match?",
+            "a": "Die meisten Matches dauern zwischen 2 und 3 Minuten."
+          },
+          {
+            "q": "Was ist der Hauptspielmodus?",
+            "a": "Der primäre Spielmodus ist 2v2 Multiplayer, obwohl auch Solo-Free-for-All- und PvE-Modi verfügbar sind."
+          },
+          {
+            "q": "Was ist das Ziel eines Matches?",
+            "a": "Sammle genug Kronen, um das Siegesziel vor dem gegnerischen Team zu erreichen."
+          },
+          {
+            "q": "Was passiert, wenn ein Held stirbt?",
+            "a": "Etwa 30% der gesammelten Kronen werden fallen gelassen und können von anderen Spielern aufgesammelt werden."
+          },
+          {
+            "q": "Warum sind Büsche wichtig?",
+            "a": "Büsche enthalten wertvolle Ressourcen wie Münzen, Kronen, Tränke, Runen und andere Boni."
+          },
+          {
+            "q": "Muss ich feindliche Spieler bekämpfen, um zu gewinnen?",
+            "a": "Nicht unbedingt. Manche Spieler gewinnen durch aggressiven Kampf, während andere sich auf effizientes Farmen und Zielkontrolle konzentrieren."
+          },
+          {
+            "q": "Sind Legendäre Gegenstände stärker als normale Gegenstände?",
+            "a": "Nein. Legendäre Gegenstände schalten einzigartige Mechaniken und alternative Spielstile frei, anstatt direkte Stärkevorteile zu bieten."
+          },
+          {
+            "q": "Gibt es einen einzigen besten Build in Spelltroum?",
+            "a": "Nein. Verschiedene Situationen, Teammitglieder, Gegner und Karten erfordern unterschiedliche Strategien und Gegenstandskombinationen."
+          }
+        ]
+      }
+    ]
+  },
+  "spelltroum-vs-brawl-stars": {
+    "title": "Spelltroum vs. Brawl Stars: Welches Spiel passt zu dir?",
+    "description": "Spelltroum und Brawl Stars sehen auf den ersten Blick ähnlich aus, bieten aber völlig unterschiedliche Erfahrungen. Vergleiche Gameplay, Strategie, Hero-Builds, Progression und Monetarisierung.",
+    "category": "vs",
+    "sections": [
+      {
+        "type": "p",
+        "content": "Auf den ersten Blick nehmen viele Spieler an, dass Spelltroum Brawl Stars ähnelt."
+      },
+      {
+        "type": "p",
+        "content": "Der Vergleich ist verständlich. Beide Spiele sind bunte Multiplayer-Arena-Spiele mit Helden, Fähigkeiten und kurzen Matches. Manche Spieler sehen das Hauptmenü und denken sofort: \"Das sieht aus wie Brawl Stars.\""
+      },
+      {
+        "type": "p",
+        "content": "Sobald du jedoch ein Match betrittst, enden die Gemeinsamkeiten."
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum und Brawl Stars basieren auf völlig unterschiedlichen Gameplay-Philosophien und bieten sehr unterschiedliche Erfahrungen."
+      },
+      {
+        "type": "h2",
+        "content": "Der größte Unterschied: Strategie vs. Zielen"
+      },
+      {
+        "type": "p",
+        "content": "Der Kernfokus von Brawl Stars ist mechanisches Können."
+      },
+      {
+        "type": "p",
+        "content": "Erfolg hängt oft ab von:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Präzisem Zielen",
+          "Skill-Shots landen",
+          "Feindlichen Angriffen ausweichen",
+          "Schnellen Reflexen"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/articles/spelltroum-vs-brawlstars/brawlstars-match.webp",
+        "alt": "Brawl Stars Match Gameplay",
+        "caption": "Brawl Stars setzt auf Zielen und mechanisches Können"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum verfolgt einen anderen Ansatz."
+      },
+      {
+        "type": "p",
+        "content": "Während Bewegung und Positionierung wichtig bleiben, liegt der Fokus viel stärker auf:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Effizientem Farmen",
+          "Die richtige Build wählen",
+          "Klugen Entscheidungen",
+          "Gegner lesen",
+          "Kartenkontrolle",
+          "Zusammenarbeit mit dem Teamkameraden"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/articles/spelltroum-vs-brawlstars/spelltroum-match.webp",
+        "alt": "Spelltroum Match Gameplay",
+        "caption": "Spelltroum setzt auf Strategie, Farmen und Item-Builds"
+      },
+      {
+        "type": "p",
+        "content": "In Spelltroum werden Siege oft durch Strategie statt durch rohe mechanische Präzision entschieden."
+      },
+      {
+        "type": "p",
+        "content": "Spieler gewinnen, weil sie die richtige Route gewählt, Ressourcen effizient gesammelt, die richtigen Items gebaut und bessere Entscheidungen im Match getroffen haben."
+      },
+      {
+        "type": "h2",
+        "content": "Farmen und Item-Builds"
+      },
+      {
+        "type": "p",
+        "content": "Einer der größten Unterschiede ist, dass Spelltroum Farmen und Item-Progression in jedem Match enthält."
+      },
+      {
+        "type": "p",
+        "content": "Vor dem Spielstart erstellen Spieler mehrere Item-Builds für ihren Helden."
+      },
+      {
+        "type": "p",
+        "content": "Sobald das Match beginnt, können sie den Build wählen, der das Feind-Team am besten konteriert."
+      },
+      {
+        "type": "p",
+        "content": "Während des Matches:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Büsche zerstören",
+          "Gold sammeln",
+          "Kronen einsammeln",
+          "Neutrale Monster besiegen",
+          "Fähigkeiten upgraden",
+          "Items kaufen und upgraden"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Das schafft eine Strategieschicht, die in den meisten Arena-Shootern einfach nicht existiert."
+      },
+      {
+        "type": "p",
+        "content": "Jedes Match wird zu einem einzigartigen Puzzle. Soll ich farmen? Früh kämpfen? Schaden pushen? Survivability bauen? Auf Kronen fokussieren und Kämpfe meiden? Diese Entscheidungen sind genauso wichtig wie die eigentlichen Kämpfe."
+      },
+      {
+        "type": "h2",
+        "content": "Heldenrollen fühlen sich anders an"
+      },
+      {
+        "type": "p",
+        "content": "Ein weiterer großer Unterschied ist das Heldendesign."
+      },
+      {
+        "type": "p",
+        "content": "In Brawl Stars hat jeder Charakter generell eine klar definierte Rolle."
+      },
+      {
+        "type": "p",
+        "content": "In Spelltroum kann derselbe Held je nach Build oft auf verschiedene Weisen gespielt werden."
+      },
+      {
+        "type": "p",
+        "content": "Zum Beispiel:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Ein Held kann als Carry gebaut werden.",
+          "Derselbe Held kann als Support gespielt werden.",
+          "Manche Helden fokussieren sich aufs Farmen.",
+          "Andere auf Crowd Control oder Mobilität."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Items verändern das Gameplay von Helden erheblich. Ein Legendäres Item macht einen Helden nicht stärker als alle anderen. Stattdessen schaltet es einen anderen Spielstil und neue strategische Möglichkeiten frei."
+      },
+      {
+        "type": "p",
+        "content": "Diese Flexibilität erlaubt Spielern zu experimentieren und einzigartige Kombinationen zu entdecken."
+      },
+      {
+        "type": "h2",
+        "content": "Teamgröße und Match-Struktur"
+      },
+      {
+        "type": "p",
+        "content": "Brawl Stars fokussiert sich typischerweise auf 3v3-Gameplay."
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum ist primär auf 2v2-Kämpfe ausgelegt."
+      },
+      {
+        "type": "p",
+        "content": "Die kleinere Teamgröße schafft eine andere Dynamik. Jede Entscheidung von dir und deinem Teamkameraden hat einen größeren Einfluss auf den Matchausgang."
+      },
+      {
+        "type": "p",
+        "content": "Das Spiel ist dafür gemacht, mit einem Freund gespielt zu werden:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Gemeinsam einem Match beitreten.",
+          "Komplementäre Helden bauen.",
+          "Strategie koordinieren.",
+          "Um Kronen kämpfen.",
+          "Die Ranglisten erklimmen."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Matches bleiben kurz, dauern meistens nur 2–3 Minuten, bieten dabei aber bedeutungsvolle strategische Tiefe."
+      },
+      {
+        "type": "h2",
+        "content": "Gemeinsame Features, unterschiedliche Zwecke"
+      },
+      {
+        "type": "p",
+        "content": "Beide Spiele enthalten vertraute Arena-Elemente:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Büsche",
+          "Hinterhalte",
+          "Heldenfähigkeiten",
+          "Teamkämpfe",
+          "Schnelle Matches"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Aber diese Systeme dienen unterschiedlichen Zwecken."
+      },
+      {
+        "type": "p",
+        "content": "In Spelltroum sind Büsche keine reinen Verstecke. Sie sind Ressourcen. Das Zerstören von Büschen kann enthüllen:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Gold",
+          "Kronen",
+          "Runen",
+          "Andere nützliche Belohnungen"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Büsche werden Teil des Wirtschafts- und Progressionssystems des Spiels, nicht nur Kartendekoration."
+      },
+      {
+        "type": "h2",
+        "content": "Helden-Freischaltung und Progression"
+      },
+      {
+        "type": "p",
+        "content": "Ein weiterer wichtiger Unterschied ist die Progression."
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum ist darauf ausgelegt, Spielern relativ schnell Zugang zu neuen Helden zu geben. Die meisten Helden können einfach durch Spielen freigeschaltet werden, und aktive Spieler können oft innerhalb weniger Tage einen neuen Helden freischalten."
+      },
+      {
+        "type": "p",
+        "content": "Das Ziel ist nicht, Helden hinter langen Progressionswänden zu sperren. Stattdessen sollen neue Helden neue Spielstile, Strategien und Teamkombinationen einführen."
+      },
+      {
+        "type": "p",
+        "content": "Einen Helden freizuschalten macht dich nicht stärker als andere Spieler. Es gibt dir einfach mehr Wege, das Spiel zu spielen."
+      },
+      {
+        "type": "p",
+        "content": "Egal ob du aggressive Assassinen, robuste Tanks, mobile Magier, Supports oder farming-fokussierte Carries bevorzugst — Spelltroum ermutigt Spieler, verschiedene Helden auszuprobieren statt wochenlang auf Freischaltungen zu warten."
+      },
+      {
+        "type": "h2",
+        "content": "Faire Progression und Monetarisierung"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum wurde nach einer einfachen Philosophie entwickelt: Gewinnen soll durch Können und Entscheidungsfindung kommen, nicht durch Geldausgaben."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Helden können durch normales Spielen freigeschaltet werden.",
+          "Items schalten neue Strategien frei statt roher Power.",
+          "Ein voll upgegradeter Held hat Vorteile im hochrangigen Wettkampf, aber ein neuerer Spieler kann ihn durch bessere Entscheidungen und Gameplay besiegen."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Die Monetarisierung des Spiels fokussiert sich primär auf Kosmetika und Skins statt auf den Verkauf von Power. Das Ziel ist es, Spielern das Spiel ohne finanziellen Druck genießen zu lassen."
+      },
+      {
+        "type": "h2",
+        "content": "Inspiration und Design-Philosophie"
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum lässt sich von mehreren Genres inspirieren. Es kombiniert:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Schnelle Mobile-Matches",
+          "Teambasierter Kampf",
+          "Heldenprogression",
+          "Item-Builds",
+          "Strategische Entscheidungsfindung"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Das Ergebnis ist ein Spiel, das das strategische Gefühl großer PC-Multiplayer-Spiele einfängt und dabei auf Mobilgeräten zugänglich bleibt. Statt 30–40 Minuten in einem einzigen Match zu verbringen, können Spieler ähnliche strategische Momente in nur wenigen Minuten genießen."
+      },
+      {
+        "type": "h2",
+        "content": "Welches Spiel solltest du wählen?"
+      },
+      {
+        "type": "p",
+        "content": "Wähle Brawl Stars, wenn du magst:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Schnelle Action",
+          "Mechanisches Können",
+          "Präzises Zielen",
+          "Reflex-basiertes Gameplay",
+          "Einfache Progression im Match"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Wähle Spelltroum, wenn du magst:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Strategische Entscheidungsfindung",
+          "Farmen und Progression",
+          "Hero-Builds",
+          "Item-Kombinationen",
+          "Team-Synergien",
+          "Gegner überlisten",
+          "Kurze Matches mit tieferem Gameplay"
+        ]
+      },
+      {
+        "type": "h2",
+        "content": "Fazit"
+      },
+      {
+        "type": "p",
+        "content": "Obwohl Spelltroum und Brawl Stars auf den ersten Blick ähnlich erscheinen mögen, sind sie grundlegend verschiedene Spiele."
+      },
+      {
+        "type": "p",
+        "content": "Brawl Stars fokussiert sich primär auf mechanische Ausführung, Zielen und schnelle Action."
+      },
+      {
+        "type": "p",
+        "content": "Spelltroum fokussiert sich auf Strategie, Farmen, Item-Builds, Progression während des Matches und Team-Synergie."
+      },
+      {
+        "type": "p",
+        "content": "Wenn du gerne mit Builds experimentierst, Heldenkombinationen entdeckst, Gegner überlists und im gesamten Match bedeutungsvolle Entscheidungen triffst, bietet Spelltroum ein tieferes strategisches Erlebnis bei kurzen, mobil-freundlichen Matches."
+      },
+      {
+        "type": "p",
+        "content": "Für Spieler, die ein frisches Multiplayer-Erlebnis mit Freunden suchen, ist Spelltroum eine einzigartige Alternative, die schnelle Mobile-Matches mit der strategischen Tiefe großer PC-Multiplayer-Spiele kombiniert."
+      },
+      {
+        "type": "faq",
+        "faqItems": [
+          {
+            "q": "Ist Spelltroum ähnlich wie Brawl Stars?",
+            "a": "Beide sind mobile Arena-Spiele mit Helden und kurzen Matches, aber sie fokussieren sich auf sehr unterschiedliche Dinge. Brawl Stars betont Zielen und mechanisches Können, während Spelltroum auf Strategie, Farmen, Item-Builds und Entscheidungsfindung setzt."
+          },
+          {
+            "q": "Ist Spelltroum kostenlos wie Brawl Stars?",
+            "a": "Ja. Spelltroum ist kostenlos spielbar. Alle Helden können durch normales Gameplay ohne Geldausgaben freigeschaltet werden."
+          },
+          {
+            "q": "Welches Spiel eignet sich besser zum Spielen mit einem Freund?",
+            "a": "Beide unterstützen Multiplayer, aber Spelltroum ist speziell auf 2v2-Teamplay ausgelegt und damit eine starke Wahl für Spieler, die mit einem Freund zusammenspielen und Strategien koordinieren wollen."
+          },
+          {
+            "q": "Hat Spelltroum Pay-to-Win-Mechaniken?",
+            "a": "Nein. Spelltroum ist so designed, dass Gewinnen durch Können und Entscheidungsfindung kommt. Die Monetarisierung fokussiert sich auf Kosmetika statt auf Power-Vorteile."
+          }
+        ]
+      }
     ]
   }
 }

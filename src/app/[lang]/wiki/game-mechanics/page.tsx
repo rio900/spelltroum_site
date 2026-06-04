@@ -2,24 +2,36 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
-import { isValidLocale } from '@/i18n/config';
+import { isValidLocale, locales } from '@/i18n/config';
+import { getTranslations } from '@/i18n';
+import { type Locale } from '@/i18n/config';
 import { getArticleBySlug } from '@/data/articles';
+import { getArticleContent } from '@/data/content';
 import { type ArticleSection } from '@/data/articles';
 
 interface MechanicsPageProps {
   params: Promise<{ lang: string }>;
 }
 
-export async function generateMetadata(): Promise<Metadata> {
+export async function generateMetadata({ params }: MechanicsPageProps): Promise<Metadata> {
+  const { lang } = await params;
   const article = getArticleBySlug('game-mechanics');
   if (!article) return {};
+  const content = await getArticleContent('game-mechanics', lang as Locale);
+  const title = content.title ?? article.title;
+  const description = content.description ?? article.description;
   return {
-    title: `${article.title} | Spelltroum`,
-    description: article.description,
+    title: `${title} | Spelltroum`,
+    description,
     keywords: article.keywords,
+    alternates: {
+      canonical: `https://spelltroum.com/${lang}/wiki/game-mechanics`,
+      languages: Object.fromEntries(locales.map((l) => [l, `https://spelltroum.com/${l}/wiki/game-mechanics`])),
+    },
     openGraph: {
-      title: article.title,
-      description: article.description,
+      title,
+      description,
+      url: `https://spelltroum.com/${lang}/wiki/game-mechanics`,
       type: 'article',
       publishedTime: article.publishedAt,
     },
@@ -98,17 +110,25 @@ export default async function MechanicsPage({ params }: MechanicsPageProps) {
   const article = getArticleBySlug('game-mechanics');
   if (!article) notFound();
 
+  const [content] = await Promise.all([
+    getArticleContent('game-mechanics', lang as Locale),
+    getTranslations(lang as Locale),
+  ]);
+  const localizedTitle = content.title ?? article.title;
+  const localizedDescription = content.description ?? article.description;
+  const localizedSections = content.sections ?? article.sections;
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: article.title,
-    description: article.description,
+    headline: localizedTitle,
+    description: localizedDescription,
     datePublished: article.publishedAt,
     dateModified: article.updatedAt ?? article.publishedAt,
     author: { '@type': 'Organization', name: 'Spelltroum' },
     publisher: { '@type': 'Organization', name: 'Spelltroum' },
     image: `https://spelltroum.com/articles/game-mechanics/roundpreviw.jpg`,
-    mainEntity: article.sections
+    mainEntity: localizedSections
       .filter((s) => s.type === 'faq')
       .flatMap((s) =>
         (s.faqItems ?? []).map((f) => ({
@@ -119,12 +139,20 @@ export default async function MechanicsPage({ params }: MechanicsPageProps) {
       ),
   };
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Spelltroum', item: `https://spelltroum.com/${lang}` },
+      { '@type': 'ListItem', position: 2, name: 'Wiki', item: `https://spelltroum.com/${lang}/wiki` },
+      { '@type': 'ListItem', position: 3, name: localizedTitle, item: `https://spelltroum.com/${lang}/wiki/game-mechanics` },
+    ],
+  };
+
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
 
       <div className="min-h-screen px-4 sm:px-6 py-16">
         <div className="max-w-3xl mx-auto">

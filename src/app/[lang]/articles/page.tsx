@@ -13,18 +13,17 @@ export async function generateMetadata({ params }: ArticlesPageProps): Promise<M
   const { lang } = await params;
   if (!isValidLocale(lang)) return {};
   const t = await getTranslations(lang as Locale);
-  const ta = t.articles;
+  const ta = t.articles as Record<string, string>;
   return {
     title: `${ta.title} | Spelltroum`,
-    description: `${ta.subtitle}. Spelltroum guides, tips, strategies and game news.`,
-    keywords: ['Spelltroum articles', 'Spelltroum guides', 'Spelltroum tips', 'Spelltroum strategies', 'mobile arena guide'],
+    description: ta.metaDescription ?? ta.subtitle,
     alternates: {
       canonical: `https://spelltroum.com/${lang}/articles`,
       languages: Object.fromEntries(locales.map((l) => [l, `https://spelltroum.com/${l}/articles`])),
     },
     openGraph: {
       title: `${ta.title} | Spelltroum`,
-      description: `${ta.subtitle}`,
+      description: ta.metaDescription ?? ta.subtitle,
       url: `https://spelltroum.com/${lang}/articles`,
       siteName: 'Spelltroum',
       type: 'website',
@@ -43,13 +42,25 @@ const articlesMeta = [
     color: '#c084fc',
     icon: '📖',
   },
+  {
+    slug: 'spelltroum-vs-brawl-stars',
+    href: (lang: string) => `/${lang}/articles/spelltroum-vs-brawl-stars`,
+    fallbackTitle: 'Spelltroum vs Brawl Stars: Which Game Is Right for You?',
+    fallbackExcerpt: 'Spelltroum and Brawl Stars look similar at first glance, but offer completely different experiences. Compare gameplay, strategy, hero builds, and progression.',
+    fallbackCategory: 'vs',
+    readTime: '7 min',
+    color: '#f97316',
+    icon: '⚔️',
+  },
 ];
 
 const categoryColors: Record<string, string> = {
   Guide: '#60a5fa',
+  Guides: '#60a5fa',
   'Tier List': '#f59e0b',
   'Hero Guide': '#a78bfa',
   Strategy: '#4ade80',
+  vs: '#f97316',
 };
 
 export default async function ArticlesPage({ params }: ArticlesPageProps) {
@@ -74,7 +85,18 @@ export default async function ArticlesPage({ params }: ArticlesPageProps) {
   const featured = articles[0];
   const rest = articles.slice(1);
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Spelltroum', item: `https://spelltroum.com/${lang}` },
+      { '@type': 'ListItem', position: 2, name: 'Articles', item: `https://spelltroum.com/${lang}/articles` },
+    ],
+  };
+
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
     <div className="min-h-screen px-4 sm:px-6 py-16">
       <div className="max-w-5xl mx-auto">
 
@@ -152,5 +174,6 @@ export default async function ArticlesPage({ params }: ArticlesPageProps) {
 
       </div>
     </div>
+    </>
   );
 }

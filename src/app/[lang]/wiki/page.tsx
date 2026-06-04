@@ -69,7 +69,18 @@ export default async function WikiPage({ params }: WikiPageProps) {
   const t = await getTranslations(lang as Locale);
   const tw = t.wiki;
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Spelltroum', item: `https://spelltroum.com/${lang}` },
+      { '@type': 'ListItem', position: 2, name: 'Wiki', item: `https://spelltroum.com/${lang}/wiki` },
+    ],
+  };
+
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
     <div className="min-h-screen px-4 sm:px-6 py-16">
       <div className="max-w-5xl mx-auto">
 
@@ -143,5 +154,6 @@ export default async function WikiPage({ params }: WikiPageProps) {
 
       </div>
     </div>
+    </>
   );
 }

@@ -22,6 +22,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   const content = await getArticleContent(slug, lang as Locale);
   const title = content.title ?? article.title;
   const description = content.description ?? article.description;
+  const firstImage = (content.sections ?? article.sections).find((s) => s.type === 'image');
+  const ogImage = firstImage?.src ? `https://spelltroum.com${firstImage.src}` : undefined;
   return {
     title: `${title} | Spelltroum`,
     description,
@@ -37,6 +39,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       type: 'article',
       publishedTime: article.publishedAt,
       modifiedTime: article.updatedAt,
+      ...(ogImage ? { images: [{ url: ogImage, width: 1200, alt: title }] } : {}),
     },
   };
 }
@@ -80,6 +83,7 @@ function renderSection(section: ArticleSection, idx: number) {
             alt={section.alt!}
             width={1200}
             height={555}
+            sizes="(max-width: 768px) 100vw, 768px"
             className="w-full object-cover"
             priority={idx < 3}
           />
@@ -122,6 +126,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const localizedCategory = content.category ?? article.category;
   const localizedSections = content.sections ?? article.sections;
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Spelltroum', item: `https://spelltroum.com/${lang}` },
+      { '@type': 'ListItem', position: 2, name: 'Articles', item: `https://spelltroum.com/${lang}/articles` },
+      { '@type': 'ListItem', position: 3, name: localizedTitle, item: `https://spelltroum.com/${lang}/articles/${article.slug}` },
+    ],
+  };
+
   // JSON-LD Article schema for Google and AI search engines
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -152,10 +166,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
 
       <div className="min-h-screen px-4 sm:px-6 py-16">
         <div className="max-w-3xl mx-auto">
