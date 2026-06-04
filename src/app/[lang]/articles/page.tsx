@@ -52,6 +52,16 @@ const articlesMeta = [
     color: '#f97316',
     icon: '⚔️',
   },
+  {
+    slug: 'spelltroum-vs-mobile-legends',
+    href: (lang: string) => `/${lang}/articles/spelltroum-vs-mobile-legends`,
+    fallbackTitle: 'Spelltroum vs Mobile Legends: Which Game Is Right for You?',
+    fallbackExcerpt: 'If you love Mobile Legends but want faster matches without losing MOBA depth, Spelltroum offers farming, item builds, and team strategy in just 2–3 minutes.',
+    fallbackCategory: 'vs',
+    readTime: '6 min',
+    color: '#06b6d4',
+    icon: '🗡️',
+  },
 ];
 
 const categoryColors: Record<string, string> = {
