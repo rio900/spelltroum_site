@@ -9,8 +9,13 @@ export function middleware(request: NextRequest) {
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
   );
 
+  // Static routes that should not be redirected to locale
+  const staticRoutes = ['/terms-of-service-and-privacy-policy', '/dashboard', '/pool-detail'];
+  const isStaticRoute = staticRoutes.some(r => pathname === r || pathname.startsWith(r + '/'));
+
   if (
     hasLocale ||
+    isStaticRoute ||
     pathname.startsWith('/_next') ||
     pathname.startsWith('/api') ||
     pathname.includes('.')

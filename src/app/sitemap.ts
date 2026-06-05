@@ -27,7 +27,14 @@ function entry(
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const urls: MetadataRoute.Sitemap = [];
+  const urls: MetadataRoute.Sitemap = [
+    {
+      url: `${BASE}/terms-of-service-and-privacy-policy`,
+      lastModified: new Date(),
+      changeFrequency: 'yearly',
+      priority: 0.3,
+    },
+  ];
 
   for (const lang of locales) {
     // Home
