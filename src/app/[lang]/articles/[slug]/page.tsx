@@ -183,10 +183,23 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       : {}),
   };
 
+  const videoSection = localizedSections.find((s) => s.type === 'video');
+  const videoJsonLd = videoSection?.videoId ? {
+    '@context': 'https://schema.org',
+    '@type': 'VideoObject',
+    name: localizedTitle,
+    description: localizedDescription,
+    thumbnailUrl: `https://img.youtube.com/vi/${videoSection.videoId}/maxresdefault.jpg`,
+    embedUrl: `https://www.youtube-nocookie.com/embed/${videoSection.videoId}`,
+    uploadDate: article.publishedAt,
+    publisher: { '@type': 'Organization', name: 'Spelltroum', url: 'https://spelltroum.com' },
+  } : null;
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+      {videoJsonLd && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(videoJsonLd) }} />}
 
       <div className="min-h-screen px-4 sm:px-6 py-16">
         <div className="max-w-3xl mx-auto">
