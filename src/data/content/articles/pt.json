@@ -821,5 +821,402 @@
         ]
       }
     ]
+  },
+  "doorkeeper-mode-guide": {
+    "title": "Guia do Modo DoorKeeper: Tudo Que Você Precisa Saber",
+    "description": "O Modo DoorKeeper é o único modo idle battle do Spelltroum. Aprenda como builds, itens de runas, armadura e timing de habilidades determinam cada combate contra estratégias reais de jogadores.",
+    "category": "Guides",
+    "sections": [
+      {
+        "type": "p",
+        "content": "O Modo DoorKeeper é um dos modos de jogo mais únicos do Spelltroum."
+      },
+      {
+        "type": "p",
+        "content": "Ao contrário das partidas normais, onde movimento, farming e posicionamento determinam o resultado, o Modo DoorKeeper é tudo sobre preparação, builds de heróis e uso de habilidades."
+      },
+      {
+        "type": "p",
+        "content": "Ele transforma Spelltroum em um combate idle de ritmo acelerado onde estratégia importa mais que mecânica."
+      },
+      {
+        "type": "h2",
+        "content": "O Que é o Modo DoorKeeper?"
+      },
+      {
+        "type": "p",
+        "content": "O Modo DoorKeeper gira em torno de itens especiais chamados Portas."
+      },
+      {
+        "type": "p",
+        "content": "Quando um jogador abre uma Porta, ele entra em batalha contra um DoorKeeper."
+      },
+      {
+        "type": "p",
+        "content": "Um DoorKeeper não é um inimigo criado por IA. Em vez disso, cada DoorKeeper é o build de herói de um jogador real que anteriormente venceu o modo."
+      },
+      {
+        "type": "p",
+        "content": "Isso significa que cada batalha é efetivamente um combate contra a estratégia, seleção de herói e build de itens de outro jogador."
+      },
+      {
+        "type": "image",
+        "src": "/articles/doorkeeper-mode-guide/doorkeeper-build.webp",
+        "alt": "Menu de build DoorKeeper no Spelltroum",
+        "caption": "O menu DoorKeeper — veja o herói e build do oponente antes de lutar"
+      },
+      {
+        "type": "h2",
+        "content": "Como as Batalhas Funcionam"
+      },
+      {
+        "type": "p",
+        "content": "As batalhas DoorKeeper são muito diferentes das partidas normais do Spelltroum."
+      },
+      {
+        "type": "p",
+        "content": "Não há:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Farming",
+          "Movimento",
+          "Controle de mapa",
+          "Coleta de coroas"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Em vez disso, dois heróis se enfrentam em uma batalha idle. Ataques básicos acontecem automaticamente. Jogadores ainda podem ativar habilidades manualmente durante o combate."
+      },
+      {
+        "type": "p",
+        "content": "O resultado é um duelo tático rápido onde timing e preparação importam muito mais que movimento."
+      },
+      {
+        "type": "video",
+        "videoId": "FeOfQMolhHA",
+        "caption": "O Modo DoorKeeper em ação — veja como uma batalha se desenrola"
+      },
+      {
+        "type": "h2",
+        "content": "Combate Mais Lento, Mais Tomada de Decisões"
+      },
+      {
+        "type": "p",
+        "content": "O Modo DoorKeeper usa um ritmo de combate ligeiramente mais lento que as partidas padrão. Animações de ataque, projéteis e cooldowns são desacelerados proporcionalmente."
+      },
+      {
+        "type": "p",
+        "content": "O equilíbrio permanece o mesmo, mas os jogadores têm mais tempo para reagir e usar habilidades. Isso permite que os jogadores se concentrem na tomada de decisões em vez de reflexos."
+      },
+      {
+        "type": "h2",
+        "content": "Builds Completos Desde o Início"
+      },
+      {
+        "type": "p",
+        "content": "Ao contrário das partidas normais, os heróis entram no Modo DoorKeeper totalmente equipados."
+      },
+      {
+        "type": "p",
+        "content": "Seu herói começa com:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Nível máximo",
+          "Build de itens completo",
+          "Habilidades totalmente melhoradas"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Por causa disso, as combinações de itens late-game mais fortes se tornam muito mais importantes do que em partidas padrão."
+      },
+      {
+        "type": "p",
+        "content": "Muitos itens equilibrados em torno de farming ou movimento se tornam menos valiosos. Enquanto isso, itens que fornecem:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Dano",
+          "Velocidade de ataque",
+          "Armadura",
+          "Vida",
+          "Redução de cooldown"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "frequentemente se tornam significativamente mais fortes."
+      },
+      {
+        "type": "h2",
+        "content": "DoorKeepers Têm Múltiplas Vidas"
+      },
+      {
+        "type": "p",
+        "content": "Cada DoorKeeper começa com duas vidas. Após seu DoorKeeper derrotar um oponente, ele permanece ativo e pode enfrentar outro desafiante."
+      },
+      {
+        "type": "p",
+        "content": "Se seu DoorKeeper continuar vencendo, você ganha recompensas adicionais sem nem entrar em outra batalha. Mesmo quando seu DoorKeeper eventualmente perder, você ainda recebe recompensas de progressão baseadas em seu desempenho."
+      },
+      {
+        "type": "image",
+        "src": "/articles/doorkeeper-mode-guide/my-doorkeepers.webp",
+        "alt": "Visão geral dos meus DoorKeepers no Spelltroum",
+        "caption": "Seu painel DoorKeeper — acompanhe vidas, vitórias e reivindique coroas ganhas"
+      },
+      {
+        "type": "h2",
+        "content": "Por Que os Jogadores Gostam do Modo DoorKeeper"
+      },
+      {
+        "type": "p",
+        "content": "O Modo DoorKeeper oferece uma experiência completamente diferente do PvP tradicional. Os jogadores gostam porque:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "As partidas são extremamente rápidas.",
+          "Builds importam mais que mecânica.",
+          "Você pode testar configurações endgame poderosas instantaneamente.",
+          "Cada oponente é baseado no build de um jogador real.",
+          "Fornece recompensas valiosas.",
+          "Parece mais relaxado que o PvP ranked."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Muitos jogadores usam o Modo DoorKeeper para experimentar com heróis e combinações de itens que normalmente não tentariam."
+      },
+      {
+        "type": "h2",
+        "content": "Recompensas"
+      },
+      {
+        "type": "p",
+        "content": "Cada batalha DoorKeeper concede recompensas. Ganhe ou perca, você sempre receberá algo. As possíveis recompensas incluem:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Gemas",
+          "Chaves",
+          "Moeda de melhoria de herói",
+          "Martelos",
+          "Outros recursos valiosos"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Martelos são especialmente valiosos porque o Modo DoorKeeper é uma das formas principais de obtê-los. Ganhar batalhas também melhora recompensas futuras."
+      },
+      {
+        "type": "h2",
+        "content": "Como Obter Portas"
+      },
+      {
+        "type": "p",
+        "content": "Portas podem ser obtidas de muitas formas diferentes."
+      },
+      {
+        "type": "h3",
+        "content": "Completar Missões"
+      },
+      {
+        "type": "p",
+        "content": "A fonte mais comum de Portas são as missões diárias e sazonais. Simplesmente jogar regularmente gerará um fornecimento constante de Portas."
+      },
+      {
+        "type": "h3",
+        "content": "Escalar os Rankings"
+      },
+      {
+        "type": "p",
+        "content": "Jogadores que terminam perto do topo de sua liga recebem Portas como recompensas. Ligas mais altas concedem mais Portas."
+      },
+      {
+        "type": "h3",
+        "content": "Participar da Progressão do Mapa"
+      },
+      {
+        "type": "p",
+        "content": "Sempre que a comunidade completa partidas suficientes para rotacionar para um novo mapa em destaque, os jogadores recebem recompensas bônus, incluindo Portas."
+      },
+      {
+        "type": "h3",
+        "content": "Subir de Nível"
+      },
+      {
+        "type": "p",
+        "content": "Portas podem ser ganhas através de:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Progressão de conta",
+          "Progressão ranked",
+          "Marcos especiais"
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Eventos"
+      },
+      {
+        "type": "p",
+        "content": "Eventos temporários frequentemente recompensam com Portas."
+      },
+      {
+        "type": "h3",
+        "content": "Atividades no Discord"
+      },
+      {
+        "type": "p",
+        "content": "Eventos e concursos da comunidade frequentemente incluem Portas entre suas recompensas."
+      },
+      {
+        "type": "h3",
+        "content": "Compras na Loja"
+      },
+      {
+        "type": "p",
+        "content": "Jogadores que querem tentativas adicionais podem comprar Portas diretamente na loja."
+      },
+      {
+        "type": "h2",
+        "content": "Interações Únicas de Itens"
+      },
+      {
+        "type": "p",
+        "content": "Uma das diferenças mais importantes no Modo DoorKeeper é como os itens que geram runas funcionam. Em partidas normais, esses itens exigem que os jogadores destruam arbustos e descubram runas. No Modo DoorKeeper, os heróis começam com essas runas imediatamente."
+      },
+      {
+        "type": "p",
+        "content": "Isso cria possibilidades de build completamente novas. Exemplos:"
+      },
+      {
+        "type": "h3",
+        "content": "Esfera de Água"
+      },
+      {
+        "type": "p",
+        "content": "Concede imediatamente uma Runa de Clareza. A runa remove automaticamente atordoamentos e efeitos negativos, tornando-a extremamente poderosa contra builds de crowd-control."
+      },
+      {
+        "type": "h3",
+        "content": "Cajado Refrescante"
+      },
+      {
+        "type": "p",
+        "content": "Começa com uma Runa de Atualização. Isso permite que os jogadores resetem instantaneamente os cooldowns de habilidades durante o combate."
+      },
+      {
+        "type": "h3",
+        "content": "Itens de Runa de Vampirismo"
+      },
+      {
+        "type": "p",
+        "content": "Fornecem acesso imediato a efeitos de lifesteal sem exigir farming de arbustos. Por causa dessas mecânicas, alguns itens se tornam muito mais fortes do que em partidas padrão."
+      },
+      {
+        "type": "h2",
+        "content": "Armadura É Frequentemente Subestimada"
+      },
+      {
+        "type": "p",
+        "content": "Um dos erros mais comuns de novos jogadores é focar completamente em dano. A armadura é frequentemente a diferença entre vencer e perder."
+      },
+      {
+        "type": "p",
+        "content": "Por exemplo, Shadow Fury é famosa por sua capacidade de eliminar inimigos com um único ataque devastador. No entanto, builds de alta armadura podem neutralizar completamente essa estratégia."
+      },
+      {
+        "type": "p",
+        "content": "Um herói equipado com itens defensivos pode sobreviver ao burst, após o qual Shadow Fury frequentemente tem dificuldades em uma luta prolongada. A armadura também reduz a eficácia de builds de lifesteal porque menos dano está sendo causado."
+      },
+      {
+        "type": "h2",
+        "content": "O Capacete do Silêncio É Extremamente Poderoso"
+      },
+      {
+        "type": "p",
+        "content": "Um dos itens mais fortes do Modo DoorKeeper é o Capacete do Silêncio. Muitos jogadores o subestimam."
+      },
+      {
+        "type": "p",
+        "content": "O item pode:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Impedir inimigos de lançar habilidades",
+          "Prevenir regeneração de saúde",
+          "Desativar cura por lifesteal",
+          "Interromper muitas estratégias orientadas a burst"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Contra heróis que dependem muito de habilidades, o Capacete do Silêncio pode mudar completamente o resultado de uma luta."
+      },
+      {
+        "type": "h2",
+        "content": "Dicas Para Novos Jogadores"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Priorize poder late-game sobre eficiência de farming.",
+          "Não subestime a armadura.",
+          "Experimente com itens baseados em runas.",
+          "Considere builds de redução de cooldown.",
+          "Lembre-se que velocidade de movimento geralmente é menos importante aqui do que em partidas normais.",
+          "Adapte seu build com base no tipo de DoorKeeper que você está enfrentando."
+        ]
+      },
+      {
+        "type": "h2",
+        "content": "Considerações Finais"
+      },
+      {
+        "type": "p",
+        "content": "O Modo DoorKeeper é o modo de jogo mais único do Spelltroum. Em vez de testar suas habilidades de movimento e farming, ele testa sua compreensão de heróis, habilidades, builds e estratégia de combate."
+      },
+      {
+        "type": "p",
+        "content": "Cada batalha é um confronto entre dois heróis completamente construídos, e cada vitória prova que seu build foi mais forte que o de outro jogador."
+      },
+      {
+        "type": "p",
+        "content": "Se você gosta de experimentar com builds, descobrir combinações poderosas e assistir sua estratégia derrotar as criações de outros jogadores, o Modo DoorKeeper é uma das experiências mais gratificantes do Spelltroum."
+      },
+      {
+        "type": "faq",
+        "faqItems": [
+          {
+            "q": "O que é o Modo DoorKeeper no Spelltroum?",
+            "a": "O Modo DoorKeeper é um modo idle battle onde você luta contra builds de heróis de jogadores reais. Não há movimento nem farming — dois heróis totalmente equipados batalham automaticamente enquanto você ativa habilidades manualmente."
+          },
+          {
+            "q": "Como consigo Portas no Spelltroum?",
+            "a": "Portas podem ser obtidas através de missões diárias, missões sazonais, recompensas de ranking, eventos de progressão do mapa, subida de nível de conta, eventos da comunidade Discord e compras na loja."
+          },
+          {
+            "q": "Quais itens são mais fortes no Modo DoorKeeper?",
+            "a": "Itens com dano, velocidade de ataque, armadura, vida e redução de cooldown tendem a ser os mais fortes. Itens que geram runas como a Esfera de Água e o Cajado Refrescante são especialmente poderosos porque ativam imediatamente no início da batalha."
+          },
+          {
+            "q": "O Capacete do Silêncio é bom no Modo DoorKeeper?",
+            "a": "Sim. O Capacete do Silêncio é um dos itens mais fortes no Modo DoorKeeper. Ele impede inimigos de lançar habilidades, desativa lifesteal e para regeneração de saúde, tornando-o extremamente eficaz contra heróis dependentes de habilidades."
+          }
+        ]
+      }
+    ]
   }
 }

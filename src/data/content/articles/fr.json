@@ -821,5 +821,402 @@
         ]
       }
     ]
+  },
+  "doorkeeper-mode-guide": {
+    "title": "Guide du Mode DoorKeeper : Tout Ce Que Vous Devez Savoir",
+    "description": "Le Mode DoorKeeper est le mode idle battle unique de Spelltroum. Apprenez comment les builds, les objets de runes, l'armure et le timing des capacités déterminent chaque combat.",
+    "category": "Guides",
+    "sections": [
+      {
+        "type": "p",
+        "content": "Le Mode DoorKeeper est l'un des modes de jeu les plus uniques de Spelltroum."
+      },
+      {
+        "type": "p",
+        "content": "Contrairement aux matchs normaux où le mouvement, le farming et le positionnement déterminent l'issue, le Mode DoorKeeper est entièrement axé sur la préparation, les builds de héros et l'utilisation des capacités."
+      },
+      {
+        "type": "p",
+        "content": "Il transforme Spelltroum en un combat idle rapide où la stratégie compte plus que la mécanique."
+      },
+      {
+        "type": "h2",
+        "content": "Qu'est-ce que le Mode DoorKeeper ?"
+      },
+      {
+        "type": "p",
+        "content": "Le Mode DoorKeeper tourne autour d'objets spéciaux appelés Portes."
+      },
+      {
+        "type": "p",
+        "content": "Quand un joueur ouvre une Porte, il entre dans un combat contre un DoorKeeper."
+      },
+      {
+        "type": "p",
+        "content": "Un DoorKeeper n'est pas un ennemi créé par l'IA. Chaque DoorKeeper est le build de héros d'un vrai joueur qui a précédemment vaincu le mode."
+      },
+      {
+        "type": "p",
+        "content": "Cela signifie que chaque bataille est en fait un duel contre la stratégie, la sélection de héros et le build d'objets d'un autre joueur."
+      },
+      {
+        "type": "image",
+        "src": "/articles/doorkeeper-mode-guide/doorkeeper-build.webp",
+        "alt": "Menu de build DoorKeeper dans Spelltroum",
+        "caption": "Le menu DoorKeeper — voyez le héros et le build de l'adversaire avant de combattre"
+      },
+      {
+        "type": "h2",
+        "content": "Comment Fonctionnent les Batailles"
+      },
+      {
+        "type": "p",
+        "content": "Les batailles DoorKeeper sont très différentes des matchs normaux de Spelltroum."
+      },
+      {
+        "type": "p",
+        "content": "Il n'y a :"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pas de farming",
+          "Pas de mouvement",
+          "Pas de contrôle de carte",
+          "Pas de collecte de couronnes"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Au lieu de cela, deux héros se font face dans un combat idle. Les attaques de base se produisent automatiquement. Les joueurs peuvent toujours activer manuellement des capacités pendant le combat."
+      },
+      {
+        "type": "p",
+        "content": "Le résultat est un duel tactique rapide où le timing et la préparation comptent bien plus que le mouvement."
+      },
+      {
+        "type": "video",
+        "videoId": "FeOfQMolhHA",
+        "caption": "Le Mode DoorKeeper en action — regardez comment une bataille se déroule"
+      },
+      {
+        "type": "h2",
+        "content": "Combat Plus Lent, Plus de Prises de Décision"
+      },
+      {
+        "type": "p",
+        "content": "Le Mode DoorKeeper utilise un rythme de combat légèrement plus lent que les matchs standard. Les animations d'attaque, les projectiles et les cooldowns sont ralentis proportionnellement."
+      },
+      {
+        "type": "p",
+        "content": "L'équilibre reste le même, mais les joueurs ont plus de temps pour réagir et utiliser des capacités. Cela permet aux joueurs de se concentrer sur la prise de décision plutôt que sur les réflexes."
+      },
+      {
+        "type": "h2",
+        "content": "Builds Complets Dès le Départ"
+      },
+      {
+        "type": "p",
+        "content": "Contrairement aux matchs normaux, les héros entrent dans le Mode DoorKeeper entièrement équipés."
+      },
+      {
+        "type": "p",
+        "content": "Votre héros commence avec :"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Niveau maximum",
+          "Build d'objets complet",
+          "Capacités entièrement améliorées"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "De ce fait, les combinaisons d'objets late-game les plus puissantes deviennent bien plus importantes que dans les matchs standard."
+      },
+      {
+        "type": "p",
+        "content": "Beaucoup d'objets équilibrés autour du farming ou du mouvement deviennent moins précieux. Pendant ce temps, les objets qui fournissent :"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Dégâts",
+          "Vitesse d'attaque",
+          "Armure",
+          "Points de vie",
+          "Réduction de cooldown"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "deviennent souvent significativement plus puissants."
+      },
+      {
+        "type": "h2",
+        "content": "Les DoorKeepers Ont Plusieurs Vies"
+      },
+      {
+        "type": "p",
+        "content": "Chaque DoorKeeper commence avec deux vies. Après que votre DoorKeeper a vaincu un adversaire, il reste actif et peut faire face à un autre challenger."
+      },
+      {
+        "type": "p",
+        "content": "Si votre DoorKeeper continue de gagner, vous gagnez des récompenses supplémentaires sans même entrer dans une autre bataille. Même quand votre DoorKeeper finit par perdre, vous recevez quand même des récompenses de progression basées sur ses performances."
+      },
+      {
+        "type": "image",
+        "src": "/articles/doorkeeper-mode-guide/my-doorkeepers.webp",
+        "alt": "Aperçu de mes DoorKeepers dans Spelltroum",
+        "caption": "Votre panneau DoorKeeper — suivez les vies, les victoires et réclamez les couronnes gagnées"
+      },
+      {
+        "type": "h2",
+        "content": "Pourquoi les Joueurs Apprécient le Mode DoorKeeper"
+      },
+      {
+        "type": "p",
+        "content": "Le Mode DoorKeeper offre une expérience complètement différente du PvP traditionnel. Les joueurs l'apprécient parce que :"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Les matchs sont extrêmement rapides.",
+          "Les builds comptent plus que la mécanique.",
+          "Vous pouvez tester instantanément de puissantes configurations endgame.",
+          "Chaque adversaire est basé sur le build d'un vrai joueur.",
+          "Il fournit des récompenses précieuses.",
+          "Il se sent plus détendu que le PvP ranked."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Beaucoup de joueurs utilisent le Mode DoorKeeper pour expérimenter avec des héros et des combinaisons d'objets qu'ils n'essaieraient pas normalement."
+      },
+      {
+        "type": "h2",
+        "content": "Récompenses"
+      },
+      {
+        "type": "p",
+        "content": "Chaque bataille DoorKeeper accorde des récompenses. Que vous gagniez ou perdiez, vous recevrez toujours quelque chose. Les récompenses possibles incluent :"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Gemmes",
+          "Clés",
+          "Monnaie d'amélioration de héros",
+          "Marteaux",
+          "Autres ressources précieuses"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Les marteaux sont particulièrement précieux car le Mode DoorKeeper est l'un des moyens principaux de les obtenir. Gagner des batailles améliore également les futures récompenses."
+      },
+      {
+        "type": "h2",
+        "content": "Comment Obtenir des Portes"
+      },
+      {
+        "type": "p",
+        "content": "Les Portes peuvent être obtenues de nombreuses façons différentes."
+      },
+      {
+        "type": "h3",
+        "content": "Compléter des Missions"
+      },
+      {
+        "type": "p",
+        "content": "La source la plus courante de Portes est les missions quotidiennes et saisonnières. Jouer régulièrement vous fournira un approvisionnement constant en Portes."
+      },
+      {
+        "type": "h3",
+        "content": "Grimper dans les Classements"
+      },
+      {
+        "type": "p",
+        "content": "Les joueurs qui finissent près du sommet de leur ligue reçoivent des Portes comme récompenses. Les ligues plus élevées accordent plus de Portes."
+      },
+      {
+        "type": "h3",
+        "content": "Participer à la Progression de Carte"
+      },
+      {
+        "type": "p",
+        "content": "Chaque fois que la communauté complète assez de matchs pour passer à une nouvelle carte en vedette, les joueurs reçoivent des récompenses bonus, y compris des Portes."
+      },
+      {
+        "type": "h3",
+        "content": "Monter de Niveau"
+      },
+      {
+        "type": "p",
+        "content": "Des Portes peuvent être gagnées via :"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Progression de compte",
+          "Progression ranked",
+          "Étapes spéciales"
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Événements"
+      },
+      {
+        "type": "p",
+        "content": "Les événements temporaires récompensent fréquemment avec des Portes."
+      },
+      {
+        "type": "h3",
+        "content": "Activités Discord"
+      },
+      {
+        "type": "p",
+        "content": "Les événements et concours communautaires incluent souvent des Portes parmi leurs récompenses."
+      },
+      {
+        "type": "h3",
+        "content": "Achats en Boutique"
+      },
+      {
+        "type": "p",
+        "content": "Les joueurs qui veulent des tentatives supplémentaires peuvent acheter des Portes directement dans la boutique."
+      },
+      {
+        "type": "h2",
+        "content": "Interactions d'Objets Uniques"
+      },
+      {
+        "type": "p",
+        "content": "L'une des différences les plus importantes dans le Mode DoorKeeper est le fonctionnement des objets qui génèrent des runes. Dans les matchs normaux, ces objets nécessitent que les joueurs détruisent des buissons et découvrent des runes. Dans le Mode DoorKeeper, les héros commencent avec ces runes immédiatement."
+      },
+      {
+        "type": "p",
+        "content": "Cela crée des possibilités de build entièrement nouvelles. Exemples :"
+      },
+      {
+        "type": "h3",
+        "content": "Sphère d'Eau"
+      },
+      {
+        "type": "p",
+        "content": "Accorde immédiatement une Rune de Clarté. La rune supprime automatiquement les étourdissements et les effets négatifs, la rendant extrêmement puissante contre les builds de crowd-control."
+      },
+      {
+        "type": "h3",
+        "content": "Bâton de Rafraîchissement"
+      },
+      {
+        "type": "p",
+        "content": "Commence avec une Rune de Rafraîchissement. Cela permet aux joueurs de réinitialiser instantanément les cooldowns de capacités pendant le combat."
+      },
+      {
+        "type": "h3",
+        "content": "Objets de Rune de Vampirisme"
+      },
+      {
+        "type": "p",
+        "content": "Fournissent un accès immédiat aux effets de lifesteal sans nécessiter de farming de buissons. En raison de ces mécaniques, certains objets deviennent bien plus puissants que dans les matchs standard."
+      },
+      {
+        "type": "h2",
+        "content": "L'Armure Est Souvent Sous-estimée"
+      },
+      {
+        "type": "p",
+        "content": "L'une des erreurs les plus courantes des nouveaux joueurs est de se concentrer entièrement sur les dégâts. L'armure est souvent la différence entre gagner et perdre."
+      },
+      {
+        "type": "p",
+        "content": "Par exemple, Shadow Fury est connue pour sa capacité à éliminer des ennemis avec une seule attaque dévastatrice. Cependant, les builds à haute armure peuvent complètement contrer cette stratégie."
+      },
+      {
+        "type": "p",
+        "content": "Un héros équipé d'objets défensifs peut survivre au burst, après quoi Shadow Fury a souvent du mal dans un combat prolongé. L'armure réduit également l'efficacité des builds de lifesteal car moins de dégâts sont infligés."
+      },
+      {
+        "type": "h2",
+        "content": "Le Casque du Silence Est Extrêmement Puissant"
+      },
+      {
+        "type": "p",
+        "content": "L'un des objets les plus puissants du Mode DoorKeeper est le Casque du Silence. Beaucoup de joueurs le sous-estiment."
+      },
+      {
+        "type": "p",
+        "content": "L'objet peut :"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Empêcher les ennemis d'utiliser des capacités",
+          "Prévenir la régénération de santé",
+          "Désactiver le soin par lifesteal",
+          "Interrompre de nombreuses stratégies orientées burst"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Contre les héros qui dépendent fortement des capacités, le Casque du Silence peut complètement changer l'issue d'un combat."
+      },
+      {
+        "type": "h2",
+        "content": "Conseils Pour les Nouveaux Joueurs"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Privilégiez la puissance late-game plutôt que l'efficacité du farming.",
+          "Ne sous-estimez pas l'armure.",
+          "Expérimentez avec les objets basés sur les runes.",
+          "Envisagez des builds de réduction de cooldown.",
+          "Rappelez-vous que la vitesse de déplacement est généralement moins importante ici que dans les matchs normaux.",
+          "Adaptez votre build en fonction du type de DoorKeeper auquel vous faites face."
+        ]
+      },
+      {
+        "type": "h2",
+        "content": "Réflexion Finale"
+      },
+      {
+        "type": "p",
+        "content": "Le Mode DoorKeeper est le mode de jeu le plus unique de Spelltroum. Au lieu de tester vos compétences en mouvement et farming, il teste votre compréhension des héros, capacités, builds et stratégie de combat."
+      },
+      {
+        "type": "p",
+        "content": "Chaque bataille est un affrontement entre deux héros entièrement construits, et chaque victoire prouve que votre build était plus fort que celui d'un autre joueur."
+      },
+      {
+        "type": "p",
+        "content": "Si vous aimez expérimenter avec des builds, découvrir des combinaisons puissantes et regarder votre stratégie vaincre les créations d'autres joueurs, le Mode DoorKeeper est l'une des expériences les plus gratifiantes de Spelltroum."
+      },
+      {
+        "type": "faq",
+        "faqItems": [
+          {
+            "q": "Qu'est-ce que le Mode DoorKeeper dans Spelltroum ?",
+            "a": "Le Mode DoorKeeper est un mode de jeu idle battle où vous combattez contre les builds de héros de vrais joueurs. Il n'y a pas de mouvement ni de farming — deux héros entièrement équipés combattent automatiquement pendant que vous activez manuellement les capacités."
+          },
+          {
+            "q": "Comment obtenir des Portes dans Spelltroum ?",
+            "a": "Les Portes peuvent être obtenues via des missions quotidiennes, des missions saisonnières, des récompenses de classement, des événements de progression de carte, la montée de niveau de compte, des événements de la communauté Discord et des achats en boutique."
+          },
+          {
+            "q": "Quels objets sont les plus forts dans le Mode DoorKeeper ?",
+            "a": "Les objets avec des dégâts, de la vitesse d'attaque, de l'armure, des points de vie et de la réduction de cooldown ont tendance à être les plus forts. Les objets générant des runes comme la Sphère d'Eau et le Bâton de Rafraîchissement sont particulièrement puissants car ils s'activent immédiatement au début du combat."
+          },
+          {
+            "q": "Le Casque du Silence est-il bon dans le Mode DoorKeeper ?",
+            "a": "Oui. Le Casque du Silence est l'un des objets les plus puissants du Mode DoorKeeper. Il empêche les ennemis d'utiliser des capacités, désactive le lifesteal et arrête la régénération de santé, le rendant extrêmement efficace contre les héros dépendants des capacités."
+          }
+        ]
+      }
+    ]
   }
 }

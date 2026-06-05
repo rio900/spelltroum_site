@@ -94,6 +94,25 @@ function renderSection(section: ArticleSection, idx: number) {
           )}
         </figure>
       );
+    case 'video':
+      return (
+        <figure key={idx} className="my-8 rounded-2xl overflow-hidden border border-white/10 bg-black/40">
+          <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+            <iframe
+              className="absolute inset-0 w-full h-full"
+              src={`https://www.youtube-nocookie.com/embed/${section.videoId}`}
+              title={section.caption ?? 'Spelltroum gameplay'}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
+          </div>
+          {section.caption && (
+            <figcaption className="px-4 py-2.5 text-white/40 text-xs text-center">
+              {section.caption}
+            </figcaption>
+          )}
+        </figure>
+      );
     case 'faq':
       return (
         <div key={idx} className="flex flex-col gap-4 mt-2">

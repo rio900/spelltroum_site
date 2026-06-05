@@ -62,6 +62,16 @@ const articlesMeta = [
     color: '#06b6d4',
     icon: '🗡️',
   },
+  {
+    slug: 'doorkeeper-mode-guide',
+    href: (lang: string) => `/${lang}/articles/doorkeeper-mode-guide`,
+    fallbackTitle: 'DoorKeeper Mode Guide: Everything You Need to Know',
+    fallbackExcerpt: 'DoorKeeper Mode is Spelltroum\'s unique idle battle mode. Learn how builds, rune items, armor, and ability timing determine every fight.',
+    fallbackCategory: 'Guides',
+    readTime: '7 min',
+    color: '#a78bfa',
+    icon: '🚪',
+  },
 ];
 
 const categoryColors: Record<string, string> = {

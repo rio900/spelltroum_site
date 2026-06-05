@@ -821,5 +821,402 @@
         ]
       }
     ]
+  },
+  "doorkeeper-mode-guide": {
+    "title": "DoorKeeper Mode Guide: Alles, was du wissen musst",
+    "description": "DoorKeeper Mode ist Spelltroums einzigartiger Idle-Battle-Modus. Lerne wie Builds, Runen-Items, Rüstung und Fähigkeits-Timing jeden Kampf gegen echte Spieler-Strategien bestimmen.",
+    "category": "Guides",
+    "sections": [
+      {
+        "type": "p",
+        "content": "DoorKeeper Mode ist einer der einzigartigsten Spielmodi in Spelltroum."
+      },
+      {
+        "type": "p",
+        "content": "Anders als bei normalen Matches, wo Bewegung, Farmen und Positionierung das Ergebnis bestimmen, dreht sich DoorKeeper Mode alles um Vorbereitung, Helden-Builds und Fähigkeitseinsatz."
+      },
+      {
+        "type": "p",
+        "content": "Er verwandelt Spelltroum in einen schnellen Idle-Battle, wo Strategie mehr zählt als Mechanik."
+      },
+      {
+        "type": "h2",
+        "content": "Was ist der DoorKeeper Mode?"
+      },
+      {
+        "type": "p",
+        "content": "DoorKeeper Mode dreht sich um besondere Items namens Doors (Türen)."
+      },
+      {
+        "type": "p",
+        "content": "Wenn ein Spieler eine Door öffnet, betritt er einen Kampf gegen einen DoorKeeper."
+      },
+      {
+        "type": "p",
+        "content": "Ein DoorKeeper ist kein KI-erstellter Gegner. Stattdessen ist jeder DoorKeeper der Helden-Build eines echten Spielers, der den Modus zuvor besiegt hat."
+      },
+      {
+        "type": "p",
+        "content": "Das bedeutet, jeder Kampf ist effektiv ein Duell gegen die Strategie, Heldenauswahl und den Item-Build eines anderen Spielers."
+      },
+      {
+        "type": "image",
+        "src": "/articles/doorkeeper-mode-guide/doorkeeper-build.webp",
+        "alt": "DoorKeeper Build-Menü in Spelltroum",
+        "caption": "Das DoorKeeper-Menü — sieh den Helden und Build des Gegners bevor du kämpfst"
+      },
+      {
+        "type": "h2",
+        "content": "Wie Kämpfe Funktionieren"
+      },
+      {
+        "type": "p",
+        "content": "DoorKeeper-Kämpfe unterscheiden sich stark von normalen Spelltroum-Matches."
+      },
+      {
+        "type": "p",
+        "content": "Es gibt:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kein Farmen",
+          "Keine Bewegung",
+          "Keine Kartenkontrolle",
+          "Keine Kronen-Sammlung"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Stattdessen stehen sich zwei Helden in einem Idle-Battle gegenüber. Grundangriffe erfolgen automatisch. Spieler können Fähigkeiten während des Kampfes manuell aktivieren."
+      },
+      {
+        "type": "p",
+        "content": "Das Ergebnis ist ein schnelles taktisches Duell, wo Timing und Vorbereitung weit mehr zählen als Bewegung."
+      },
+      {
+        "type": "video",
+        "videoId": "FeOfQMolhHA",
+        "caption": "DoorKeeper Mode in Aktion — schau wie ein Kampf abläuft"
+      },
+      {
+        "type": "h2",
+        "content": "Langsamerer Kampf, Mehr Entscheidungsfindung"
+      },
+      {
+        "type": "p",
+        "content": "DoorKeeper Mode verwendet ein etwas langsameres Kampftempo als Standardmatches. Angriffsanimationen, Projektile und Cooldowns werden proportional verlangsamt."
+      },
+      {
+        "type": "p",
+        "content": "Die Balance bleibt gleich, aber Spieler haben mehr Zeit zu reagieren und Fähigkeiten einzusetzen. Das erlaubt Spielern, sich auf Entscheidungsfindung statt Reflexen zu konzentrieren."
+      },
+      {
+        "type": "h2",
+        "content": "Vollständige Builds Von Anfang An"
+      },
+      {
+        "type": "p",
+        "content": "Anders als bei normalen Matches betreten Helden den DoorKeeper Mode vollständig ausgerüstet."
+      },
+      {
+        "type": "p",
+        "content": "Dein Held startet mit:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Maximallevel",
+          "Vollständigem Item-Build",
+          "Vollständig upgegradeten Fähigkeiten"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Deshalb werden die stärksten Late-Game-Item-Kombinationen viel wichtiger als in Standardmatches."
+      },
+      {
+        "type": "p",
+        "content": "Viele Items, die auf Farmen oder Bewegung ausgelegt sind, werden weniger wertvoll. Währenddessen werden Items, die bieten:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Schaden",
+          "Angriffsgeschwindigkeit",
+          "Rüstung",
+          "Gesundheit",
+          "Cooldown-Reduktion"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "oft deutlich stärker."
+      },
+      {
+        "type": "h2",
+        "content": "DoorKeeper Haben Mehrere Leben"
+      },
+      {
+        "type": "p",
+        "content": "Jeder DoorKeeper beginnt mit zwei Leben. Nachdem dein DoorKeeper einen Gegner besiegt, bleibt er aktiv und kann einem weiteren Herausforderer gegenüberstehen."
+      },
+      {
+        "type": "p",
+        "content": "Wenn dein DoorKeeper weiter gewinnt, verdienst du zusätzliche Belohnungen, ohne einen weiteren Kampf zu betreten. Selbst wenn dein DoorKeeper schließlich verliert, erhältst du Progressionsbelohnungen basierend auf seiner Leistung."
+      },
+      {
+        "type": "image",
+        "src": "/articles/doorkeeper-mode-guide/my-doorkeepers.webp",
+        "alt": "Meine DoorKeeper Übersicht in Spelltroum",
+        "caption": "Dein DoorKeeper-Panel — verfolge Leben, Siege und beanspruche verdiente Kronen"
+      },
+      {
+        "type": "h2",
+        "content": "Warum Spieler DoorKeeper Mode Genießen"
+      },
+      {
+        "type": "p",
+        "content": "DoorKeeper Mode bietet eine völlig andere Erfahrung als traditionelles PvP. Spieler mögen ihn, weil:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Matches extrem schnell sind.",
+          "Builds mehr zählen als Mechanik.",
+          "Du sofort mächtige Endgame-Setups testen kannst.",
+          "Jeder Gegner auf dem Build eines echten Spielers basiert.",
+          "Er wertvolle Belohnungen bietet.",
+          "Er entspannter wirkt als Ranked-PvP."
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Viele Spieler nutzen DoorKeeper Mode, um Helden und Item-Kombinationen auszuprobieren, die sie normalerweise nicht versuchen würden."
+      },
+      {
+        "type": "h2",
+        "content": "Belohnungen"
+      },
+      {
+        "type": "p",
+        "content": "Jeder DoorKeeper-Kampf gewährt Belohnungen. Gewinn oder verlier, du bekommst immer etwas. Mögliche Belohnungen:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Gems",
+          "Schlüssel",
+          "Helden-Upgrade-Währung",
+          "Hämmer",
+          "Andere wertvolle Ressourcen"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Hämmer sind besonders wertvoll, weil DoorKeeper Mode einer der primären Wege ist, sie zu erhalten. Siege verbessern auch zukünftige Belohnungen."
+      },
+      {
+        "type": "h2",
+        "content": "Wie Man Doors Erhält"
+      },
+      {
+        "type": "p",
+        "content": "Doors können auf viele verschiedene Arten erhalten werden."
+      },
+      {
+        "type": "h3",
+        "content": "Missionen Abschließen"
+      },
+      {
+        "type": "p",
+        "content": "Die häufigste Quelle für Doors sind tägliche und saisonale Missionen. Einfach regelmäßig spielen bringt einen stetigen Vorrat an Doors."
+      },
+      {
+        "type": "h3",
+        "content": "Die Ranglisten Erklimmen"
+      },
+      {
+        "type": "p",
+        "content": "Spieler, die nahe der Spitze ihrer Liga abschließen, erhalten Doors als Belohnungen. Höhere Ligen gewähren mehr Doors."
+      },
+      {
+        "type": "h3",
+        "content": "An der Karten-Progression Teilnehmen"
+      },
+      {
+        "type": "p",
+        "content": "Wenn die Community genug Matches abschließt, um zu einer neuen Featured Map zu wechseln, erhalten Spieler Bonusbelohnungen einschließlich Doors."
+      },
+      {
+        "type": "h3",
+        "content": "Level Aufsteigen"
+      },
+      {
+        "type": "p",
+        "content": "Doors können verdient werden durch:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Account-Progression",
+          "Ranked-Progression",
+          "Besondere Meilensteine"
+        ]
+      },
+      {
+        "type": "h3",
+        "content": "Events"
+      },
+      {
+        "type": "p",
+        "content": "Temporäre Events belohnen häufig mit Doors."
+      },
+      {
+        "type": "h3",
+        "content": "Discord-Aktivitäten"
+      },
+      {
+        "type": "p",
+        "content": "Community-Events und Wettbewerbe beinhalten oft Doors unter ihren Belohnungen."
+      },
+      {
+        "type": "h3",
+        "content": "Shop-Käufe"
+      },
+      {
+        "type": "p",
+        "content": "Spieler, die zusätzliche Versuche möchten, können Doors direkt im Shop kaufen."
+      },
+      {
+        "type": "h2",
+        "content": "Einzigartige Item-Interaktionen"
+      },
+      {
+        "type": "p",
+        "content": "Einer der wichtigsten Unterschiede im DoorKeeper Mode ist, wie Runen-generierende Items funktionieren. In normalen Matches müssen Spieler Büsche zerstören und Runen entdecken. Im DoorKeeper Mode starten Helden sofort mit diesen Runen."
+      },
+      {
+        "type": "p",
+        "content": "Das schafft völlig neue Build-Möglichkeiten. Beispiele:"
+      },
+      {
+        "type": "h3",
+        "content": "Wassersphäre"
+      },
+      {
+        "type": "p",
+        "content": "Gewährt sofort eine Clarity-Rune. Die Rune entfernt automatisch Betäubungen und negative Effekte, was sie extrem stark gegen Crowd-Control-Builds macht."
+      },
+      {
+        "type": "h3",
+        "content": "Refresher-Stab"
+      },
+      {
+        "type": "p",
+        "content": "Startet mit einer Refresher-Rune. Das erlaubt Spielern, Fähigkeits-Cooldowns sofort zurückzusetzen."
+      },
+      {
+        "type": "h3",
+        "content": "Vampirismus-Rune Items"
+      },
+      {
+        "type": "p",
+        "content": "Bieten sofortigen Zugang zu Lifesteal-Effekten ohne Bush-Farming. Durch diese Mechaniken werden einige Items deutlich stärker als in Standardmatches."
+      },
+      {
+        "type": "h2",
+        "content": "Rüstung Wird Oft Unterschätzt"
+      },
+      {
+        "type": "p",
+        "content": "Einer der häufigsten Fehler neuer Spieler ist es, sich vollständig auf Schaden zu konzentrieren. Rüstung ist oft der Unterschied zwischen Sieg und Niederlage."
+      },
+      {
+        "type": "p",
+        "content": "Shadow Fury ist beispielsweise bekannt dafür, Gegner mit einem einzigen verheerenden Angriff zu eliminieren. Hochrüstungs-Builds können diese Strategie jedoch vollständig zunichte machen."
+      },
+      {
+        "type": "p",
+        "content": "Ein Held mit defensiven Items überlebt möglicherweise den Burst, wonach Shadow Fury in einem langen Kampf oft Schwierigkeiten hat. Rüstung reduziert auch die Effektivität von Lifesteal-Builds, weil weniger Schaden verursacht wird."
+      },
+      {
+        "type": "h2",
+        "content": "Helm der Stille Ist Extrem Stark"
+      },
+      {
+        "type": "p",
+        "content": "Eines der stärksten DoorKeeper-Mode-Items ist Helm der Stille. Viele Spieler unterschätzen ihn."
+      },
+      {
+        "type": "p",
+        "content": "Das Item kann:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Feinde daran hindern, Fähigkeiten einzusetzen",
+          "Gesundheitsregeneration verhindern",
+          "Lifesteal-Heilung deaktivieren",
+          "Viele burst-orientierte Strategien unterbrechen"
+        ]
+      },
+      {
+        "type": "p",
+        "content": "Gegen Helden, die stark auf Fähigkeiten angewiesen sind, kann Helm der Stille das Kampfergebnis völlig verändern."
+      },
+      {
+        "type": "h2",
+        "content": "Tipps Für Neue Spieler"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Priorisiere Late-Game-Power über Farm-Effizienz.",
+          "Unterschätze Rüstung nicht.",
+          "Experimentiere mit Runen-basierten Items.",
+          "Ziehe Cooldown-Reduktions-Builds in Betracht.",
+          "Denke daran, dass Bewegungsgeschwindigkeit hier normalerweise weniger wichtig ist als in normalen Matches.",
+          "Passe deinen Build dem Typ des DoorKeepers an, dem du gegenüberstehst."
+        ]
+      },
+      {
+        "type": "h2",
+        "content": "Fazit"
+      },
+      {
+        "type": "p",
+        "content": "DoorKeeper Mode ist Spelltroums einzigartigster Spielmodus. Statt deine Bewegungs- und Farm-Fähigkeiten zu testen, prüft er dein Verständnis von Helden, Fähigkeiten, Item-Builds und Kampfstrategie."
+      },
+      {
+        "type": "p",
+        "content": "Jeder Kampf ist ein Duell zwischen zwei vollständig ausgerüsteten Helden, und jeder Sieg beweist, dass dein Build stärker war als der eines anderen Spielers."
+      },
+      {
+        "type": "p",
+        "content": "Wenn du gerne Builds ausprobierst, mächtige Kombinationen entdeckst und dabei zusiehst, wie deine Strategie die Kreationen anderer Spieler besiegt, ist DoorKeeper Mode eine der lohnendsten Erfahrungen in Spelltroum."
+      },
+      {
+        "type": "faq",
+        "faqItems": [
+          {
+            "q": "Was ist der DoorKeeper Mode in Spelltroum?",
+            "a": "DoorKeeper Mode ist ein Idle-Battle-Spielmodus, wo du gegen echte Spieler-Builds kämpfst. Es gibt keine Bewegung oder Farmen — zwei vollständig ausgerüstete Helden kämpfen automatisch, während du Fähigkeiten manuell aktivierst."
+          },
+          {
+            "q": "Wie bekomme ich Doors in Spelltroum?",
+            "a": "Doors können durch tägliche Missionen, saisonale Missionen, Ranglisten-Belohnungen, Karten-Progression-Events, Account-Leveling, Discord-Community-Events und Shop-Käufe erhalten werden."
+          },
+          {
+            "q": "Welche Items sind am stärksten im DoorKeeper Mode?",
+            "a": "Items mit Schaden, Angriffsgeschwindigkeit, Rüstung, Gesundheit und Cooldown-Reduktion sind tendenziell am stärksten. Runen-generierende Items wie Wassersphäre und Refresher-Stab sind besonders stark, weil sie sofort zu Kampfbeginn aktivieren."
+          },
+          {
+            "q": "Ist Helm der Stille gut im DoorKeeper Mode?",
+            "a": "Ja. Helm der Stille ist eines der stärksten Items im DoorKeeper Mode. Er hindert Feinde daran, Fähigkeiten einzusetzen, deaktiviert Lifesteal und stoppt Gesundheitsregeneration, was ihn gegen fähigkeitsabhängige Helden extrem effektiv macht."
+          }
+        ]
+      }
+    ]
   }
 }
