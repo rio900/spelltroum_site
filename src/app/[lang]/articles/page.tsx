@@ -121,12 +121,17 @@ export default async function ArticlesPage({ params }: ArticlesPageProps) {
       <div className="max-w-5xl mx-auto">
 
         {/* Header */}
-        <div className="text-center mb-12">
+        <div className="text-center mb-8">
           <h1 className="font-lilita text-5xl sm:text-6xl text-[#FFD43A] drop-shadow-[0_2px_8px_rgba(255,212,58,0.4)] mb-3">
             {t.articles.title}
           </h1>
           <p className="text-white/50 text-lg">{t.articles.subtitle}</p>
         </div>
+
+        {/* Intro text */}
+        <p className="text-white/60 text-base leading-relaxed max-w-3xl mx-auto text-center mb-12">
+          {(t.articles as Record<string, string>).intro}
+        </p>
 
         {/* Featured article */}
         <Link
@@ -191,6 +196,35 @@ export default async function ArticlesPage({ params }: ArticlesPageProps) {
         <div className="mt-10 text-center text-white/30 text-sm">
           {t.articles.comingSoon}
         </div>
+
+        {/* FAQ */}
+        {(() => {
+          const ta = t.articles as Record<string, string>;
+          const faqJsonLd = {
+            '@context': 'https://schema.org',
+            '@type': 'FAQPage',
+            mainEntity: [
+              { '@type': 'Question', name: ta.faqQ1, acceptedAnswer: { '@type': 'Answer', text: ta.faqA1 } },
+              { '@type': 'Question', name: ta.faqQ2, acceptedAnswer: { '@type': 'Answer', text: ta.faqA2 } },
+            ],
+          };
+          return (
+            <>
+              <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
+              <div className="mt-16 max-w-3xl mx-auto">
+                <h2 className="font-lilita text-2xl text-[#FFD43A] mb-6">FAQ</h2>
+                <div className="flex flex-col gap-4">
+                  {[{ q: ta.faqQ1, a: ta.faqA1 }, { q: ta.faqQ2, a: ta.faqA2 }].map(({ q, a }) => (
+                    <div key={q} className="rounded-xl border border-white/10 bg-black/30 p-5">
+                      <h3 className="text-white font-semibold mb-2">{q}</h3>
+                      <p className="text-white/60 text-sm leading-relaxed">{a}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </>
+          );
+        })()}
 
       </div>
     </div>

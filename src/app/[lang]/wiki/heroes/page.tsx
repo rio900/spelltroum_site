@@ -86,6 +86,11 @@ export default async function HeroesPage({ params }: HeroesPageProps) {
           <p className="text-white/50 text-lg">{t.heroes.subtitle}</p>
         </div>
 
+        {/* Intro text */}
+        <p className="text-white/60 text-base leading-relaxed max-w-3xl mx-auto text-center mb-10">
+          {(t.heroes as Record<string, string>).listIntro}
+        </p>
+
         {/* Hero grid */}
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
           {heroes.map((hero) => (
@@ -151,6 +156,35 @@ export default async function HeroesPage({ params }: HeroesPageProps) {
             </Link>
           ))}
         </div>
+
+        {/* FAQ */}
+        {(() => {
+          const th = t.heroes as Record<string, string>;
+          const faqJsonLd = {
+            '@context': 'https://schema.org',
+            '@type': 'FAQPage',
+            mainEntity: [
+              { '@type': 'Question', name: th.listFaqQ1, acceptedAnswer: { '@type': 'Answer', text: th.listFaqA1 } },
+              { '@type': 'Question', name: th.listFaqQ2, acceptedAnswer: { '@type': 'Answer', text: th.listFaqA2 } },
+            ],
+          };
+          return (
+            <>
+              <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
+              <div className="mt-16 max-w-3xl mx-auto">
+                <h2 className="font-lilita text-2xl text-[#FFD43A] mb-6">FAQ</h2>
+                <div className="flex flex-col gap-4">
+                  {[{ q: th.listFaqQ1, a: th.listFaqA1 }, { q: th.listFaqQ2, a: th.listFaqA2 }].map(({ q, a }) => (
+                    <div key={q} className="rounded-xl border border-white/10 bg-black/30 p-5">
+                      <h3 className="text-white font-semibold mb-2">{q}</h3>
+                      <p className="text-white/60 text-sm leading-relaxed">{a}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </>
+          );
+        })()}
 
       </div>
     </div>

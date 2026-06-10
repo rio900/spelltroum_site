@@ -55,7 +55,12 @@
     "listMetaTitle": "Spelltroum Heroes — All 13 Heroes, Abilities & Builds | Spelltroum Wiki",
     "listMetaDescription": "Browse all 13 Spelltroum heroes — ranged, melee, assassins, supports and summoners. Find abilities, best item builds, synergies, counters and tips for every hero.",
     "listMetaOgTitle": "Spelltroum Heroes — All Characters, Abilities & Builds",
-    "listMetaOgDescription": "All 13 Spelltroum heroes with abilities, builds, synergies and counters. Free to unlock by playing."
+    "listMetaOgDescription": "All 13 Spelltroum heroes with abilities, builds, synergies and counters. Free to unlock by playing.",
+    "listIntro": "Spelltroum has 13 unique heroes across five roles — Ranged, Melee, Assassin, Support, and Summoner. Each hero has a distinct playstyle, a set of abilities, and a Legendary Item unlocked by upgrading. Whether you prefer aggressive assassins, long-range carries, or team-oriented supports, there's a hero that fits your style. Browse all heroes below to find builds, ability breakdowns, synergies, and counters.",
+    "listFaqQ1": "How many heroes are in Spelltroum?",
+    "listFaqA1": "There are currently 13 heroes in Spelltroum, spanning five roles: Ranged, Melee, Assassin, Support, and Summoner. New heroes are added with major updates.",
+    "listFaqQ2": "Which hero is best for beginners?",
+    "listFaqA2": "Grizzly and Druid are great starting picks — they are durable, straightforward to play, and forgiving of mistakes. Shadow Fury is popular but requires more mechanical skill."
   },
   "faq": {
     "title": "FAQ",
@@ -66,7 +71,12 @@
     "subtitle": "Guides, tips and game news",
     "readMore": "Read article",
     "comingSoon": "More articles coming soon...",
-    "metaDescription": "Spelltroum guides, tips, strategies and game news. Learn how to play, master heroes, build the best item combinations, and win more matches."
+    "metaDescription": "Spelltroum guides, tips, strategies and game news. Learn how to play, master heroes, build the best item combinations, and win more matches.",
+    "intro": "This is the Spelltroum strategy hub — in-depth guides, hero matchup breakdowns, item build theory, and comparisons with other games. Whether you're new to Spelltroum or looking to climb ranks, these articles cover the mechanics and decisions that separate good players from great ones.",
+    "faqQ1": "Is Spelltroum free to play?",
+    "faqA1": "Yes, Spelltroum is free to play. All heroes can be unlocked through gameplay without spending money.",
+    "faqQ2": "How long is a Spelltroum match?",
+    "faqA2": "A typical Spelltroum match lasts 2–3 minutes, making it one of the fastest multiplayer battle arena games available on mobile."
   },
   "home": {
     "metaTitle": "Spelltroum — Fast-Paced Mobile Multiplayer Battle Arena",

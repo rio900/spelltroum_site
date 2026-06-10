@@ -55,7 +55,12 @@
     "listMetaTitle": "Spelltroum Helden — Alle 13 Helden, Fähigkeiten & Builds | Spelltroum Wiki",
     "listMetaDescription": "Entdecke alle 13 Spelltroum-Helden — Fernkämpfer, Nahkämpfer, Assassinen, Unterstützer und Beschwörer. Fähigkeiten, Builds, Synergien und Konter für jeden Helden.",
     "listMetaOgTitle": "Spelltroum Helden — Alle Charaktere, Fähigkeiten & Builds",
-    "listMetaOgDescription": "Alle 13 Spelltroum-Helden mit Fähigkeiten, Builds, Synergien und Kontern. Kostenlos durch Spielen freischaltbar."
+    "listMetaOgDescription": "Alle 13 Spelltroum-Helden mit Fähigkeiten, Builds, Synergien und Kontern. Kostenlos durch Spielen freischaltbar.",
+    "listIntro": "Spelltroum hat 13 einzigartige Helden in fünf Rollen — Fernkämpfer, Nahkämpfer, Assassine, Support und Beschwörer. Jeder Held hat einen eigenen Spielstil, Fähigkeiten und ein Legendäres Item, das durch Aufwertung freigeschaltet wird. Durchstöbere alle Helden, um Builds, Fähigkeitsbeschreibungen, Synergien und Konter zu finden.",
+    "listFaqQ1": "Wie viele Helden gibt es in Spelltroum?",
+    "listFaqA1": "Derzeit gibt es 13 Helden in Spelltroum in fünf Rollen: Fernkämpfer, Nahkämpfer, Assassine, Support und Beschwörer. Mit großen Updates kommen neue Helden hinzu.",
+    "listFaqQ2": "Welcher Held ist am besten für Anfänger?",
+    "listFaqA2": "Grizzly und Druid sind gute Einstiegshelden — sie sind robust, einfach zu spielen und verzeihen Fehler. Shadow Fury ist beliebt, erfordert aber mehr mechanisches Geschick."
   },
   "faq": {
     "title": "FAQ",
@@ -66,7 +71,12 @@
     "subtitle": "Guides, Tipps und Spielneuigkeiten",
     "readMore": "Artikel lesen",
     "comingSoon": "Weitere Artikel folgen bald...",
-    "metaDescription": "Spelltroum-Guides, Tipps, Strategien und Spielneuigkeiten. Lerne wie du spielst, Helden meisterst, die besten Item-Kombinationen baust und mehr Matches gewinnst."
+    "metaDescription": "Spelltroum-Guides, Tipps, Strategien und Spielneuigkeiten. Lerne wie du spielst, Helden meisterst, die besten Item-Kombinationen baust und mehr Matches gewinnst.",
+    "intro": "Hier findest du das Spelltroum-Strategiezentrum — ausführliche Guides, Heldenanalysen, Item-Build-Theorie und Vergleiche mit anderen Spielen. Diese Artikel decken die Mechaniken ab, die gute Spieler von großartigen unterscheiden.",
+    "faqQ1": "Ist Spelltroum kostenlos?",
+    "faqA1": "Ja, Spelltroum ist kostenlos spielbar. Alle Helden können durch das Spielen freigeschaltet werden, ohne Geld auszugeben.",
+    "faqQ2": "Wie lange dauert ein Spelltroum-Match?",
+    "faqA2": "Ein typisches Spelltroum-Match dauert 2–3 Minuten — eines der schnellsten Multiplayer-Battle-Arena-Spiele auf Mobilgeräten."
   },
   "items": {
     "title": "Gegenstände",

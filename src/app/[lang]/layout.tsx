@@ -5,6 +5,8 @@ import { notFound } from 'next/navigation';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 
+const BASE = 'https://spelltroum.com';
+
 export async function generateStaticParams() {
   return locales.map((lang) => ({ lang }));
 }
@@ -12,7 +14,11 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang } = await params;
   return {
-    other: { 'html-lang': lang },
+    metadataBase: new URL(BASE),
+    alternates: {
+      canonical: `${BASE}/${lang}`,
+      languages: Object.fromEntries(locales.map((l) => [l, `${BASE}/${l}`])),
+    },
   };
 }
 

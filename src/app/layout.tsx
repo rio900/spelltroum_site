@@ -20,6 +20,7 @@ export const lilita = Lilita_One({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://spelltroum.com'),
   title: "Spelltroum",
   description: "Spelltroum — fast-paced multiplayer battle arena game.",
 };

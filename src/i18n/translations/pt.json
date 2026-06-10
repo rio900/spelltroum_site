@@ -55,7 +55,12 @@
     "listMetaTitle": "Heróis do Spelltroum — Todos os 13 Heróis, Habilidades & Builds | Wiki",
     "listMetaDescription": "Explore os 13 heróis do Spelltroum — à distância, corpo a corpo, assassinos, suportes e invocadores. Habilidades, builds, sinergias e contadores para cada herói.",
     "listMetaOgTitle": "Heróis do Spelltroum — Todos os Personagens, Habilidades & Builds",
-    "listMetaOgDescription": "Os 13 heróis do Spelltroum com habilidades, builds, sinergias e contadores. Desbloqueáveis gratuitamente jogando."
+    "listMetaOgDescription": "Os 13 heróis do Spelltroum com habilidades, builds, sinergias e contadores. Desbloqueáveis gratuitamente jogando.",
+    "listIntro": "Spelltroum tem 13 heróis únicos em cinco funções — Distância, Corpo a corpo, Assassino, Suporte e Invocador. Cada herói tem um estilo de jogo distinto, habilidades e um Item Lendário desbloqueado ao melhorá-lo. Navegue por todos os heróis para encontrar builds, descrições de habilidades, sinergias e contadores.",
+    "listFaqQ1": "Quantos heróis existem no Spelltroum?",
+    "listFaqA1": "Atualmente existem 13 heróis no Spelltroum em cinco funções: Distância, Corpo a corpo, Assassino, Suporte e Invocador. Novos heróis são adicionados com grandes atualizações.",
+    "listFaqQ2": "Qual herói é melhor para iniciantes?",
+    "listFaqA2": "Grizzly e Druid são ótimas escolhas iniciais — são resistentes, simples de jogar e perdoam erros. Shadow Fury é popular mas exige mais habilidade mecânica."
   },
   "faq": {
     "title": "FAQ",
@@ -66,7 +71,12 @@
     "subtitle": "Guias, dicas e novidades do jogo",
     "readMore": "Ler artigo",
     "comingSoon": "Mais artigos em breve...",
-    "metaDescription": "Guias, dicas, estratégias e notícias do Spelltroum. Aprenda a jogar, dominar heróis, construir as melhores combinações de itens e vencer mais partidas."
+    "metaDescription": "Guias, dicas, estratégias e notícias do Spelltroum. Aprenda a jogar, dominar heróis, construir as melhores combinações de itens e vencer mais partidas.",
+    "intro": "Este é o centro de estratégia do Spelltroum — guias detalhados, análises de confrontos de heróis, teoria de builds de itens e comparações com outros jogos. Estes artigos cobrem as mecânicas que separam bons jogadores dos grandes.",
+    "faqQ1": "Spelltroum é gratuito?",
+    "faqA1": "Sim, Spelltroum é gratuito. Todos os heróis podem ser desbloqueados jogando sem gastar dinheiro.",
+    "faqQ2": "Quanto tempo dura uma partida de Spelltroum?",
+    "faqA2": "Uma partida típica de Spelltroum dura 2–3 minutos, sendo um dos jogos de arena multijogador mais rápidos disponíveis no celular."
   },
   "items": {
     "title": "Itens",
